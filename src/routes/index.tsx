@@ -308,47 +308,123 @@ function DailyPlanCard() {
 function Home() {
   // Alvo de foco pós-navegação/skip link (projeto 13, §0.3).
   const titleRef = usePageFocusTarget<HTMLHeadingElement>();
+  const app = useAppState();
+  // "Retorno" = atividade de estudo persistida (não contador de visitas).
+  const isReturn = hasStudyActivity(app);
+  const resume = useMemo(
+    () => (isReturn ? selectHomeResume(app, Date.now()) : null),
+    [app, isReturn],
+  );
   return (
     <div className="min-h-screen bg-background">
       <TopNav />
       <main className="mx-auto w-full max-w-5xl px-4 pb-10 pt-6 sm:px-6 sm:pt-10">
-        {/* Hero editorial (projeto 12, S2): 1 protagonista = o título. */}
+        {/* Hero (projeto 13, §4.4.2): no retorno, compacto e com a retomada real. */}
+        {resume ? (
+          <section
+            aria-labelledby="page-title"
+            className="relative rounded-2xl border border-primary/20 bg-card bg-glow p-5 shadow-card sm:p-6"
+          >
+            <p className="text-xs font-semibold uppercase tracking-[0.18em] text-primary">
+              Bem-vindo de volta
+            </p>
+            <h1
+              ref={titleRef}
+              id="page-title"
+              tabIndex={-1}
+              className="mt-2 font-serif text-3xl font-semibold tracking-tight text-foreground focus:outline-none sm:text-4xl"
+            >
+              Continuar de onde parei
+            </h1>
+            <p className="mt-2 text-sm leading-relaxed text-muted-foreground">
+              {resume.kind === "session"
+                ? `${resume.label} · ${resume.remaining} ${resume.remaining === 1 ? "questão restante" : "questões restantes"}`
+                : resume.kind === "exam"
+                  ? `${resume.label} · ${resume.remaining} ${resume.remaining === 1 ? "questão restante" : "questões restantes"} · o relógio da questão atual continua de onde parou`
+                  : resume.kind === "vocabDraft"
+                    ? `Revisão em andamento · ${resume.remaining} ${resume.remaining === 1 ? "cartão restante" : "cartões restantes"}`
+                    : resume.kind === "vocabDue"
+                      ? `${resume.count} ${resume.count === 1 ? "item" : "itens"} para revisar hoje`
+                      : `${resume.label} · ${resume.topic}`}
+            </p>
+            <div className="mt-4 grid gap-3 sm:flex sm:flex-wrap">
+              {resume.kind === "exam" ? (
+                <Button asChild size="lg" className="min-h-11">
+                  <Link to="/exam">{resumeLabel(resume)}</Link>
+                </Button>
+              ) : resume.kind === "session" && resume.qid ? (
+                <Button asChild size="lg" className="min-h-11">
+                  <Link to="/practice" search={{ q: resume.qid }}>
+                    {resumeLabel(resume)}
+                  </Link>
+                </Button>
+              ) : resume.kind === "session" ? (
+                <Button asChild size="lg" className="min-h-11">
+                  <Link to="/session">{resumeLabel(resume)}</Link>
+                </Button>
+              ) : resume.kind === "question" ? (
+                <Button asChild size="lg" className="min-h-11">
+                  <Link to="/practice" search={{ q: resume.qid }}>
+                    {resumeLabel(resume)}
+                  </Link>
+                </Button>
+              ) : (
+                <Button asChild size="lg" className="min-h-11">
+                  <Link to="/vocabulary">{resumeLabel(resume)}</Link>
+                </Button>
+              )}
+              <Button asChild size="lg" variant="outline" className="min-h-11">
+                <Link to="/practice">Começar a treinar</Link>
+              </Button>
+            </div>
+          </section>
+        ) : (
+          <section
+            aria-labelledby="page-title"
+            className="relative rounded-2xl border border-border/60 bg-card bg-glow p-6 shadow-card sm:p-10"
+          >
+            <span
+              aria-hidden
+              className="inline-flex size-11 items-center justify-center rounded-xl bg-gradient-to-br from-primary to-primary/60 text-primary-foreground shadow-card"
+            >
+              <BookA className="size-5.5" strokeWidth={2.25} />
+            </span>
+            <p className="mt-4 text-xs font-semibold uppercase tracking-[0.18em] text-primary">
+              PTE Academic
+            </p>
+            <h1
+              ref={titleRef}
+              id="page-title"
+              tabIndex={-1}
+              className="mt-3 max-w-3xl font-display text-4xl font-semibold leading-[1.08] tracking-tight text-foreground focus:outline-none sm:text-6xl"
+            >
+              Treine para o PTE com questões para praticar
+            </h1>
+            <p className="mt-4 max-w-xl text-base leading-relaxed text-muted-foreground">
+              Pratique com correção palavra por palavra e transforme revisão em rotina — sem servidor,
+              sem conta, salvo no seu navegador.
+            </p>
+            <p className="mt-3 text-sm text-muted-foreground">
+              {TOTAL_ALL_QUESTIONS_LABEL} questões · {TYPE_COUNT} tipos de tarefa · 4 seções
+            </p>
+            <div className="mt-6 grid gap-3 sm:flex sm:flex-wrap">
+              <Button asChild size="lg" className="min-h-11">
+                <Link to="/practice">Começar a treinar</Link>
+              </Button>
+              <Button asChild size="lg" variant="outline" className="min-h-11">
+                <Link to="/exam">Fazer um simulado</Link>
+              </Button>
+            </div>
+          </section>
+        )}
+
+        {/* Rotina do dia sobe antes da exploração (projeto 13, §4.4.2). */}
         <section
-          aria-labelledby="page-title"
-          className="relative rounded-2xl border border-border/60 bg-card bg-glow p-6 shadow-card sm:p-10"
+          aria-label="Sua rotina de estudo"
+          className="mt-6 grid items-stretch gap-4 sm:grid-cols-2"
         >
-          <span
-            aria-hidden
-            className="inline-flex size-11 items-center justify-center rounded-xl bg-gradient-to-br from-primary to-primary/60 text-primary-foreground shadow-card"
-          >
-            <BookA className="size-5.5" strokeWidth={2.25} />
-          </span>
-          <p className="mt-4 text-xs font-semibold uppercase tracking-[0.18em] text-primary">
-            PTE Academic
-          </p>
-          <h1
-            ref={titleRef}
-            id="page-title"
-            tabIndex={-1}
-            className="mt-3 max-w-3xl font-display text-4xl font-semibold leading-[1.08] tracking-tight text-foreground focus:outline-none sm:text-6xl"
-          >
-            Treine para o PTE com questões reais
-          </h1>
-          <p className="mt-4 max-w-xl text-base leading-relaxed text-muted-foreground">
-            Pratique com correção palavra por palavra e transforme revisão em rotina — sem servidor,
-            sem conta, salvo no seu navegador.
-          </p>
-          <p className="mt-3 text-sm text-muted-foreground">
-            {TOTAL_ALL_QUESTIONS_LABEL} questões · {TYPE_COUNT} tipos de tarefa · 4 seções
-          </p>
-          <div className="mt-6 grid gap-3 sm:flex sm:flex-wrap">
-            <Button asChild size="lg" className="min-h-11">
-              <Link to="/practice">Começar a treinar</Link>
-            </Button>
-            <Button asChild size="lg" variant="outline" className="min-h-11">
-              <Link to="/exam">Fazer um simulado</Link>
-            </Button>
-          </div>
+          <DailyPlanCard />
+          <VocabCard />
         </section>
 
         <TargetStrip />
