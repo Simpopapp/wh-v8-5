@@ -241,10 +241,7 @@ function ChoiceScreen({
 
         {/* Prática cronometrada por seção: identidade própria da seção. */}
         <section aria-labelledby="exame-secoes-title">
-          <h2
-            id="exame-secoes-title"
-            className="font-serif text-lg font-semibold text-foreground"
-          >
+          <h2 id="exame-secoes-title" className="font-serif text-lg font-semibold text-foreground">
             Prática cronometrada por seção
           </h2>
           <p className="mt-1 text-sm text-muted-foreground">
@@ -286,8 +283,7 @@ function ChoiceScreen({
                       </span>
                       <span className="mt-1 flex flex-wrap items-center gap-x-2 gap-y-1 text-xs tabular-nums text-muted-foreground">
                         <Clock className="size-3.5" aria-hidden />
-                        {eligible} questões ·{" "}
-                        {fmtDuration(estimateSeconds(id, { verifiedOnly }))}
+                        {eligible} questões · {fmtDuration(estimateSeconds(id, { verifiedOnly }))}
                         {eligible < full ? " · filtro de fontes ativo" : ""}
                       </span>
                     </span>
