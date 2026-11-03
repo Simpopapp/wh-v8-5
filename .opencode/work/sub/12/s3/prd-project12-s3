@@ -1,0 +1,16 @@
+# PRD — S3 Sessão + Simulado (projeto 12, PRD central §7.3/§7.4)
+
+## Diagnóstico a confirmar
+- `session.tsx` (390 linhas): barra de progresso ad-hoc (:190-195), config com wrap em 390px, conclusão sem número-herói.
+- `exam.tsx` (115 linhas): botões nativos customizados (:81-98) para modalidade, sem stepper, cronômetro/pausa básicos.
+
+## Escopo
+1. **Sessão — configuração**: grupos com PageHeader + cartões; controles ≥44px; sem wrap feio em 390px.
+2. **Sessão — execução**: superfície de questão elevada (rounded-2xl shadow-card), ProgressRing compartilhado no topo, semânticas de acerto/erro com tokens.
+3. **Sessão — conclusão**: número-herói (StatHero) + próximo passo (CTA primário).
+4. **Simulado**: modalidade em cartões Button reais com ícone + duração; stepper visual das etapas no runner; estados de cronômetro/pausa/abandono claros e acessíveis (aria).
+5. Cards de tradução da sessão: confirmar que funcionam sobre o sheet (nada a mudar no fluxo).
+
+## Critérios de aceite
+- Gates: vitest/tsgo/build/lint · Playwright em /session e /exam (axe 0, 390×844, console limpo).
+- Nenhuma lógica de sessão/exame muda; testes existentes (exam.test, estimate.test) permanecem verdes.

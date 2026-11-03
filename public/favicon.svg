@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#181926"/>
+      <stop offset="50%" stop-color="#12131d"/>
+      <stop offset="100%" stop-color="#0a0b10"/>
+    </linearGradient>
+
+    <!-- Warm Amber Glow -->
+    <radialGradient id="glow" cx="50%" cy="40%" r="55%">
+      <stop offset="0%" stop-color="#f59e0b" stop-opacity="0.22"/>
+      <stop offset="60%" stop-color="#d97706" stop-opacity="0.06"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Gold Foil Gradient for PTE letters -->
+    <linearGradient id="pteGold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFFBEB"/>
+      <stop offset="25%" stop-color="#FDE68A"/>
+      <stop offset="60%" stop-color="#F59E0B"/>
+      <stop offset="90%" stop-color="#D97706"/>
+      <stop offset="100%" stop-color="#B45309"/>
+    </linearGradient>
+
+    <!-- Sound Wave Accent Gradient -->
+    <linearGradient id="accentWave" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#F59E0B"/>
+      <stop offset="50%" stop-color="#FDE68A"/>
+      <stop offset="100%" stop-color="#F59E0B"/>
+    </linearGradient>
+
+    <!-- Card Border -->
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F59E0B" stop-opacity="0.55"/>
+      <stop offset="40%" stop-color="#D97706" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#F59E0B" stop-opacity="0.45"/>
+    </linearGradient>
+
+    <filter id="subtleDrop" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="6" stdDeviation="10" flood-color="#000000" flood-opacity="0.6"/>
+    </filter>
+  </defs>
+
+  <!-- Base Squircle -->
+  <rect x="20" y="20" width="472" height="472" rx="118" fill="url(#bg)"/>
+  <rect x="20" y="20" width="472" height="472" rx="118" fill="url(#glow)"/>
+  <rect x="20" y="20" width="472" height="472" rx="118" fill="none" stroke="url(#borderGrad)" stroke-width="4"/>
+
+  <!-- Inner delicate ring -->
+  <rect x="36" y="36" width="440" height="440" rx="102" fill="none" stroke="#F59E0B" stroke-width="1.5" stroke-opacity="0.12"/>
+
+  <!-- Stylized PTE Monogram Group -->
+  <g filter="url(#subtleDrop)">
+    <!-- Letter P -->
+    <rect x="84" y="160" width="30" height="152" rx="7" fill="url(#pteGold)"/>
+    <path d="M 84,160 L 148,160 C 182,160 204,178 204,208 C 204,238 182,256 148,256 L 84,256 Z" fill="url(#pteGold)"/>
+    <path d="M 114,188 L 145,188 C 164,188 174,196 174,208 C 174,220 164,228 145,228 L 114,228 Z" fill="#12131d"/>
+
+    <!-- Letter T -->
+    <rect x="208" y="160" width="102" height="28" rx="6" fill="url(#pteGold)"/>
+    <rect x="244" y="160" width="30" height="152" rx="6" fill="url(#pteGold)"/>
+
+    <!-- Letter E -->
+    <rect x="320" y="160" width="30" height="152" rx="7" fill="url(#pteGold)"/>
+    <path d="M 320,160 L 412,160 C 416,160 419,163 419,167 L 419,183 C 419,187 416,190 412,190 L 320,190 Z" fill="url(#pteGold)"/>
+    <path d="M 320,222 L 398,222 C 402,222 405,225 405,229 L 405,245 C 405,249 402,252 398,252 L 320,252 Z" fill="url(#pteGold)"/>
+    <path d="M 320,284 L 414,284 C 418,284 421,287 421,291 L 421,307 C 421,311 418,314 414,314 L 320,314 Z" fill="url(#pteGold)"/>
+  </g>
+
+  <!-- Fluency & Audio Sound Wave Bars (PTE Speaking / Listening accent) -->
+  <g fill="url(#accentWave)">
+    <rect x="186" y="358" width="8" height="24" rx="4" opacity="0.6"/>
+    <rect x="206" y="350" width="8" height="40" rx="4" opacity="0.75"/>
+    <rect x="226" y="342" width="8" height="56" rx="4" opacity="0.9"/>
+    <rect x="246" y="336" width="8" height="68" rx="4"/>
+    <rect x="266" y="336" width="8" height="68" rx="4"/>
+    <rect x="286" y="342" width="8" height="56" rx="4" opacity="0.9"/>
+    <rect x="306" y="350" width="8" height="40" rx="4" opacity="0.75"/>
+    <rect x="326" y="358" width="8" height="24" rx="4" opacity="0.6"/>
+  </g>
+
+  <!-- Subtle star accent -->
+  <polygon points="256,66 261,77 272,82 261,87 256,98 251,87 240,82 251,77" fill="#FDE68A" opacity="0.65"/>
+</svg>

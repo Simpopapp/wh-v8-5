@@ -1,0 +1,687 @@
+{
+  "type": "summarize_group_discussion",
+  "task_type": "Summarize Group Discussion",
+  "section": "speaking",
+  "total": 13,
+  "questions": [
+    {
+      "id": "sgd-ek-01",
+      "topic": "Academic Writing Struggles",
+      "narration": "Three students are discussing struggling with academic writing at university.",
+      "turns": [
+        {
+          "speaker": "Speaker 1",
+          "text": "I’m finding academic writing so tough this semester. I just can’t seem to get my ideas across clearly on paper, and my grades are suffering. I think it’s the structure that gets me the most. I end up rambling and never really making a solid point. It’s frustrating because I understand the material, I just can't articulate it well."
+        },
+        {
+          "speaker": "Speaker 2",
+          "text": "I totally get that. For me, it’s the research. Finding credible sources and then, like, putting them into my writing without plagiarizing is a nightmare. I spend more time worrying about citations than actually writing the paper. And honestly, just understanding what counts as 'good' research is half the battle, you know?"
+        },
+        {
+          "speaker": "Speaker 3",
+          "text": "You both hit on my biggest struggles! But I also think about how much there is to do. It feels like every class needs a massive research paper. Trying to balance that with everything else, like exams and stuff, is impossible. I start procrastinating because it feels so overwhelming, and then I end up rushing and doing a bad job."
+        },
+        {
+          "speaker": "Speaker 1",
+          "text": "Maybe we should look into the writing center? I've heard mixed reviews, but it could be worth a shot. They offer workshops on things like structuring essays and, you know, proper citation, which might help us both, Chris. Or, we could form a study group and read each other's papers before we hand them in. Fresh eyes can often catch things we miss ourselves."
+        },
+        {
+          "speaker": "Speaker 2",
+          "text": "I'm down for a study group! I've been meaning to try that. The writing center sounds good too, although I worry it'll be super busy so close to the deadline. I did hear from a friend that the library has research skills workshops. Maybe focusing on finding better sources could take some of the pressure off."
+        },
+        {
+          "speaker": "Speaker 3",
+          "text": "I'm in on both! A study group would definitely help with feeling so overwhelmed. Just having someone to bounce ideas off of could make a huge difference. And anything that makes my research better is a win. I'll check out the library workshops, and Sarah, maybe you can check out the writing center?"
+        },
+        {
+          "speaker": "Speaker 1",
+          "text": "Deal! I'll look into the writing center and tell you what I find out. We could even set specific goals for our study group sessions, like outlining an essay or proofreading, like, a certain number of pages. Having a structured approach might make it less scary."
+        },
+        {
+          "speaker": "Speaker 2",
+          "text": "That sounds like a solid plan. I think breaking down the writing process into smaller steps will make a huge difference. I'm actually feeling more optimistic already! Plus, misery loves company, right? It's good to know we're all in the same boat."
+        },
+        {
+          "speaker": "Speaker 3",
+          "text": "Absolutely! And knowing we're actually working on getting better is a huge confidence booster. I'm actually excited to start the next paper now. Let's figure out our schedules and get this study group going!"
+        }
+      ],
+      "text": "I’m finding academic writing so tough this semester. I just can’t seem to get my ideas across clearly on paper, and my grades are suffering. I think it’s the structure that gets me the most. I end up rambling and never really making a solid point. It’s frustrating because I understand the material, I just can't articulate it well. I totally get that. For me, it’s the research. Finding credible sources and then, like, putting them into my writing without plagiarizing is a nightmare. I spend more time worrying about citations than actually writing the paper. And honestly, just understanding what counts as 'good' research is half the battle, you know? You both hit on my biggest struggles! But I also think about how much there is to do. It feels like every class needs a massive research paper. Trying to balance that with everything else, like exams and stuff, is impossible. I start procrastinating because it feels so overwhelming, and then I end up rushing and doing a bad job. Maybe we should look into the writing center? I've heard mixed reviews, but it could be worth a shot. They offer workshops on things like structuring essays and, you know, proper citation, which might help us both, Chris. Or, we could form a study group and read each other's papers before we hand them in. Fresh eyes can often catch things we miss ourselves. I'm down for a study group! I've been meaning to try that. The writing center sounds good too, although I worry it'll be super busy so close to the deadline. I did hear from a friend that the library has research skills workshops. Maybe focusing on finding better sources could take some of the pressure off. I'm in on both! A study group would definitely help with feeling so overwhelmed. Just having someone to bounce ideas off of could make a huge difference. And anything that makes my research better is a win. I'll check out the library workshops, and Sarah, maybe you can check out the writing center? Deal! I'll look into the writing center and tell you what I find out. We could even set specific goals for our study group sessions, like outlining an essay or proofreading, like, a certain number of pages. Having a structured approach might make it less scary. That sounds like a solid plan. I think breaking down the writing process into smaller steps will make a huge difference. I'm actually feeling more optimistic already! Plus, misery loves company, right? It's good to know we're all in the same boat. Absolutely! And knowing we're actually working on getting better is a huge confidence booster. I'm actually excited to start the next paper now. Let's figure out our schedules and get this study group going!",
+      "sample": "Three students discuss their struggles with academic writing. Speaker 1 says structuring her ideas is her biggest problem—she understands the material but ends up rambling instead of making a clear point. Speaker 2 struggles most with research, especially finding credible sources and citing them without plagiarizing, and admits knowing what counts as good research is half the challenge. Speaker 3 shares both concerns but is most overwhelmed by the sheer volume of required papers on top of exams, which leads to procrastination and rushed, weaker work. They agree to try two solutions: visiting the writing center for help with structure and citations, and forming a study group to read and critique each other's drafts. Speaker 2 worries the writing center may be too busy near deadlines and mentions library workshops on research skills instead. They divide the follow-up: Speaker 3 will check the library workshops, and Speaker 1, Sarah, will check the writing center. All three end optimistic, planning a structured study group with concrete goals like outlining and proofreading, feeling more confident about their next paper.",
+      "source": "edknot.com",
+      "word_count": 466
+    },
+    {
+      "id": "sgd-ek-02",
+      "topic": "Large Versus Small Lectures",
+      "narration": "Two students and a professor are discussing experiences in large vs small lectures at university.",
+      "turns": [
+        {
+          "speaker": "Speaker 1",
+          "text": "I really prefer small lectures, honestly. In a big lecture hall, I just feel like I'm just another face, and it's hard to really get involved. I find myself kind of zoning out a lot more easily when there are hundreds of other students around."
+        },
+        {
+          "speaker": "Speaker 2",
+          "text": "That's interesting, because I actually prefer big lectures because I like being anonymous. I like just being able to sit there, take notes, and, you know, just take in the information without feeling like I have to speak up or anything. Plus, they often have really good stuff, like clear slides and sometimes they even record the sessions, which is super helpful when you're revising."
+        },
+        {
+          "speaker": "Speaker 3",
+          "text": "It's true that big lectures are often really important for, like, the basic courses, especially when there are a lot of students. They help us teach the main stuff effectively to many students. But, I do miss how you can really interact in a smaller class. It's just easier to see if everyone understands and to have more discussions where people talk to each other."
+        },
+        {
+          "speaker": "Speaker 1",
+          "text": "Exactly! In a big lecture, if you have a quick question, you can't just shout it out, and raising your hand feels awkward with so many eyes on you. You just end up waiting until after class, if you even remember, or you just stay confused. It really makes it harder for me to learn."
+        },
+        {
+          "speaker": "Speaker 2",
+          "text": "I guess I just don't have that problem as much. A lot of my big lectures have specific times for questions, or even online forums that the TAs run where you can just ask questions without anyone knowing who you are. I think that works pretty well for clearing things up without stopping the main lecture."
+        },
+        {
+          "speaker": "Speaker 3",
+          "text": "That's a good point about using technology and having enough staff to help out. We're always trying to find ways to make those big classes more interactive. It's really about finding a balance between getting information out to everyone and making sure every student feels supported as they learn."
+        },
+        {
+          "speaker": "Speaker 1",
+          "text": "Maybe if big lectures had more interactive parts, like in-class polls or quick things to discuss, that would really help. Even putting us into small groups for a couple of minutes to talk about something could make a huge difference. That way, you're not just sitting there and listening for an hour."
+        },
+        {
+          "speaker": "Speaker 2",
+          "text": "I totally agree with adding more interactive parts to big lectures; that would definitely make things better. But for some subjects, like really big introductory science classes, you really need to get that general idea first before you go into all the details. Small lectures just wouldn't be able to cover so much information as well."
+        },
+        {
+          "speaker": "Speaker 3",
+          "text": "You've both brought up some really important points. I think the best way is probably to have a mix of both. So, big lectures for the basic ideas, and then smaller tutorials or seminars for, like, deeper talks and more personal feedback. It's about setting up the learning so it really fits the subject and what students need, and also using technology to make it more engaging."
+        }
+      ],
+      "text": "I really prefer small lectures, honestly. In a big lecture hall, I just feel like I'm just another face, and it's hard to really get involved. I find myself kind of zoning out a lot more easily when there are hundreds of other students around. That's interesting, because I actually prefer big lectures because I like being anonymous. I like just being able to sit there, take notes, and, you know, just take in the information without feeling like I have to speak up or anything. Plus, they often have really good stuff, like clear slides and sometimes they even record the sessions, which is super helpful when you're revising. It's true that big lectures are often really important for, like, the basic courses, especially when there are a lot of students. They help us teach the main stuff effectively to many students. But, I do miss how you can really interact in a smaller class. It's just easier to see if everyone understands and to have more discussions where people talk to each other. Exactly! In a big lecture, if you have a quick question, you can't just shout it out, and raising your hand feels awkward with so many eyes on you. You just end up waiting until after class, if you even remember, or you just stay confused. It really makes it harder for me to learn. I guess I just don't have that problem as much. A lot of my big lectures have specific times for questions, or even online forums that the TAs run where you can just ask questions without anyone knowing who you are. I think that works pretty well for clearing things up without stopping the main lecture. That's a good point about using technology and having enough staff to help out. We're always trying to find ways to make those big classes more interactive. It's really about finding a balance between getting information out to everyone and making sure every student feels supported as they learn. Maybe if big lectures had more interactive parts, like in-class polls or quick things to discuss, that would really help. Even putting us into small groups for a couple of minutes to talk about something could make a huge difference. That way, you're not just sitting there and listening for an hour. I totally agree with adding more interactive parts to big lectures; that would definitely make things better. But for some subjects, like really big introductory science classes, you really need to get that general idea first before you go into all the details. Small lectures just wouldn't be able to cover so much information as well. You've both brought up some really important points. I think the best way is probably to have a mix of both. So, big lectures for the basic ideas, and then smaller tutorials or seminars for, like, deeper talks and more personal feedback. It's about setting up the learning so it really fits the subject and what students need, and also using technology to make it more engaging.",
+      "sample": "Two students and a professor compare large and small university lectures. The first student favors small classes, explaining that in huge halls they feel like just another face, lose concentration more easily, and cannot raise a quick question without it feeling awkward, so confusion often goes unresolved. The second student prefers large lectures precisely for that anonymity, adding that they come with clearer slides, recorded sessions useful for revision, and structured question times or anonymous online forums run by teaching assistants that clear up doubts without interrupting the class. The professor sees large lectures as necessary for delivering core material to many students efficiently, though smaller settings make it easier to gauge understanding and encourage discussion. The first student suggests livening up big lectures with polls and brief small-group tasks; the second agrees this would help but argues that large introductory science courses still need that scale to cover material thoroughly. They settle on a blended approach: big lectures for foundational teaching, smaller tutorials for deeper, personalised follow-up, adapted to each subject.",
+      "source": "edknot.com",
+      "word_count": 510
+    },
+    {
+      "id": "sgd-ek-03",
+      "topic": "Phone Use Restrictions",
+      "narration": "Three students are discussing whether to restrict students' phone use on campus.",
+      "turns": [
+        {
+          "speaker": "Speaker 1",
+          "text": "Hey guys, did you hear Professor Wang is pushing for phone restrictions in class and the library? I’m all for it! Last week in math class, half the people were scrolling TikTok under their desks—Professor had to stop teaching three times to remind us. If phones are banned, we’d actually focus, and I bet my grades would go up."
+        },
+        {
+          "speaker": "Speaker 2",
+          "text": "Totally agree! I was in the library yesterday trying to write a paper, but the girl next to me kept taking video calls—so annoying! Phones are such a distraction; I even catch myself checking messages when I’m supposed to be studying. Restrictions would help us stay on track, and maybe we’d talk more with classmates instead of staring at screens."
+        },
+        {
+          "speaker": "Speaker 3",
+          "text": "Wait, isn’t that too strict? What if there’s an emergency? My mom has a heart condition, and she needs to reach me anytime. Last month, she had to go to the hospital, and she texted me during class—I would’ve panicked if I didn’t see it. Plus, phones are useful for studying!"
+        },
+        {
+          "speaker": "Speaker 1",
+          "text": "I get the emergency part, but maybe we could keep phones on silent and only use them outside if needed? Like, step out of class to take a call. And for studying—flashcards are great, but do you really need your phone the whole time?"
+        },
+        {
+          "speaker": "Speaker 2",
+          "text": "Exactly! Emergencies are rare, and stepping out solves that. As for study apps, you could use them before class or during breaks instead of in the library. My cousin’s school has phone lockers in classrooms—you put your phone in at the start, get it back after. She said it was weird at first, but now she loves how focused everyone is."
+        },
+        {
+          "speaker": "Speaker 3",
+          "text": "Hmm, lockers sound okay, but what about when I need to use my phone for class? Last week, Professor Li had us look up an article on our phones during lecture. If they’re locked up, we can’t do that. And what if I forget something at home? I text my roommate to bring it, which I can’t do if my phone’s restricted."
+        },
+        {
+          "speaker": "Speaker 1",
+          "text": "Oh, right—class uses! Maybe the rule could be “no non-study phone use” instead of total restriction? Like, you can use it for articles or apps the professor assigns, but no scrolling. That way, you still have it for emergencies and school stuff, but not distractions."
+        },
+        {
+          "speaker": "Speaker 2",
+          "text": "That makes sense! My friend’s class has that rule—Professor walks around, and if you’re on social media, you have to put your phone away. It works because it’s not a total ban, just limits the bad stuff. We could suggest that to Professor Wang—she’s always asking for student input."
+        },
+        {
+          "speaker": "Speaker 3",
+          "text": "Thanks, guys—I was worried about emergencies, but “no non-study use” fixes that. I’ll even try putting my phone on “do not disturb” during study time this week to test it. Let’s talk to Professor Wang together tomorrow—maybe we can help make a rule that works for everyone!"
+        }
+      ],
+      "text": "Hey guys, did you hear Professor Wang is pushing for phone restrictions in class and the library? I’m all for it! Last week in math class, half the people were scrolling TikTok under their desks—Professor had to stop teaching three times to remind us. If phones are banned, we’d actually focus, and I bet my grades would go up. Totally agree! I was in the library yesterday trying to write a paper, but the girl next to me kept taking video calls—so annoying! Phones are such a distraction; I even catch myself checking messages when I’m supposed to be studying. Restrictions would help us stay on track, and maybe we’d talk more with classmates instead of staring at screens. Wait, isn’t that too strict? What if there’s an emergency? My mom has a heart condition, and she needs to reach me anytime. Last month, she had to go to the hospital, and she texted me during class—I would’ve panicked if I didn’t see it. Plus, phones are useful for studying! I get the emergency part, but maybe we could keep phones on silent and only use them outside if needed? Like, step out of class to take a call. And for studying—flashcards are great, but do you really need your phone the whole time? Exactly! Emergencies are rare, and stepping out solves that. As for study apps, you could use them before class or during breaks instead of in the library. My cousin’s school has phone lockers in classrooms—you put your phone in at the start, get it back after. She said it was weird at first, but now she loves how focused everyone is. Hmm, lockers sound okay, but what about when I need to use my phone for class? Last week, Professor Li had us look up an article on our phones during lecture. If they’re locked up, we can’t do that. And what if I forget something at home? I text my roommate to bring it, which I can’t do if my phone’s restricted. Oh, right—class uses! Maybe the rule could be “no non-study phone use” instead of total restriction? Like, you can use it for articles or apps the professor assigns, but no scrolling. That way, you still have it for emergencies and school stuff, but not distractions. That makes sense! My friend’s class has that rule—Professor walks around, and if you’re on social media, you have to put your phone away. It works because it’s not a total ban, just limits the bad stuff. We could suggest that to Professor Wang—she’s always asking for student input. Thanks, guys—I was worried about emergencies, but “no non-study use” fixes that. I’ll even try putting my phone on “do not disturb” during study time this week to test it. Let’s talk to Professor Wang together tomorrow—maybe we can help make a rule that works for everyone!",
+      "sample": "Three students debate whether phone use should be restricted on campus. The first speaker supports restrictions, describing classmates scrolling repeatedly interrupting a math lecture, and believes a ban would improve focus and grades. The second speaker agrees, recalling someone taking video calls in the library while studying, and admits being distracted by their own phone too. The third speaker objects that a full ban is too strict, citing the need to stay reachable for a parent with a heart condition and phones' study uses. The first speaker proposes a middle ground: silencing phones and stepping outside for calls. The second speaker supports this, mentioning a cousin's school using classroom phone lockers that improved focus, but the third notes lockers would block professor-assigned phone tasks and contacting a roommate about forgotten items. The first speaker then suggests a no-non-study-use rule instead, allowing phones for assigned tasks but not idle scrolling. The second speaker confirms a friend's class already works this way. Reassured, the third agrees to try it, and the group decides to propose the rule to Professor Wang.",
+      "source": "edknot.com",
+      "word_count": 478
+    },
+    {
+      "id": "sgd-ek-04",
+      "topic": "Joining The Debating Club",
+      "narration": "Three students are discussing joining the debating club at university.",
+      "turns": [
+        {
+          "speaker": "Speaker 1",
+          "text": "I've been thinking about joining the debating club for a while now. It seems like a great way to get better at public speaking and thinking critically. But I'm also a little nervous, 'cause I've never really done proper debating before. I'm worried about having to think up arguments really fast and, like, saying them well. Has anyone here ever done debating?"
+        },
+        {
+          "speaker": "Speaker 2",
+          "text": "I did a bit of debating in high school, and it was really good. It definitely helped me be more confident when I say what I think and when I have to think fast. The thing is, it does take a lot of prep and, like, looking stuff up, which can take time. You have to be ready to work hard to know your stuff and make good arguments. But honestly, it's worth it."
+        },
+        {
+          "speaker": "Speaker 3",
+          "text": "I agree with Will. I haven't done formal debates, but I've seen how good it can be. I want to join because I think it would help me see things from different points of view. I think it’s important to be able to talk things through properly, even if you don't agree with someone. Plus, I've heard the club does workshops and practice for beginners, so you don't just get thrown in at the deep end."
+        },
+        {
+          "speaker": "Speaker 1",
+          "text": "It's good to know about the workshops, Laura. I'm still a bit worried about the competition side of things. Do you have to be, like, super competitive to do well in the club? I'm more interested in learning and getting better, rather than winning all the time. Also, I'm a bit worried I won't have enough time because of my courses."
+        },
+        {
+          "speaker": "Speaker 2",
+          "text": "Yeah, some people are really competitive, but the club also cares about learning and getting better. You can do less formal debates and practice where it's more about improving your skills, not just winning. And you don't have to do everything; you can pick what fits your schedule and what you like. It's all about finding what's good for you."
+        },
+        {
+          "speaker": "Speaker 3",
+          "text": "Exactly! And think about the networking! Debating can help you get internships, scholarships, even jobs. Employers often want people who can communicate well and think critically, which you'll learn in the club. I think it's a great investment in your future, even if you don't want to be a professional debater."
+        },
+        {
+          "speaker": "Speaker 2",
+          "text": "Laura, that's a really good point about the networking. I didn't think of that. But yeah, meeting people who are into the same things and getting to know experienced debaters could be really useful. Maybe we should all check out the club's next meeting and see what it's like. We can help each other out."
+        },
+        {
+          "speaker": "Speaker 1",
+          "text": "That sounds great, Will! I feel much better about trying it now. It'll be less scary with you both there. Plus, I'm excited about meeting new people and, like, seeing new things. Let's look at the club's website and find out when the next meeting is. Maybe we can get coffee first and talk about what we want to get out of joining."
+        },
+        {
+          "speaker": "Speaker 3",
+          "text": "Perfect! I'm looking forward to it. I've heard they're having a social thing soon too, which would be a fun way to meet everyone in a more relaxed way. I'm sure it'll be in the student union, so it'll be easy to get to. Let’s definitely do some research before the first meeting, so we can get a feel of what the club's like, and maybe think of some topics we could debate."
+        }
+      ],
+      "text": "I've been thinking about joining the debating club for a while now. It seems like a great way to get better at public speaking and thinking critically. But I'm also a little nervous, 'cause I've never really done proper debating before. I'm worried about having to think up arguments really fast and, like, saying them well. Has anyone here ever done debating? I did a bit of debating in high school, and it was really good. It definitely helped me be more confident when I say what I think and when I have to think fast. The thing is, it does take a lot of prep and, like, looking stuff up, which can take time. You have to be ready to work hard to know your stuff and make good arguments. But honestly, it's worth it. I agree with Will. I haven't done formal debates, but I've seen how good it can be. I want to join because I think it would help me see things from different points of view. I think it’s important to be able to talk things through properly, even if you don't agree with someone. Plus, I've heard the club does workshops and practice for beginners, so you don't just get thrown in at the deep end. It's good to know about the workshops, Laura. I'm still a bit worried about the competition side of things. Do you have to be, like, super competitive to do well in the club? I'm more interested in learning and getting better, rather than winning all the time. Also, I'm a bit worried I won't have enough time because of my courses. Yeah, some people are really competitive, but the club also cares about learning and getting better. You can do less formal debates and practice where it's more about improving your skills, not just winning. And you don't have to do everything; you can pick what fits your schedule and what you like. It's all about finding what's good for you. Exactly! And think about the networking! Debating can help you get internships, scholarships, even jobs. Employers often want people who can communicate well and think critically, which you'll learn in the club. I think it's a great investment in your future, even if you don't want to be a professional debater. Laura, that's a really good point about the networking. I didn't think of that. But yeah, meeting people who are into the same things and getting to know experienced debaters could be really useful. Maybe we should all check out the club's next meeting and see what it's like. We can help each other out. That sounds great, Will! I feel much better about trying it now. It'll be less scary with you both there. Plus, I'm excited about meeting new people and, like, seeing new things. Let's look at the club's website and find out when the next meeting is. Maybe we can get coffee first and talk about what we want to get out of joining. Perfect! I'm looking forward to it. I've heard they're having a social thing soon too, which would be a fun way to meet everyone in a more relaxed way. I'm sure it'll be in the student union, so it'll be easy to get to. Let’s definitely do some research before the first meeting, so we can get a feel of what the club's like, and maybe think of some topics we could debate.",
+      "sample": "Three students discuss joining the university debating club. The first student is drawn to it for public speaking and critical-thinking benefits but feels nervous, having never debated formally and worrying about constructing fast, well-delivered arguments. The second student, who debated in high school, confirms it built confidence and quick thinking, though it demands heavy preparation and research, and insists it's worth the effort. The third student has no formal experience but has seen its value, wanting to learn to view issues from different angles, and reassures the first that the club runs workshops and beginner sessions rather than throwing newcomers into competition. When the first admits worrying about competitive pressure and finding time alongside coursework, the second explains the club also supports flexible, improvement-focused practice. The third adds that debating builds networking and communication skills useful for internships, scholarships, and jobs. Reassured, all three agree to attend the next meeting together, research it beforehand, and think of debate topics, with the third mentioning an upcoming social event as a relaxed way in.",
+      "source": "edknot.com",
+      "word_count": 575
+    },
+    {
+      "id": "sgd-ek-05",
+      "topic": "Debate on replacing traditional exams with project-based assessments",
+      "narration": "Three students are sitting on the grass near the library, discussing a proposal to replace traditional final exams with project-based assessments in some courses.",
+      "turns": [
+        {
+          "speaker": "Speaker 1",
+          "text": "I think project-based assessments are much better than exams. In my marketing class last semester, we had to create a full campaign for a local business. I learned more from that project than from any exam. It felt practical and relevant."
+        },
+        {
+          "speaker": "Speaker 2",
+          "text": "I see the appeal, but projects can be stressful too. They take weeks to complete, and group projects often have problems with unequal contribution. Plus, some subjects like mathematics or chemistry really need exams to test quick recall and problem-solving under time pressure."
+        },
+        {
+          "speaker": "Speaker 1",
+          "text": "That's true for some subjects, but for many others, projects allow you to demonstrate deeper understanding. You can research, apply concepts, and show creativity. Exams just test memorization."
+        },
+        {
+          "speaker": "Speaker 3",
+          "text": "I think a mix would be ideal. Some courses could have a project component worth, say, 40 percent of the grade, with a shorter exam for the rest. That way, you get the benefits of both. It also reduces the pressure of a single high-stakes exam."
+        },
+        {
+          "speaker": "Speaker 2",
+          "text": "That could work. But we'd need clear rubrics for projects to ensure fair grading. I've had projects where the grading felt arbitrary."
+        },
+        {
+          "speaker": "Speaker 3",
+          "text": "Yes, rubrics are essential. They should be provided at the start so students know exactly what is expected."
+        },
+        {
+          "speaker": "Speaker 1",
+          "text": "I agree. And projects should be individual whenever possible to avoid the free-rider problem in group work."
+        },
+        {
+          "speaker": "Speaker 2",
+          "text": "That would increase the workload for professors, though. Grading thirty individual projects takes much more time than grading one exam."
+        },
+        {
+          "speaker": "Speaker 3",
+          "text": "The university could allocate more teaching assistant hours to help with grading. It's an investment in better assessment."
+        },
+        {
+          "speaker": "Speaker 1",
+          "text": "Let's propose a pilot program in a few departments, like humanities and social sciences, where projects are more natural. If successful, it could be expanded."
+        },
+        {
+          "speaker": "Speaker 2",
+          "text": "I could support that. Let's gather examples from other universities that have done this successfully."
+        },
+        {
+          "speaker": "Speaker 3",
+          "text": "Good plan. I'll start researching best practices for project-based assessment rubrics."
+        },
+        {
+          "speaker": "Speaker 1",
+          "text": "Also, we should consider that projects often require students to manage their time over several weeks, which is a valuable skill for the workplace."
+        },
+        {
+          "speaker": "Speaker 2",
+          "text": "That is a good point. Time management is indeed important."
+        },
+        {
+          "speaker": "Speaker 3",
+          "text": "And we could design projects that include both individual and group components, so students learn collaboration as well as independent work."
+        },
+        {
+          "speaker": "Speaker 1",
+          "text": "Exactly. That way, the assessment mirrors real-world tasks more closely."
+        },
+        {
+          "speaker": "Speaker 2",
+          "text": "I think we should also look at how other universities handle the grading workload. Some use peer review sessions to reduce the burden on professors."
+        },
+        {
+          "speaker": "Speaker 3",
+          "text": "That's a great idea. Peer review could also help students learn from each other."
+        },
+        {
+          "speaker": "Speaker 1",
+          "text": "Let's include peer review in our proposal."
+        },
+        {
+          "speaker": "Speaker 2",
+          "text": "I'll draft a section on grading workload solutions."
+        },
+        {
+          "speaker": "Speaker 3",
+          "text": "And I'll compile examples of successful project-based assessment implementations from other institutions."
+        }
+      ],
+      "text": "I think project-based assessments are much better than exams. In my marketing class last semester, we had to create a full campaign for a local business. I learned more from that project than from any exam. It felt practical and relevant. I see the appeal, but projects can be stressful too. They take weeks to complete, and group projects often have problems with unequal contribution. Plus, some subjects like mathematics or chemistry really need exams to test quick recall and problem-solving under time pressure. That's true for some subjects, but for many others, projects allow you to demonstrate deeper understanding. You can research, apply concepts, and show creativity. Exams just test memorization. I think a mix would be ideal. Some courses could have a project component worth, say, 40 percent of the grade, with a shorter exam for the rest. That way, you get the benefits of both. It also reduces the pressure of a single high-stakes exam. That could work. But we'd need clear rubrics for projects to ensure fair grading. I've had projects where the grading felt arbitrary. Yes, rubrics are essential. They should be provided at the start so students know exactly what is expected. I agree. And projects should be individual whenever possible to avoid the free-rider problem in group work. That would increase the workload for professors, though. Grading thirty individual projects takes much more time than grading one exam. The university could allocate more teaching assistant hours to help with grading. It's an investment in better assessment. Let's propose a pilot program in a few departments, like humanities and social sciences, where projects are more natural. If successful, it could be expanded. I could support that. Let's gather examples from other universities that have done this successfully. Good plan. I'll start researching best practices for project-based assessment rubrics. Also, we should consider that projects often require students to manage their time over several weeks, which is a valuable skill for the workplace. That is a good point. Time management is indeed important. And we could design projects that include both individual and group components, so students learn collaboration as well as independent work. Exactly. That way, the assessment mirrors real-world tasks more closely. I think we should also look at how other universities handle the grading workload. Some use peer review sessions to reduce the burden on professors. That's a great idea. Peer review could also help students learn from each other. Let's include peer review in our proposal. I'll draft a section on grading workload solutions. And I'll compile examples of successful project-based assessment implementations from other institutions.",
+      "sample": "Three students discuss replacing final exams with project-based assessments. The first student favours projects, recalling how designing a real marketing campaign taught more than any exam. The second student is wary, noting projects run long, group work can be unequal, and subjects like math or chemistry still need timed exams for quick recall. The third student proposes a compromise: a project worth about forty percent of the grade alongside a shorter exam, provided clear rubrics prevent arbitrary grading. The first student adds that projects should be individual to avoid free-riders, which the second student says would add to professors' grading workload. The third student suggests extra teaching-assistant hours to offset this. They agree to propose a pilot in humanities and social science departments, gathering examples from other universities. The group further agrees projects teach time management, should mix individual and group elements to mirror real work, and could use peer review to ease grading. They divide tasks: researching rubrics, drafting a grading-workload section, and compiling examples from other institutions for their joint proposal.",
+      "source": "edknot.com",
+      "word_count": 435
+    },
+    {
+      "id": "sgd-ek-06",
+      "topic": "Note-Taking Methods",
+      "narration": "Three students are discussing different note-taking methods at university.",
+      "turns": [
+        {
+          "speaker": "Speaker 1",
+          "text": "So, I've been trying out different ways to take notes lately, and I'm not really sure which one works best. I tried the Cornell method, but it feels a little too structured for me, you know? What about you guys, what do you usually do?"
+        },
+        {
+          "speaker": "Speaker 2",
+          "text": "I'm a big fan of mind mapping, actually. It really helps me see how all the ideas connect and get the bigger picture. I usually start with the main idea in the middle and then branch out from there. Plus, it's not as linear as regular note-taking, which keeps me way more interested. It’s especially helpful in subjects where things are really connected, like history or philosophy."
+        },
+        {
+          "speaker": "Speaker 3",
+          "text": "I’ve tried mind mapping before, but I think it’s a bit messy, to be honest. I usually prefer outlining. It’s just simple and easy, and it helps me keep everything organized logically. I use different headings and subheadings to structure my notes, which makes it easy to look back at them later."
+        },
+        {
+          "speaker": "Speaker 1",
+          "text": "Yeah, I get why you'd like outlining, but sometimes I feel like I'm just writing down exactly what the professor says without really thinking about it. With the Cornell method, I have to sum things up and think about what it all means, which helps me understand it better. Maybe I should give it another shot."
+        },
+        {
+          "speaker": "Speaker 2",
+          "text": "That's a good point, Sarah. I think the main thing is to find what works for you and the subject you're studying. Like, I use mind mapping when we're brainstorming in my creative writing class, but I switch to something more straightforward for statistics. Different subjects need different things, don't you think?"
+        },
+        {
+          "speaker": "Speaker 3",
+          "text": "Definitely. I also think it helps to mix and match different methods. For example, I might use outlining to structure my notes, but then add colors or symbols to make them more interesting. Or, I might use the Cornell method in lectures, but then just take freehand notes when we're having group discussions."
+        },
+        {
+          "speaker": "Speaker 1",
+          "text": "That's a great idea, Alice! I hadn’t even thought about doing that. Maybe that's what I'm missing – being able to change my note-taking depending on what's going on. I'll try to be more open to trying new things and see what works best for each class. It might also help if I looked at my notes more often to really remember what I've learned."
+        },
+        {
+          "speaker": "Speaker 2",
+          "text": "Exactly! Don’t be afraid to play around with your method until it feels right. I’ve even seen people using note-taking apps that let you type, draw, and record audio all in one place. Whatever helps you understand and remember things, right? It's all about finding the right tools for how you learn best."
+        },
+        {
+          "speaker": "Speaker 3",
+          "text": "Agreed. And don't forget how important it is to really listen. No matter what you're doing with your notes, it's important to pay attention during the lecture or discussion. That way, your notes will make more sense and be easier to remember later. I think we all need to experiment a bit to find what works best for us."
+        }
+      ],
+      "text": "So, I've been trying out different ways to take notes lately, and I'm not really sure which one works best. I tried the Cornell method, but it feels a little too structured for me, you know? What about you guys, what do you usually do? I'm a big fan of mind mapping, actually. It really helps me see how all the ideas connect and get the bigger picture. I usually start with the main idea in the middle and then branch out from there. Plus, it's not as linear as regular note-taking, which keeps me way more interested. It’s especially helpful in subjects where things are really connected, like history or philosophy. I’ve tried mind mapping before, but I think it’s a bit messy, to be honest. I usually prefer outlining. It’s just simple and easy, and it helps me keep everything organized logically. I use different headings and subheadings to structure my notes, which makes it easy to look back at them later. Yeah, I get why you'd like outlining, but sometimes I feel like I'm just writing down exactly what the professor says without really thinking about it. With the Cornell method, I have to sum things up and think about what it all means, which helps me understand it better. Maybe I should give it another shot. That's a good point, Sarah. I think the main thing is to find what works for you and the subject you're studying. Like, I use mind mapping when we're brainstorming in my creative writing class, but I switch to something more straightforward for statistics. Different subjects need different things, don't you think? Definitely. I also think it helps to mix and match different methods. For example, I might use outlining to structure my notes, but then add colors or symbols to make them more interesting. Or, I might use the Cornell method in lectures, but then just take freehand notes when we're having group discussions. That's a great idea, Alice! I hadn’t even thought about doing that. Maybe that's what I'm missing – being able to change my note-taking depending on what's going on. I'll try to be more open to trying new things and see what works best for each class. It might also help if I looked at my notes more often to really remember what I've learned. Exactly! Don’t be afraid to play around with your method until it feels right. I’ve even seen people using note-taking apps that let you type, draw, and record audio all in one place. Whatever helps you understand and remember things, right? It's all about finding the right tools for how you learn best. Agreed. And don't forget how important it is to really listen. No matter what you're doing with your notes, it's important to pay attention during the lecture or discussion. That way, your notes will make more sense and be easier to remember later. I think we all need to experiment a bit to find what works best for us.",
+      "sample": "Three students compare note-taking methods. The first has tried the Cornell method but finds it too rigid, unsure what suits her best. The second favors mind mapping, since branching from a central idea reveals connections and works well for interconnected subjects like history or philosophy. The third finds mind mapping messy and prefers outlining, using headings and subheadings to keep notes logical and easy to review. The first reconsiders Cornell, noting its requirement to summarize and reflect, rather than just transcribe, actually deepens understanding, and decides to try it again. The second stresses the right method depends on the subject, using mind maps for creative-writing brainstorming but something more linear for statistics. The third agrees and describes mixing methods, such as adding colors to outlines or switching between Cornell notes in lectures and freehand notes in discussions. The first is inspired to experiment across classes and review notes more often. The third closes by stressing that attentive listening, regardless of method, is what ultimately makes notes useful, and all agree experimentation is key.",
+      "source": "edknot.com",
+      "word_count": 502
+    },
+    {
+      "id": "sgd-ek-07",
+      "topic": "Campus Club Activity Debate",
+      "narration": "Three students are sitting on the campus lawn, talking about whether the school should reduce the number of campus club activities.",
+      "turns": [
+        {
+          "speaker": "Speaker 1",
+          "text": "Ugh, I’m so exhausted this week! I had three club meetings, a debate competition for the speech club, and a volunteer event for the community service club—all after classes. I really think the school should cut down on club activities."
+        },
+        {
+          "speaker": "Speaker 2",
+          "text": "Wait, I totally disagree. Club activities are the best part of school for me! I’m in the photography club, and last week we went on a field trip to the city’s art museum—we learned so much about lighting and composition, stuff I’d never get in regular classes. If the school reduces clubs, we’ll lose all these cool learning opportunities that make school more fun."
+        },
+        {
+          "speaker": "Speaker 3",
+          "text": "It’s not that clubs are bad—it’s that there are too many, and they demand too much time. I joined the drama club because I love acting, but now we have rehearsals four nights a week, plus we have to build sets on weekends. My math grade dropped last month because I didn’t have time to study for the test."
+        },
+        {
+          "speaker": "Speaker 1",
+          "text": "Exactly! And it’s not just the time—there’s so much pressure to “be active” for college applications. My counselor said I need to “show commitment” to clubs, so I feel like I can’t quit even when I’m overwhelmed. If there were fewer activities, we could actually focus on the ones we really care about instead of spreading ourselves thin."
+        },
+        {
+          "speaker": "Speaker 2",
+          "text": "But what about students who don’t have other ways to explore their interests? My friend is shy, and she only made friends because she joined the book club—they meet once a week to talk about novels, and it’s low-pressure."
+        },
+        {
+          "speaker": "Speaker 3",
+          "text": "That sounds good in theory, but in reality, the club leaders always make you feel guilty if you skip something. Last week, I missed drama rehearsal because I had a doctor’s appointment, and the director kept asking me, “Do you even care about the play?”"
+        },
+        {
+          "speaker": "Speaker 1",
+          "text": "Maybe the solution isn’t “cut all clubs”—but just limit how many events each club can have? Like, each club can only have one meeting a week and one event a month. That way, we can still enjoy clubs without feeling swamped. I’d actually be more engaged if I didn’t have to rush to five things a week."
+        },
+        {
+          "speaker": "Speaker 2",
+          "text": "Hmm, that’s a good point. I don’t want to lose the photography club’s field trips, but I get that some people are overwhelmed. Maybe the school could let students “opt in” to events instead of making them mandatory? Like, if the drama club has a set-building day, it’s optional—you can go if you have time, but you won’t get in trouble if you don’t. That way, everyone gets to choose what works for them."
+        },
+        {
+          "speaker": "Speaker 3",
+          "text": "That sounds fair! I just don’t want to have to quit the drama club because it’s taking over my life. If they did rehearsals twice a week instead of four, I could balance acting and studying."
+        }
+      ],
+      "text": "Ugh, I’m so exhausted this week! I had three club meetings, a debate competition for the speech club, and a volunteer event for the community service club—all after classes. I really think the school should cut down on club activities. Wait, I totally disagree. Club activities are the best part of school for me! I’m in the photography club, and last week we went on a field trip to the city’s art museum—we learned so much about lighting and composition, stuff I’d never get in regular classes. If the school reduces clubs, we’ll lose all these cool learning opportunities that make school more fun. It’s not that clubs are bad—it’s that there are too many, and they demand too much time. I joined the drama club because I love acting, but now we have rehearsals four nights a week, plus we have to build sets on weekends. My math grade dropped last month because I didn’t have time to study for the test. Exactly! And it’s not just the time—there’s so much pressure to “be active” for college applications. My counselor said I need to “show commitment” to clubs, so I feel like I can’t quit even when I’m overwhelmed. If there were fewer activities, we could actually focus on the ones we really care about instead of spreading ourselves thin. But what about students who don’t have other ways to explore their interests? My friend is shy, and she only made friends because she joined the book club—they meet once a week to talk about novels, and it’s low-pressure. That sounds good in theory, but in reality, the club leaders always make you feel guilty if you skip something. Last week, I missed drama rehearsal because I had a doctor’s appointment, and the director kept asking me, “Do you even care about the play?” Maybe the solution isn’t “cut all clubs”—but just limit how many events each club can have? Like, each club can only have one meeting a week and one event a month. That way, we can still enjoy clubs without feeling swamped. I’d actually be more engaged if I didn’t have to rush to five things a week. Hmm, that’s a good point. I don’t want to lose the photography club’s field trips, but I get that some people are overwhelmed. Maybe the school could let students “opt in” to events instead of making them mandatory? Like, if the drama club has a set-building day, it’s optional—you can go if you have time, but you won’t get in trouble if you don’t. That way, everyone gets to choose what works for them. That sounds fair! I just don’t want to have to quit the drama club because it’s taking over my life. If they did rehearsals twice a week instead of four, I could balance acting and studying.",
+      "sample": "Three students debate whether the school should reduce club activities. Speaker 1 supports cutting clubs, exhausted by back-to-back meetings and competitions plus college-application pressure to stay committed even when overwhelmed. Speaker 2 disagrees, valuing clubs like photography for unique hands-on learning and social opportunities they wouldn't otherwise get, especially for shy students who make friends through low-pressure clubs like book club. Speaker 3 agrees clubs aren't inherently bad but says there are too many, demanding excessive time, citing dropped grades from drama rehearsals and guilt from leaders when missing sessions. They ultimately reach a compromise: rather than cutting clubs outright, limit each club to one meeting a week and one event a month, and make non-essential events optional so students can opt in without penalty, letting everyone balance interests, workload, and academics without losing valued opportunities.",
+      "source": "edknot.com",
+      "word_count": 472
+    },
+    {
+      "id": "sgd-ek-08",
+      "topic": "PE Test Requirement Debate",
+      "narration": "Three students are walking to the gym for their PE class, discussing whether the school should cancel the PE proficiency test as a graduation requirement.",
+      "turns": [
+        {
+          "speaker": "Speaker 1",
+          "text": "Ugh, I’m so stressed about the upcoming 1000-meter run test! No matter how much I practice, I can never meet the passing standard. Why should I risk not graduating just because I’m not good at running?"
+        },
+        {
+          "speaker": "Speaker 2",
+          "text": "I totally agree! I have a knee injury from last year’s basketball game, and even walking for a long time hurts, let alone running or doing pull-ups. If it’s no longer a graduation requirement, students with injuries or physical limitations won’t have to worry about their academic future being affected by something they can’t control."
+        },
+        {
+          "speaker": "Speaker 3",
+          "text": "Wait, hold on—I don’t think canceling the PE proficiency test is a good idea. PE class is supposed to encourage us to stay active, and the test is a way to make sure we’re keeping up with basic fitness. Without it, a lot of students would just skip PE and become less healthy, which isn’t good for our long-term well-being."
+        },
+        {
+          "speaker": "Speaker 1",
+          "text": "But the test doesn’t encourage fitness—it just makes people anxious! I have a friend who starved herself for a week before the weight and BMI test because she was scared of failing. That way, we stay active without the stress of passing a strict test."
+        },
+        {
+          "speaker": "Speaker 2",
+          "text": "Yeah, and not everyone is good at traditional sports like running or swimming. I love dancing, and I practice it every weekend, but the PE test doesn’t count that as fitness. Also, the test only checks one moment of fitness, not our overall lifestyle—what’s the point of that?"
+        },
+        {
+          "speaker": "Speaker 3",
+          "text": "But basic fitness is important for everyone, even if you don’t like sports. Being able to run a short distance or do a few push-ups helps with daily life—like carrying heavy books or walking up stairs. And if the school makes exceptions for students with injuries, like letting them do modified exercises, then the test can still work without being unfair."
+        },
+        {
+          "speaker": "Speaker 1",
+          "text": "Hmm, I get what you’re saying about basic fitness, but exceptions are hard to get. Maybe the school could replace the proficiency test with a “fitness portfolio”—we track our own physical activities over the semester, like how many times we work out, and get credit for consistency instead of a single test."
+        },
+        {
+          "speaker": "Speaker 2",
+          "text": "That’s a great idea! A fitness portfolio would let us choose what activities we like, and it focuses on effort instead of results. Also, it teaches us to be responsible for our own fitness, which is a better lesson than just passing a test."
+        },
+        {
+          "speaker": "Speaker 3",
+          "text": "Okay, that does sound more reasonable than just canceling the test entirely. The school could ask us to submit photos or videos of our workouts, or have PE teachers check in with us regularly. If they do that, then the portfolio could work as a fair replacement."
+        }
+      ],
+      "text": "Ugh, I’m so stressed about the upcoming 1000-meter run test! No matter how much I practice, I can never meet the passing standard. Why should I risk not graduating just because I’m not good at running? I totally agree! I have a knee injury from last year’s basketball game, and even walking for a long time hurts, let alone running or doing pull-ups. If it’s no longer a graduation requirement, students with injuries or physical limitations won’t have to worry about their academic future being affected by something they can’t control. Wait, hold on—I don’t think canceling the PE proficiency test is a good idea. PE class is supposed to encourage us to stay active, and the test is a way to make sure we’re keeping up with basic fitness. Without it, a lot of students would just skip PE and become less healthy, which isn’t good for our long-term well-being. But the test doesn’t encourage fitness—it just makes people anxious! I have a friend who starved herself for a week before the weight and BMI test because she was scared of failing. That way, we stay active without the stress of passing a strict test. Yeah, and not everyone is good at traditional sports like running or swimming. I love dancing, and I practice it every weekend, but the PE test doesn’t count that as fitness. Also, the test only checks one moment of fitness, not our overall lifestyle—what’s the point of that? But basic fitness is important for everyone, even if you don’t like sports. Being able to run a short distance or do a few push-ups helps with daily life—like carrying heavy books or walking up stairs. And if the school makes exceptions for students with injuries, like letting them do modified exercises, then the test can still work without being unfair. Hmm, I get what you’re saying about basic fitness, but exceptions are hard to get. Maybe the school could replace the proficiency test with a “fitness portfolio”—we track our own physical activities over the semester, like how many times we work out, and get credit for consistency instead of a single test. That’s a great idea! A fitness portfolio would let us choose what activities we like, and it focuses on effort instead of results. Also, it teaches us to be responsible for our own fitness, which is a better lesson than just passing a test. Okay, that does sound more reasonable than just canceling the test entirely. The school could ask us to submit photos or videos of our workouts, or have PE teachers check in with us regularly. If they do that, then the portfolio could work as a fair replacement.",
+      "sample": "Three students debate whether the school should scrap its PE proficiency test as a graduation requirement. The first student wants it gone, since no amount of practice lets them meet the running standard, questioning why that should risk graduation. The second student agrees, citing a basketball knee injury that makes even walking painful, arguing students with physical limitations shouldn't have their future decided by something beyond their control. The third student opposes cancelling it, arguing the test guarantees baseline fitness and that without it many students would stop exercising. The first student counters that the test breeds anxiety rather than fitness, recalling a friend who starved herself before a weight test for fear of failing. The second student adds the test ignores non-traditional fitness, like the dancing they practise weekly, and only captures one moment rather than overall lifestyle. The third student still values basic fitness for daily tasks but agrees injury exceptions could make it fairer. The first student proposes a semester-long fitness portfolio rewarding consistency instead, accepted by all three if verified through photos, videos, or teacher check-ins.",
+      "source": "edknot.com",
+      "word_count": 448
+    },
+    {
+      "id": "sgd-ek-09",
+      "topic": "Oral Presentation Preparation",
+      "narration": "Three students are discussing preparing for an oral presentation at university.",
+      "turns": [
+        {
+          "speaker": "Speaker 1",
+          "text": "Okay, so we're all set for our presentation next week, right? I'm feeling a bit overwhelmed, to be honest. I’ve started drafting my slides, but I’m not sure if I’m focusing on the right things, you know? I'm also worried about the time limit; it’s tough to get everything into just ten minutes. Has anyone got any tips for, like, how to structure it well?"
+        },
+        {
+          "speaker": "Speaker 2",
+          "text": "Definitely! I think the key thing is to start with a really good opening that grabs everyone's attention. Then, break your main points down into smaller chunks, easier to handle. Don't try to put too much stuff on each slide. I think using visuals, like graphs or images, really helps keep people interested. And the most important thing is practice, practice! You don't want to be, like, stumbling over your words on the day."
+        },
+        {
+          "speaker": "Speaker 3",
+          "text": "I agree with Liam about practicing for sure. I usually record myself giving the presentation, and then I watch it back to see where I can make it better. It’s awful, but it really does help! For the content, I think it's good to start by outlining your main arguments, even before you make the slides. What’s the main thing you're trying to say? It's easy to get lost in the details, but that'll help you stay on track."
+        },
+        {
+          "speaker": "Speaker 1",
+          "text": "That’s a really good idea, Laura, about doing the outline first. I usually just jump right into the details and then I have trouble making it all make sense together. I'm also a bit nervous about the Q&A part afterwards. What if I don’t know an answer? Any ideas on how to get ready for that?"
+        },
+        {
+          "speaker": "Speaker 2",
+          "text": "The Q&A is tricky, but you can get ready! Think about the questions people might ask and have some answers ready, even if they're just rough. It’s also okay to say you don’t know, but you’ll find out. Being honest is always best. Just try to, like, engage with them and show that you're thinking about the topic. Don't freak out if you get stuck; it happens to everyone!"
+        },
+        {
+          "speaker": "Speaker 3",
+          "text": "I actually think the Q&A is the most fun! It's a chance to really talk with the audience and show how much you care about the topic. Going along with what Liam said, it's totally fine to say, 'That's a great question, but I don't really have a good answer right now.' You could even ask the audience what they think. It's a conversation, not, like, a test!"
+        },
+        {
+          "speaker": "Speaker 1",
+          "text": "Okay, I feel a bit better now. Thanks, you two! I think I’ll try to make a really good outline and practice how I'm going to say it. I'll also try to think of some questions they might ask, but I won't worry about it too much. I guess the main thing is to be ready, but also be able to change if I need to and, you know, enjoy it. That's easier said than done, though!"
+        },
+        {
+          "speaker": "Speaker 2",
+          "text": "You've got this, Sarah! We're all in the same boat. Just remember to breathe and try to have fun. It's a great chance to share what you know and get some feedback. Plus, giving presentations is a really good skill to have for jobs later, so think of it as practice for after university!"
+        },
+        {
+          "speaker": "Speaker 3",
+          "text": "Exactly! And don't be afraid to ask for help if you need it. We can all practice our presentations together and, like, give each other feedback. It's much easier when you know people are there for you. Let’s try to meet up again before the presentation to go over everything one last time."
+        }
+      ],
+      "text": "Okay, so we're all set for our presentation next week, right? I'm feeling a bit overwhelmed, to be honest. I’ve started drafting my slides, but I’m not sure if I’m focusing on the right things, you know? I'm also worried about the time limit; it’s tough to get everything into just ten minutes. Has anyone got any tips for, like, how to structure it well? Definitely! I think the key thing is to start with a really good opening that grabs everyone's attention. Then, break your main points down into smaller chunks, easier to handle. Don't try to put too much stuff on each slide. I think using visuals, like graphs or images, really helps keep people interested. And the most important thing is practice, practice! You don't want to be, like, stumbling over your words on the day. I agree with Liam about practicing for sure. I usually record myself giving the presentation, and then I watch it back to see where I can make it better. It’s awful, but it really does help! For the content, I think it's good to start by outlining your main arguments, even before you make the slides. What’s the main thing you're trying to say? It's easy to get lost in the details, but that'll help you stay on track. That’s a really good idea, Laura, about doing the outline first. I usually just jump right into the details and then I have trouble making it all make sense together. I'm also a bit nervous about the Q&A part afterwards. What if I don’t know an answer? Any ideas on how to get ready for that? The Q&A is tricky, but you can get ready! Think about the questions people might ask and have some answers ready, even if they're just rough. It’s also okay to say you don’t know, but you’ll find out. Being honest is always best. Just try to, like, engage with them and show that you're thinking about the topic. Don't freak out if you get stuck; it happens to everyone! I actually think the Q&A is the most fun! It's a chance to really talk with the audience and show how much you care about the topic. Going along with what Liam said, it's totally fine to say, 'That's a great question, but I don't really have a good answer right now.' You could even ask the audience what they think. It's a conversation, not, like, a test! Okay, I feel a bit better now. Thanks, you two! I think I’ll try to make a really good outline and practice how I'm going to say it. I'll also try to think of some questions they might ask, but I won't worry about it too much. I guess the main thing is to be ready, but also be able to change if I need to and, you know, enjoy it. That's easier said than done, though! You've got this, Sarah! We're all in the same boat. Just remember to breathe and try to have fun. It's a great chance to share what you know and get some feedback. Plus, giving presentations is a really good skill to have for jobs later, so think of it as practice for after university! Exactly! And don't be afraid to ask for help if you need it. We can all practice our presentations together and, like, give each other feedback. It's much easier when you know people are there for you. Let’s try to meet up again before the presentation to go over everything one last time.",
+      "sample": "Three students discuss preparing for an upcoming oral presentation. The first student feels overwhelmed, unsure the slides are focused on the right things and worried about fitting everything into the ten-minute limit, plus nervous about the question-and-answer session afterward. The second student advises opening strongly to grab attention, breaking points into manageable chunks, keeping slides light, using visuals, and practising repeatedly. The third student agrees practice is essential, recommends recording oneself presenting and reviewing it, and suggests outlining the main argument before building slides so the talk doesn't get lost in details. For the Q&A, the second student suggests anticipating likely questions and preparing rough answers while staying honest if unsure, and the third calls the Q&A the fun part, saying it's fine to admit not knowing and even ask the audience their view, since it's a conversation rather than a test. Reassured, the first student plans to outline, practise, and anticipate questions, and all three agree to rehearse together and exchange feedback before the presentation.",
+      "source": "edknot.com",
+      "word_count": 595
+    },
+    {
+      "id": "sgd-ek-10",
+      "topic": "University Life Expectations",
+      "narration": "Three students are discussing impressions of university life compared to expectations at university.",
+      "turns": [
+        {
+          "speaker": "Speaker 1",
+          "text": "Honestly, I thought uni would be a bit more like those movies, you know? Like, less studying, more just, like, having fun. The amount of work for my science and tech classes has been way harder than I thought, especially with all the lab reports and homework due every week. It's definitely a big change from high school."
+        },
+        {
+          "speaker": "Speaker 2",
+          "text": "I totally get that, Lily. The studies here really surprised me too, especially trying to manage lectures and all the reading. But on the other hand, I've found the social life to be way better than I expected. I've joined a couple of clubs and met so many different people. It's a really great community, much more welcoming than I thought it would be."
+        },
+        {
+          "speaker": "Speaker 3",
+          "text": "Yeah, the social side has been a nice surprise for me too. But I actually thought I'd have more freedom to choose my classes and learn at my own speed. It feels like there are still so many required classes and set schedules, which kind of limits that independent way of studying I was hoping for. I thought I'd be able to guide myself more."
+        },
+        {
+          "speaker": "Speaker 1",
+          "text": "That's a good point, Jessica. I mean, sure, we have more flexibility than high school, but it's not quite the 'make your own degree' dream I imagined. Plus, I find it hard to get enough sleep because there's always something due or some event I feel like I should be at. It's like I'm always trying to balance everything."
+        },
+        {
+          "speaker": "Speaker 2",
+          "text": "I actually think there's a lot of freedom, even with the main classes. You get to choose how you manage your time and what study methods work best for you, which is a huge step up from being told what to do all the time. For me, that independence in daily life, like cooking for myself and budgeting, has been the biggest thing I've learned, and something I really enjoy."
+        },
+        {
+          "speaker": "Speaker 3",
+          "text": "I agree with the daily life independence, that's definitely true. But when it comes to studying, I just feel like I'm still following a set path instead of just exploring what I'm interested in naturally. I guess I had this dream of really getting into unique subjects. But the basic classes feel a bit too much like high school extensions sometimes."
+        },
+        {
+          "speaker": "Speaker 1",
+          "text": "Right? It's like the difference between what they tell you about uni and what it's actually like every day is bigger than I thought. I imagined having endless deep talks in coffee shops, not late nights in the library with instant noodles. Still, I wouldn't change the experience; it's just very different."
+        },
+        {
+          "speaker": "Speaker 2",
+          "text": "Yeah, it's definitely not a non-stop party, but the challenge of the school work is actually pretty rewarding when you do well on a tough assignment. And while the social life isn't always like a sitcom, the real connections you make here feel a lot more real and supportive. I've found a good balance, eventually."
+        },
+        {
+          "speaker": "Speaker 3",
+          "text": "I think that's it – it's about adjusting what you expect and finding your own flow. It's less about the big, sudden changes I thought would happen, and more about growing as a person in small ways, and learning to handle more responsibility. I'm definitely learning a lot, just not always what I expected."
+        }
+      ],
+      "text": "Honestly, I thought uni would be a bit more like those movies, you know? Like, less studying, more just, like, having fun. The amount of work for my science and tech classes has been way harder than I thought, especially with all the lab reports and homework due every week. It's definitely a big change from high school. I totally get that, Lily. The studies here really surprised me too, especially trying to manage lectures and all the reading. But on the other hand, I've found the social life to be way better than I expected. I've joined a couple of clubs and met so many different people. It's a really great community, much more welcoming than I thought it would be. Yeah, the social side has been a nice surprise for me too. But I actually thought I'd have more freedom to choose my classes and learn at my own speed. It feels like there are still so many required classes and set schedules, which kind of limits that independent way of studying I was hoping for. I thought I'd be able to guide myself more. That's a good point, Jessica. I mean, sure, we have more flexibility than high school, but it's not quite the 'make your own degree' dream I imagined. Plus, I find it hard to get enough sleep because there's always something due or some event I feel like I should be at. It's like I'm always trying to balance everything. I actually think there's a lot of freedom, even with the main classes. You get to choose how you manage your time and what study methods work best for you, which is a huge step up from being told what to do all the time. For me, that independence in daily life, like cooking for myself and budgeting, has been the biggest thing I've learned, and something I really enjoy. I agree with the daily life independence, that's definitely true. But when it comes to studying, I just feel like I'm still following a set path instead of just exploring what I'm interested in naturally. I guess I had this dream of really getting into unique subjects. But the basic classes feel a bit too much like high school extensions sometimes. Right? It's like the difference between what they tell you about uni and what it's actually like every day is bigger than I thought. I imagined having endless deep talks in coffee shops, not late nights in the library with instant noodles. Still, I wouldn't change the experience; it's just very different. Yeah, it's definitely not a non-stop party, but the challenge of the school work is actually pretty rewarding when you do well on a tough assignment. And while the social life isn't always like a sitcom, the real connections you make here feel a lot more real and supportive. I've found a good balance, eventually. I think that's it – it's about adjusting what you expect and finding your own flow. It's less about the big, sudden changes I thought would happen, and more about growing as a person in small ways, and learning to handle more responsibility. I'm definitely learning a lot, just not always what I expected.",
+      "sample": "Three students compare their university experience with what they expected. The first student thought college would resemble the movies, with less studying, but finds the science and technology workload, including weekly labs and homework, far heavier than high school. The second student was also surprised by the academic demands but says the social side exceeded expectations, having joined clubs and found a welcoming community. The third student expected more freedom to choose classes and learn independently but instead finds required courses and fixed schedules restrictive. The first student agrees the flexibility isn't the self-designed degree they imagined and struggles to sleep amid constant deadlines and events. The second student counters that real freedom lies in managing one's own time and study methods, valuing the independence of cooking and budgeting for themselves. The third student agrees daily-life independence is real but still feels boxed into a set academic path rather than exploring interests freely. All three conclude that university differs from their expectations, but each is adjusting and growing gradually rather than facing the dramatic change they imagined.",
+      "source": "edknot.com",
+      "word_count": 538
+    },
+    {
+      "id": "sgd-ek-11",
+      "topic": "Phones In Class Debate",
+      "narration": "Three students are sitting on the school lawn during break, talking about whether students should be allowed to bring phones to class.",
+      "turns": [
+        {
+          "speaker": "Speaker 1",
+          "text": "Guys, did you hear Mr. Wang say some teachers want to ban phones in class? I totally disagree with that! Phones can be super useful for learning. Last week, when we were talking about rainforests in biology, I quickly looked up a video of Amazon wildlife on my phone and showed the whole group—it made the lesson way more interesting than just reading the textbook."
+        },
+        {
+          "speaker": "Speaker 2",
+          "text": "Are you serious? Phones are such a distraction! I sit next to Lily, and she’s always scrolling through social media under her desk during math class. Last week, she even missed the teacher’s explanation of the key formula, and then she had to ask me for help after class. If phones are allowed, most students won’t use them for learning—they’ll just use them to chat or play games."
+        },
+        {
+          "speaker": "Speaker 3",
+          "text": "I get where both of you are coming from, but honestly, I think we should ban phones in class too. It’s not just about distraction for the person using the phone—it’s for everyone else. Last Tuesday, someone’s phone rang during history class, and the whole room turned to look. The teacher had to stop talking for five minutes to calm everyone down. That breaks the flow of the lesson, and it’s unfair to the students who are trying to focus."
+        },
+        {
+          "speaker": "Speaker 1",
+          "text": "But you can put phones in silence! My teacher has us keep phones in bags on silent, only taking them out for learning—like looking up definitions or app quizzes. Last month, we used a literature quiz app that was way more fun than paper."
+        },
+        {
+          "speaker": "Speaker 2",
+          "text": "Even on silent, people get tempted! I’ve seen students sneak texts under desks, even with the teacher nearby. Important messages from parents can wait for break—class time is for listening, not checking phones."
+        },
+        {
+          "speaker": "Speaker 3",
+          "text": "Speaker1, I know phones have good uses, but let’s be real—most students aren’t responsible enough. My little brother’s class tried the \"silent phone in bag\" rule, but half used phones secretly. The teacher had to ban them to keep class organized."
+        },
+        {
+          "speaker": "Speaker 1",
+          "text": "Hmm, maybe some students aren’t responsible. But why punish those who are? Maybe teachers could collect phones at the start and give them back at the end—keeping distractions away while letting responsible students use phones for learning."
+        },
+        {
+          "speaker": "Speaker 2",
+          "text": "That’s a good idea! My cousin’s school uses a front-of-class phone box. If someone needs a phone for a lesson, the teacher gives it temporarily, and their class average went up last year."
+        },
+        {
+          "speaker": "Speaker 3",
+          "text": "Yeah, that makes sense! Collecting phones keeps distractions away but lets us use them when needed. We should suggest this to our class teacher—she’s always asking for ways to improve class."
+        }
+      ],
+      "text": "Guys, did you hear Mr. Wang say some teachers want to ban phones in class? I totally disagree with that! Phones can be super useful for learning. Last week, when we were talking about rainforests in biology, I quickly looked up a video of Amazon wildlife on my phone and showed the whole group—it made the lesson way more interesting than just reading the textbook. Are you serious? Phones are such a distraction! I sit next to Lily, and she’s always scrolling through social media under her desk during math class. Last week, she even missed the teacher’s explanation of the key formula, and then she had to ask me for help after class. If phones are allowed, most students won’t use them for learning—they’ll just use them to chat or play games. I get where both of you are coming from, but honestly, I think we should ban phones in class too. It’s not just about distraction for the person using the phone—it’s for everyone else. Last Tuesday, someone’s phone rang during history class, and the whole room turned to look. The teacher had to stop talking for five minutes to calm everyone down. That breaks the flow of the lesson, and it’s unfair to the students who are trying to focus. But you can put phones in silence! My teacher has us keep phones in bags on silent, only taking them out for learning—like looking up definitions or app quizzes. Last month, we used a literature quiz app that was way more fun than paper. Even on silent, people get tempted! I’ve seen students sneak texts under desks, even with the teacher nearby. Important messages from parents can wait for break—class time is for listening, not checking phones. Speaker1, I know phones have good uses, but let’s be real—most students aren’t responsible enough. My little brother’s class tried the \"silent phone in bag\" rule, but half used phones secretly. The teacher had to ban them to keep class organized. Hmm, maybe some students aren’t responsible. But why punish those who are? Maybe teachers could collect phones at the start and give them back at the end—keeping distractions away while letting responsible students use phones for learning. That’s a good idea! My cousin’s school uses a front-of-class phone box. If someone needs a phone for a lesson, the teacher gives it temporarily, and their class average went up last year. Yeah, that makes sense! Collecting phones keeps distractions away but lets us use them when needed. We should suggest this to our class teacher—she’s always asking for ways to improve class.",
+      "sample": "Three students debate whether phones should be allowed in class. The first opposes any ban, recalling how a video of Amazon wildlife during biology made the lesson far more engaging than the textbook alone. The second supports banning them, describing a classmate who constantly scrolls social media during math, misses key formula explanations, and needs help afterward, arguing most students would misuse the privilege. The third also favors a ban, focusing on how one ringing phone during history forced the teacher to pause for five minutes, disrupting everyone, not just the owner. The first suggests phones stay silent and only come out for specific tasks, like a literature quiz app his class used successfully. The second counters that even silent phones tempt secret texting, and urgent messages can wait until break. The third notes a similar rule failed in his brother's class because students still misused it. The first proposes teachers collect phones at the start of class and return them at the end, an idea the others embrace, and they agree to suggest it to their teacher.",
+      "source": "edknot.com",
+      "word_count": 432
+    },
+    {
+      "id": "sgd-ek-12",
+      "topic": "Laptop Ban in Lectures Debate",
+      "narration": "Three students are sitting on the grass outside the lecture hall, debating whether professors should ban laptops in class.",
+      "turns": [
+        {
+          "speaker": "Speaker 1",
+          "text": "I just heard that Professor Chen is thinking of banning laptops in his history lectures. He says students get distracted and don't pay attention. I actually agree with him. Last week, I sat next to a guy who was watching a basketball game during the lecture. It's so distracting for everyone around."
+        },
+        {
+          "speaker": "Speaker 2",
+          "text": "But I rely on my laptop for note-taking. I type faster than I write, and my handwriting is terrible. Plus, I can organize my notes digitally and search them later. A ban would hurt my learning."
+        },
+        {
+          "speaker": "Speaker 3",
+          "text": "I'm somewhere in the middle. I think laptops can be useful, but they also tempt us to multitask. Maybe instead of a total ban, professors could have a 'laptop-free zone' at the front of the lecture hall, so students who want to focus without screens can sit there."
+        },
+        {
+          "speaker": "Speaker 1",
+          "text": "That's a good compromise. But I still think many students would benefit from putting the laptop away. Studies show that handwritten notes help with memory and understanding. When you type, you tend to transcribe verbatim without processing the information."
+        },
+        {
+          "speaker": "Speaker 2",
+          "text": "I've heard that too, but it depends on the person. I actually summarize and paraphrase as I type. It's not just mindless copying. And for students with disabilities, laptops are essential."
+        },
+        {
+          "speaker": "Speaker 3",
+          "text": "Right, accessibility is important. So a blanket ban wouldn't be fair. Perhaps professors could encourage active note-taking strategies rather than banning devices. They could share outlines before class so students don't feel the need to write everything down."
+        },
+        {
+          "speaker": "Speaker 1",
+          "text": "That could work. And they could use more interactive activities like group discussions or quick quizzes to keep everyone engaged, whether they have a laptop or not."
+        },
+        {
+          "speaker": "Speaker 2",
+          "text": "I'd be okay with that. As long as I can use my laptop when I need it, and the professor makes the class engaging enough that I won't want to check social media."
+        },
+        {
+          "speaker": "Speaker 3",
+          "text": "So we agree: no total ban, but better classroom management and optional screen-free zones. Let's suggest that to the department."
+        },
+        {
+          "speaker": "Speaker 1",
+          "text": "I think we should also consider that some professors might worry about students using laptops for non-academic purposes during exams or quizzes if they are allowed to keep them open."
+        },
+        {
+          "speaker": "Speaker 2",
+          "text": "That's a valid concern, but most exams are already paper-based or proctored online, so it's not a huge issue."
+        },
+        {
+          "speaker": "Speaker 3",
+          "text": "True, and we could propose that professors set clear expectations at the start of each class about when laptop use is appropriate and when it isn't."
+        },
+        {
+          "speaker": "Speaker 1",
+          "text": "Good idea. That way, students know the rules and can't claim ignorance."
+        },
+        {
+          "speaker": "Speaker 2",
+          "text": "Exactly. Clear policies and engaging lectures are the key, not an outright ban."
+        }
+      ],
+      "text": "I just heard that Professor Chen is thinking of banning laptops in his history lectures. He says students get distracted and don't pay attention. I actually agree with him. Last week, I sat next to a guy who was watching a basketball game during the lecture. It's so distracting for everyone around. But I rely on my laptop for note-taking. I type faster than I write, and my handwriting is terrible. Plus, I can organize my notes digitally and search them later. A ban would hurt my learning. I'm somewhere in the middle. I think laptops can be useful, but they also tempt us to multitask. Maybe instead of a total ban, professors could have a 'laptop-free zone' at the front of the lecture hall, so students who want to focus without screens can sit there. That's a good compromise. But I still think many students would benefit from putting the laptop away. Studies show that handwritten notes help with memory and understanding. When you type, you tend to transcribe verbatim without processing the information. I've heard that too, but it depends on the person. I actually summarize and paraphrase as I type. It's not just mindless copying. And for students with disabilities, laptops are essential. Right, accessibility is important. So a blanket ban wouldn't be fair. Perhaps professors could encourage active note-taking strategies rather than banning devices. They could share outlines before class so students don't feel the need to write everything down. That could work. And they could use more interactive activities like group discussions or quick quizzes to keep everyone engaged, whether they have a laptop or not. I'd be okay with that. As long as I can use my laptop when I need it, and the professor makes the class engaging enough that I won't want to check social media. So we agree: no total ban, but better classroom management and optional screen-free zones. Let's suggest that to the department. I think we should also consider that some professors might worry about students using laptops for non-academic purposes during exams or quizzes if they are allowed to keep them open. That's a valid concern, but most exams are already paper-based or proctored online, so it's not a huge issue. True, and we could propose that professors set clear expectations at the start of each class about when laptop use is appropriate and when it isn't. Good idea. That way, students know the rules and can't claim ignorance. Exactly. Clear policies and engaging lectures are the key, not an outright ban.",
+      "sample": "Three students debate whether professors should ban laptops in lectures. The first student supports a ban, citing a classmate who was watching a basketball game in class and studies showing handwritten notes aid memory because typing tends toward mindless verbatim transcription; they later flag laptops as an exam-integrity risk too. The second student opposes a ban, explaining that typing is faster than their poor handwriting and lets them search organized notes, that they actively summarize rather than copy verbatim, that laptops are essential for students with disabilities, and that exams are already mostly paper-based or proctored, so misuse isn't a real problem. The third student proposes a middle path: instead of a total ban, create an optional laptop-free zone at the front of the hall, have professors share outlines beforehand and encourage active note-taking, and set clear expectations about when laptop use is appropriate. All three ultimately agree: no outright ban, but a screen-free zone, more interactive teaching like discussions and quizzes, and clear classroom policies instead.",
+      "source": "edknot.com",
+      "word_count": 424
+    },
+    {
+      "id": "sgd-pt-01",
+      "topic": "Challenges of University Life",
+      "narration": "You will hear three people having a discussion about the challenges of university life.",
+      "turns": [
+        {
+          "speaker": "Speaker 1",
+          "text": "There are a lot of challenges for us at university. It’s not just doing well in the courses; we have to be able to balance the academic work with a personal life and also find time to join some extracurricular activities. I mean I don’t want my years at university to be only studying and writing papers."
+        },
+        {
+          "speaker": "Speaker 2",
+          "text": "I know. There’s just so much to do. I have to get to the lectures, do all the readings and assignments, complete several projects and get ready for exams. I hardly have time to breathe."
+        },
+        {
+          "speaker": "Speaker 3",
+          "text": "You know, it’s true. My biggest challenge since I started university is managing my time. I can’t seem to get myself organized and I always feel stressed and exhausted and the worst thing is that I just seem to get organized and the term ends and I have to get used to a whole new schedule."
+        },
+        {
+          "speaker": "Speaker 1",
+          "text": "I agree. That is really difficult. Each course has its own schedule, deadlines and requirements. It’s so difficult to create a consistent routine so I can allocate my time effectively and everything seems to take longer than I thought."
+        },
+        {
+          "speaker": "Speaker 2",
+          "text": "The worst part is that I often procrastinate and put off tasks until the last minute. I think to myself, oh I have lots of time for that. I have a whole week before it’s due. Then all of a sudden, the due date is in two days and I’m rushed and don’t do a very good job. S1 = Speaker 1, S2 = Speaker 2, S3 = Speaker 3 Please continue transcript on following page."
+        },
+        {
+          "speaker": "Speaker 3",
+          "text": "That’s happened to me so many times. The deadlines are weeks or months away and I have trouble with long-term planning. It’s hard to plan so far ahead but you have to or you end up rushed. The problem is that you have to learn to multi-task and I was never very good at that. I like to finish one project and start on another. But that’s impossible when all the projects and essays are due at the same time at the end of the term. You really have to be able to multi-task at university. You have to be able to jump from one topic to another and one type of assignment to another."
+        },
+        {
+          "speaker": "Speaker 1",
+          "text": "Then, just when you think everything’s under control, the computer crashes!"
+        },
+        {
+          "speaker": "Speaker 2",
+          "text": "If I could manage my time better, I probably wouldn’t be so stressed and exhausted. I’ve never had to discipline myself like this before. In high school, the teachers told you what to do and when to do it. If you just did what they said, you were fine. But in university, it’s up to you to prioritize what tasks are the most important and should be done first. It seems I spend too much time on less important tasks because I like them or they are easier. Then I don’t have time for the more important ones."
+        },
+        {
+          "speaker": "Speaker 3",
+          "text": "I guess not managing your time effectively means that you end up working more than you really need to and you feel so tired and sort of burnt out. I think the university offers a seminar on time management. Maybe we should all go. S1 = Speaker 1, S2 = Speaker 2, S3 = Speaker 3"
+        }
+      ],
+      "text": "There are a lot of challenges for us at university. It’s not just doing well in the courses; we have to be able to balance the academic work with a personal life and also find time to join some extracurricular activities. I mean I don’t want my years at university to be only studying and writing papers. I know. There’s just so much to do. I have to get to the lectures, do all the readings and assignments, complete several projects and get ready for exams. I hardly have time to breathe. You know, it’s true. My biggest challenge since I started university is managing my time. I can’t seem to get myself organized and I always feel stressed and exhausted and the worst thing is that I just seem to get organized and the term ends and I have to get used to a whole new schedule. I agree. That is really difficult. Each course has its own schedule, deadlines and requirements. It’s so difficult to create a consistent routine so I can allocate my time effectively and everything seems to take longer than I thought. The worst part is that I often procrastinate and put off tasks until the last minute. I think to myself, oh I have lots of time for that. I have a whole week before it’s due. Then all of a sudden, the due date is in two days and I’m rushed and don’t do a very good job. S1 = Speaker 1, S2 = Speaker 2, S3 = Speaker 3 Please continue transcript on following page. That’s happened to me so many times. The deadlines are weeks or months away and I have trouble with long-term planning. It’s hard to plan so far ahead but you have to or you end up rushed. The problem is that you have to learn to multi-task and I was never very good at that. I like to finish one project and start on another. But that’s impossible when all the projects and essays are due at the same time at the end of the term. You really have to be able to multi-task at university. You have to be able to jump from one topic to another and one type of assignment to another. Then, just when you think everything’s under control, the computer crashes! If I could manage my time better, I probably wouldn’t be so stressed and exhausted. I’ve never had to discipline myself like this before. In high school, the teachers told you what to do and when to do it. If you just did what they said, you were fine. But in university, it’s up to you to prioritize what tasks are the most important and should be done first. It seems I spend too much time on less important tasks because I like them or they are easier. Then I don’t have time for the more important ones. I guess not managing your time effectively means that you end up working more than you really need to and you feel so tired and sort of burnt out. I think the university offers a seminar on time management. Maybe we should all go. S1 = Speaker 1, S2 = Speaker 2, S3 = Speaker 3",
+      "sample": "The students in the conversation agree that their biggest challenge at university is managing their time. They feel overwhelmed by the many tasks they have to complete, and with each new term bringing a different schedule, it's difficult to stay organized. One student mentions struggling to establish a consistent routine for tackling his assignments, adding that technical issues, like computer freezing make things even worse. He also talks about procrastinating. The second student points out that self-discipline is a challenge; in primary school, teachers told him what to do and when to do it, but now, he has to figure out how to prioritize tasks on his own. The third students shares that long-term planning is a major hurdle for her, and she finds it hard to juggle multiple tasks at once, a skill she feels she's not very good at. By the end of the conversation, they all agree that attending the university's time management seminar could help them improve their ability to manage their work more effectively.",
+      "source": "pearsonpte.com",
+      "word_count": 543
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+# project12-s1 — Superfícies de prática (S1)
+
+## Recorte (do PRD central §7.2)
+Shell comum de prática, QuestionRow, SectionPage + as 4 rotas de seção (/speaking /writing /reading /listening).
+
+## O quê
+- `PracticeShell`: shell comum dos 17 motores de prática — título do tipo, progresso da questão, instrução, ação principal, feedback consistente; substitui o `TopNav` que cada motor importa sozinho.
+- `SectionPage` (§7.2): header com identidade da seção (PageHeader + SectionIdentity), cards por task type com ícone/contagem/progresso, filtros ≥44px, empty state com CTA (EmptyState).
+- `QuestionRow`: linha densa e legível, ícone do tipo, estado novo/visto, prévia preservada (só PREVIEW_TYPES).
+- 4 rotas de seção apenas passam props; nada além do `section=`.
+- Área de microfone (MicNotice) e contagem de escrita sinalizadas melhor.
+
+## Como (restrição)
+- Nenhuma lógica de dados/stats/filtros muda (D5). Só apresentação.
+- Zero regressão: vitest/tsgo/build/lint/Playwright (390×844, axe, console) nas rotas tocadas.

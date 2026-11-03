@@ -1,0 +1,1156 @@
+[
+  {
+    "id": "goarno-lst_mcq_multi-01",
+    "taskType": "lst_mcq_multi",
+    "prompt": "Listen to the recording and select all the correct responses.",
+    "text": "For decades, the dominant strategy for many corporations was closed innovation. This approach assumed that a company must generate, develop, and market its own ideas to be successful. The focus was on hiring the best talent and keeping intellectual property strictly internal. However, there has been a significant shift toward open innovation. In this model, firms recognize that valuable knowledge exists outside their specific boundaries. Therefore, they might license patents from other companies or spin off their own unused technologies to external partners. This exchange allows organizations to share the risks associated with research and development. Furthermore, by integrating external expertise—whether from startups or universities—companies can often bring products to market much faster than if they relied solely on their own departments. While some worry about the loss of control, the potential for reduced costs and increased agility makes it an attractive strategy.",
+    "transcript": "For decades, the dominant strategy for many corporations was closed innovation. This approach assumed that a company must generate, develop, and market its own ideas to be successful. The focus was on hiring the best talent and keeping intellectual property strictly internal. However, there has been a significant shift toward open innovation. In this model, firms recognize that valuable knowledge exists outside their specific boundaries. Therefore, they might license patents from other companies or spin off their own unused technologies to external partners. This exchange allows organizations to share the risks associated with research and development. Furthermore, by integrating external expertise—whether from startups or universities—companies can often bring products to market much faster than if they relied solely on their own departments. While some worry about the loss of control, the potential for reduced costs and increased agility makes it an attractive strategy.",
+    "audio_text": "For decades, the dominant strategy for many corporations was closed innovation. This approach assumed that a company must generate, develop, and market its own ideas to be successful. The focus was on hiring the best talent and keeping intellectual property strictly internal. However, there has been a significant shift toward open innovation. In this model, firms recognize that valuable knowledge exists outside their specific boundaries. Therefore, they might license patents from other companies or spin off their own unused technologies to external partners. This exchange allows organizations to share the risks associated with research and development. Furthermore, by integrating external expertise—whether from startups or universities—companies can often bring products to market much faster than if they relied solely on their own departments. While some worry about the loss of control, the potential for reduced costs and increased agility makes it an attractive strategy.",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "It relies on the assumption that all the smartest employees work internally",
+      "It allows companies to monetize technologies they do not use themselves",
+      "It can shorten the timeframe needed to launch new products",
+      "It ensures that organizations maintain complete control over their brand",
+      "It eliminates the financial risks involved in developing new ideas"
+    ],
+    "answer": [
+      1,
+      2
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_mcq_multi-02",
+    "taskType": "lst_mcq_multi",
+    "prompt": "Listen to the recording and select all the correct responses.",
+    "text": "When we examine the evolution of photography, we must distinguish between the optical principle and the chemical process. The camera obscura, a device that projects an image onto a surface, was actually utilized by artists and astronomers for centuries before the first photograph was ever taken. However, the true revolutionary moment arrived in the 19th century when inventors like Nicéphore Niépce and Louis Daguerre discovered how to fix these images permanently onto a plate. Early drawbacks included agonizingly long exposure times, sometimes lasting hours, which made capturing moving subjects impossible. Nevertheless, this innovation fundamentally altered the purpose of painting, freeing artists from the strict necessity of realistic documentation.",
+    "transcript": "When we examine the evolution of photography, we must distinguish between the optical principle and the chemical process. The camera obscura, a device that projects an image onto a surface, was actually utilized by artists and astronomers for centuries before the first photograph was ever taken. However, the true revolutionary moment arrived in the 19th century when inventors like Nicéphore Niépce and Louis Daguerre discovered how to fix these images permanently onto a plate. Early drawbacks included agonizingly long exposure times, sometimes lasting hours, which made capturing moving subjects impossible. Nevertheless, this innovation fundamentally altered the purpose of painting, freeing artists from the strict necessity of realistic documentation.",
+    "audio_text": "When we examine the evolution of photography, we must distinguish between the optical principle and the chemical process. The camera obscura, a device that projects an image onto a surface, was actually utilized by artists and astronomers for centuries before the first photograph was ever taken. However, the true revolutionary moment arrived in the 19th century when inventors like Nicéphore Niépce and Louis Daguerre discovered how to fix these images permanently onto a plate. Early drawbacks included agonizingly long exposure times, sometimes lasting hours, which made capturing moving subjects impossible. Nevertheless, this innovation fundamentally altered the purpose of painting, freeing artists from the strict necessity of realistic documentation.",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "Optical devices were used by professionals long before permanent images were invented.",
+      "The introduction of photography completely replaced the practice of painting.",
+      "Early photographic processes required significant amounts of time to capture an image.",
+      "The camera obscura was first developed in the 19th century.",
+      "Capturing moving subjects was the primary focus of early photographers."
+    ],
+    "answer": [
+      0,
+      2
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_mcq_multi-03",
+    "taskType": "lst_mcq_multi",
+    "prompt": "Listen to the recording and select all the correct responses.",
+    "text": "Traditionally, large corporations relied heavily on what is known as 'closed innovation.' In this model, companies felt that to compete effectively, they had to generate their own ideas, develop them in secret laboratories, and strictly control their intellectual property. Success depended entirely on the brilliance of their internal staff. However, in today’s fast-paced digital economy, that approach is often too slow. We are seeing a significant shift toward 'open innovation,' where companies actively seek solutions from outside their walls—partnering with universities, startups, or independent inventors. This strategy not only spreads the risk of development but also drastically accelerates the time it takes to get a new product to market. Interestingly, the biggest barrier to adopting this model is often cultural rather than legal, as managers may struggle to value ideas that were not invented by their own teams.",
+    "transcript": "Traditionally, large corporations relied heavily on what is known as 'closed innovation.' In this model, companies felt that to compete effectively, they had to generate their own ideas, develop them in secret laboratories, and strictly control their intellectual property. Success depended entirely on the brilliance of their internal staff. However, in today’s fast-paced digital economy, that approach is often too slow. We are seeing a significant shift toward 'open innovation,' where companies actively seek solutions from outside their walls—partnering with universities, startups, or independent inventors. This strategy not only spreads the risk of development but also drastically accelerates the time it takes to get a new product to market. Interestingly, the biggest barrier to adopting this model is often cultural rather than legal, as managers may struggle to value ideas that were not invented by their own teams.",
+    "audio_text": "Traditionally, large corporations relied heavily on what is known as 'closed innovation.' In this model, companies felt that to compete effectively, they had to generate their own ideas, develop them in secret laboratories, and strictly control their intellectual property. Success depended entirely on the brilliance of their internal staff. However, in today’s fast-paced digital economy, that approach is often too slow. We are seeing a significant shift toward 'open innovation,' where companies actively seek solutions from outside their walls—partnering with universities, startups, or independent inventors. This strategy not only spreads the risk of development but also drastically accelerates the time it takes to get a new product to market. Interestingly, the biggest barrier to adopting this model is often cultural rather than legal, as managers may struggle to value ideas that were not invented by their own teams.",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "It allows companies to launch products more quickly.",
+      "It relies on maintaining strict secrecy around new ideas.",
+      "It involves collaborating with external partners like universities.",
+      "It is the traditional approach used by most large corporations.",
+      "It is primarily hindered by complex legal restrictions."
+    ],
+    "answer": [
+      0,
+      2
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_mcq_multi-04",
+    "taskType": "lst_mcq_multi",
+    "prompt": "Listen to the recording and select all the correct responses.",
+    "text": "When we look at monetary history, um, the gold standard really dominated the nineteenth century. Under this system, a country’s currency value was legally defined by a fixed quantity of gold. Now, proponents argued this constraint was actually beneficial because it, uh, disciplined governments. They couldn't just print money at will, which helped keep long-term inflation low. But there was a significant downside to this rigidity. During the Great Depression, for example, central banks were unable to expand the money supply to stimulate their struggling economies. This inability to act effectively deepened the recession for those who held onto gold, eventually forcing a global shift toward the flexible fiat systems we use today.",
+    "transcript": "When we look at monetary history, um, the gold standard really dominated the nineteenth century. Under this system, a country’s currency value was legally defined by a fixed quantity of gold. Now, proponents argued this constraint was actually beneficial because it, uh, disciplined governments. They couldn't just print money at will, which helped keep long-term inflation low. But there was a significant downside to this rigidity. During the Great Depression, for example, central banks were unable to expand the money supply to stimulate their struggling economies. This inability to act effectively deepened the recession for those who held onto gold, eventually forcing a global shift toward the flexible fiat systems we use today.",
+    "audio_text": "When we look at monetary history, um, the gold standard really dominated the nineteenth century. Under this system, a country’s currency value was legally defined by a fixed quantity of gold. Now, proponents argued this constraint was actually beneficial because it, uh, disciplined governments. They couldn't just print money at will, which helped keep long-term inflation low. But there was a significant downside to this rigidity. During the Great Depression, for example, central banks were unable to expand the money supply to stimulate their struggling economies. This inability to act effectively deepened the recession for those who held onto gold, eventually forcing a global shift toward the flexible fiat systems we use today.",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "It allowed central banks to intervene easily during economic downturns.",
+      "It restricted the ability of governments to generate new currency.",
+      "It was abandoned because it led to excessive long-term inflation.",
+      "It contributed to the severity of the Great Depression.",
+      "It remains the primary monetary system in use today."
+    ],
+    "answer": [
+      1,
+      3
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_mcq_multi-05",
+    "taskType": "lst_mcq_multi",
+    "prompt": "Listen to the recording and select all the correct responses.",
+    "text": "Now, when determining pricing strategies, firms really cannot rely on production costs alone; they must consider price elasticity of demand. This economic concept measures the responsiveness of consumers to price fluctuations. For products with high elasticity, such as luxury items or those with many market substitutes, a minor price increase can trigger a sharp decline in sales as buyers switch to alternatives. In contrast, demand for essential commodities like fuel is often inelastic. Consumers continue to purchase these necessities regardless of rising costs because there are few viable replacements. Therefore, understanding whether a product is elastic or inelastic is crucial for companies aiming to maximize their revenue rather than just cover expenses.",
+    "transcript": "Now, when determining pricing strategies, firms really cannot rely on production costs alone; they must consider price elasticity of demand. This economic concept measures the responsiveness of consumers to price fluctuations. For products with high elasticity, such as luxury items or those with many market substitutes, a minor price increase can trigger a sharp decline in sales as buyers switch to alternatives. In contrast, demand for essential commodities like fuel is often inelastic. Consumers continue to purchase these necessities regardless of rising costs because there are few viable replacements. Therefore, understanding whether a product is elastic or inelastic is crucial for companies aiming to maximize their revenue rather than just cover expenses.",
+    "audio_text": "Now, when determining pricing strategies, firms really cannot rely on production costs alone; they must consider price elasticity of demand. This economic concept measures the responsiveness of consumers to price fluctuations. For products with high elasticity, such as luxury items or those with many market substitutes, a minor price increase can trigger a sharp decline in sales as buyers switch to alternatives. In contrast, demand for essential commodities like fuel is often inelastic. Consumers continue to purchase these necessities regardless of rising costs because there are few viable replacements. Therefore, understanding whether a product is elastic or inelastic is crucial for companies aiming to maximize their revenue rather than just cover expenses.",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "Goods with available substitutes are highly sensitive to price changes.",
+      "Essential commodities typically exhibit high price elasticity.",
+      "Pricing decisions should rely exclusively on production costs.",
+      "Understanding elasticity is important for maximizing revenue.",
+      "Demand for luxury items remains stable despite price increases."
+    ],
+    "answer": [
+      0,
+      3
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_mcq_multi-06",
+    "taskType": "lst_mcq_multi",
+    "prompt": "Listen to the recording and select all the correct responses.",
+    "text": "It is a paradox of the modern business world that large, wealthy corporations are often outpaced by small, agile startups. The issue is rarely a lack of resources; in fact, big companies usually possess superior capital and talent. Instead, the barriers are frequently structural and cultural. Complex hierarchies often result in lengthy approval processes, meaning that by the time an innovative concept is finally authorized, the market opportunity has passed. Additionally, established firms tend to be highly risk-averse. Managers are often incentivized to safeguard existing revenue streams rather than gamble on unproven projects. Finally, rigid boundaries between departments often prevent the cross-functional collaboration that is essential for generating fresh ideas.",
+    "transcript": "It is a paradox of the modern business world that large, wealthy corporations are often outpaced by small, agile startups. The issue is rarely a lack of resources; in fact, big companies usually possess superior capital and talent. Instead, the barriers are frequently structural and cultural. Complex hierarchies often result in lengthy approval processes, meaning that by the time an innovative concept is finally authorized, the market opportunity has passed. Additionally, established firms tend to be highly risk-averse. Managers are often incentivized to safeguard existing revenue streams rather than gamble on unproven projects. Finally, rigid boundaries between departments often prevent the cross-functional collaboration that is essential for generating fresh ideas.",
+    "audio_text": "It is a paradox of the modern business world that large, wealthy corporations are often outpaced by small, agile startups. The issue is rarely a lack of resources; in fact, big companies usually possess superior capital and talent. Instead, the barriers are frequently structural and cultural. Complex hierarchies often result in lengthy approval processes, meaning that by the time an innovative concept is finally authorized, the market opportunity has passed. Additionally, established firms tend to be highly risk-averse. Managers are often incentivized to safeguard existing revenue streams rather than gamble on unproven projects. Finally, rigid boundaries between departments often prevent the cross-functional collaboration that is essential for generating fresh ideas.",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "Insufficient financial capital to support research",
+      "Administrative structures that delay decision-making",
+      "A corporate focus on protecting current income over taking risks",
+      "A shortage of highly skilled employees",
+      "A lack of collaboration between different business units"
+    ],
+    "answer": [
+      1,
+      2,
+      4
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_mcq_multi-07",
+    "taskType": "lst_mcq_multi",
+    "prompt": "Listen to the recording and select all the correct responses.",
+    "text": "When established companies struggle with radical innovation, the problem is often the metrics they use to make decisions. Most firms rely on financial tools like Net Present Value to allocate resources. This approach works perfectly for incremental innovation—updating an existing product to boost sales is easily quantifiable because you have historical data. The risk is calculable. However, radical innovation involves creating entirely new markets where no such data exists. You cannot plug reliable numbers into a spreadsheet when there is no history to base them on. Consequently, when radical ideas compete against safer, incremental updates using these standard criteria, the incremental ones almost always win. To succeed, organizations must evaluate radical projects differently, focusing on strategic potential or learning milestones rather than immediate financial predictability.",
+    "transcript": "When established companies struggle with radical innovation, the problem is often the metrics they use to make decisions. Most firms rely on financial tools like Net Present Value to allocate resources. This approach works perfectly for incremental innovation—updating an existing product to boost sales is easily quantifiable because you have historical data. The risk is calculable. However, radical innovation involves creating entirely new markets where no such data exists. You cannot plug reliable numbers into a spreadsheet when there is no history to base them on. Consequently, when radical ideas compete against safer, incremental updates using these standard criteria, the incremental ones almost always win. To succeed, organizations must evaluate radical projects differently, focusing on strategic potential or learning milestones rather than immediate financial predictability.",
+    "audio_text": "When established companies struggle with radical innovation, the problem is often the metrics they use to make decisions. Most firms rely on financial tools like Net Present Value to allocate resources. This approach works perfectly for incremental innovation—updating an existing product to boost sales is easily quantifiable because you have historical data. The risk is calculable. However, radical innovation involves creating entirely new markets where no such data exists. You cannot plug reliable numbers into a spreadsheet when there is no history to base them on. Consequently, when radical ideas compete against safer, incremental updates using these standard criteria, the incremental ones almost always win. To succeed, organizations must evaluate radical projects differently, focusing on strategic potential or learning milestones rather than immediate financial predictability.",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "They cannot effectively predict outcomes for markets that do not yet exist",
+      "They are too complex for project teams to apply without external help",
+      "They rely on historical data which radical projects inherently lack",
+      "They prevent companies from making necessary incremental product updates",
+      "They prioritize strategic potential over immediate profit forecasts"
+    ],
+    "answer": [
+      0,
+      2
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_mcq_multi-08",
+    "taskType": "lst_mcq_multi",
+    "prompt": "Listen to the recording and select all the correct responses.",
+    "text": "Continuing our series on mechanical innovations, let's turn to the typewriter. While various writing machines were patented in the 18th century, practical application remained elusive until the late 1860s. That’s when Christopher Latham Sholes developed the first commercially successful model. Interestingly, the early prototypes were prone to jamming if typists struck adjacent keys too quickly. To solve this, Sholes rearranged the keyboard layout to separate commonly used letter pairs. This arrangement, known as QWERTY, was actually intended to prevent mechanical clashes rather than enhance speed. Remarkably, this layout persists on modern devices today, long after the original mechanical necessity has vanished.",
+    "transcript": "Continuing our series on mechanical innovations, let's turn to the typewriter. While various writing machines were patented in the 18th century, practical application remained elusive until the late 1860s. That’s when Christopher Latham Sholes developed the first commercially successful model. Interestingly, the early prototypes were prone to jamming if typists struck adjacent keys too quickly. To solve this, Sholes rearranged the keyboard layout to separate commonly used letter pairs. This arrangement, known as QWERTY, was actually intended to prevent mechanical clashes rather than enhance speed. Remarkably, this layout persists on modern devices today, long after the original mechanical necessity has vanished.",
+    "audio_text": "Continuing our series on mechanical innovations, let's turn to the typewriter. While various writing machines were patented in the 18th century, practical application remained elusive until the late 1860s. That’s when Christopher Latham Sholes developed the first commercially successful model. Interestingly, the early prototypes were prone to jamming if typists struck adjacent keys too quickly. To solve this, Sholes rearranged the keyboard layout to separate commonly used letter pairs. This arrangement, known as QWERTY, was actually intended to prevent mechanical clashes rather than enhance speed. Remarkably, this layout persists on modern devices today, long after the original mechanical necessity has vanished.",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "The first patents for writing machines were filed in the 1860s",
+      "Sholes's model was the first to achieve commercial success",
+      "The QWERTY layout was created to avoid mechanical jamming",
+      "The keyboard arrangement was originally designed to increase typing speed",
+      "The QWERTY design has outlived the mechanical problem it solved"
+    ],
+    "answer": [
+      1,
+      2,
+      4
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_mcq_multi-09",
+    "taskType": "lst_mcq_multi",
+    "prompt": "Listen to the recording and select all the correct responses.",
+    "text": "Many inventors fall into the trap of believing that a technically superior product will automatically succeed. Yet, historical data on the diffusion of innovations reveals that adoption rates are often driven by perception rather than raw performance. A key accelerator is 'trialability.' When individuals can test an idea on a small scale without significant commitment, anxiety decreases, and adoption speeds up. Equally important is 'observability.' Innovations that are highly visible to others—like electric cars or solar panels—tend to spread faster because they generate discussion and peer awareness. In contrast, innovations that are complex or demand rigid changes to established habits often stall, even if they offer substantial improvements in efficiency.",
+    "transcript": "Many inventors fall into the trap of believing that a technically superior product will automatically succeed. Yet, historical data on the diffusion of innovations reveals that adoption rates are often driven by perception rather than raw performance. A key accelerator is 'trialability.' When individuals can test an idea on a small scale without significant commitment, anxiety decreases, and adoption speeds up. Equally important is 'observability.' Innovations that are highly visible to others—like electric cars or solar panels—tend to spread faster because they generate discussion and peer awareness. In contrast, innovations that are complex or demand rigid changes to established habits often stall, even if they offer substantial improvements in efficiency.",
+    "audio_text": "Many inventors fall into the trap of believing that a technically superior product will automatically succeed. Yet, historical data on the diffusion of innovations reveals that adoption rates are often driven by perception rather than raw performance. A key accelerator is 'trialability.' When individuals can test an idea on a small scale without significant commitment, anxiety decreases, and adoption speeds up. Equally important is 'observability.' Innovations that are highly visible to others—like electric cars or solar panels—tend to spread faster because they generate discussion and peer awareness. In contrast, innovations that are complex or demand rigid changes to established habits often stall, even if they offer substantial improvements in efficiency.",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "The technical perfection of the design relative to competitors",
+      "The capacity for potential users to experiment with the innovation",
+      "The degree to which the innovation's use is apparent to others",
+      "The requirement for users to radically change their existing habits",
+      "The reduction of peer awareness during the initial launch phase"
+    ],
+    "answer": [
+      1,
+      2
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_mcq_multi-10",
+    "taskType": "lst_mcq_multi",
+    "prompt": "Listen to the recording and select all the correct responses.",
+    "text": "When examining global inequality, economists often ask why some nations prosper while others fail. Historically, the geography hypothesis was popular, suggesting that climate or natural resources determined a country's fate. Now, while these geographical factors certainly exert influence, they aren't the sole drivers. Current thinking actually shifts the focus toward institutions—specifically, the legal and political frameworks that govern society. The argument is that without secure property rights or an impartial legal system, individuals lack the incentive to invest or innovate because they fear their earnings could be, you know, arbitrarily taken away. Consequently, even resource-rich nations can struggle economically if their institutions fail to protect the fruits of human labor.",
+    "transcript": "When examining global inequality, economists often ask why some nations prosper while others fail. Historically, the geography hypothesis was popular, suggesting that climate or natural resources determined a country's fate. Now, while these geographical factors certainly exert influence, they aren't the sole drivers. Current thinking actually shifts the focus toward institutions—specifically, the legal and political frameworks that govern society. The argument is that without secure property rights or an impartial legal system, individuals lack the incentive to invest or innovate because they fear their earnings could be, you know, arbitrarily taken away. Consequently, even resource-rich nations can struggle economically if their institutions fail to protect the fruits of human labor.",
+    "audio_text": "When examining global inequality, economists often ask why some nations prosper while others fail. Historically, the geography hypothesis was popular, suggesting that climate or natural resources determined a country's fate. Now, while these geographical factors certainly exert influence, they aren't the sole drivers. Current thinking actually shifts the focus toward institutions—specifically, the legal and political frameworks that govern society. The argument is that without secure property rights or an impartial legal system, individuals lack the incentive to invest or innovate because they fear their earnings could be, you know, arbitrarily taken away. Consequently, even resource-rich nations can struggle economically if their institutions fail to protect the fruits of human labor.",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "Geographical location is the primary determinant of wealth in modern theory.",
+      "Legal frameworks are critical for fostering economic growth.",
+      "Abundant natural resources guarantee a country's success.",
+      "Insecure property rights can deter innovation and investment.",
+      "Climate factors have absolutely no impact on economies."
+    ],
+    "answer": [
+      1,
+      3
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_mcq_multi-11",
+    "taskType": "lst_mcq_multi",
+    "prompt": "Listen to the recording and select all the correct responses.",
+    "text": "When analyzing market inefficiencies, we encounter the problem of information asymmetry, where one party possesses more knowledge than the other. A prime example is the labor market, where employers cannot fully assess a candidate's true productivity prior to hiring. To overcome this information gap, job seekers engage in what economist Michael Spence termed 'signaling.' In this model, earning a university degree serves as a credible signal, not necessarily because it imparts specific job skills, but because it demonstrates inherent attributes like perseverance and intelligence. Since obtaining a degree is significantly more taxing for less capable individuals, the qualification effectively filters candidates. It allows employers to distinguish high-potential applicants from others, resolving the uncertainty that could otherwise stall hiring.",
+    "transcript": "When analyzing market inefficiencies, we encounter the problem of information asymmetry, where one party possesses more knowledge than the other. A prime example is the labor market, where employers cannot fully assess a candidate's true productivity prior to hiring. To overcome this information gap, job seekers engage in what economist Michael Spence termed 'signaling.' In this model, earning a university degree serves as a credible signal, not necessarily because it imparts specific job skills, but because it demonstrates inherent attributes like perseverance and intelligence. Since obtaining a degree is significantly more taxing for less capable individuals, the qualification effectively filters candidates. It allows employers to distinguish high-potential applicants from others, resolving the uncertainty that could otherwise stall hiring.",
+    "audio_text": "When analyzing market inefficiencies, we encounter the problem of information asymmetry, where one party possesses more knowledge than the other. A prime example is the labor market, where employers cannot fully assess a candidate's true productivity prior to hiring. To overcome this information gap, job seekers engage in what economist Michael Spence termed 'signaling.' In this model, earning a university degree serves as a credible signal, not necessarily because it imparts specific job skills, but because it demonstrates inherent attributes like perseverance and intelligence. Since obtaining a degree is significantly more taxing for less capable individuals, the qualification effectively filters candidates. It allows employers to distinguish high-potential applicants from others, resolving the uncertainty that could otherwise stall hiring.",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "It proves that the student has acquired the exact technical skills for the job",
+      "It serves as an indicator of personal traits such as tenacity",
+      "It creates barriers that prevent the labor market from functioning efficiently",
+      "It helps employers identify candidates with higher potential",
+      "It is equally challenging for all candidates to achieve"
+    ],
+    "answer": [
+      1,
+      3
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_mcq_multi-12",
+    "taskType": "lst_mcq_multi",
+    "prompt": "Listen to the recording and select all the correct responses.",
+    "text": "There is a long-held assumption in global business that innovation flows downhill: created in wealthy nations and effectively watered down for emerging markets. But the concept of reverse innovation challenges this directly. Instead of modifying existing goods, companies design products from the ground up in developing countries to address specific local constraints, such as a lack of reliable electricity. Crucially, these innovations then migrate upward to developed markets. It's not merely about cost-cutting or removing features; it's about creating novel utility. A battery-powered heart monitor designed for rural villages, for example, might be adopted by Western hospitals for its portability. Thus, the developing world becomes a source of original technology, not just a recipient.",
+    "transcript": "There is a long-held assumption in global business that innovation flows downhill: created in wealthy nations and effectively watered down for emerging markets. But the concept of reverse innovation challenges this directly. Instead of modifying existing goods, companies design products from the ground up in developing countries to address specific local constraints, such as a lack of reliable electricity. Crucially, these innovations then migrate upward to developed markets. It's not merely about cost-cutting or removing features; it's about creating novel utility. A battery-powered heart monitor designed for rural villages, for example, might be adopted by Western hospitals for its portability. Thus, the developing world becomes a source of original technology, not just a recipient.",
+    "audio_text": "There is a long-held assumption in global business that innovation flows downhill: created in wealthy nations and effectively watered down for emerging markets. But the concept of reverse innovation challenges this directly. Instead of modifying existing goods, companies design products from the ground up in developing countries to address specific local constraints, such as a lack of reliable electricity. Crucially, these innovations then migrate upward to developed markets. It's not merely about cost-cutting or removing features; it's about creating novel utility. A battery-powered heart monitor designed for rural villages, for example, might be adopted by Western hospitals for its portability. Thus, the developing world becomes a source of original technology, not just a recipient.",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "It involves simplifying established products for poorer markets",
+      "It produces innovations that eventually reach developed economies",
+      "It is driven by the need to solve local infrastructure challenges",
+      "It focuses mainly on reducing the price of goods",
+      "It ensures that innovation remains within the developing world"
+    ],
+    "answer": [
+      1,
+      2
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_mcq_multi-13",
+    "taskType": "lst_mcq_multi",
+    "prompt": "Listen to the recording and select all the correct responses.",
+    "text": "When we assess a nation's economic health, Gross Domestic Product, or GDP, is the standard yardstick. It essentially tallies the total value of goods and services produced within a specific timeframe. However, relying solely on GDP can be misleading because it prioritizes market transactions over actual welfare. For instance, GDP completely ignores unpaid labor, such as domestic work or volunteerism, which are vital to societal function but hold no price tag. Furthermore, it often counts detrimental activities as positive growth; if a disaster occurs and money is spent on rebuilding, GDP rises, despite the loss of assets. So, while it indicates commercial activity, it fails to distinguish between productive sustainable growth and activity that might actually deplete our natural capital.",
+    "transcript": "When we assess a nation's economic health, Gross Domestic Product, or GDP, is the standard yardstick. It essentially tallies the total value of goods and services produced within a specific timeframe. However, relying solely on GDP can be misleading because it prioritizes market transactions over actual welfare. For instance, GDP completely ignores unpaid labor, such as domestic work or volunteerism, which are vital to societal function but hold no price tag. Furthermore, it often counts detrimental activities as positive growth; if a disaster occurs and money is spent on rebuilding, GDP rises, despite the loss of assets. So, while it indicates commercial activity, it fails to distinguish between productive sustainable growth and activity that might actually deplete our natural capital.",
+    "audio_text": "When we assess a nation's economic health, Gross Domestic Product, or GDP, is the standard yardstick. It essentially tallies the total value of goods and services produced within a specific timeframe. However, relying solely on GDP can be misleading because it prioritizes market transactions over actual welfare. For instance, GDP completely ignores unpaid labor, such as domestic work or volunteerism, which are vital to societal function but hold no price tag. Furthermore, it often counts detrimental activities as positive growth; if a disaster occurs and money is spent on rebuilding, GDP rises, despite the loss of assets. So, while it indicates commercial activity, it fails to distinguish between productive sustainable growth and activity that might actually deplete our natural capital.",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "It excludes work that does not have a market price",
+      "It registers a decline when natural resources are depleted",
+      "It interprets spending on damage repair as economic growth",
+      "It focuses primarily on the welfare of the population",
+      "It fails to track the production of commercial services"
+    ],
+    "answer": [
+      0,
+      2
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_mcq_multi-14",
+    "taskType": "lst_mcq_multi",
+    "prompt": "Listen to the recording and select all the correct responses.",
+    "text": "Many large corporations are now embracing the concept of intrapreneurship, where employees are encouraged to act like entrepreneurs within the organization. Unlike traditional R&D, which is often siloed, intrapreneurship allows innovation to emerge from any department, whether it is marketing or operations. A key driver for this strategy is talent management; companies use it to retain ambitious staff who might otherwise quit to launch their own startups. However, success is not automatic. The biggest hurdle is often the corporate hierarchy itself. To work effectively, these internal ventures need to be shielded from standard bureaucratic constraints and distinct from the usual reporting lines. Without a protected environment where failure is accepted as part of the process, these initiatives rarely survive the pressure for immediate results.",
+    "transcript": "Many large corporations are now embracing the concept of intrapreneurship, where employees are encouraged to act like entrepreneurs within the organization. Unlike traditional R&D, which is often siloed, intrapreneurship allows innovation to emerge from any department, whether it is marketing or operations. A key driver for this strategy is talent management; companies use it to retain ambitious staff who might otherwise quit to launch their own startups. However, success is not automatic. The biggest hurdle is often the corporate hierarchy itself. To work effectively, these internal ventures need to be shielded from standard bureaucratic constraints and distinct from the usual reporting lines. Without a protected environment where failure is accepted as part of the process, these initiatives rarely survive the pressure for immediate results.",
+    "audio_text": "Many large corporations are now embracing the concept of intrapreneurship, where employees are encouraged to act like entrepreneurs within the organization. Unlike traditional R&D, which is often siloed, intrapreneurship allows innovation to emerge from any department, whether it is marketing or operations. A key driver for this strategy is talent management; companies use it to retain ambitious staff who might otherwise quit to launch their own startups. However, success is not automatic. The biggest hurdle is often the corporate hierarchy itself. To work effectively, these internal ventures need to be shielded from standard bureaucratic constraints and distinct from the usual reporting lines. Without a protected environment where failure is accepted as part of the process, these initiatives rarely survive the pressure for immediate results.",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "It restricts innovation efforts to the research and development department",
+      "It serves as a method for retaining highly motivated employees",
+      "It requires projects to be isolated from normal administrative processes",
+      "It ensures that every internal venture becomes profitable immediately",
+      "It relies on strict adherence to established reporting hierarchies"
+    ],
+    "answer": [
+      1,
+      2
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_mcq_multi-15",
+    "taskType": "lst_mcq_multi",
+    "prompt": "Listen to the recording and select all the correct responses.",
+    "text": "In industrial economics, we often analyze why larger firms possess a cost advantage, a concept known as economies of scale. Essentially, as a company increases its production output, the average cost of producing each unit declines. This efficiency occurs because fixed expenses, such as machinery or research, are spread across a larger volume of goods. However, this benefit does not continue indefinitely. A firm can eventually reach a point of 'diseconomies of scale,' where the organization becomes too complex to manage effectively. When this happens, internal communication slows down and coordination becomes difficult, causing the average cost per unit to rise again, which suggests there is an optimal size for efficiency.",
+    "transcript": "In industrial economics, we often analyze why larger firms possess a cost advantage, a concept known as economies of scale. Essentially, as a company increases its production output, the average cost of producing each unit declines. This efficiency occurs because fixed expenses, such as machinery or research, are spread across a larger volume of goods. However, this benefit does not continue indefinitely. A firm can eventually reach a point of 'diseconomies of scale,' where the organization becomes too complex to manage effectively. When this happens, internal communication slows down and coordination becomes difficult, causing the average cost per unit to rise again, which suggests there is an optimal size for efficiency.",
+    "audio_text": "In industrial economics, we often analyze why larger firms possess a cost advantage, a concept known as economies of scale. Essentially, as a company increases its production output, the average cost of producing each unit declines. This efficiency occurs because fixed expenses, such as machinery or research, are spread across a larger volume of goods. However, this benefit does not continue indefinitely. A firm can eventually reach a point of 'diseconomies of scale,' where the organization becomes too complex to manage effectively. When this happens, internal communication slows down and coordination becomes difficult, causing the average cost per unit to rise again, which suggests there is an optimal size for efficiency.",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "The average cost per unit drops as fixed expenses are distributed over more goods.",
+      "Production costs continue to decrease regardless of how large a firm grows.",
+      "Management difficulties in very large firms can lead to rising unit costs.",
+      "Larger firms generally avoid investing in expensive machinery.",
+      "Internal communication improves significantly as an organization expands."
+    ],
+    "answer": [
+      0,
+      2
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_mcq_multi-16",
+    "taskType": "lst_mcq_multi",
+    "prompt": "Listen to the recording and select all the correct responses.",
+    "text": "When we think of innovation, we often picture high-tech laboratories and massive budgets. However, frugal innovation challenges this assumption. Originating largely in emerging economies, this approach prioritizes creating high value with minimal resources. It is distinct from simply 'de-featuring' or stripping down existing products to make them cheaper. Instead, it requires a complete rethinking of the design process to overcome local hurdles, such as intermittent electricity or harsh operating conditions. For example, engineers might design a battery-powered medical device for rural use that is far more durable than its hospital equivalent. Surprisingly, these cost-effective, robust solutions are now entering developed markets, reversing the traditional direction of global innovation flows.",
+    "transcript": "When we think of innovation, we often picture high-tech laboratories and massive budgets. However, frugal innovation challenges this assumption. Originating largely in emerging economies, this approach prioritizes creating high value with minimal resources. It is distinct from simply 'de-featuring' or stripping down existing products to make them cheaper. Instead, it requires a complete rethinking of the design process to overcome local hurdles, such as intermittent electricity or harsh operating conditions. For example, engineers might design a battery-powered medical device for rural use that is far more durable than its hospital equivalent. Surprisingly, these cost-effective, robust solutions are now entering developed markets, reversing the traditional direction of global innovation flows.",
+    "audio_text": "When we think of innovation, we often picture high-tech laboratories and massive budgets. However, frugal innovation challenges this assumption. Originating largely in emerging economies, this approach prioritizes creating high value with minimal resources. It is distinct from simply 'de-featuring' or stripping down existing products to make them cheaper. Instead, it requires a complete rethinking of the design process to overcome local hurdles, such as intermittent electricity or harsh operating conditions. For example, engineers might design a battery-powered medical device for rural use that is far more durable than its hospital equivalent. Surprisingly, these cost-effective, robust solutions are now entering developed markets, reversing the traditional direction of global innovation flows.",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "It involves a comprehensive redesign process rather than mere simplification.",
+      "It aims to adapt existing premium products by removing features.",
+      "It generates solutions that are finding success in developed economies.",
+      "It relies on the infrastructure typical of high-tech laboratories.",
+      "It is confined to solving problems within emerging markets."
+    ],
+    "answer": [
+      0,
+      2
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_mcq_multi-17",
+    "taskType": "lst_mcq_multi",
+    "prompt": "Listen to the recording and select all the correct responses.",
+    "text": "We often picture innovation as high-tech laboratories creating expensive, feature-rich devices. However, a counter-trend called frugal innovation is emerging. Unlike traditional development, which often adds complexity, frugal innovation focuses on doing more with less, typically originating in resource-scarce emerging markets. Crucially, this isn't simply about de-featuring existing Western products; merely stripping items down usually creates a poor user experience. Instead, engineers must rethink the entire architecture to ensure durability and ease of repair in harsh environments. Interestingly, these robust solutions are now entering wealthy nations. Western consumers, tired of fragile, complex gadgets, are increasingly attracted to the simplicity and value these products offer, effectively reversing the traditional flow of global innovation.",
+    "transcript": "We often picture innovation as high-tech laboratories creating expensive, feature-rich devices. However, a counter-trend called frugal innovation is emerging. Unlike traditional development, which often adds complexity, frugal innovation focuses on doing more with less, typically originating in resource-scarce emerging markets. Crucially, this isn't simply about de-featuring existing Western products; merely stripping items down usually creates a poor user experience. Instead, engineers must rethink the entire architecture to ensure durability and ease of repair in harsh environments. Interestingly, these robust solutions are now entering wealthy nations. Western consumers, tired of fragile, complex gadgets, are increasingly attracted to the simplicity and value these products offer, effectively reversing the traditional flow of global innovation.",
+    "audio_text": "We often picture innovation as high-tech laboratories creating expensive, feature-rich devices. However, a counter-trend called frugal innovation is emerging. Unlike traditional development, which often adds complexity, frugal innovation focuses on doing more with less, typically originating in resource-scarce emerging markets. Crucially, this isn't simply about de-featuring existing Western products; merely stripping items down usually creates a poor user experience. Instead, engineers must rethink the entire architecture to ensure durability and ease of repair in harsh environments. Interestingly, these robust solutions are now entering wealthy nations. Western consumers, tired of fragile, complex gadgets, are increasingly attracted to the simplicity and value these products offer, effectively reversing the traditional flow of global innovation.",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "It is achieved by simply removing non-essential features from existing products.",
+      "It involves designing products that are robust and easy to fix.",
+      "It is exclusively successful in markets with limited resources.",
+      "It is becoming popular in developed countries due to a desire for simplicity.",
+      "It requires significantly higher investment than traditional high-tech development."
+    ],
+    "answer": [
+      1,
+      3
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_mcq_multi-18",
+    "taskType": "lst_mcq_multi",
+    "prompt": "Listen to the recording and select all the correct responses.",
+    "text": "Continuing our series on transformative technologies, today we turn to the electric telegraph. Before its widespread adoption in the mid-19th century, information could only travel as fast as a horse or ship could carry it. The telegraph fundamentally collapsed distance, allowing messages to be sent almost instantaneously across continents. This innovation revolutionized business practices, particularly in finance, where stock prices could be monitored in real-time between distant exchanges. However, the early infrastructure was fragile. The first transatlantic cable, laid in 1858, failed after only a few weeks of operation due to poor insulation and excessive voltage. Despite this setback, the demand for rapid communication ensured that improved cables were successfully laid soon after.",
+    "transcript": "Continuing our series on transformative technologies, today we turn to the electric telegraph. Before its widespread adoption in the mid-19th century, information could only travel as fast as a horse or ship could carry it. The telegraph fundamentally collapsed distance, allowing messages to be sent almost instantaneously across continents. This innovation revolutionized business practices, particularly in finance, where stock prices could be monitored in real-time between distant exchanges. However, the early infrastructure was fragile. The first transatlantic cable, laid in 1858, failed after only a few weeks of operation due to poor insulation and excessive voltage. Despite this setback, the demand for rapid communication ensured that improved cables were successfully laid soon after.",
+    "audio_text": "Continuing our series on transformative technologies, today we turn to the electric telegraph. Before its widespread adoption in the mid-19th century, information could only travel as fast as a horse or ship could carry it. The telegraph fundamentally collapsed distance, allowing messages to be sent almost instantaneously across continents. This innovation revolutionized business practices, particularly in finance, where stock prices could be monitored in real-time between distant exchanges. However, the early infrastructure was fragile. The first transatlantic cable, laid in 1858, failed after only a few weeks of operation due to poor insulation and excessive voltage. Despite this setback, the demand for rapid communication ensured that improved cables were successfully laid soon after.",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "It enabled communication speeds to exceed those of physical travel",
+      "It was primarily designed to replace international shipping routes",
+      "It had a significant impact on the operation of financial markets",
+      "The first attempt at a transatlantic connection faced technical failure",
+      "It remained unreliable for business use until the 20th century"
+    ],
+    "answer": [
+      0,
+      2,
+      3
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_mcq_multi-19",
+    "taskType": "lst_mcq_multi",
+    "prompt": "Listen to the recording and select all the correct responses.",
+    "text": "Traditionally, large corporations relied on a 'closed innovation' model. They built fortified research labs, hired the best minds, and kept everything secret until a product launch. The logic was simple: if you generate the most ideas internally, you win. However, this paradigm has shifted significantly toward 'open innovation.' Why? Firstly, the mobility of skilled workers has increased; knowledge no longer stays trapped inside one company's walls. When employees leave, they take their expertise with them. Secondly, the abundance of venture capital allows external startups to commercialize ideas that big firms might overlook. Consequently, successful firms now actively license inventions from other companies rather than relying solely on their own R&D departments.",
+    "transcript": "Traditionally, large corporations relied on a 'closed innovation' model. They built fortified research labs, hired the best minds, and kept everything secret until a product launch. The logic was simple: if you generate the most ideas internally, you win. However, this paradigm has shifted significantly toward 'open innovation.' Why? Firstly, the mobility of skilled workers has increased; knowledge no longer stays trapped inside one company's walls. When employees leave, they take their expertise with them. Secondly, the abundance of venture capital allows external startups to commercialize ideas that big firms might overlook. Consequently, successful firms now actively license inventions from other companies rather than relying solely on their own R&D departments.",
+    "audio_text": "Traditionally, large corporations relied on a 'closed innovation' model. They built fortified research labs, hired the best minds, and kept everything secret until a product launch. The logic was simple: if you generate the most ideas internally, you win. However, this paradigm has shifted significantly toward 'open innovation.' Why? Firstly, the mobility of skilled workers has increased; knowledge no longer stays trapped inside one company's walls. When employees leave, they take their expertise with them. Secondly, the abundance of venture capital allows external startups to commercialize ideas that big firms might overlook. Consequently, successful firms now actively license inventions from other companies rather than relying solely on their own R&D departments.",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "The increased movement of skilled professionals between organizations",
+      "A lack of funding for internal research departments in large firms",
+      "The availability of venture capital for external startups",
+      "Stricter government regulations regarding trade secrets",
+      "The inability of large companies to hire talented staff"
+    ],
+    "answer": [
+      0,
+      2
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_mcq_multi-20",
+    "taskType": "lst_mcq_multi",
+    "prompt": "Listen to the recording and select all the correct responses.",
+    "text": "Traditionally, large corporations operated under a closed innovation model, relying entirely on internal research to maintain a competitive edge. However, in the current digital economy, many firms are adopting 'open innovation.' In this approach, companies actively recruit ideas from external sources, such as universities and startups, rather than just using their own staff. This strategy offers clear benefits, such as accelerating the time it takes to get products to market and distributing the risks involved in development. Nevertheless, it is not without difficulties. It requires a significant cultural shift for employees accustomed to internal secrecy, and perhaps most notably, it makes the management of intellectual property rights much more complicated than before.",
+    "transcript": "Traditionally, large corporations operated under a closed innovation model, relying entirely on internal research to maintain a competitive edge. However, in the current digital economy, many firms are adopting 'open innovation.' In this approach, companies actively recruit ideas from external sources, such as universities and startups, rather than just using their own staff. This strategy offers clear benefits, such as accelerating the time it takes to get products to market and distributing the risks involved in development. Nevertheless, it is not without difficulties. It requires a significant cultural shift for employees accustomed to internal secrecy, and perhaps most notably, it makes the management of intellectual property rights much more complicated than before.",
+    "audio_text": "Traditionally, large corporations operated under a closed innovation model, relying entirely on internal research to maintain a competitive edge. However, in the current digital economy, many firms are adopting 'open innovation.' In this approach, companies actively recruit ideas from external sources, such as universities and startups, rather than just using their own staff. This strategy offers clear benefits, such as accelerating the time it takes to get products to market and distributing the risks involved in development. Nevertheless, it is not without difficulties. It requires a significant cultural shift for employees accustomed to internal secrecy, and perhaps most notably, it makes the management of intellectual property rights much more complicated than before.",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "It allows companies to bring products to market more quickly.",
+      "It simplifies the process of protecting legal rights to ideas.",
+      "It encourages the use of ideas generated outside the organization.",
+      "It eliminates the risks associated with developing new products.",
+      "It reinforces the traditional culture of internal secrecy."
+    ],
+    "answer": [
+      0,
+      2
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_mcq_multi-21",
+    "taskType": "lst_mcq_multi",
+    "prompt": "Listen to the recording and select all the correct responses.",
+    "text": "Why do some innovations catch fire while others fizzle out? It is rarely simply a matter of superior engineering. Instead, diffusion theory suggests that specific perceived attributes dictate uptake. One major influence is 'trialability'. If individuals can experiment with an innovation on a limited basis, they can dispel their doubts without a heavy initial investment. This significantly lowers the barrier to entry. Another crucial element is 'observability'. When the results of an innovation are easily seen by others, it generates social proof and peer discussion, accelerating its spread. In contrast, innovations that provide benefits in invisible ways often struggle to gain momentum, regardless of their actual utility.",
+    "transcript": "Why do some innovations catch fire while others fizzle out? It is rarely simply a matter of superior engineering. Instead, diffusion theory suggests that specific perceived attributes dictate uptake. One major influence is 'trialability'. If individuals can experiment with an innovation on a limited basis, they can dispel their doubts without a heavy initial investment. This significantly lowers the barrier to entry. Another crucial element is 'observability'. When the results of an innovation are easily seen by others, it generates social proof and peer discussion, accelerating its spread. In contrast, innovations that provide benefits in invisible ways often struggle to gain momentum, regardless of their actual utility.",
+    "audio_text": "Why do some innovations catch fire while others fizzle out? It is rarely simply a matter of superior engineering. Instead, diffusion theory suggests that specific perceived attributes dictate uptake. One major influence is 'trialability'. If individuals can experiment with an innovation on a limited basis, they can dispel their doubts without a heavy initial investment. This significantly lowers the barrier to entry. Another crucial element is 'observability'. When the results of an innovation are easily seen by others, it generates social proof and peer discussion, accelerating its spread. In contrast, innovations that provide benefits in invisible ways often struggle to gain momentum, regardless of their actual utility.",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "The technical complexity of the product design",
+      "The ability to test the innovation on a small scale",
+      "The extent to which the innovation's benefits are apparent to others",
+      "The cost-effectiveness of the production method",
+      "The strict deadlines set for the product launch"
+    ],
+    "answer": [
+      1,
+      2
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_mcq_multi-22",
+    "taskType": "lst_mcq_multi",
+    "prompt": "Listen to the recording and select all the correct responses.",
+    "text": "Traditionally, companies adhered to a philosophy known as 'closed innovation.' The logic was simple: successful innovation required control. You hired the best people, built a fortress around your research labs, and kept your intellectual property strictly internal. However, in today’s landscape of widely distributed knowledge, this model is becoming obsolete. We are shifting towards 'open innovation.' This paradigm suggests that firms can and should use external ideas as well as internal ones. It's not just about outsourcing; it's about active collaboration with universities, startups, and even competitors. By doing so, companies can accelerate their development cycles significantly. Of course, this transparency comes with risks, particularly regarding patent protection, but the advantage of speed often outweighs the desire for absolute secrecy.",
+    "transcript": "Traditionally, companies adhered to a philosophy known as 'closed innovation.' The logic was simple: successful innovation required control. You hired the best people, built a fortress around your research labs, and kept your intellectual property strictly internal. However, in today’s landscape of widely distributed knowledge, this model is becoming obsolete. We are shifting towards 'open innovation.' This paradigm suggests that firms can and should use external ideas as well as internal ones. It's not just about outsourcing; it's about active collaboration with universities, startups, and even competitors. By doing so, companies can accelerate their development cycles significantly. Of course, this transparency comes with risks, particularly regarding patent protection, but the advantage of speed often outweighs the desire for absolute secrecy.",
+    "audio_text": "Traditionally, companies adhered to a philosophy known as 'closed innovation.' The logic was simple: successful innovation required control. You hired the best people, built a fortress around your research labs, and kept your intellectual property strictly internal. However, in today’s landscape of widely distributed knowledge, this model is becoming obsolete. We are shifting towards 'open innovation.' This paradigm suggests that firms can and should use external ideas as well as internal ones. It's not just about outsourcing; it's about active collaboration with universities, startups, and even competitors. By doing so, companies can accelerate their development cycles significantly. Of course, this transparency comes with risks, particularly regarding patent protection, but the advantage of speed often outweighs the desire for absolute secrecy.",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "It involves sharing knowledge with entities outside the company",
+      "It ensures that all intellectual property remains fully protected",
+      "It is capable of reducing the time needed to develop products",
+      "It focuses on hiring the best staff to work in isolation",
+      "It renders internal research completely unnecessary"
+    ],
+    "answer": [
+      0,
+      2
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_mcq_multi-23",
+    "taskType": "lst_mcq_multi",
+    "prompt": "Listen to the recording and select all the correct responses.",
+    "text": "Traditionally, innovation is associated with complex, expensive research and development processes typical of wealthy nations. However, the concept of frugal innovation turns this model upside down. Rather than treating resource limitations as a hurdle, this approach uses severe constraints to drive creativity, resulting in high-quality products that are both affordable and robust. While these innovations often originate in emerging economies where infrastructure is scarce, they are becoming increasingly relevant globally. We are witnessing a phenomenon known as 'reverse innovation,' where these simplified solutions are successfully adopted in developed markets. Western consumers, often tired of over-engineered goods, are attracted to the sustainability and ease of use that frugal products offer. Consequently, major corporations are learning to simplify their engineering mentalities, realizing that adding more features does not always equate to better value.",
+    "transcript": "Traditionally, innovation is associated with complex, expensive research and development processes typical of wealthy nations. However, the concept of frugal innovation turns this model upside down. Rather than treating resource limitations as a hurdle, this approach uses severe constraints to drive creativity, resulting in high-quality products that are both affordable and robust. While these innovations often originate in emerging economies where infrastructure is scarce, they are becoming increasingly relevant globally. We are witnessing a phenomenon known as 'reverse innovation,' where these simplified solutions are successfully adopted in developed markets. Western consumers, often tired of over-engineered goods, are attracted to the sustainability and ease of use that frugal products offer. Consequently, major corporations are learning to simplify their engineering mentalities, realizing that adding more features does not always equate to better value.",
+    "audio_text": "Traditionally, innovation is associated with complex, expensive research and development processes typical of wealthy nations. However, the concept of frugal innovation turns this model upside down. Rather than treating resource limitations as a hurdle, this approach uses severe constraints to drive creativity, resulting in high-quality products that are both affordable and robust. While these innovations often originate in emerging economies where infrastructure is scarce, they are becoming increasingly relevant globally. We are witnessing a phenomenon known as 'reverse innovation,' where these simplified solutions are successfully adopted in developed markets. Western consumers, often tired of over-engineered goods, are attracted to the sustainability and ease of use that frugal products offer. Consequently, major corporations are learning to simplify their engineering mentalities, realizing that adding more features does not always equate to better value.",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "It uses limitations in resources to stimulate creative design",
+      "It focuses on increasing the complexity of product features",
+      "It is gaining popularity among consumers in developed nations",
+      "It relies on advanced infrastructure for successful development",
+      "It creates products that are generally fragile and short-lived"
+    ],
+    "answer": [
+      0,
+      2
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_mcq_multi-24",
+    "taskType": "lst_mcq_multi",
+    "prompt": "Listen to the recording and select all the correct responses.",
+    "text": "In standard economic theory, we assume markets are efficient because prices reflect the true cost of production. However, this mechanism breaks down when we encounter externalities, like industrial pollution. In these cases, the producer doesn't pay for the environmental damage; society does. This represents a significant market failure. Now, the real challenge for economists isn't just identifying the failure, but quantifying it. I mean, how do you accurately put a dollar figure on cleaner air or biodiversity? Although we have tools like carbon taxes or cap-and-trade schemes to internalize these costs, they rely on estimates that are scientifically complex and often debated. Moreover, actually implementing these measures is difficult, largely due to political resistance and concerns about short-term economic competitiveness.",
+    "transcript": "In standard economic theory, we assume markets are efficient because prices reflect the true cost of production. However, this mechanism breaks down when we encounter externalities, like industrial pollution. In these cases, the producer doesn't pay for the environmental damage; society does. This represents a significant market failure. Now, the real challenge for economists isn't just identifying the failure, but quantifying it. I mean, how do you accurately put a dollar figure on cleaner air or biodiversity? Although we have tools like carbon taxes or cap-and-trade schemes to internalize these costs, they rely on estimates that are scientifically complex and often debated. Moreover, actually implementing these measures is difficult, largely due to political resistance and concerns about short-term economic competitiveness.",
+    "audio_text": "In standard economic theory, we assume markets are efficient because prices reflect the true cost of production. However, this mechanism breaks down when we encounter externalities, like industrial pollution. In these cases, the producer doesn't pay for the environmental damage; society does. This represents a significant market failure. Now, the real challenge for economists isn't just identifying the failure, but quantifying it. I mean, how do you accurately put a dollar figure on cleaner air or biodiversity? Although we have tools like carbon taxes or cap-and-trade schemes to internalize these costs, they rely on estimates that are scientifically complex and often debated. Moreover, actually implementing these measures is difficult, largely due to political resistance and concerns about short-term economic competitiveness.",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "The difficulty of assigning precise financial values to environmental factors",
+      "The inability of economists to identify where market failures occur",
+      "The resistance from political spheres to implementing necessary measures",
+      "The complete lack of policy tools available to internalize costs",
+      "The scientific consensus that cap-and-trade schemes are ineffective"
+    ],
+    "answer": [
+      0,
+      2
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_mcq_multi-25",
+    "taskType": "lst_mcq_multi",
+    "prompt": "Listen to the recording and select all the correct responses.",
+    "text": "Traditionally, large corporations relied on a closed innovation model. They built massive research laboratories, hired the best minds, and kept their discoveries strictly secret until a product was launched. The logic was simple: if you control the intellectual property, you control the market. However, in today's knowledge-rich landscape, this isolated approach is becoming obsolete. We are seeing a shift toward open innovation, where firms actively seek external ideas and paths to market. This doesn't mean abandoning internal R&D, but rather acknowledging that smart people exist outside your company walls. Consequently, organizations are now licensing their unused patents to other companies and even collaborating with competitors to share the heavy costs of development. It is a strategy that values speed and connectivity over secrecy.",
+    "transcript": "Traditionally, large corporations relied on a closed innovation model. They built massive research laboratories, hired the best minds, and kept their discoveries strictly secret until a product was launched. The logic was simple: if you control the intellectual property, you control the market. However, in today's knowledge-rich landscape, this isolated approach is becoming obsolete. We are seeing a shift toward open innovation, where firms actively seek external ideas and paths to market. This doesn't mean abandoning internal R&D, but rather acknowledging that smart people exist outside your company walls. Consequently, organizations are now licensing their unused patents to other companies and even collaborating with competitors to share the heavy costs of development. It is a strategy that values speed and connectivity over secrecy.",
+    "audio_text": "Traditionally, large corporations relied on a closed innovation model. They built massive research laboratories, hired the best minds, and kept their discoveries strictly secret until a product was launched. The logic was simple: if you control the intellectual property, you control the market. However, in today's knowledge-rich landscape, this isolated approach is becoming obsolete. We are seeing a shift toward open innovation, where firms actively seek external ideas and paths to market. This doesn't mean abandoning internal R&D, but rather acknowledging that smart people exist outside your company walls. Consequently, organizations are now licensing their unused patents to other companies and even collaborating with competitors to share the heavy costs of development. It is a strategy that values speed and connectivity over secrecy.",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "Closed innovation relies on strict control of intellectual property to dominate the market",
+      "Companies should discontinue internal research to focus entirely on external ideas",
+      "Open innovation allows for cooperation with competitors to reduce development costs",
+      "The most capable scientists are almost always employed by large corporations",
+      "Open innovation prioritizes secrecy to maintain a competitive advantage"
+    ],
+    "answer": [
+      0,
+      2
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_mcq_multi-26",
+    "taskType": "lst_mcq_multi",
+    "prompt": "Listen to the recording and select all the correct responses.",
+    "text": "Scholars of diffusion theory often investigate why technically superior products sometimes fail to find a market. A central determinant is compatibility. An innovation that requires adopters to significantly alter their daily routines or cultural values often faces steep resistance, regardless of its benefits. Another significant variable is complexity; innovations that are intuitively easy to grasp diffuse much faster than those demanding new technical knowledge. Additionally, the degree of trialability matters. When potential users can test a product on a small scale without a major commitment, their uncertainty decreases, paving the way for faster adoption. Without this opportunity to experiment, the fear of making a mistake can stall the entire process, even if the technology itself is sound.",
+    "transcript": "Scholars of diffusion theory often investigate why technically superior products sometimes fail to find a market. A central determinant is compatibility. An innovation that requires adopters to significantly alter their daily routines or cultural values often faces steep resistance, regardless of its benefits. Another significant variable is complexity; innovations that are intuitively easy to grasp diffuse much faster than those demanding new technical knowledge. Additionally, the degree of trialability matters. When potential users can test a product on a small scale without a major commitment, their uncertainty decreases, paving the way for faster adoption. Without this opportunity to experiment, the fear of making a mistake can stall the entire process, even if the technology itself is sound.",
+    "audio_text": "Scholars of diffusion theory often investigate why technically superior products sometimes fail to find a market. A central determinant is compatibility. An innovation that requires adopters to significantly alter their daily routines or cultural values often faces steep resistance, regardless of its benefits. Another significant variable is complexity; innovations that are intuitively easy to grasp diffuse much faster than those demanding new technical knowledge. Additionally, the degree of trialability matters. When potential users can test a product on a small scale without a major commitment, their uncertainty decreases, paving the way for faster adoption. Without this opportunity to experiment, the fear of making a mistake can stall the entire process, even if the technology itself is sound.",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "The consistency of the innovation with users' established behaviors",
+      "The amount of financial capital invested in development",
+      "The option for users to experiment with the innovation tentatively",
+      "The effectiveness of the company's promotional campaigns",
+      "The number of similar products already available"
+    ],
+    "answer": [
+      0,
+      2
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_mcq_multi-27",
+    "taskType": "lst_mcq_multi",
+    "prompt": "Listen to the recording and select all the correct responses.",
+    "text": "When discussing strategic growth, we often imagine high-tech labs and massive budgets. However, 'frugal innovation' is gaining traction. Unlike traditional models that add features to justify premium prices, this approach strips a product down to its core functionality. It isn't about making things cheaper by cutting quality; instead, it involves smart engineering to reduce complexity and material use while maintaining durability. Western corporations once dismissed this as relevant only for developing nations. However, with pressure on global resources and a desire for sustainability, these robust solutions are entering advanced economies. Companies are realizing that removing non-essential bells and whistles can actually enhance the user experience by making products easier to repair.",
+    "transcript": "When discussing strategic growth, we often imagine high-tech labs and massive budgets. However, 'frugal innovation' is gaining traction. Unlike traditional models that add features to justify premium prices, this approach strips a product down to its core functionality. It isn't about making things cheaper by cutting quality; instead, it involves smart engineering to reduce complexity and material use while maintaining durability. Western corporations once dismissed this as relevant only for developing nations. However, with pressure on global resources and a desire for sustainability, these robust solutions are entering advanced economies. Companies are realizing that removing non-essential bells and whistles can actually enhance the user experience by making products easier to repair.",
+    "audio_text": "When discussing strategic growth, we often imagine high-tech labs and massive budgets. However, 'frugal innovation' is gaining traction. Unlike traditional models that add features to justify premium prices, this approach strips a product down to its core functionality. It isn't about making things cheaper by cutting quality; instead, it involves smart engineering to reduce complexity and material use while maintaining durability. Western corporations once dismissed this as relevant only for developing nations. However, with pressure on global resources and a desire for sustainability, these robust solutions are entering advanced economies. Companies are realizing that removing non-essential bells and whistles can actually enhance the user experience by making products easier to repair.",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "It relies on expensive research facilities to succeed.",
+      "It prioritizes durability while reducing product complexity.",
+      "It is primarily a strategy for lowering quality to cut costs.",
+      "It is becoming increasingly adopted in developed economies.",
+      "It targets consumers looking for luxury features."
+    ],
+    "answer": [
+      1,
+      3
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_mcq_multi-28",
+    "taskType": "lst_mcq_multi",
+    "prompt": "Listen to the recording and select all the correct responses.",
+    "text": "If we look back at the history of economic thought, specifically between the 16th and 18th centuries, the dominant philosophy was Mercantilism. Now, mercantilist thinkers essentially believed that a nation's wealth was determined by its store of precious metals, primarily gold and silver. To achieve this, governments imposed strict tariffs to minimize imports and did everything possible to maximize exports. They wanted a trade surplus, you see. However, this zero-sum view—where one nation's gain is necessarily another's loss—was famously challenged by Adam Smith. Smith argued that wealth isn't just gold sitting in a vault; it's the total production of goods and services. He really shifted the focus from hoarding bullion to the idea that trade could actually be mutually beneficial for everyone involved.",
+    "transcript": "If we look back at the history of economic thought, specifically between the 16th and 18th centuries, the dominant philosophy was Mercantilism. Now, mercantilist thinkers essentially believed that a nation's wealth was determined by its store of precious metals, primarily gold and silver. To achieve this, governments imposed strict tariffs to minimize imports and did everything possible to maximize exports. They wanted a trade surplus, you see. However, this zero-sum view—where one nation's gain is necessarily another's loss—was famously challenged by Adam Smith. Smith argued that wealth isn't just gold sitting in a vault; it's the total production of goods and services. He really shifted the focus from hoarding bullion to the idea that trade could actually be mutually beneficial for everyone involved.",
+    "audio_text": "If we look back at the history of economic thought, specifically between the 16th and 18th centuries, the dominant philosophy was Mercantilism. Now, mercantilist thinkers essentially believed that a nation's wealth was determined by its store of precious metals, primarily gold and silver. To achieve this, governments imposed strict tariffs to minimize imports and did everything possible to maximize exports. They wanted a trade surplus, you see. However, this zero-sum view—where one nation's gain is necessarily another's loss—was famously challenged by Adam Smith. Smith argued that wealth isn't just gold sitting in a vault; it's the total production of goods and services. He really shifted the focus from hoarding bullion to the idea that trade could actually be mutually beneficial for everyone involved.",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "It prioritized the accumulation of precious metals as the standard of wealth",
+      "It advocated for free trade without government interference",
+      "It operated on the belief that trade balances should favor exports over imports",
+      "It defined wealth by the volume of goods and services produced",
+      "It viewed global trade as a mutually beneficial exchange"
+    ],
+    "answer": [
+      0,
+      2
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_mcq_multi-29",
+    "taskType": "lst_mcq_multi",
+    "prompt": "Listen to the recording and select all the correct responses.",
+    "text": "When managing technology portfolios, leaders frequently utilize the S-curve model to balance incremental and radical strategies. A technology typically starts with slow progress, followed by rapid acceleration as expertise grows. However, eventually, every technology hits a performance ceiling or physical limit. In this mature phase, companies find that large financial inputs result in diminishing returns. The strategic trap here is persisting with these minor tweaks to the existing system to squeeze out efficiency. Instead, the speaker suggests that when this plateau is reached, it is the precise moment to pivot and allocate resources to a radically different technological approach, even though abandoning a reliable, functioning system for something unproven is psychologically difficult.",
+    "transcript": "When managing technology portfolios, leaders frequently utilize the S-curve model to balance incremental and radical strategies. A technology typically starts with slow progress, followed by rapid acceleration as expertise grows. However, eventually, every technology hits a performance ceiling or physical limit. In this mature phase, companies find that large financial inputs result in diminishing returns. The strategic trap here is persisting with these minor tweaks to the existing system to squeeze out efficiency. Instead, the speaker suggests that when this plateau is reached, it is the precise moment to pivot and allocate resources to a radically different technological approach, even though abandoning a reliable, functioning system for something unproven is psychologically difficult.",
+    "audio_text": "When managing technology portfolios, leaders frequently utilize the S-curve model to balance incremental and radical strategies. A technology typically starts with slow progress, followed by rapid acceleration as expertise grows. However, eventually, every technology hits a performance ceiling or physical limit. In this mature phase, companies find that large financial inputs result in diminishing returns. The strategic trap here is persisting with these minor tweaks to the existing system to squeeze out efficiency. Instead, the speaker suggests that when this plateau is reached, it is the precise moment to pivot and allocate resources to a radically different technological approach, even though abandoning a reliable, functioning system for something unproven is psychologically difficult.",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "Significant financial investment yields minimal performance improvements",
+      "The technology becomes unreliable and prone to failure",
+      "It is the indicated time to shift resources to a completely new approach",
+      "Performance accelerates rapidly due to the accumulation of expertise",
+      "Managers find it easy to abandon the system for new alternatives"
+    ],
+    "answer": [
+      0,
+      2
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_mcq_multi-30",
+    "taskType": "lst_mcq_multi",
+    "prompt": "Listen to the recording and select all the correct responses.",
+    "text": "Let's consider the phenomenon known as 'superstar economics.' In a standard job, if you are slightly better than your coworker, you generally earn a little bit more. Pay is roughly proportional to your productivity. However, in superstar markets—such as music or professional athletics—small differences in talent result in massive income gaps. The key factor here is the ability to scale. For example, a doctor can only treat one patient at a time, meaning their income is limited by time. Conversely, a top singer can distribute a song to millions of listeners essentially for free due to technology. This leverage creates a winner-take-all dynamic where the top performers capture nearly all the rewards, leaving very little for those who are just slightly less talented.",
+    "transcript": "Let's consider the phenomenon known as 'superstar economics.' In a standard job, if you are slightly better than your coworker, you generally earn a little bit more. Pay is roughly proportional to your productivity. However, in superstar markets—such as music or professional athletics—small differences in talent result in massive income gaps. The key factor here is the ability to scale. For example, a doctor can only treat one patient at a time, meaning their income is limited by time. Conversely, a top singer can distribute a song to millions of listeners essentially for free due to technology. This leverage creates a winner-take-all dynamic where the top performers capture nearly all the rewards, leaving very little for those who are just slightly less talented.",
+    "audio_text": "Let's consider the phenomenon known as 'superstar economics.' In a standard job, if you are slightly better than your coworker, you generally earn a little bit more. Pay is roughly proportional to your productivity. However, in superstar markets—such as music or professional athletics—small differences in talent result in massive income gaps. The key factor here is the ability to scale. For example, a doctor can only treat one patient at a time, meaning their income is limited by time. Conversely, a top singer can distribute a song to millions of listeners essentially for free due to technology. This leverage creates a winner-take-all dynamic where the top performers capture nearly all the rewards, leaving very little for those who are just slightly less talented.",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "Income is strictly limited by the number of hours worked",
+      "Minor advantages in talent lead to disproportionately large financial rewards",
+      "The market is shared equally among the top and second-tier performers",
+      "Technology enables output to be distributed to a mass audience at minimal cost",
+      "Productivity is difficult to measure compared to traditional professions"
+    ],
+    "answer": [
+      1,
+      3
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_mcq_multi-31",
+    "taskType": "lst_mcq_multi",
+    "prompt": "Listen to the recording and select all the correct responses.",
+    "text": "For decades, the dominant philosophy in global manufacturing was 'Just-in-Time.' The economic logic was, uh, quite compelling: by minimizing inventory and receiving goods only right when they were needed, firms could drastically cut storage costs. It was all about efficiency. However, recent disruptions have really exposed the fragility of this model. You see, when a single link breaks, production halts because there is no buffer. Consequently, we're seeing a shift towards a 'Just-in-Case' strategy. Companies are now prioritizing resilience, effectively stockpiling critical components and diversifying their supplier base. While this increases operating expenses—since warehousing extra stock isn't cheap—it acts as an insurance policy against future shocks.",
+    "transcript": "For decades, the dominant philosophy in global manufacturing was 'Just-in-Time.' The economic logic was, uh, quite compelling: by minimizing inventory and receiving goods only right when they were needed, firms could drastically cut storage costs. It was all about efficiency. However, recent disruptions have really exposed the fragility of this model. You see, when a single link breaks, production halts because there is no buffer. Consequently, we're seeing a shift towards a 'Just-in-Case' strategy. Companies are now prioritizing resilience, effectively stockpiling critical components and diversifying their supplier base. While this increases operating expenses—since warehousing extra stock isn't cheap—it acts as an insurance policy against future shocks.",
+    "audio_text": "For decades, the dominant philosophy in global manufacturing was 'Just-in-Time.' The economic logic was, uh, quite compelling: by minimizing inventory and receiving goods only right when they were needed, firms could drastically cut storage costs. It was all about efficiency. However, recent disruptions have really exposed the fragility of this model. You see, when a single link breaks, production halts because there is no buffer. Consequently, we're seeing a shift towards a 'Just-in-Case' strategy. Companies are now prioritizing resilience, effectively stockpiling critical components and diversifying their supplier base. While this increases operating expenses—since warehousing extra stock isn't cheap—it acts as an insurance policy against future shocks.",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "It prioritizes minimizing storage costs to free up capital",
+      "It involves keeping extra inventory to guard against supply interruptions",
+      "It reduces the total operating expenses for manufacturing firms",
+      "It emphasizes supply chain resilience rather than pure efficiency",
+      "It relies on a single, highly reliable supplier to ensure consistency"
+    ],
+    "answer": [
+      1,
+      3
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_mcq_multi-32",
+    "taskType": "lst_mcq_multi",
+    "prompt": "Listen to the recording and select all the correct responses.",
+    "text": "Continuing our exploration of communication milestones, we turn to the optical telegraph, a precursor to modern messaging developed in late 18th-century France. Invented by Claude Chappe and his brothers, this system utilized a chain of towers, each topped with large, movable wooden arms. Operators would manipulate these arms into distinct configurations to transmit codes, which were then sighted by the next tower via telescope. This innovation drastically reduced the time needed to send dispatches across the country, turning days of travel into mere hours. Yet, the system had significant limitations. It relied entirely on clear lines of sight, meaning operations halted during the night or in heavy fog. Additionally, the network demanded high operational costs due to the need for numerous manned stations, which effectively restricted its use to government and military purposes rather than the general public.",
+    "transcript": "Continuing our exploration of communication milestones, we turn to the optical telegraph, a precursor to modern messaging developed in late 18th-century France. Invented by Claude Chappe and his brothers, this system utilized a chain of towers, each topped with large, movable wooden arms. Operators would manipulate these arms into distinct configurations to transmit codes, which were then sighted by the next tower via telescope. This innovation drastically reduced the time needed to send dispatches across the country, turning days of travel into mere hours. Yet, the system had significant limitations. It relied entirely on clear lines of sight, meaning operations halted during the night or in heavy fog. Additionally, the network demanded high operational costs due to the need for numerous manned stations, which effectively restricted its use to government and military purposes rather than the general public.",
+    "audio_text": "Continuing our exploration of communication milestones, we turn to the optical telegraph, a precursor to modern messaging developed in late 18th-century France. Invented by Claude Chappe and his brothers, this system utilized a chain of towers, each topped with large, movable wooden arms. Operators would manipulate these arms into distinct configurations to transmit codes, which were then sighted by the next tower via telescope. This innovation drastically reduced the time needed to send dispatches across the country, turning days of travel into mere hours. Yet, the system had significant limitations. It relied entirely on clear lines of sight, meaning operations halted during the night or in heavy fog. Additionally, the network demanded high operational costs due to the need for numerous manned stations, which effectively restricted its use to government and military purposes rather than the general public.",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "It significantly accelerated the speed of communication.",
+      "It was designed to be affordable for the general public.",
+      "It was unable to function during poor visibility conditions.",
+      "It relied on a network of underground electrical cables.",
+      "It was the invention of a single scientist."
+    ],
+    "answer": [
+      0,
+      2
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_mcq_multi-33",
+    "taskType": "lst_mcq_multi",
+    "prompt": "Listen to the recording and select all the correct responses.",
+    "text": "Consider the typewriter, a machine that revolutionized communication. Although Christopher Latham Sholes patented a successful model in 1868, he was building on a concept many inventors had previously attempted without market success. The true innovation was the keyboard layout. In early models, metal typebars would jam if adjacent keys were struck quickly. To address this, Sholes developed the QWERTY layout, strategically separating common letter pairs. This design was actually intended to slow typists down to prevent jamming. Yet, it became the universal standard. Today, we continue to use this configuration, despite the fact that the original mechanical constraints no longer exist.",
+    "transcript": "Consider the typewriter, a machine that revolutionized communication. Although Christopher Latham Sholes patented a successful model in 1868, he was building on a concept many inventors had previously attempted without market success. The true innovation was the keyboard layout. In early models, metal typebars would jam if adjacent keys were struck quickly. To address this, Sholes developed the QWERTY layout, strategically separating common letter pairs. This design was actually intended to slow typists down to prevent jamming. Yet, it became the universal standard. Today, we continue to use this configuration, despite the fact that the original mechanical constraints no longer exist.",
+    "audio_text": "Consider the typewriter, a machine that revolutionized communication. Although Christopher Latham Sholes patented a successful model in 1868, he was building on a concept many inventors had previously attempted without market success. The true innovation was the keyboard layout. In early models, metal typebars would jam if adjacent keys were struck quickly. To address this, Sholes developed the QWERTY layout, strategically separating common letter pairs. This design was actually intended to slow typists down to prevent jamming. Yet, it became the universal standard. Today, we continue to use this configuration, despite the fact that the original mechanical constraints no longer exist.",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "The QWERTY layout was created to prevent the machine's mechanism from jamming.",
+      "Sholes was the first person to attempt to build a typewriter.",
+      "The layout was originally designed to keep frequently used letters close together.",
+      "Modern keyboards retain a design feature that is no longer mechanically necessary.",
+      "The original purpose of the QWERTY layout was to significantly speed up typing."
+    ],
+    "answer": [
+      0,
+      3
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_mcq_multi-34",
+    "taskType": "lst_mcq_multi",
+    "prompt": "Listen to the recording and select all the correct responses.",
+    "text": "In traditional global strategy, companies often practice 'glocalization'—adapting premium products from wealthy countries for emerging markets by removing features to cut costs. However, we are witnessing a rise in 'reverse innovation,' which fundamentally flips this dynamic. Here, products are designed from scratch specifically to meet the harsh constraints of developing nations. This necessity drives engineers to prioritize extreme durability, simplicity, and low power consumption. Interestingly, these attributes often make the resulting products highly competitive back in developed economies. For example, a portable medical device created for rural clinics may eventually succeed in Western hospitals because it offers portability that complex, expensive machines lack. Consequently, emerging markets are becoming the launchpads for global solutions, rather than just recipients of watered-down technology.",
+    "transcript": "In traditional global strategy, companies often practice 'glocalization'—adapting premium products from wealthy countries for emerging markets by removing features to cut costs. However, we are witnessing a rise in 'reverse innovation,' which fundamentally flips this dynamic. Here, products are designed from scratch specifically to meet the harsh constraints of developing nations. This necessity drives engineers to prioritize extreme durability, simplicity, and low power consumption. Interestingly, these attributes often make the resulting products highly competitive back in developed economies. For example, a portable medical device created for rural clinics may eventually succeed in Western hospitals because it offers portability that complex, expensive machines lack. Consequently, emerging markets are becoming the launchpads for global solutions, rather than just recipients of watered-down technology.",
+    "audio_text": "In traditional global strategy, companies often practice 'glocalization'—adapting premium products from wealthy countries for emerging markets by removing features to cut costs. However, we are witnessing a rise in 'reverse innovation,' which fundamentally flips this dynamic. Here, products are designed from scratch specifically to meet the harsh constraints of developing nations. This necessity drives engineers to prioritize extreme durability, simplicity, and low power consumption. Interestingly, these attributes often make the resulting products highly competitive back in developed economies. For example, a portable medical device created for rural clinics may eventually succeed in Western hospitals because it offers portability that complex, expensive machines lack. Consequently, emerging markets are becoming the launchpads for global solutions, rather than just recipients of watered-down technology.",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "It involves stripping features from existing products to lower prices",
+      "It produces goods that can become successful in developed markets",
+      "It focuses on designing for durability and specific local constraints",
+      "It relies on government subsidies to offset manufacturing costs",
+      "It is primarily used to market luxury goods to developing nations"
+    ],
+    "answer": [
+      1,
+      2
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_mcq_multi-35",
+    "taskType": "lst_mcq_multi",
+    "prompt": "Listen to the recording and select all the correct responses.",
+    "text": "When we examine why some nations prosper while others struggle, the debate often centers on two drivers: geography and institutions. For a long time, the geographical hypothesis was dominant, arguing that climate and natural resources primarily determined a country's wealth. However, recent economic history suggests institutions matter far more. We can observe this in border regions where geography is identical, yet economic outcomes differ vastly due to political boundaries. It turns out that secure property rights and an impartial legal system are better predictors of prosperity than having abundant minerals or a temperate climate. While geography isn't irrelevant, it’s the rules of the game—the institutions—that truly drive long-term success.",
+    "transcript": "When we examine why some nations prosper while others struggle, the debate often centers on two drivers: geography and institutions. For a long time, the geographical hypothesis was dominant, arguing that climate and natural resources primarily determined a country's wealth. However, recent economic history suggests institutions matter far more. We can observe this in border regions where geography is identical, yet economic outcomes differ vastly due to political boundaries. It turns out that secure property rights and an impartial legal system are better predictors of prosperity than having abundant minerals or a temperate climate. While geography isn't irrelevant, it’s the rules of the game—the institutions—that truly drive long-term success.",
+    "audio_text": "When we examine why some nations prosper while others struggle, the debate often centers on two drivers: geography and institutions. For a long time, the geographical hypothesis was dominant, arguing that climate and natural resources primarily determined a country's wealth. However, recent economic history suggests institutions matter far more. We can observe this in border regions where geography is identical, yet economic outcomes differ vastly due to political boundaries. It turns out that secure property rights and an impartial legal system are better predictors of prosperity than having abundant minerals or a temperate climate. While geography isn't irrelevant, it’s the rules of the game—the institutions—that truly drive long-term success.",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "The geographical hypothesis suggests that climate determines a nation's wealth",
+      "Economic outcomes in border regions are typically uniform regardless of politics",
+      "Secure property rights are a better predictor of success than natural resources",
+      "The speaker argues that geography is completely irrelevant to economic outcomes",
+      "Institutions are referred to by the speaker as the \"rules of the game\""
+    ],
+    "answer": [
+      0,
+      2,
+      4
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_mcq_multi-36",
+    "taskType": "lst_mcq_multi",
+    "prompt": "Listen to the recording and select all the correct responses.",
+    "text": "For decades, the standard model for multinational corporations involved developing high-end products for wealthy nations and then stripping away features to sell cheaper versions in developing economies. However, this approach is being upended by what we call 'reverse innovation.' Instead of merely de-featuring existing goods, teams are designing sophisticated, low-cost solutions from scratch specifically for emerging markets. Interestingly, these distinct products, such as portable, battery-operated medical devices, are finding their way back into Western markets. They succeed there because they offer high performance at a fraction of the cost. This shift challenges established companies to rethink their engineering, as the strict resource constraints of developing nations actually drive superior efficiency and durability.",
+    "transcript": "For decades, the standard model for multinational corporations involved developing high-end products for wealthy nations and then stripping away features to sell cheaper versions in developing economies. However, this approach is being upended by what we call 'reverse innovation.' Instead of merely de-featuring existing goods, teams are designing sophisticated, low-cost solutions from scratch specifically for emerging markets. Interestingly, these distinct products, such as portable, battery-operated medical devices, are finding their way back into Western markets. They succeed there because they offer high performance at a fraction of the cost. This shift challenges established companies to rethink their engineering, as the strict resource constraints of developing nations actually drive superior efficiency and durability.",
+    "audio_text": "For decades, the standard model for multinational corporations involved developing high-end products for wealthy nations and then stripping away features to sell cheaper versions in developing economies. However, this approach is being upended by what we call 'reverse innovation.' Instead of merely de-featuring existing goods, teams are designing sophisticated, low-cost solutions from scratch specifically for emerging markets. Interestingly, these distinct products, such as portable, battery-operated medical devices, are finding their way back into Western markets. They succeed there because they offer high performance at a fraction of the cost. This shift challenges established companies to rethink their engineering, as the strict resource constraints of developing nations actually drive superior efficiency and durability.",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "It involves modifying existing premium products to reduce their price.",
+      "It entails creating new product designs specifically for developing markets.",
+      "It often produces goods that are competitive in developed economies.",
+      "It results in products with lower durability due to the use of cheaper materials.",
+      "It allows companies to sell outdated inventory to emerging nations."
+    ],
+    "answer": [
+      1,
+      2
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_mcq_multi-37",
+    "taskType": "lst_mcq_multi",
+    "prompt": "Listen to the recording and select all the correct responses.",
+    "text": "In the lifecycle of technology-intensive industries, we often witness the emergence of a 'dominant design.' Initially, there is a fluid phase characterized by chaotic experimentation with various product configurations. Eventually, however, the market converges on a single architecture that becomes the standard, much like the VHS format or the internal combustion engine. It is important to note that this winning design is not necessarily the most technically advanced; often, market dynamics or timing dictate the winner rather than pure performance metrics. Once established, the nature of competition transforms. Manufacturers largely cease radical product experiments and instead prioritize process innovation, seeking to drive down production costs and maximize efficiency to survive.",
+    "transcript": "In the lifecycle of technology-intensive industries, we often witness the emergence of a 'dominant design.' Initially, there is a fluid phase characterized by chaotic experimentation with various product configurations. Eventually, however, the market converges on a single architecture that becomes the standard, much like the VHS format or the internal combustion engine. It is important to note that this winning design is not necessarily the most technically advanced; often, market dynamics or timing dictate the winner rather than pure performance metrics. Once established, the nature of competition transforms. Manufacturers largely cease radical product experiments and instead prioritize process innovation, seeking to drive down production costs and maximize efficiency to survive.",
+    "audio_text": "In the lifecycle of technology-intensive industries, we often witness the emergence of a 'dominant design.' Initially, there is a fluid phase characterized by chaotic experimentation with various product configurations. Eventually, however, the market converges on a single architecture that becomes the standard, much like the VHS format or the internal combustion engine. It is important to note that this winning design is not necessarily the most technically advanced; often, market dynamics or timing dictate the winner rather than pure performance metrics. Once established, the nature of competition transforms. Manufacturers largely cease radical product experiments and instead prioritize process innovation, seeking to drive down production costs and maximize efficiency to survive.",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "It is invariably selected for its superior technical performance",
+      "It shifts the industry focus toward refining manufacturing processes",
+      "It eliminates the necessity for further investment in the industry",
+      "It can succeed even if it lacks the highest technical specifications",
+      "It is usually the result of strict government standardization"
+    ],
+    "answer": [
+      1,
+      3
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_mcq_multi-38",
+    "taskType": "lst_mcq_multi",
+    "prompt": "Listen to the recording and select all the correct responses.",
+    "text": "One of the enduring puzzles in economic geography is why specific industries cluster in certain cities, a phenomenon known as agglomeration. You might assume that rapid advances in digital communication would trigger the 'death of distance,' allowing firms to disperse to cheaper locations. However, the opposite has occurred. Firms continue to congregate to access deep pools of specialized labor—engineers or financiers who simply aren't available in smaller markets. Beyond just hiring, there is the crucial factor of 'knowledge spillovers.' Innovation often relies on informal, face-to-face exchanges—unexpected conversations in a coffee shop, for instance—which facilitate the flow of complex ideas far better than remote correspondence. While clustering does drive up land prices, the productivity gains from these dense, interactive networks generally outweigh the financial burden of high rents.",
+    "transcript": "One of the enduring puzzles in economic geography is why specific industries cluster in certain cities, a phenomenon known as agglomeration. You might assume that rapid advances in digital communication would trigger the 'death of distance,' allowing firms to disperse to cheaper locations. However, the opposite has occurred. Firms continue to congregate to access deep pools of specialized labor—engineers or financiers who simply aren't available in smaller markets. Beyond just hiring, there is the crucial factor of 'knowledge spillovers.' Innovation often relies on informal, face-to-face exchanges—unexpected conversations in a coffee shop, for instance—which facilitate the flow of complex ideas far better than remote correspondence. While clustering does drive up land prices, the productivity gains from these dense, interactive networks generally outweigh the financial burden of high rents.",
+    "audio_text": "One of the enduring puzzles in economic geography is why specific industries cluster in certain cities, a phenomenon known as agglomeration. You might assume that rapid advances in digital communication would trigger the 'death of distance,' allowing firms to disperse to cheaper locations. However, the opposite has occurred. Firms continue to congregate to access deep pools of specialized labor—engineers or financiers who simply aren't available in smaller markets. Beyond just hiring, there is the crucial factor of 'knowledge spillovers.' Innovation often relies on informal, face-to-face exchanges—unexpected conversations in a coffee shop, for instance—which facilitate the flow of complex ideas far better than remote correspondence. While clustering does drive up land prices, the productivity gains from these dense, interactive networks generally outweigh the financial burden of high rents.",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "access to a concentrated supply of specialized workers",
+      "significantly reduced operational costs and rents",
+      "opportunities for informal, face-to-face knowledge sharing",
+      "the ability to eliminate reliance on digital communication",
+      "avoidance of the competitive pressures found in smaller markets"
+    ],
+    "answer": [
+      0,
+      2
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_mcq_multi-39",
+    "taskType": "lst_mcq_multi",
+    "prompt": "Listen to the recording and select all the correct responses.",
+    "text": "For centuries, global economies relied on commodity money, where currency was directly backed by physical assets like gold or silver. This system, often called the gold standard, offered inherent stability since the money supply was constrained by tangible reserves. Yet, this very constraint became a liability during severe downturns, as governments lacked the tools to inject liquidity quickly. In contrast, today's dominant system is fiat money. Unlike its predecessor, fiat currency derives its value solely from government decree and the public's trust in the issuer's economic stability. This shift has empowered central banks to actively manage the economy by adjusting interest rates or increasing the money supply. However, this flexibility is a double-edged sword; without careful management, excessive printing of fiat money can lead to rapid devaluation.",
+    "transcript": "For centuries, global economies relied on commodity money, where currency was directly backed by physical assets like gold or silver. This system, often called the gold standard, offered inherent stability since the money supply was constrained by tangible reserves. Yet, this very constraint became a liability during severe downturns, as governments lacked the tools to inject liquidity quickly. In contrast, today's dominant system is fiat money. Unlike its predecessor, fiat currency derives its value solely from government decree and the public's trust in the issuer's economic stability. This shift has empowered central banks to actively manage the economy by adjusting interest rates or increasing the money supply. However, this flexibility is a double-edged sword; without careful management, excessive printing of fiat money can lead to rapid devaluation.",
+    "audio_text": "For centuries, global economies relied on commodity money, where currency was directly backed by physical assets like gold or silver. This system, often called the gold standard, offered inherent stability since the money supply was constrained by tangible reserves. Yet, this very constraint became a liability during severe downturns, as governments lacked the tools to inject liquidity quickly. In contrast, today's dominant system is fiat money. Unlike its predecessor, fiat currency derives its value solely from government decree and the public's trust in the issuer's economic stability. This shift has empowered central banks to actively manage the economy by adjusting interest rates or increasing the money supply. However, this flexibility is a double-edged sword; without careful management, excessive printing of fiat money can lead to rapid devaluation.",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "It draws its value from government authority and public confidence rather than physical assets.",
+      "It limits the ability of central banks to intervene during economic crises.",
+      "It allows policymakers greater flexibility to influence the economy through monetary adjustments.",
+      "It guarantees that inflation will remain lower than under commodity-based systems.",
+      "It requires the money supply to be strictly tied to a nation's tangible reserves."
+    ],
+    "answer": [
+      0,
+      2
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_mcq_multi-40",
+    "taskType": "lst_mcq_multi",
+    "prompt": "Listen to the recording and select all the correct responses.",
+    "text": "Now, let's consider the transition from uh commodity money to modern fiat currency. Historically, items like gold or silver coins served as money because they possessed intrinsic value, meaning the metal itself was useful and scarce. This provided a natural, stable store of value. In contrast, today's fiat currency, like the dollar or euro, has no intrinsic worth; it’s essentially just paper or digital code. Its value relies entirely on government decree and, crucially, public trust. If that trust evaporates, the currency becomes worthless. While this system allows central banks more flexibility to manage the economy during crises, critics argue it inherently risks inflation since there’s no physical limit on how much money can be created, unlike the finite supply of gold.",
+    "transcript": "Now, let's consider the transition from uh commodity money to modern fiat currency. Historically, items like gold or silver coins served as money because they possessed intrinsic value, meaning the metal itself was useful and scarce. This provided a natural, stable store of value. In contrast, today's fiat currency, like the dollar or euro, has no intrinsic worth; it’s essentially just paper or digital code. Its value relies entirely on government decree and, crucially, public trust. If that trust evaporates, the currency becomes worthless. While this system allows central banks more flexibility to manage the economy during crises, critics argue it inherently risks inflation since there’s no physical limit on how much money can be created, unlike the finite supply of gold.",
+    "audio_text": "Now, let's consider the transition from uh commodity money to modern fiat currency. Historically, items like gold or silver coins served as money because they possessed intrinsic value, meaning the metal itself was useful and scarce. This provided a natural, stable store of value. In contrast, today's fiat currency, like the dollar or euro, has no intrinsic worth; it’s essentially just paper or digital code. Its value relies entirely on government decree and, crucially, public trust. If that trust evaporates, the currency becomes worthless. While this system allows central banks more flexibility to manage the economy during crises, critics argue it inherently risks inflation since there’s no physical limit on how much money can be created, unlike the finite supply of gold.",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "It relies on public confidence to maintain its worth",
+      "It provides a fail-safe against inflationary pressures",
+      "It offers central banks greater control during economic difficulties",
+      "It derives its value from the scarcity of the material used to make it",
+      "It is preferred by critics for its natural supply limits"
+    ],
+    "answer": [
+      0,
+      2
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_mcq_multi-41",
+    "taskType": "lst_mcq_multi",
+    "prompt": "Listen to the recording and select all the correct responses.",
+    "text": "Today we're examining the shift in timekeeping technology during the Middle Ages. For centuries, water clocks were the standard, but they had significant limitations—specifically, they would freeze during the cold European winters, rendering them useless. This was a critical problem for monasteries, where monks were required to wake for prayers at precise intervals throughout the night. Consequently, the first mechanical clocks were developed in the late 13th century to address this need. Interestingly, these early machines didn't look like the clocks we know today; they lacked dials or hands and functioned solely by striking a bell to signal the hour. While they solved the freezing issue, they were notoriously inaccurate by modern standards, often drifting by up to 15 minutes a day, yet they represented a monumental leap in engineering.",
+    "transcript": "Today we're examining the shift in timekeeping technology during the Middle Ages. For centuries, water clocks were the standard, but they had significant limitations—specifically, they would freeze during the cold European winters, rendering them useless. This was a critical problem for monasteries, where monks were required to wake for prayers at precise intervals throughout the night. Consequently, the first mechanical clocks were developed in the late 13th century to address this need. Interestingly, these early machines didn't look like the clocks we know today; they lacked dials or hands and functioned solely by striking a bell to signal the hour. While they solved the freezing issue, they were notoriously inaccurate by modern standards, often drifting by up to 15 minutes a day, yet they represented a monumental leap in engineering.",
+    "audio_text": "Today we're examining the shift in timekeeping technology during the Middle Ages. For centuries, water clocks were the standard, but they had significant limitations—specifically, they would freeze during the cold European winters, rendering them useless. This was a critical problem for monasteries, where monks were required to wake for prayers at precise intervals throughout the night. Consequently, the first mechanical clocks were developed in the late 13th century to address this need. Interestingly, these early machines didn't look like the clocks we know today; they lacked dials or hands and functioned solely by striking a bell to signal the hour. While they solved the freezing issue, they were notoriously inaccurate by modern standards, often drifting by up to 15 minutes a day, yet they represented a monumental leap in engineering.",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "They were created to function in weather conditions that disabled water clocks",
+      "They featured visual dials that allowed users to read the time accurately",
+      "They indicated the passing of the hour exclusively through sound",
+      "They were immediately recognized for their high level of precision",
+      "They were primarily designed to regulate agricultural schedules"
+    ],
+    "answer": [
+      0,
+      2
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_mcq_multi-42",
+    "taskType": "lst_mcq_multi",
+    "prompt": "Listen to the recording and select all the correct responses.",
+    "text": "Traditionally, companies relied on a closed innovation model, keeping all research and development strictly within their own walls to protect intellectual property. However, in today's hyper-connected world, this approach is becoming obsolete. Enter 'open innovation,' a paradigm that assumes firms can and should use external ideas as well as internal ones. By collaborating with universities, startups, and even competitors, organizations can accelerate their product development cycles significantly. It’s not just about speed, though; it also spreads the risks associated with R&D. Yet, this shift isn't without hurdles. The biggest barrier often isn't legal, but cultural—the 'not invented here' syndrome where internal teams reject outside solutions. Overcoming this mindset is crucial for reaping the benefits of shared knowledge.",
+    "transcript": "Traditionally, companies relied on a closed innovation model, keeping all research and development strictly within their own walls to protect intellectual property. However, in today's hyper-connected world, this approach is becoming obsolete. Enter 'open innovation,' a paradigm that assumes firms can and should use external ideas as well as internal ones. By collaborating with universities, startups, and even competitors, organizations can accelerate their product development cycles significantly. It’s not just about speed, though; it also spreads the risks associated with R&D. Yet, this shift isn't without hurdles. The biggest barrier often isn't legal, but cultural—the 'not invented here' syndrome where internal teams reject outside solutions. Overcoming this mindset is crucial for reaping the benefits of shared knowledge.",
+    "audio_text": "Traditionally, companies relied on a closed innovation model, keeping all research and development strictly within their own walls to protect intellectual property. However, in today's hyper-connected world, this approach is becoming obsolete. Enter 'open innovation,' a paradigm that assumes firms can and should use external ideas as well as internal ones. By collaborating with universities, startups, and even competitors, organizations can accelerate their product development cycles significantly. It’s not just about speed, though; it also spreads the risks associated with R&D. Yet, this shift isn't without hurdles. The biggest barrier often isn't legal, but cultural—the 'not invented here' syndrome where internal teams reject outside solutions. Overcoming this mindset is crucial for reaping the benefits of shared knowledge.",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "It allows companies to bring products to market more quickly",
+      "It eliminates the need for internal research and development teams",
+      "It helps to distribute the risks involved in the innovation process",
+      "It is primarily hindered by complex legal restrictions",
+      "It focuses on keeping intellectual property exclusive to the firm"
+    ],
+    "answer": [
+      0,
+      2
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_mcq_multi-43",
+    "taskType": "lst_mcq_multi",
+    "prompt": "Listen to the recording and select all the correct responses.",
+    "text": "When discussing the pivotal moments of the Industrial Revolution, we must examine the evolution of the steam engine. Although James Watt is frequently celebrated as its inventor, he essentially optimized a pre-existing machine created by Thomas Newcomen decades earlier. Newcomen’s atmospheric engine was functional but notoriously wasteful, consuming vast quantities of coal to heat and cool a single cylinder repeatedly. Watt’s genius lay in introducing a separate condenser, which maintained the cylinder's temperature and significantly curbed fuel waste. This modification liberated industry from the geographical constraints of water power, allowing factories to migrate away from riverbanks and into urban centers.",
+    "transcript": "When discussing the pivotal moments of the Industrial Revolution, we must examine the evolution of the steam engine. Although James Watt is frequently celebrated as its inventor, he essentially optimized a pre-existing machine created by Thomas Newcomen decades earlier. Newcomen’s atmospheric engine was functional but notoriously wasteful, consuming vast quantities of coal to heat and cool a single cylinder repeatedly. Watt’s genius lay in introducing a separate condenser, which maintained the cylinder's temperature and significantly curbed fuel waste. This modification liberated industry from the geographical constraints of water power, allowing factories to migrate away from riverbanks and into urban centers.",
+    "audio_text": "When discussing the pivotal moments of the Industrial Revolution, we must examine the evolution of the steam engine. Although James Watt is frequently celebrated as its inventor, he essentially optimized a pre-existing machine created by Thomas Newcomen decades earlier. Newcomen’s atmospheric engine was functional but notoriously wasteful, consuming vast quantities of coal to heat and cool a single cylinder repeatedly. Watt’s genius lay in introducing a separate condenser, which maintained the cylinder's temperature and significantly curbed fuel waste. This modification liberated industry from the geographical constraints of water power, allowing factories to migrate away from riverbanks and into urban centers.",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "James Watt improved the efficiency of an earlier engine design.",
+      "Newcomen’s engine failed to function because of excessive heat.",
+      "Industrial sites were no longer bound to riverbanks after Watt’s innovation.",
+      "The separate condenser increased the amount of coal required.",
+      "Water power remained the primary energy source for urban centers."
+    ],
+    "answer": [
+      0,
+      2
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_mcq_multi-44",
+    "taskType": "lst_mcq_multi",
+    "prompt": "Listen to the recording and select all the correct responses.",
+    "text": "Traditionally, companies relied on a closed innovation model, keeping all research and development within their own secret laboratories. They believed that to lead the market, they had to originate every idea internally. However, this approach is fading in favor of 'Open Innovation,' where firms actively integrate external concepts with their own. One major advantage is speed; by collaborating with partners or licensing technology, companies can bring products to market much faster than if they started from scratch. Additionally, it mitigates risk, as development costs are often shared. However, it is not seamless. Managing intellectual property rights becomes significantly more complicated when multiple parties are involved, and internal teams may reject outside ideas due to cultural biases, often referred to as the 'Not Invented Here' syndrome.",
+    "transcript": "Traditionally, companies relied on a closed innovation model, keeping all research and development within their own secret laboratories. They believed that to lead the market, they had to originate every idea internally. However, this approach is fading in favor of 'Open Innovation,' where firms actively integrate external concepts with their own. One major advantage is speed; by collaborating with partners or licensing technology, companies can bring products to market much faster than if they started from scratch. Additionally, it mitigates risk, as development costs are often shared. However, it is not seamless. Managing intellectual property rights becomes significantly more complicated when multiple parties are involved, and internal teams may reject outside ideas due to cultural biases, often referred to as the 'Not Invented Here' syndrome.",
+    "audio_text": "Traditionally, companies relied on a closed innovation model, keeping all research and development within their own secret laboratories. They believed that to lead the market, they had to originate every idea internally. However, this approach is fading in favor of 'Open Innovation,' where firms actively integrate external concepts with their own. One major advantage is speed; by collaborating with partners or licensing technology, companies can bring products to market much faster than if they started from scratch. Additionally, it mitigates risk, as development costs are often shared. However, it is not seamless. Managing intellectual property rights becomes significantly more complicated when multiple parties are involved, and internal teams may reject outside ideas due to cultural biases, often referred to as the 'Not Invented Here' syndrome.",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "It allows for a quicker product launch compared to traditional methods",
+      "It makes the management of intellectual property rights straightforward",
+      "It can be hindered by the negative attitudes of internal employees",
+      "It replaces the need for companies to conduct their own research",
+      "It places the entire financial cost of failure on one company"
+    ],
+    "answer": [
+      0,
+      2
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_mcq_multi-45",
+    "taskType": "lst_mcq_multi",
+    "prompt": "Listen to the recording and select all the correct responses.",
+    "text": "While many businesses are eager to adopt artificial intelligence to boost efficiency, they often underestimate the foundational work required. The most significant barrier is usually the state of the company's data. AI models crave structured, high-quality information, but in reality, corporate data is often fragmented across different departments or incomplete. Before any AI can be useful, this data mess must be cleaned up. Another common pitfall is neglecting the human element. Introducing automation can create anxiety among staff who worry about redundancy. Unless managers clearly communicate that AI is intended to augment human roles rather than eliminate them, they will likely face internal pushback. Unlike traditional software updates, AI requires a shift in mindset, where employees are encouraged to collaborate with the technology rather than view it as a threat.",
+    "transcript": "While many businesses are eager to adopt artificial intelligence to boost efficiency, they often underestimate the foundational work required. The most significant barrier is usually the state of the company's data. AI models crave structured, high-quality information, but in reality, corporate data is often fragmented across different departments or incomplete. Before any AI can be useful, this data mess must be cleaned up. Another common pitfall is neglecting the human element. Introducing automation can create anxiety among staff who worry about redundancy. Unless managers clearly communicate that AI is intended to augment human roles rather than eliminate them, they will likely face internal pushback. Unlike traditional software updates, AI requires a shift in mindset, where employees are encouraged to collaborate with the technology rather than view it as a threat.",
+    "audio_text": "While many businesses are eager to adopt artificial intelligence to boost efficiency, they often underestimate the foundational work required. The most significant barrier is usually the state of the company's data. AI models crave structured, high-quality information, but in reality, corporate data is often fragmented across different departments or incomplete. Before any AI can be useful, this data mess must be cleaned up. Another common pitfall is neglecting the human element. Introducing automation can create anxiety among staff who worry about redundancy. Unless managers clearly communicate that AI is intended to augment human roles rather than eliminate them, they will likely face internal pushback. Unlike traditional software updates, AI requires a shift in mindset, where employees are encouraged to collaborate with the technology rather than view it as a threat.",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "High financial costs of the technology",
+      "Fragmented or poor quality data",
+      "Resistance from staff due to job security fears",
+      "Lack of technical support from vendors",
+      "Incompatibility with older computer systems"
+    ],
+    "answer": [
+      1,
+      2
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_mcq_multi-46",
+    "taskType": "lst_mcq_multi",
+    "prompt": "Listen to the recording and select all the correct responses.",
+    "text": "When we talk about decision-making in economics, we often focus on the concept of opportunity cost. Now, strictly speaking, this isn't simply the financial price tag you see on a product. It’s actually the value of the next best alternative that you give up when you make a choice. Crucially, this applies to resources like time just as much as it does to capital. For instance, if a business owner decides to use their own empty warehouse for a new project, they often forget to account for the rent they could have earned by leasing it out to someone else. That lost rent is a real economic cost. By ignoring these implicit costs, companies frequently overestimate their potential profits, leading to strategic errors.",
+    "transcript": "When we talk about decision-making in economics, we often focus on the concept of opportunity cost. Now, strictly speaking, this isn't simply the financial price tag you see on a product. It’s actually the value of the next best alternative that you give up when you make a choice. Crucially, this applies to resources like time just as much as it does to capital. For instance, if a business owner decides to use their own empty warehouse for a new project, they often forget to account for the rent they could have earned by leasing it out to someone else. That lost rent is a real economic cost. By ignoring these implicit costs, companies frequently overestimate their potential profits, leading to strategic errors.",
+    "audio_text": "When we talk about decision-making in economics, we often focus on the concept of opportunity cost. Now, strictly speaking, this isn't simply the financial price tag you see on a product. It’s actually the value of the next best alternative that you give up when you make a choice. Crucially, this applies to resources like time just as much as it does to capital. For instance, if a business owner decides to use their own empty warehouse for a new project, they often forget to account for the rent they could have earned by leasing it out to someone else. That lost rent is a real economic cost. By ignoring these implicit costs, companies frequently overestimate their potential profits, leading to strategic errors.",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "It is defined strictly by the initial financial price of a product.",
+      "It encompasses the value of the alternative option that was not chosen.",
+      "It applies to non-monetary resources such as time.",
+      "It is typically overestimated by business owners planning new projects.",
+      "It allows businesses to lease out properties more effectively."
+    ],
+    "answer": [
+      1,
+      2
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_mcq_multi-47",
+    "taskType": "lst_mcq_multi",
+    "prompt": "Listen to the recording and select all the correct responses.",
+    "text": "In the context of technological evolution, the S-curve illustrates how performance changes relative to effort. At the outset, progress is often frustratingly slow. Despite heavy investment, technical obstacles limit performance gains, keeping the curve flat. This changes once foundational problems are solved, leading to a period of explosive growth where minor tweaks yield major advancements. Ultimately, however, the technology matures and hits a ceiling. At this stage, throwing more money at the problem results in diminishing returns. The critical strategic challenge for established firms is recognizing this plateau. They must be willing to jump to a new, rising S-curve, which often means leaving behind the legacy technology that defined their past success.",
+    "transcript": "In the context of technological evolution, the S-curve illustrates how performance changes relative to effort. At the outset, progress is often frustratingly slow. Despite heavy investment, technical obstacles limit performance gains, keeping the curve flat. This changes once foundational problems are solved, leading to a period of explosive growth where minor tweaks yield major advancements. Ultimately, however, the technology matures and hits a ceiling. At this stage, throwing more money at the problem results in diminishing returns. The critical strategic challenge for established firms is recognizing this plateau. They must be willing to jump to a new, rising S-curve, which often means leaving behind the legacy technology that defined their past success.",
+    "audio_text": "In the context of technological evolution, the S-curve illustrates how performance changes relative to effort. At the outset, progress is often frustratingly slow. Despite heavy investment, technical obstacles limit performance gains, keeping the curve flat. This changes once foundational problems are solved, leading to a period of explosive growth where minor tweaks yield major advancements. Ultimately, however, the technology matures and hits a ceiling. At this stage, throwing more money at the problem results in diminishing returns. The critical strategic challenge for established firms is recognizing this plateau. They must be willing to jump to a new, rising S-curve, which often means leaving behind the legacy technology that defined their past success.",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "Significant resources in the early phase result in minimal progress",
+      "The most rapid performance gains occur immediately after launch",
+      "Improvements eventually become negligible despite continued funding",
+      "Companies should avoid switching technologies to protect their market share",
+      "Physical limits are usually overcome by increasing financial investment"
+    ],
+    "answer": [
+      0,
+      2
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_mcq_multi-48",
+    "taskType": "lst_mcq_multi",
+    "prompt": "Listen to the recording and select all the correct responses.",
+    "text": "When we discuss innovation, the spotlight almost always falls on product innovation—the tangible, shiny new gadget that consumers can hold. However, process innovation is often where the real, sustainable competitive advantage lies. Unlike a new product feature, which can be reverse-engineered by competitors within months, a radically efficient manufacturing process or a unique logistics system is far more difficult to observe and replicate. Consider how changing the sequence of assembly or reducing waste in the supply chain can lower costs dramatically. While product innovation generally drives revenue growth, process innovation typically drives efficiency and profit margins. It’s less visible to the public, but for a company’s long-term survival, it is often the stronger pillar.",
+    "transcript": "When we discuss innovation, the spotlight almost always falls on product innovation—the tangible, shiny new gadget that consumers can hold. However, process innovation is often where the real, sustainable competitive advantage lies. Unlike a new product feature, which can be reverse-engineered by competitors within months, a radically efficient manufacturing process or a unique logistics system is far more difficult to observe and replicate. Consider how changing the sequence of assembly or reducing waste in the supply chain can lower costs dramatically. While product innovation generally drives revenue growth, process innovation typically drives efficiency and profit margins. It’s less visible to the public, but for a company’s long-term survival, it is often the stronger pillar.",
+    "audio_text": "When we discuss innovation, the spotlight almost always falls on product innovation—the tangible, shiny new gadget that consumers can hold. However, process innovation is often where the real, sustainable competitive advantage lies. Unlike a new product feature, which can be reverse-engineered by competitors within months, a radically efficient manufacturing process or a unique logistics system is far more difficult to observe and replicate. Consider how changing the sequence of assembly or reducing waste in the supply chain can lower costs dramatically. While product innovation generally drives revenue growth, process innovation typically drives efficiency and profit margins. It’s less visible to the public, but for a company’s long-term survival, it is often the stronger pillar.",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "It attracts more public attention than product releases",
+      "It is more difficult for competitors to copy",
+      "It primarily generates top-line revenue growth",
+      "It focuses on improving profit margins and efficiency",
+      "It is easier to reverse-engineer than new features"
+    ],
+    "answer": [
+      1,
+      3
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_mcq_multi-49",
+    "taskType": "lst_mcq_multi",
+    "prompt": "Listen to the recording and select all the correct responses.",
+    "text": "Let's consider the economic geography of cities. You might wonder why firms, particularly in finance or technology, insist on locating in the most expensive districts despite exorbitant rents and congestion. This clustering is driven by what economists term 'agglomeration benefits.' First, there's the advantage of labor pooling. If a firm needs a highly specific skill set, a dense urban center offers a deep reservoir of talent that isn't available elsewhere. Secondly, we see significant knowledge spillovers. In these hubs, information flows informally—often face-to-face—accelerating innovation. While the tangible costs of operation are high, these intangible benefits of physical proximity often justify the premium, effectively locking companies into these crowded metropolises.",
+    "transcript": "Let's consider the economic geography of cities. You might wonder why firms, particularly in finance or technology, insist on locating in the most expensive districts despite exorbitant rents and congestion. This clustering is driven by what economists term 'agglomeration benefits.' First, there's the advantage of labor pooling. If a firm needs a highly specific skill set, a dense urban center offers a deep reservoir of talent that isn't available elsewhere. Secondly, we see significant knowledge spillovers. In these hubs, information flows informally—often face-to-face—accelerating innovation. While the tangible costs of operation are high, these intangible benefits of physical proximity often justify the premium, effectively locking companies into these crowded metropolises.",
+    "audio_text": "Let's consider the economic geography of cities. You might wonder why firms, particularly in finance or technology, insist on locating in the most expensive districts despite exorbitant rents and congestion. This clustering is driven by what economists term 'agglomeration benefits.' First, there's the advantage of labor pooling. If a firm needs a highly specific skill set, a dense urban center offers a deep reservoir of talent that isn't available elsewhere. Secondly, we see significant knowledge spillovers. In these hubs, information flows informally—often face-to-face—accelerating innovation. While the tangible costs of operation are high, these intangible benefits of physical proximity often justify the premium, effectively locking companies into these crowded metropolises.",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "Access to a concentrated pool of specialized workers",
+      "The availability of government subsidies to offset high rents",
+      "The ability to share physical manufacturing infrastructure",
+      "The acceleration of innovation through informal information exchange",
+      "The reduction of traffic congestion for commuting employees"
+    ],
+    "answer": [
+      0,
+      3
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_mcq_multi-50",
+    "taskType": "lst_mcq_multi",
+    "prompt": "Listen to the recording and select all the correct responses.",
+    "text": "Continuing our series on pivotal inventions, today we turn to the mechanical clock. Before its emergence in the late 13th century, societies relied on unreliable sundials or water clocks. The drive for a purely mechanical solution actually originated in monasteries, where monks needed to adhere to strict prayer schedules regardless of the sun's position. These early weight-driven devices were massive and initially lacked dials or hands; instead, they simply struck a bell to signal the hour. While they drifted by up to 15 minutes a day, they represented a monumental shift. For the first time, humanity began to measure time as an abstract quantity, separating daily life from the natural rhythms of sunrise and sunset.",
+    "transcript": "Continuing our series on pivotal inventions, today we turn to the mechanical clock. Before its emergence in the late 13th century, societies relied on unreliable sundials or water clocks. The drive for a purely mechanical solution actually originated in monasteries, where monks needed to adhere to strict prayer schedules regardless of the sun's position. These early weight-driven devices were massive and initially lacked dials or hands; instead, they simply struck a bell to signal the hour. While they drifted by up to 15 minutes a day, they represented a monumental shift. For the first time, humanity began to measure time as an abstract quantity, separating daily life from the natural rhythms of sunrise and sunset.",
+    "audio_text": "Continuing our series on pivotal inventions, today we turn to the mechanical clock. Before its emergence in the late 13th century, societies relied on unreliable sundials or water clocks. The drive for a purely mechanical solution actually originated in monasteries, where monks needed to adhere to strict prayer schedules regardless of the sun's position. These early weight-driven devices were massive and initially lacked dials or hands; instead, they simply struck a bell to signal the hour. While they drifted by up to 15 minutes a day, they represented a monumental shift. For the first time, humanity began to measure time as an abstract quantity, separating daily life from the natural rhythms of sunrise and sunset.",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "They were designed to help regulate religious activities",
+      "They utilized water flow to maintain consistent movement",
+      "They indicated the passing of time audibly rather than visually",
+      "They were significantly more precise than modern timepieces",
+      "They were primarily invented to assist with agricultural cycles"
+    ],
+    "answer": [
+      0,
+      2
+    ],
+    "explanation": "",
+    "trap": ""
+  }
+]

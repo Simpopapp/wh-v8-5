@@ -1,0 +1,49 @@
+# Projeto 3 — PTE Master Hub: meta, plano de estudo e prontidão
+
+> Estado de partida: projetos 1 e 2 concluídos (roadmap-proj1 100%, roadmap-proj2 100% —
+> 16 task types, 2.032 questões, 4 motores, sessões híbridas, SRS em toda a app,
+> diagnóstico de erros, notas + atalhos, modo simulado, PWA offline E2E verificado;
+> gates: vitest 125/125, tsc limpo, build OK, offline render do cache confirmado).
+
+## Problemas observados (levantamento no código, out/2026)
+
+1. **Sem objetivo do usuário.** O app treina, mas não pergunta a data da prova nem a
+   pontuação-alvo — não há como traduzir treino em "estou pronto para a prova?".
+2. **Sem plano de estudo.** A fila do dia existe (SRS), mas não há uma meta diária
+   (ex.: 20 questões/dia) nem distribuição guiada por seção conforme o peso do exame
+   (Speaking/Listening pesam mais na contribuição de 25%+25%).
+3. **Prontidão implícita.** O score unificado existe no /progress, mas não há um
+   "índice de prontidão" por seção que combine cobertura do banco, score médio
+   recente e estabilidade (consistência entre tentativas).
+4. **Tipos do exame ainda não cobertos.** A home lista "Describe Image, Write Essay,
+   Re-order Paragraphs e Reading FIB" como não cobertos — exigem bancos de questões
+   novos (dependência externa ao código).
+5. **Relatório de estudo.** O backup JSON existe, mas não há um resumo compartilhável
+   (ex.: snapshot semanal de desempenho para acompanhamento/tutor).
+
+## Direção
+
+Fechar o ciclo de preparo: o usuário define meta (data da prova + alvo), o app gera
+um plano diário e mede prontidão por seção — e o relatório semanal mostra a evolução.
+Tipos não cobertos entram como fase dependente de aquisição de dados.
+
+## Ordem lógica (fases candidatas para PRD/roadmap)
+
+1. **Meta do usuário** — data da prova, pontuação-alvo, meta diária em Ajustes;
+   countdown e "questões hoje" na home.
+2. **Índice de prontidão** — por seção: cobertura (tentadas/total), score recente
+   7d, estabilidade; explicação do cálculo em tooltip; destaque da seção mais fraca.
+3. **Plano do dia** — distribuição diária sugerida por seção (peso do exame + SRS
+   vencidas), botão que monta a fila direto da recomendação.
+4. **Relatório semanal** — snapshot gerado em /progress, exportável (JSON/markdown
+   no backup) e copiável para compartilhar.
+5. **Novos tipos (dependente de dados)** — bancos em `.opencode/pte-json/` para
+   describe_image, write_essay, reorder_paragraphs, reading_fib; motores conforme
+   padrão dos 4 existentes; só executar quando os JSONs existirem.
+   (obs: fazer uma varredura online para encontrar fontes não oficiais confiaveis e planeje metodos adaptativos inteligentes comprovar que há realmente uma probabilidade muito alta dessas fontes/dados serem reais antes de aplova-los para serem integrados no nosso sistema), (obs2: certificar-se de integrar as novas questões sem duplicar as questões que já temos caso venham repetidas em novas fontes)
+
+## Restrições permanentes (herdadas)
+
+- Sem auth, sem nuvem, 100% localStorage; backup JSON versionado continua o envelope.
+- TTS via Web Speech API; nada de biblioteca paga.
+- Gates por fase: vitest + tsgo --noEmit + build + preview :8080 (+ offline E2E no fim).

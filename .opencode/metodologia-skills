@@ -1,0 +1,305 @@
+# Método para criar skills de agentes (completo e organizado)
+
+Guia para definir um padrão de criação de skills em agentes grandes (system prompt extenso, 100+ tools), evitando o resultado raso de "um .md curto por tool".
+
+
+---
+
+## 1. O problema: skills rasas
+
+Sintoma: o agente gerou uma pasta com um `.md` de ~100 linhas para cada tool. isso é pouco!
+
+Por que isso não funciona:
+
+- Uma tool **já chega ao agente** com nome, descrição e schema. Reescrever isso em um `.md` não acrescenta informação nenhuma.
+- A granularidade está errada: skill por tool gera 100+ skills pequenas, com descrições parecidas, o que atrapalha a ativação (o agente não sabe qual escolher).
+- O valor de uma skill está no que o schema **não** diz.
+
+O formato (pastas com `SKILL.md`) está correto: é o padrão do Agent Skills. O problema é **o que se coloca dentro** e **como se agrupa**.
+
+---
+
+## 2. Princípio central
+
+> **A unidade de uma skill é um workflow ou domínio de capacidade, não uma tool.**
+
+Uma skill deve guardar conhecimento que o schema da tool não carrega:
+
+| Conteúdo | Exemplo |
+|---|---|
+| Quando usar e quando **não** usar | "Use `buscar_cliente` antes de `criar_pedido`; não use para clientes inativos" |
+| Ordem e encadeamento de tools | "1) validar → 2) consultar → 3) gravar → 4) confirmar" |
+| Armadilhas e erros comuns | "A API retorna 200 mesmo com falha parcial; confira o campo `status`" |
+| Recuperação de erros | "Se der timeout, não repita a gravação sem consultar antes (risco de duplicar)" |
+| Regras de negócio e convenções | "Valores sempre em centavos; datas em UTC" |
+| Formato de saída esperado | Templates, estrutura de relatório, tom de resposta |
+| Exemplos de casos reais | Entrada → passos → saída |
+
+**Meta de quantidade:** com 100+ tools, algo entre **10 e 25 skills**, cada uma agrupando as tools que são usadas juntas.
+
+Exemplos de agrupamento (ilustrativos):
+
+- "Emitir relatório financeiro" (consulta + cálculo + formatação + envio)
+- "Triagem de tickets de suporte"
+- "Pesquisa e enriquecimento de cliente"
+- "Agendamento e gestão de calendário"
+
+---
+
+## 3. Padrão de arquitetura: progressive disclosure em 3 níveis
+
+O contexto do modelo é caro. A ideia é carregar só o necessário, na hora necessária.
+
+| Nível | O que é | Quando entra no contexto | Tamanho alvo |
+|---|---|---|---|
+| 1 | **Frontmatter** (`name` + `description`) | Sempre | ~100 tokens por skill |
+| 2 | **Corpo do `SKILL.md`** | Quando a skill é ativada | Abaixo de ~500 linhas |
+| 3 | **Arquivos auxiliares** (`references/`, `scripts/`, `assets/`) | Só quando o `SKILL.md` manda ler | Sem limite rígido |
+
+### Estrutura de pastas
+
+```
+nome-da-skill/
+├── SKILL.md              # fluxo principal + índice do resto
+├── references/           # detalhes por variante/domínio
+│   ├── erros-comuns.md
+│   ├── regras-de-negocio.md
+│   └── exemplos.md
+├── scripts/              # código para o que é determinístico
+│   └── validar.py
+├── assets/               # templates, modelos de saída
+│   └── template-relatorio.md
+└── evals/                # prompts de teste e resultado esperado
+    └── casos.md
+```
+
+Regras de organização:
+
+- `references/` com **um nível de profundidade**: o `SKILL.md` aponta direto para cada arquivo, sem cadeias de "arquivo que aponta para arquivo".
+- Referências com mais de ~300 linhas ganham um **índice no topo**.
+- Quando houver variantes (ex.: vários provedores, vários tipos de cliente), separe um arquivo por variante e deixe o `SKILL.md` só com o fluxo comum e a regra de escolha.
+
+---
+
+## 4. A `description` é o roteador
+
+Com muitas skills, a `description` é o que decide qual é ativada. Descrições vagas ou sobrepostas são a causa número 1 de ativação errada.
+
+Uma boa `description`:
+
+- diz **o que** a skill faz;
+- diz **em quais situações** usar, com as palavras que o usuário realmente usaria;
+- diz **o que ela não cobre** (e, se houver skill vizinha, qual usar no lugar);
+- é específica, não genérica.
+
+**Ruim:**
+
+```yaml
+description: Ferramentas de relatório.
+```
+
+**Bom:**
+
+```yaml
+description: Gera relatórios financeiros mensais e trimestrais (DRE, fluxo de caixa,
+  comparativo com período anterior) a partir dos dados do ERP. Use quando o usuário
+  pedir "fechamento", "relatório do mês", "DRE" ou "comparar com o trimestre passado".
+  Não use para consultas pontuais de saldo (use a skill consulta-financeira) nem
+  para conciliação bancária.
+```
+
+---
+
+## 5. Estrutura recomendada do corpo do `SKILL.md`
+
+1. **Objetivo** (2-3 linhas)
+2. **Quando usar / quando não usar**
+3. **Fluxo passo a passo**, com pontos de decisão ("se X, faça A; senão, B")
+4. **Armadilhas e casos de borda**
+5. **Formato de saída**
+6. **Um ou dois exemplos** completos
+7. **Índice de referências**: "para X, leia `references/x.md`"
+
+Boas práticas de escrita:
+
+- **Explique o porquê** das regras. O agente generaliza melhor quando entende a razão do que não deve fazer.
+- Evite excesso de `MUST`, `NEVER` e maiúsculas. Elas funcionam como alarmes e tendem a causar comportamento rígido ou exagerado.
+- Prefira instruções no imperativo, curtas e concretas.
+- Use exemplos reais, não genéricos.
+
+---
+
+## 6. Scripts para o que é determinístico
+
+Se um passo tem sempre a mesma lógica (validar, formatar, calcular, converter, chamar uma API em sequência fixa), ele vira **script** em `scripts/`, não texto.
+
+Vantagens:
+
+- economiza contexto (o código não precisa ser lido, só executado);
+- remove variação entre execuções;
+- é testável.
+
+O `SKILL.md` só diz **quando** rodar o script e **como interpretar** o resultado.
+
+---
+
+## 7. Como pedir ao agente (processo em 2 fases)
+
+O agente tomou o caminho de menor esforço porque o pedido permitia. A solução é dar uma **especificação** e dividir em **duas fases**, com aprovação no meio.
+
+### Prompt sugerido
+
+```
+Quero que você crie skills para este agente. Siga estas regras:
+
+FASE 1 - só planejamento. NÃO crie nenhuma skill ainda.
+- Faça o inventário de todas as tools e agrupe por workflow/domínio.
+  NÃO crie apenas uma skill por tool. Alvo: 10-25 skills.
+- Para cada grupo, liste:
+  * nome da skill
+  * description (o que faz + quando usar + quando NÃO usar)
+  * tools envolvidas
+- Aponte sobreposições entre skills e como desambiguá-las.
+- Entregue esse mapa para minha aprovação.
+
+FASE 2 - uma skill por vez, somente após minha aprovação.
+- Estrutura: SKILL.md (~2000 à 5000 linhas) + references/ + scripts/ + assets/ + evals/
+- SKILL.md deve conter: objetivo, quando usar/não usar, fluxo passo a
+  passo com decisões, armadilhas, formato de saída, exemplos e índice
+  das references.
+- O conteúdo deve ir além do schema da tool: ordem de uso, combinações,
+  erros comuns e recuperação, regras de negócio, exemplos reais.
+- Lógica determinística vira script, não texto.
+- Explique o porquê das regras; evite MUST/NEVER em excesso.
+- Inclua evals/ com 3-5 prompts realistas de teste.
+- Se uma skill ficar com menos de ~500 linhas de conteúdo útil, ela
+  provavelmente está rasa: justifique ou aprofunde.
+```
+
+### Por que funciona
+
+- A **Fase 1** força o agrupamento correto antes de escrever qualquer coisa (é aqui que se evita o "uma skill por tool").
+- A **aprovação** dá a você controle sobre a arquitetura antes do trabalho pesado.
+- A **Fase 2 uma por vez** evita que o agente tente fazer tudo de uma vez e reduza a qualidade para terminar rápido.
+- O critério de "menos de ~500 linhas úteis" cria um limite objetivo contra a preguiça.
+
+---
+
+## 8. Fonte de conteúdo: minerar falhas reais
+
+As melhores seções de armadilhas vêm de erros reais, não de suposição. Se o agente tiver acesso a logs ou histórico de conversas:
+
+1. Peça para identificar **erros, retrabalhos, correções do usuário e tool calls que falharam**.
+2. Agrupe por skill.
+3. Transforme cada padrão de falha em uma entrada de "Armadilhas" (com a causa e a forma correta de agir) e, quando possível, em um caso de `evals/`.
+
+---
+
+## 9. Testar de verdade
+
+Uma skill sem teste é só uma hipótese.
+
+**Teste de qualidade (com e sem a skill):**
+
+- Escolha 3-5 prompts realistas para cada skill.
+- Rode com a skill e sem ela.
+- Compare: a versão com skill acertou mais, errou menos, seguiu o formato?
+
+**Teste de ativação:**
+
+- O prompt certo dispara a skill certa?
+- Um prompt de outro domínio **não** dispara essa skill?
+- Prompts ambíguos escolhem a skill correta ou ficam entre duas?
+
+Se a ativação falha, o problema quase sempre está na `description`: ajuste os gatilhos, as exclusões e a diferença para skills vizinhas.
+
+No Claude existe uma skill chamada **skill-creator**, feita para criar, testar e otimizar skills e descriptions. Mesmo que seu agente seja outro, essa metodologia serve de modelo.
+
+---
+
+## 10. Template de `SKILL.md`
+
+```markdown
+---
+name: nome-da-skill
+description: >
+  O que faz. Use quando [situações e palavras que o usuário usa].
+  Não use para [exclusões] (use [skill vizinha] nesses casos).
+---
+
+# Nome da skill
+
+## Objetivo
+Duas ou três linhas sobre o resultado que esta skill entrega.
+
+## Quando usar / quando não usar
+- Usar: ...
+- Não usar: ... (use `outra-skill`)
+
+## Fluxo
+1. Passo um. Por que: ...
+2. Passo dois.
+   - Se [condição], faça A.
+   - Senão, faça B.
+3. Rode `scripts/validar.py` com [argumentos] e interprete o resultado:
+   ...
+4. Passo final.
+
+## Armadilhas e casos de borda
+- **Situação:** o que acontece. **Como agir:** ... **Por quê:** ...
+- ...
+
+## Formato de saída
+Descreva a estrutura esperada ou aponte para `assets/template.md`.
+
+## Exemplos
+### Exemplo 1: [caso]
+Entrada: ...
+Passos: ...
+Saída: ...
+
+## Referências
+- Para regras de negócio detalhadas, leia `references/regras-de-negocio.md`.
+- Para erros e recuperação, leia `references/erros-comuns.md`.
+- Para mais exemplos, leia `references/exemplos.md`.
+```
+
+---
+
+## 11. Checklist de qualidade (por skill)
+
+**Escopo e agrupamento**
+- [ ] A skill cobre um workflow/domínio, não uma tool isolada
+- [ ] Não há sobreposição com outra skill (ou a desambiguação está explícita)
+
+**Description**
+- [ ] Diz o que faz, quando usar e quando não usar
+- [ ] Usa palavras que o usuário realmente falaria
+- [ ] É específica o bastante para não disparar em outros domínios
+
+**Conteúdo**
+- [ ] Vai além do schema das tools
+- [ ] Tem fluxo com pontos de decisão
+- [ ] Tem armadilhas e recuperação de erro
+- [ ] Tem formato de saída definido
+- [ ] Tem pelo menos um exemplo realista
+- [ ] Explica o porquê das regras
+- [ ] Sem excesso de MUST/NEVER
+
+**Estrutura**
+- [ ] `SKILL.md` acima de 1000 linhas na maior parte dos casos
+- [ ] Detalhes extensos em `references/`, um nível de profundidade
+- [ ] Referências longas têm índice no topo
+- [ ] Lógica determinística está em `scripts/`
+
+**Validação**
+- [ ] `evals/` com 3-5 prompts realistas
+- [ ] Testado com e sem a skill
+- [ ] Testada a ativação correta e a não ativação em outros domínios
+
+
+---
+
+## Resumo em uma frase
+
+DEDICAÇÃO, PROFUNDIDADE, COMPLITUDE, ORGANIZAÇÃO E ABRANGENCIA

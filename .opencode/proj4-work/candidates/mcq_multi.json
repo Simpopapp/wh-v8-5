@@ -1,0 +1,242 @@
+[
+ {
+  "id": "ptea-mcq_mu-01",
+  "taskType": "mcq_multi",
+  "prompt": "Read the text and answer the question by selecting all correct responses. More than one is correct.",
+  "text": "Scattered across the globe, UNESCO World Heritage Sites stand as testaments to humanity's cultural\nand natural wonders. These exceptional places, designated by the United Nations Educational,\nScientific, and Cultural Organization (UNESCO), bear exceptional universal value, representing the\npinnacle of human achievement and the diversity of our planet's natural beauty.\nCultural World Heritage Sites encapsulate the ingenuity and creativity of humankind, ranging from\nancient ruins like the Great Sphinx of Giza to architectural marvels like the Taj Mahal. These sites\nembody the spirit of human civilizations, reflecting their rich histories, artistic expressions, and\ntechnological advancements.\nNatural World Heritage Sites, on the other hand, showcase the awe-inspiring grandeur of our\nplanet's natural landscapes. From the towering peaks of Mount Everest to the lush rainforests of the\nAmazon, these sites preserve the delicate balance of ecosystems and the extraordinary biodiversity\nthat sustains life on Earth.\nThe designation of World Heritage Sites serves as a global recognition and a call to protect these\ntreasures. It signifies their significance not only to the nations that host them but to the world as a\nwhole. By safeguarding these irreplaceable landmarks, we ensure that their legacy will continue to\ninspire and enrich generations to come.\n\nWhich of the following statements about UNESCO World Heritage Sites is supported by the text?",
+  "transcript": "",
+  "audio_text": "",
+  "content": "Scattered across the globe, UNESCO World Heritage Sites stand as testaments to humanity's cultural\nand natural wonders. These exceptional places, designated by the United Nations Educational,\nScientific, and Cultural Organization (UNESCO), bear exceptional universal value, representing the\npinnacle of human achievement and the diversity of our planet's natural beauty.\nCultural World Heritage Sites encapsulate the ingenuity and creativity of humankind, ranging from\nancient ruins like the Great Sphinx of Giza to architectural marvels like the Taj Mahal. These sites\nembody the spirit of human civilizations, reflecting their rich histories, artistic expressions, and\ntechnological advancements.\nNatural World Heritage Sites, on the other hand, showcase the awe-inspiring grandeur of our\nplanet's natural landscapes. From the towering peaks of Mount Everest to the lush rainforests of the\nAmazon, these sites preserve the delicate balance of ecosystems and the extraordinary biodiversity\nthat sustains life on Earth.\nThe designation of World Heritage Sites serves as a global recognition and a call to protect these\ntreasures. It signifies their significance not only to the nations that host them but to the world as a\nwhole. By safeguarding these irreplaceable landmarks, we ensure that their legacy will continue to\ninspire and enrich generations to come.\n\nWhich of the following statements about UNESCO World Heritage Sites is supported by the text?",
+  "options": [
+   "UNESCO has recognized these sites as possessing remarkable significance for humanity",
+   "These sites are only found in Europe and North America.",
+   "These places are only cultural sites.",
+   "These locations are only natural sites.",
+   "These sites are protected by law."
+  ],
+  "answer": [
+   0,
+   4
+  ],
+  "source": "pteacademy.in",
+  "explanation": "",
+  "trap": "",
+  "topic": "scattered across the"
+ },
+ {
+  "id": "ptea-mcq_mu-02",
+  "taskType": "mcq_multi",
+  "prompt": "Read the text and answer the question by selecting all correct responses. More than one is correct.",
+  "text": "Prefabricated homes, often referred to as \"prefabs,\" have gained significant traction in recent years,\noffering an alternative to traditional construction methods. These homes are manufactured off-site in a\ncontrolled environment, typically using standardized components, before being transported and\nassembled on the homeowner's property.\nPrefab homes offer several advantages, including faster construction times, lower costs, and greater\nconsistency in quality. The off-site manufacturing process allows for precise control over construction\ntechniques and material quality, reducing the risk of errors and delays. Additionally, prefab homes often\ncome with pre-installed fixtures and finishes, further streamlining the construction process.\nThe affordability of prefab homes is another appealing factor. By leveraging economies of scale and\nstreamlined production, manufacturers can offer prefab homes at competitive prices compared to\ntraditional construction methods. This makes prefab homes an attractive option for first-time\nhomebuyers and those seeking cost-effective housing solutions.\nDespite their growing popularity, prefab homes face some challenges. One concern is the perception of\nlimited design options. While prefab homes may have standardized components, there is often room for\ncustomization to suit individual preferences. Additionally, some prefab homes are designed to be\nmodular, allowing for flexible configurations and expansion options.\nAnother challenge is the potential for transportation and assembly issues. Larger prefab homes may\nrequire specialized transportation and heavy machinery for assembly, which can increase costs and\nlogistical complexity. However, advancements in modular construction and prefabrication techniques are\naddressing these challenges, making prefab homes increasingly feasible for a wider range of projects.\n\nWhich of the following are true statements about prefab homes?",
+  "transcript": "",
+  "audio_text": "",
+  "content": "Prefabricated homes, often referred to as \"prefabs,\" have gained significant traction in recent years,\noffering an alternative to traditional construction methods. These homes are manufactured off-site in a\ncontrolled environment, typically using standardized components, before being transported and\nassembled on the homeowner's property.\nPrefab homes offer several advantages, including faster construction times, lower costs, and greater\nconsistency in quality. The off-site manufacturing process allows for precise control over construction\ntechniques and material quality, reducing the risk of errors and delays. Additionally, prefab homes often\ncome with pre-installed fixtures and finishes, further streamlining the construction process.\nThe affordability of prefab homes is another appealing factor. By leveraging economies of scale and\nstreamlined production, manufacturers can offer prefab homes at competitive prices compared to\ntraditional construction methods. This makes prefab homes an attractive option for first-time\nhomebuyers and those seeking cost-effective housing solutions.\nDespite their growing popularity, prefab homes face some challenges. One concern is the perception of\nlimited design options. While prefab homes may have standardized components, there is often room for\ncustomization to suit individual preferences. Additionally, some prefab homes are designed to be\nmodular, allowing for flexible configurations and expansion options.\nAnother challenge is the potential for transportation and assembly issues. Larger prefab homes may\nrequire specialized transportation and heavy machinery for assembly, which can increase costs and\nlogistical complexity. However, advancements in modular construction and prefabrication techniques are\naddressing these challenges, making prefab homes increasingly feasible for a wider range of projects.\n\nWhich of the following are true statements about prefab homes?",
+  "options": [
+   "Prefab homes offer less design flexibility than traditional homes.",
+   "Prefab homes are always cheaper than traditional homes.",
+   "Prefab homes are manufactured off-site in a controlled environment.",
+   "Prefab homes are more difficult to transport and assemble than traditional homes.",
+   "Prefab homes are becoming increasingly popular and feasible for a wider range of projects."
+  ],
+  "answer": [
+   2,
+   4
+  ],
+  "source": "pteacademy.in",
+  "explanation": "",
+  "trap": "",
+  "topic": "prefabricated homes often"
+ },
+ {
+  "id": "ptea-mcq_mu-03",
+  "taskType": "mcq_multi",
+  "prompt": "Read the text and answer the question by selecting all correct responses. More than one is correct.",
+  "text": "Headlight brightness regulation is a crucial aspect of road safety, ensuring that drivers can see clearly at\nnight while preventing excessive glare that can hinder the vision of other motorists. Different countries\nand regions have implemented various regulations to control headlight brightness, aiming to strike a\nbalance between visibility and safety.\nOne common approach is to mandate the use of dipped headlights, also known as low beams, as the\ndefault setting for driving at night. These low-beam headlights are designed to illuminate the road ahead\nwithout projecting excessive light into the eyes of oncoming or following vehicles. In some jurisdictions,\nthe use of high beams, or bright lights, is restricted to specific situations, such as driving on isolated roads\nor in areas with poor lighting.\nAnother regulatory measure involves establishing headlight brightness standards. These standards\ntypically define the maximum allowable luminance or intensity of headlights, ensuring that they provide\nadequate illumination without causing excessive glare. Manufacturers must comply with these standards\nto ensure that their vehicles meet the required brightness levels.\nHeadlight technology has evolved significantly over the years, with advancements such as halogen,\nxenon, and LED headlights offering improved illumination and energy efficiency. Regulatory bodies are\ncontinuously evaluating and updating headlight regulations to keep pace with these technological\nadvancements, ensuring that they remain effective in promoting road safety.\n\nWhat does the passage claim to be true about headlight brightness?",
+  "transcript": "",
+  "audio_text": "",
+  "content": "Headlight brightness regulation is a crucial aspect of road safety, ensuring that drivers can see clearly at\nnight while preventing excessive glare that can hinder the vision of other motorists. Different countries\nand regions have implemented various regulations to control headlight brightness, aiming to strike a\nbalance between visibility and safety.\nOne common approach is to mandate the use of dipped headlights, also known as low beams, as the\ndefault setting for driving at night. These low-beam headlights are designed to illuminate the road ahead\nwithout projecting excessive light into the eyes of oncoming or following vehicles. In some jurisdictions,\nthe use of high beams, or bright lights, is restricted to specific situations, such as driving on isolated roads\nor in areas with poor lighting.\nAnother regulatory measure involves establishing headlight brightness standards. These standards\ntypically define the maximum allowable luminance or intensity of headlights, ensuring that they provide\nadequate illumination without causing excessive glare. Manufacturers must comply with these standards\nto ensure that their vehicles meet the required brightness levels.\nHeadlight technology has evolved significantly over the years, with advancements such as halogen,\nxenon, and LED headlights offering improved illumination and energy efficiency. Regulatory bodies are\ncontinuously evaluating and updating headlight regulations to keep pace with these technological\nadvancements, ensuring that they remain effective in promoting road safety.\n\nWhat does the passage claim to be true about headlight brightness?",
+  "options": [
+   "Headlight brightness regulation is essential for ensuring safe driving conditions at night.",
+   "The use of dipped headlights is the only legally allowed headlight setting in all countries.",
+   "Headlight brightness standards are universally standardized across all regions.",
+   "Regulatory bodies are perpetually evaluating and updating headlight regulations.",
+   "Headlight technology has remained unchanged over the years."
+  ],
+  "answer": [
+   0,
+   3
+  ],
+  "source": "pteacademy.in",
+  "explanation": "",
+  "trap": "",
+  "topic": "headlight brightness regulation"
+ },
+ {
+  "id": "ptea-mcq_mu-04",
+  "taskType": "mcq_multi",
+  "prompt": "Read the text and answer the question by selecting all correct responses. More than one is correct.",
+  "text": "When venturing outdoors without a timepiece, a simple yet effective method to estimate the\nremaining daylight can be accomplished using your hands and the sun. This technique relies on the\nsun's position in the sky, which gradually changes throughout the day.\nTo begin, extend your arm straight out in front of you, keeping your palm facing the sun. With your\nfingers spread wide and held together, count how many fingers can fit between the horizon and the\nbottom of the sun. Each finger represents approximately 15 minutes of daylight remaining.\nFor instance, if you can fit four fingers between the horizon and the sun, it indicates approximately\none hour of daylight left. Conversely, if you can only fit one finger, it suggests only 15 minutes of\ndaylight remain.\nThis method is most accurate when used closer to the equator, as the sun's path is more predictable\nin this region. However, it can still provide a general estimate of daylight even in higher latitudes.\nRemember, this technique is not foolproof and should be used as a general guideline rather than an\nexact measurement. Always be prepared for changing weather conditions and adjust your plans\naccordingly.\n\nWhich of the following statements can be supported from this text?",
+  "transcript": "",
+  "audio_text": "",
+  "content": "When venturing outdoors without a timepiece, a simple yet effective method to estimate the\nremaining daylight can be accomplished using your hands and the sun. This technique relies on the\nsun's position in the sky, which gradually changes throughout the day.\nTo begin, extend your arm straight out in front of you, keeping your palm facing the sun. With your\nfingers spread wide and held together, count how many fingers can fit between the horizon and the\nbottom of the sun. Each finger represents approximately 15 minutes of daylight remaining.\nFor instance, if you can fit four fingers between the horizon and the sun, it indicates approximately\none hour of daylight left. Conversely, if you can only fit one finger, it suggests only 15 minutes of\ndaylight remain.\nThis method is most accurate when used closer to the equator, as the sun's path is more predictable\nin this region. However, it can still provide a general estimate of daylight even in higher latitudes.\nRemember, this technique is not foolproof and should be used as a general guideline rather than an\nexact measurement. Always be prepared for changing weather conditions and adjust your plans\naccordingly.\n\nWhich of the following statements can be supported from this text?",
+  "options": [
+   "Estimating the remaining daylight using your hands and the sun is a foolproof method.",
+   "The number of fingers that can fit between the horizon and the sun when extended with your\nfingers spread wide represents approximately 15 minutes of daylight remaining.",
+   "This method is accurate for all latitudes.",
+   "Always rely on your hands and the sun to determine the exact amount of daylight remaining.",
+   "This technique provides a general estimate of daylight, even in higher latitudes.\n\nPTE Academy: Your Path to Success:\nNow that you have a taste of the remarkable free practice material available at PTE Academy, let’s\nexplore how this esteemed coaching center can provide you with the support and guidance you\nneed to ace the PTE exam.\nComprehensive Online and Offline Classes:\nPTE Academy understands that every learner has unique preferences and schedules. That’s why\nwe offer both online and offline classes to cater to your individual needs. Our expert trainers have\nyears of experience in teaching PTE and can provide personalized guidance, strategies, and\nfeedback to maximize your success. Whether you prefer the convenience of online classes or the\nimmersive experience of offline sessions, PTE Academy has got you covered."
+  ],
+  "answer": [
+   1,
+   4
+  ],
+  "source": "pteacademy.in",
+  "explanation": "",
+  "trap": "",
+  "topic": "when venturing outdoors"
+ },
+ {
+  "id": "ptea-mcq_mu-05",
+  "taskType": "mcq_multi",
+  "prompt": "Read the text and answer the question by selecting all correct responses. More than one is correct.",
+  "text": "World Kindness Day, celebrated annually on November 13th, serves as a global reminder of the\ntransformative power of kindness and its ability to uplift individuals, communities, and the world at large.\nIt is a day dedicated to recognizing and promoting acts of kindness, both big and small, that have the\npotential to spread compassion, empathy, and understanding across borders.\nThe origins of World Kindness Day trace back to 1998 when the World Kindness Movement, a coalition of\nnations' kindness NGOs, initiated the day to emphasize the importance of kindness in creating a more\njust and harmonious world. Since then, the observance has gained momentum, with individuals,\norganizations, and communities around the globe embracing the spirit of kindness and its ripple effects.\nWorld Kindness Day encourages us to step beyond our comfort zones, break down barriers, and connect\nwith others through acts of kindness. It is a day to celebrate the simple gestures that have the profound\npower to brighten someone's day, offer support, and foster a sense of connection.\nBy embracing kindness as a guiding principle, we can create a world where compassion, empathy, and\nunderstanding prevail. On World Kindness Day and throughout the year, let us make a conscious effort to\nextend kindness to those around us, fostering a ripple effect that can transform our world into one filled\nwith warmth, understanding, and compassion.\n\nWhat does the passage claim to be true about World Kindness Day?",
+  "transcript": "",
+  "audio_text": "",
+  "content": "World Kindness Day, celebrated annually on November 13th, serves as a global reminder of the\ntransformative power of kindness and its ability to uplift individuals, communities, and the world at large.\nIt is a day dedicated to recognizing and promoting acts of kindness, both big and small, that have the\npotential to spread compassion, empathy, and understanding across borders.\nThe origins of World Kindness Day trace back to 1998 when the World Kindness Movement, a coalition of\nnations' kindness NGOs, initiated the day to emphasize the importance of kindness in creating a more\njust and harmonious world. Since then, the observance has gained momentum, with individuals,\norganizations, and communities around the globe embracing the spirit of kindness and its ripple effects.\nWorld Kindness Day encourages us to step beyond our comfort zones, break down barriers, and connect\nwith others through acts of kindness. It is a day to celebrate the simple gestures that have the profound\npower to brighten someone's day, offer support, and foster a sense of connection.\nBy embracing kindness as a guiding principle, we can create a world where compassion, empathy, and\nunderstanding prevail. On World Kindness Day and throughout the year, let us make a conscious effort to\nextend kindness to those around us, fostering a ripple effect that can transform our world into one filled\nwith warmth, understanding, and compassion.\n\nWhat does the passage claim to be true about World Kindness Day?",
+  "options": [
+   "World Kindness Day was initiated in 1998 by a single organization.",
+   "World Kindness Day is a day dedicated to recognizing and promoting acts of kindness.",
+   "World Kindness Day is celebrated exclusively on October 13th each year.",
+   "World Kindness Day is only observed by individuals.",
+   "World Kindness Day encourages people to break down barriers and connect with others.\n\nTailored Study Materials:\nAt PTE Academy, we believe in delivering targeted resources to help you optimize your learning\nexperience. Alongside the free Multiple-choice, choose single answer practice material, we\nprovide comprehensive study materials that cover all sections of the Pearson Test of English exam.\nPerformance Analysis:\nTo fine-tune your exam skills and monitor your progress, PTE Academy offers regular performance\nanalysis. It helps you familiarize yourself with the test format, time management, and overall testtaking experience. Our detailed performance analysis provides insights into your strengths and\nweaknesses, enabling you to focus your efforts on areas that require improvement."
+  ],
+  "answer": [
+   1,
+   4
+  ],
+  "source": "pteacademy.in",
+  "explanation": "",
+  "trap": "",
+  "topic": "world kindness day"
+ },
+ {
+  "id": "ptea-mcq_mu-06",
+  "taskType": "mcq_multi",
+  "prompt": "Read the text and answer the question by selecting all correct responses. More than one is correct.",
+  "text": "Chickpeas are a nutritional powerhouse, offering a wealth of benefits for overall well-being. Packed with\nprotein, fiber, vitamins, and minerals, they are a valuable addition to a healthy diet. As a complete\nprotein source, chickpeas supply all nine essential amino acids, supporting muscle growth, tissue repair,\nand bodily function.\nThese legumes are a fiber-rich treasure, regulating digestion, fostering a healthy gut microbiome, and\nmanaging blood sugar levels. With minimal fat content, chickpeas are heart-friendly, reducing the risk of\ncardiovascular diseases. Abundant in essential vitamins and minerals, they contribute to neural tube\ndefect prevention, oxygen transport, blood pressure regulation, and bone health.\nChickpeas aid in weight management by promoting satiety through protein and fiber. They also lower\ncholesterol levels, attributed to their cholesterol-binding fiber. With a low glycemic index, chickpeas help\nregulate blood sugar, benefiting individuals with diabetes.\nIncredibly versatile, chickpeas can be incorporated into various dishes, from soups to snacks. Their\nnutritional richness, fiber content, and low-fat profile make chickpeas a true superfood, enhancing overall\nwell-being in a balanced lifestyle.\n\nWhat does the passage claim to be true about chickpeas?",
+  "transcript": "",
+  "audio_text": "",
+  "content": "Chickpeas are a nutritional powerhouse, offering a wealth of benefits for overall well-being. Packed with\nprotein, fiber, vitamins, and minerals, they are a valuable addition to a healthy diet. As a complete\nprotein source, chickpeas supply all nine essential amino acids, supporting muscle growth, tissue repair,\nand bodily function.\nThese legumes are a fiber-rich treasure, regulating digestion, fostering a healthy gut microbiome, and\nmanaging blood sugar levels. With minimal fat content, chickpeas are heart-friendly, reducing the risk of\ncardiovascular diseases. Abundant in essential vitamins and minerals, they contribute to neural tube\ndefect prevention, oxygen transport, blood pressure regulation, and bone health.\nChickpeas aid in weight management by promoting satiety through protein and fiber. They also lower\ncholesterol levels, attributed to their cholesterol-binding fiber. With a low glycemic index, chickpeas help\nregulate blood sugar, benefiting individuals with diabetes.\nIncredibly versatile, chickpeas can be incorporated into various dishes, from soups to snacks. Their\nnutritional richness, fiber content, and low-fat profile make chickpeas a true superfood, enhancing overall\nwell-being in a balanced lifestyle.\n\nWhat does the passage claim to be true about chickpeas?",
+  "options": [
+   "Chickpeas are a complete protein source, supplying all nine essential amino acids.",
+   "Chickpeas are a high-fat food, making them heart-friendly.",
+   "Chickpeas are a poor source of vitamins and minerals, including folate, iron, and potassium.",
+   "Chickpeas are not a versatile ingredient and can only be used in a limited number of dishes.",
+   "Chickpeas are a low-glycemic food, making them beneficial for individuals with diabetes.\n\nJoin PTE Academy Today and Unlock Your Potential:\nReady to embark on your journey towards Exam success? Join PTE Academy today and unlock\nyour potential to achieve your desired score. Our expert trainers, comprehensive study materials,\nand tailored practice resources are all geared towards providing you with the ultimate learning\nexperience.\nVisit our website now at www.pteacademy.in and enroll in our courses to gain access to the free\nMultiple-choice, choose single answer practice material. Empower yourself with the knowledge,\nskills, and confidence needed to conquer the PTE Speaking section and achieve your dream score!"
+  ],
+  "answer": [
+   0,
+   4
+  ],
+  "source": "pteacademy.in",
+  "explanation": "",
+  "trap": "",
+  "topic": "chickpeas are a"
+ },
+ {
+  "id": "ptea-mcq_mu-07",
+  "taskType": "mcq_multi",
+  "prompt": "Read the text and answer the question by selecting all correct responses. More than one is correct.",
+  "text": "Embracing the concept of \"Adopt, Don't Shop\" signifies a deliberate choice to open your heart and home\nto a deserving animal in need, rather than buying one from a breeder or pet store. This decision not only\ntransforms the life of a rescued animal but also contributes to a more compassionate and sustainable\nsociety.\nShelters and rescue organizations are filled with countless dogs, cats, and other animals yearning for a\nloving home. By adopting, you provide a second chance to an animal that may have been abandoned,\nneglected, or abused. You become a beacon of hope, offering them the stability, affection, and care they\ndeserve.\nMoreover, adopting rather than shopping helps curb the cycle of overbreeding and the demand for\ncommercially bred animals. This, in turn, reduces the strain on animal shelters and rescue groups,\nallowing them to focus on providing essential care for the animals under their protection.\nAdopting a pet is a mutually rewarding experience. You gain a loyal companion, a source of unconditional\nlove and joy, and a reminder of the profound impact one person can have on an animal's life. Open your\nheart to the possibility of adoption and discover the fulfillment that comes from giving a homeless animal\na loving forever home.\n\nWhich of the following statements can be supported from this text?",
+  "transcript": "",
+  "audio_text": "",
+  "content": "Embracing the concept of \"Adopt, Don't Shop\" signifies a deliberate choice to open your heart and home\nto a deserving animal in need, rather than buying one from a breeder or pet store. This decision not only\ntransforms the life of a rescued animal but also contributes to a more compassionate and sustainable\nsociety.\nShelters and rescue organizations are filled with countless dogs, cats, and other animals yearning for a\nloving home. By adopting, you provide a second chance to an animal that may have been abandoned,\nneglected, or abused. You become a beacon of hope, offering them the stability, affection, and care they\ndeserve.\nMoreover, adopting rather than shopping helps curb the cycle of overbreeding and the demand for\ncommercially bred animals. This, in turn, reduces the strain on animal shelters and rescue groups,\nallowing them to focus on providing essential care for the animals under their protection.\nAdopting a pet is a mutually rewarding experience. You gain a loyal companion, a source of unconditional\nlove and joy, and a reminder of the profound impact one person can have on an animal's life. Open your\nheart to the possibility of adoption and discover the fulfillment that comes from giving a homeless animal\na loving forever home.\n\nWhich of the following statements can be supported from this text?",
+  "options": [
+   "Opening your heart and home to a deserving animal in need is the only way to obtain a pet.",
+   "By adopting a pet, you provide a second chance to an animal that may have been abandoned,\nneglected, or abused.",
+   "Adopting a pet is a mutually beneficial experience that brings joy and companionship to both the\npet owner and the adopted animal.",
+   "Shelters and rescue organizations are empty and do not need the support of pet adoption.",
+   "Shopping for a pet is the only way to reduce the strain on animal shelters and rescue groups.\n\nWelcome to PTE Academy, the pinnacle of success for PTE aspirants in Hyderabad. We take\npride in being recognized as the best PTE coaching center in the city. Our commitment to\nexcellence, personalized learning, and a team of experienced tutors sets us apart as the premier\ndestination for PTE preparation in Hyderabad.\n\nStart\nYour\nTraining\n\nCALL US TO BEGIN"
+  ],
+  "answer": [
+   1,
+   2
+  ],
+  "source": "pteacademy.in",
+  "explanation": "",
+  "trap": "",
+  "topic": "embracing the concept"
+ },
+ {
+  "id": "ptea-mcq_mu-08",
+  "taskType": "mcq_multi",
+  "prompt": "Read the text and answer the question by selecting all correct responses. More than one is correct.",
+  "text": "Fostering partnerships between businesses and universities is a crucial step towards promoting\ninnovation, economic growth, and societal advancement. These collaborations bring together the\nexpertise, resources, and perspectives of two distinct entities, creating a synergy that can lead to\ngroundbreaking discoveries, technological advancements, and solutions to pressing challenges.\nUniversities, with their wealth of knowledge and cutting-edge research facilities, serve as incubators\nof innovation. Businesses, on the other hand, possess the practical know-how and market insights to\nbring these innovations to fruition. By partnering, universities can provide businesses with access to\nfresh talent, cutting-edge research, and specialized expertise, while businesses can offer universities\nfunding, industry exposure, and opportunities for real-world application of their research.\nThese partnerships can manifest in various forms, including joint research projects, sponsored\ninternships, technology transfer agreements, and collaborative training programs. Such\ncollaborations not only foster economic growth by creating new jobs and industries but also\ncontribute to societal progress by addressing issues in healthcare, environmental sustainability, and\nsocial welfare.\n\nWhat does the passage claim to be true about partnerships between businesses and universities?",
+  "transcript": "",
+  "audio_text": "",
+  "content": "Fostering partnerships between businesses and universities is a crucial step towards promoting\ninnovation, economic growth, and societal advancement. These collaborations bring together the\nexpertise, resources, and perspectives of two distinct entities, creating a synergy that can lead to\ngroundbreaking discoveries, technological advancements, and solutions to pressing challenges.\nUniversities, with their wealth of knowledge and cutting-edge research facilities, serve as incubators\nof innovation. Businesses, on the other hand, possess the practical know-how and market insights to\nbring these innovations to fruition. By partnering, universities can provide businesses with access to\nfresh talent, cutting-edge research, and specialized expertise, while businesses can offer universities\nfunding, industry exposure, and opportunities for real-world application of their research.\nThese partnerships can manifest in various forms, including joint research projects, sponsored\ninternships, technology transfer agreements, and collaborative training programs. Such\ncollaborations not only foster economic growth by creating new jobs and industries but also\ncontribute to societal progress by addressing issues in healthcare, environmental sustainability, and\nsocial welfare.\n\nWhat does the passage claim to be true about partnerships between businesses and universities?",
+  "options": [
+   "Businesses and universities can benefit from collaborating on research projects and\ninternships.",
+   "Partnerships between businesses and universities are solely focused on creating new jobs and\nindustries.",
+   "Universities can provide businesses with access to fresh talent and specialized expertise\nthrough partnerships.",
+   "Partnerships between businesses and universities are not effective in addressing pressing\nsocietal challenges.",
+   "Businesses can not offer universities funding and opportunities for real-world application of\ntheir research through partnerships.\n\nStart\nYour\nTraining\n\nCALL US TO BEGIN"
+  ],
+  "answer": [
+   0,
+   2
+  ],
+  "source": "pteacademy.in",
+  "explanation": "",
+  "trap": "",
+  "topic": "fostering partnerships between"
+ },
+ {
+  "id": "ptea-mcq_mu-09",
+  "taskType": "mcq_multi",
+  "prompt": "Read the text and answer the question by selecting all correct responses. More than one is correct.",
+  "text": "Embark on an exciting journey into the world of media and communication by pursuing certificate\ncourses in Radio Jockeying, Anchoring, and TV Journalism. These specialized programs equip you\nwith the essential skills and knowledge to navigate the dynamic and ever-evolving media landscape.\nRadio Jockeying courses provide the foundation for captivating audiences through the power of your\nvoice. Learn the art of scriptwriting, presentation techniques, and effective voice modulation to\nbecome a charismatic radio personality.\nAnchoring courses cultivate the poise and confidence needed to command attention on television.\nGain insights into newsgathering, interviewing skills, and on-screen presentation to become a\ncredible and engaging anchor.\nTV Journalism courses immerse you in the world of news and storytelling. Develop the ability to\nresearch, report, and present news stories with accuracy, objectivity, and impact. Master the art of\nvisual storytelling and multimedia production to become a versatile TV journalist.\nThese certificate courses offer a gateway into the dynamic world of media, opening doors to exciting\ncareer opportunities in radio stations, television channels, and digital media platforms. Embrace the\nchallenge, hone your skills, and embark on a fulfilling journey in the captivating realm of media and\ncommunication.\n\nWhich of the following are true statements about certificate courses?",
+  "transcript": "",
+  "audio_text": "",
+  "content": "Embark on an exciting journey into the world of media and communication by pursuing certificate\ncourses in Radio Jockeying, Anchoring, and TV Journalism. These specialized programs equip you\nwith the essential skills and knowledge to navigate the dynamic and ever-evolving media landscape.\nRadio Jockeying courses provide the foundation for captivating audiences through the power of your\nvoice. Learn the art of scriptwriting, presentation techniques, and effective voice modulation to\nbecome a charismatic radio personality.\nAnchoring courses cultivate the poise and confidence needed to command attention on television.\nGain insights into newsgathering, interviewing skills, and on-screen presentation to become a\ncredible and engaging anchor.\nTV Journalism courses immerse you in the world of news and storytelling. Develop the ability to\nresearch, report, and present news stories with accuracy, objectivity, and impact. Master the art of\nvisual storytelling and multimedia production to become a versatile TV journalist.\nThese certificate courses offer a gateway into the dynamic world of media, opening doors to exciting\ncareer opportunities in radio stations, television channels, and digital media platforms. Embrace the\nchallenge, hone your skills, and embark on a fulfilling journey in the captivating realm of media and\ncommunication.\n\nWhich of the following are true statements about certificate courses?",
+  "options": [
+   "Certificate courses provide a comprehensive education in a specific field.",
+   "Certificate courses are typically shorter in duration than degree programs.",
+   "Certificate courses are unnecessary for degree or diploma holders",
+   "Certificate courses are not recognized by employers.",
+   "Certificate courses are designed to prepare individuals for entry-level positions in their chosen\nfield.\n\nStart\nYour\nTraining\n\nCALL US TO BEGIN"
+  ],
+  "answer": [
+   1,
+   4
+  ],
+  "source": "pteacademy.in",
+  "explanation": "",
+  "trap": "",
+  "topic": "embark on an"
+ },
+ {
+  "id": "ptea-mcq_mu-10",
+  "taskType": "mcq_multi",
+  "prompt": "Read the text and answer the question by selecting all correct responses. More than one is correct.",
+  "text": "In the dynamic world of travel, Computerized Reservation Systems (CRSs) stand as indispensable tools\nthat streamline the booking and management of travel arrangements. These sophisticated systems,\noperating at the heart of the travel industry, seamlessly integrate and optimize travel data, enabling\ntravel agencies, airlines, and other stakeholders to provide efficient and comprehensive services to their\ncustomers.\nCRSs serve as a centralized repository of real-time information on flight schedules, seat availability, fares,\nand other travel-related details. This centralized data management facilitates efficient booking processes,\neliminating the need for manual inquiries and reducing the risk of errors. Additionally, CRSs enable travel\nproviders to offer dynamic pricing, adjusting fares based on demand and availability, ensuring\ncompetitive pricing and optimal revenue generation.\nThe reach of CRSs extends beyond air travel, encompassing a wide range of travel-related services,\nincluding hotel reservations, car rentals, and even tour packages. This comprehensive integration allows\ntravel agents and other intermediaries to provide one-stop solutions for their customers, simplifying the\nplanning and booking of multi-faceted travel itineraries.\nComputerized Reservation Systems have revolutionized the travel industry, transforming it into a more\nefficient, interconnected, and customer-centric landscape. From planning a quick weekend getaway to\ncoordinating complex business trips, CRSs play a pivotal role in facilitating seamless travel experiences\nworldwide.\n\nWhich of the following statements can be supported from this text?",
+  "transcript": "",
+  "audio_text": "",
+  "content": "In the dynamic world of travel, Computerized Reservation Systems (CRSs) stand as indispensable tools\nthat streamline the booking and management of travel arrangements. These sophisticated systems,\noperating at the heart of the travel industry, seamlessly integrate and optimize travel data, enabling\ntravel agencies, airlines, and other stakeholders to provide efficient and comprehensive services to their\ncustomers.\nCRSs serve as a centralized repository of real-time information on flight schedules, seat availability, fares,\nand other travel-related details. This centralized data management facilitates efficient booking processes,\neliminating the need for manual inquiries and reducing the risk of errors. Additionally, CRSs enable travel\nproviders to offer dynamic pricing, adjusting fares based on demand and availability, ensuring\ncompetitive pricing and optimal revenue generation.\nThe reach of CRSs extends beyond air travel, encompassing a wide range of travel-related services,\nincluding hotel reservations, car rentals, and even tour packages. This comprehensive integration allows\ntravel agents and other intermediaries to provide one-stop solutions for their customers, simplifying the\nplanning and booking of multi-faceted travel itineraries.\nComputerized Reservation Systems have revolutionized the travel industry, transforming it into a more\nefficient, interconnected, and customer-centric landscape. From planning a quick weekend getaway to\ncoordinating complex business trips, CRSs play a pivotal role in facilitating seamless travel experiences\nworldwide.\n\nWhich of the following statements can be supported from this text?",
+  "options": [
+   "Computerized Reservation Systems (CRSs) are only used by airlines.",
+   "CRSs allow travel providers to offer dynamic pricing based on demand and availability.",
+   "CRSs are inefficient and outdated tools for booking travel arrangements",
+   "CRSs are used to book a wide range of travel-related services, including hotel reservations and car\nrentals.",
+   "CRSs do not help to make travel easier and more efficient for everyone.\n\nStart\nYour\nTraining\n\nCALL US TO BEGIN\n\n\fANSWERS\n1.\n2.\n3.\n4.\n5.\n\nA, E\nC, E\nA, D\nB, E\nB, E\n\n6. A, E\n7. B, C\n8. A, C\n9. B, E\n10.B, D\n\nDon’t just take our word for it; hear what our students have to say\nabout their experience with PTE Academy. We have a track record of\nhelping countless students achieve their desired scores and pursue their\ndreams of studying or working abroad. Visit our website to read\ninspiring success stories and testimonials that demonstrate the\neffectiveness of our coaching program.\nJoin PTE Academy Today and Unlock Your Potential:\nReady to embark on your journey towards Exam success? Join PTE Academy\ntoday and unlock your potential to achieve your desired score. Our expert\ntrainers, comprehensive study materials, and tailored practice resources are all\ngeared towards providing you with the ultimate learning experience.\nVisit our website now at www.pteacademy.in and enroll in our courses to gain\naccess to the free pte describe image practice material. Empower yourself with\nthe knowledge, skills, and confidence needed to conquer the PTE Speaking\nsection and achieve your dream score!\n\nStart\nYour\nTraining\n\nCALL US TO BEGIN"
+  ],
+  "answer": [
+   1,
+   3
+  ],
+  "source": "pteacademy.in",
+  "explanation": "",
+  "trap": "",
+  "topic": "in the dynamic"
+ }
+]

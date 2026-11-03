@@ -1,0 +1,1074 @@
+[
+  {
+    "id": "goarno-ro-01",
+    "items": [
+      "The city council has praised the project, noting its positive impact on community spirit and environmental awareness.",
+      "The project, which started last month, has brought together people of all ages.",
+      "This initiative has also helped to reduce neighborhood waste, as composting is a key component of the garden's ecosystem.",
+      "A local community garden has recently been revitalized by volunteers.",
+      "Residents now enjoy fresh vegetables and beautiful flowers grown in the garden."
+    ],
+    "correct_order": [
+      3,
+      1,
+      4,
+      2,
+      0
+    ],
+    "topic": "local community garden",
+    "source": "goarno.io"
+  },
+  {
+    "id": "goarno-ro-02",
+    "items": [
+      "Over the summer, tablets and interactive whiteboards were installed across multiple schools.",
+      "Schools in our district will start the new year with updated technology in classrooms.",
+      "Teachers have received training on how to integrate these tools into their lessons.",
+      "Parents and educators alike are hopeful that these improvements will make learning more engaging and effective.",
+      "The updates are part of a larger effort to enhance digital literacy among students."
+    ],
+    "correct_order": [
+      1,
+      0,
+      2,
+      4,
+      3
+    ],
+    "topic": "schools our district",
+    "source": "goarno.io"
+  },
+  {
+    "id": "goarno-ro-03",
+    "items": [
+      "In the mid-15th century, a German inventor named Johannes Gutenberg developed the printing press, a machine that allowed books to be mass-produced.",
+      "The printing press revolutionized the spread of knowledge, making books accessible to a much larger audience and fostering the spread of literacy.",
+      "Before this invention, books were written by hand, making them expensive and rare.",
+      "Gutenberg's press used movable type, which could be rearranged and reused, to print entire pages at once.",
+      "His first major publication was the Gutenberg Bible, which became famous for its high quality and was widely distributed."
+    ],
+    "correct_order": [
+      0,
+      2,
+      3,
+      4,
+      1
+    ],
+    "topic": "mid th century",
+    "source": "goarno.io"
+  },
+  {
+    "id": "goarno-ro-04",
+    "items": [
+      "The exhibition is free to the public and will run for the next three months.",
+      "School groups and art students are especially encouraged to visit.",
+      "A new art exhibition opened this weekend at the downtown gallery, featuring works from several regional artists.",
+      "Gallery owners hope to draw attention to the vibrant local art scene.",
+      "The show includes paintings, sculptures, and photographs, all exploring the theme of 'Urban Life.'"
+    ],
+    "correct_order": [
+      2,
+      4,
+      3,
+      0,
+      1
+    ],
+    "topic": "new art exhibition",
+    "source": "goarno.io"
+  },
+  {
+    "id": "goarno-ro-05",
+    "items": [
+      "They divided the plants into two groups: one received eight hours of direct sunlight daily, while the other received only four hours.",
+      "Measurements taken weekly showed that the plants with more sunlight exposure had a 30% increase in height and produced more fruit.",
+      "These findings could provide valuable insights for agricultural practices, especially in regions with limited natural light.",
+      "The study concluded that increased sunlight significantly enhances the growth and fruit production of tomato plants.",
+      "Researchers at the University of Atlanta conducted a six-week study to explore the effects of varying sunlight exposure on the growth of tomato plants."
+    ],
+    "correct_order": [
+      4,
+      0,
+      1,
+      3,
+      2
+    ],
+    "topic": "researchers at university",
+    "source": "goarno.io"
+  },
+  {
+    "id": "goarno-ro-06",
+    "items": [
+      "Despite the setbacks, the community market has remained open, featuring products from surrounding areas.",
+      "Heavy rains in early spring followed by a dry summer affected crop yields.",
+      "Farmers are adapting by using more sustainable farming techniques.",
+      "Local farmers faced challenges this season due to unexpected weather conditions.",
+      "The agricultural department is offering workshops to help them cope with climate variability."
+    ],
+    "correct_order": [
+      3,
+      1,
+      0,
+      2,
+      4
+    ],
+    "topic": "local farmers faced",
+    "source": "goarno.io"
+  },
+  {
+    "id": "goarno-ro-07",
+    "items": [
+      "Yesterday in the British Parliament, members debated a new bill proposing stricter environmental regulations.",
+      "After hours of discussion, the debate was adjourned, with a vote scheduled for next week.",
+      "Several amendments were proposed, aiming to balance environmental goals with economic interests.",
+      "Opposition members expressed concerns about the impact of these regulations on businesses, particularly small enterprises.",
+      "The debate began with the Environment Secretary outlining the benefits of the bill, emphasizing its potential to reduce pollution and protect natural habitats."
+    ],
+    "correct_order": [
+      0,
+      4,
+      3,
+      2,
+      1
+    ],
+    "topic": "yesterday british parliament",
+    "source": "goarno.io"
+  },
+  {
+    "id": "goarno-ro-08",
+    "items": [
+      "Environmental groups have applauded this trend, highlighting its benefits for air quality.",
+      "A recent study shows that public transportation usage in the city has increased by 20% over the past year.",
+      "Officials attribute the rise to improved service times and cleaner facilities.",
+      "The city plans to continue investing in public transport to encourage more residents to use it.",
+      "Additional buses and trains have been added during peak hours to accommodate the growing number of passengers."
+    ],
+    "correct_order": [
+      1,
+      2,
+      4,
+      3,
+      0
+    ],
+    "topic": "recent study shows",
+    "source": "goarno.io"
+  },
+  {
+    "id": "goarno-ro-09",
+    "items": [
+      "They call for stronger regulations that require companies to be transparent about data collection and to provide options for users to opt out.",
+      "On the other hand, some argue that extensive data collection is necessary for technological advancements and security measures.",
+      "Advocates for stricter data privacy argue that individuals should have more control over their personal information to protect their privacy and prevent misuse.",
+      "The debate over data privacy focuses on how personal information is collected, used, and protected by companies and governments.",
+      "They believe that limiting data access could hinder innovation and reduce the effectiveness of services tailored to user preferences."
+    ],
+    "correct_order": [
+      3,
+      2,
+      0,
+      1,
+      4
+    ],
+    "topic": "debate over data",
+    "source": "goarno.io"
+  },
+  {
+    "id": "goarno-ro-10",
+    "items": [
+      "To brew coffee using a drip coffee maker, start by measuring out the coffee grounds.",
+      "Next, fill the coffee maker's reservoir with cold water; use about six ounces of water for each cup you want to make.",
+      "Finally, turn on the machine and wait for the coffee to drip into the pot below.",
+      "For every cup of coffee, you typically need one tablespoon of grounds.",
+      "Place a coffee filter in the basket of the coffee maker and add the measured grounds."
+    ],
+    "correct_order": [
+      0,
+      3,
+      4,
+      1,
+      2
+    ],
+    "topic": "brew coffee using",
+    "source": "goarno.io"
+  },
+  {
+    "id": "goarno-ro-11",
+    "items": [
+      "Rising temperatures were linked to earlier plant blooming and changes in insect migration routes.",
+      "Data was collected on plant and insect populations across different elevations, showing clear shifts in ecological patterns.",
+      "Researchers from the Alpine Climate Study Group spent two years studying how temperature changes affect mountain ecosystems.",
+      "These insights are crucial for developing adaptive strategies to combat the impacts of global warming in these areas.",
+      "The study highlights the fragility of mountain ecosystems to even minor climatic shifts."
+    ],
+    "correct_order": [
+      2,
+      1,
+      0,
+      4,
+      3
+    ],
+    "topic": "researchers alpine climate",
+    "source": "goarno.io"
+  },
+  {
+    "id": "goarno-ro-12",
+    "items": [
+      "Tickets are available now, with early bird specials for those who purchase in advance.",
+      "The city's annual festival is set to return next month after being canceled last year due to health concerns.",
+      "Local businesses are looking forward to the boost in customers that the festival traditionally brings.",
+      "The event will feature live music, food stalls, and various entertainment activities for all ages.",
+      "Safety measures will be in place to ensure the wellbeing of attendees."
+    ],
+    "correct_order": [
+      1,
+      3,
+      4,
+      2,
+      0
+    ],
+    "topic": "city's annual festival",
+    "source": "goarno.io"
+  },
+  {
+    "id": "goarno-ro-13",
+    "items": [
+      "The Greenfield Agricultural Center conducted a season-long experiment to compare the effects of natural and chemical fertilizers on wheat production.",
+      "Fields treated with natural fertilizers not only yielded more wheat, but also demonstrated better soil health, as indicated by increased microbial activity.",
+      "Farmers might benefit from switching to environmentally friendly practices based on these findings.",
+      "The results suggest that natural fertilizers could provide a sustainable alternative for crop management.",
+      "Conversely, chemical fertilizers showed no significant improvement in yield and had a less positive effect on soil condition."
+    ],
+    "correct_order": [
+      0,
+      1,
+      4,
+      3,
+      2
+    ],
+    "topic": "greenfield agricultural center",
+    "source": "goarno.io"
+  },
+  {
+    "id": "goarno-ro-14",
+    "items": [
+      "Its construction was a remarkable feat, completed in just over two years by 300 workers.",
+      "However, it was saved from demolition when it proved valuable as a radiotelegraph station.",
+      "Interestingly, the Eiffel Tower was intended to be a temporary structure, with plans to dismantle it after 20 years.",
+      "The Eiffel Tower, a global symbol of France, was originally built for the 1889 \"Exposition Universelle\" held in Paris to celebrate the 100th anniversary of the French Revolution.",
+      "Today, it remains one of the most visited monuments in the world, attracting millions of tourists annually."
+    ],
+    "correct_order": [
+      3,
+      0,
+      2,
+      1,
+      4
+    ],
+    "topic": "eiffel tower global",
+    "source": "goarno.io"
+  },
+  {
+    "id": "goarno-ro-15",
+    "items": [
+      "Crowds of East and West Germans climbed onto the wall, celebrating together and starting to break it apart piece by piece.",
+      "This event symbolized the end of the Cold War and the triumph of freedom over division.",
+      "The Berlin Wall, which had divided East and West Berlin since 1961, was unexpectedly opened on November 9, 1989.",
+      "This event was triggered by a mistaken announcement that East Germans could cross into West Berlin immediately.",
+      "The fall of the wall marked the beginning of German reunification, which was formally completed less than a year later."
+    ],
+    "correct_order": [
+      2,
+      3,
+      0,
+      4,
+      1
+    ],
+    "topic": "berlin wall which",
+    "source": "goarno.io"
+  },
+  {
+    "id": "goarno-ro-16",
+    "items": [
+      "Neil Armstrong was the first to step onto the moon, famously saying, \"That's one small step for man, one giant leap for mankind.\"",
+      "The astronauts collected moon rocks and conducted experiments for over two hours.",
+      "On July 20, 1969, astronauts Neil Armstrong and Buzz Aldrin became the first humans to land on the moon as part of NASA's Apollo 11 mission.",
+      "Their spacecraft, the Eagle, touched down on the lunar surface in an area called the Sea of Tranquility.",
+      "They returned safely to Earth, landing in the Pacific Ocean, where they were picked up by a waiting ship."
+    ],
+    "correct_order": [
+      2,
+      3,
+      0,
+      1,
+      4
+    ],
+    "topic": "july astronauts neil",
+    "source": "goarno.io"
+  },
+  {
+    "id": "goarno-ro-17",
+    "items": [
+      "Plug the Ethernet cable into the WAN or internet port on your router, then connect the other end to your modem.",
+      "Once configured, save your settings and your Wi-Fi network should be ready to use.",
+      "Using a computer or mobile device, connect to the router’s default Wi-Fi network, which is typically listed in the router's manual or on a sticker on the router itself.",
+      "To set up a basic home Wi-Fi network, start by unboxing your wireless router and connecting it to your modem using an Ethernet cable.",
+      "Next, power on your router and wait for it to fully boot up; this usually involves waiting for certain lights on the router to stabilize, indicating it is operational.",
+      "Open a web browser and enter the router’s default IP address to access the configuration page, where you can set your network name (SSID), encryption type (preferably WPA2 for security), and a strong password."
+    ],
+    "correct_order": [
+      3,
+      0,
+      4,
+      2,
+      5,
+      1
+    ],
+    "topic": "set up basic",
+    "source": "goarno.io"
+  },
+  {
+    "id": "goarno-ro-18",
+    "items": [
+      "Fleming's discovery has had a profound impact on medicine, significantly reducing the number of deaths from bacterial infections.",
+      "The mold was later identified as Penicillium notatum.",
+      "Penicillin, the first true antibiotic, was discovered by accident by Scottish scientist Alexander Fleming in 1928.",
+      "While researching staphylococcus bacteria, Fleming noticed that a mold had contaminated one of his petri dishes and was killing the surrounding bacteria."
+    ],
+    "correct_order": [
+      2,
+      3,
+      1,
+      0
+    ],
+    "topic": "penicillin first true",
+    "source": "goarno.io"
+  },
+  {
+    "id": "goarno-ro-19",
+    "items": [
+      "The Magna Carta was created because the king had abused his power and heavily taxed the nobles.",
+      "It also laid the foundations for individual rights and ensured the protection of these rights through the establishment of a council of 25 barons.",
+      "This document established the principle that everyone, including the king, was subject to the law.",
+      "Although originally intended to address immediate political crises, the Magna Carta has become a cornerstone of democratic ideals and legal principles worldwide.",
+      "King John of England was forced by his barons to sign the Magna Carta, a document that limited royal power."
+    ],
+    "correct_order": [
+      4,
+      0,
+      2,
+      1,
+      3
+    ],
+    "topic": "king john england",
+    "source": "goarno.io"
+  },
+  {
+    "id": "goarno-ro-20",
+    "items": [
+      "They claim it would also help address global inequality by allowing people from poorer countries better access to resources and jobs in wealthier nations.",
+      "Supporters argue that open borders would lead to increased economic opportunities and cultural exchange, promoting global understanding.",
+      "The debate about open borders centers on whether countries should allow people to move freely across national boundaries without restrictions.",
+      "They also express concerns about security risks associated with unchecked movement across borders.",
+      "Critics, however, worry about the potential strain on public services and changes to national identity."
+    ],
+    "correct_order": [
+      2,
+      1,
+      0,
+      4,
+      3
+    ],
+    "topic": "debate about open",
+    "source": "goarno.io"
+  },
+  {
+    "id": "goarno-ro-21",
+    "items": [
+      "Workshops on digital literacy skills are scheduled to help users of all ages navigate these resources effectively.",
+      "Launched last week, the program includes the addition of new computers and tablets available for public use.",
+      "A new initiative at the local library aims to increase access to digital resources for all residents.",
+      "This initiative is expected to bridge the digital divide in the community, making educational and job-related resources more accessible.",
+      "The library staff is excited about the potential positive impact on the community's educational growth."
+    ],
+    "correct_order": [
+      2,
+      1,
+      0,
+      3,
+      4
+    ],
+    "topic": "new initiative at",
+    "source": "goarno.io"
+  },
+  {
+    "id": "goarno-ro-22",
+    "items": [
+      "The Maritime Museum has begun the restoration of the historic vessel, the SS Heritage.",
+      "The restoration project aims to preserve its original structure while updating safety measures to allow public tours.",
+      "This ship, which sailed during the early 20th century, played a significant role in maritime trade routes.",
+      "Once completed, the SS Heritage will serve as a floating museum, educating visitors about maritime history and heritage.",
+      "Volunteers and historians are collaborating to ensure that the restoration is historically accurate."
+    ],
+    "correct_order": [
+      0,
+      2,
+      1,
+      4,
+      3
+    ],
+    "topic": "maritime museum has",
+    "source": "goarno.io"
+  },
+  {
+    "id": "goarno-ro-23",
+    "items": [
+      "These insights could influence future city development policies to include more nature in urban environments.",
+      "The study advocates for urban planning that incorporates more green areas to enhance public health.",
+      "Researchers from City University recently conducted a study on the impact of urban green spaces on mental health.",
+      "The results indicated that proximity to green spaces significantly reduced stress levels and improved overall mental well-being.",
+      "Over a period of three months, they surveyed residents living near parks and those without nearby green spaces."
+    ],
+    "correct_order": [
+      2,
+      4,
+      3,
+      1,
+      0
+    ],
+    "topic": "researchers city university",
+    "source": "goarno.io"
+  },
+  {
+    "id": "goarno-ro-24",
+    "items": [
+      "However, some council members were concerned about the financial burden this increase would place on taxpayers.",
+      "Last Monday, the city council held a debate on the proposal to increase funding for public transportation.",
+      "The Transportation Secretary argued that boosting the budget would improve bus and train services, making them more reliable and frequent.",
+      "The debate was intense, and the decision was postponed to gather more public opinion on the matter.",
+      "They suggested looking into more cost-effective solutions."
+    ],
+    "correct_order": [
+      1,
+      2,
+      0,
+      4,
+      3
+    ],
+    "topic": "last monday city",
+    "source": "goarno.io"
+  },
+  {
+    "id": "goarno-ro-25",
+    "items": [
+      "Bake the bread in a preheated oven at 375 degrees Fahrenheit for 30 minutes or until the crust is golden brown and sounds hollow when tapped.",
+      "Let the dough rise in a warm place until it doubles in size, which usually takes about an hour.",
+      "Making homemade bread is a rewarding process that starts with mixing flour, water, yeast, and salt.",
+      "Begin by combining these ingredients in a large bowl to form a dough.",
+      "Knead the dough on a floured surface for about 10 minutes until it's smooth and elastic."
+    ],
+    "correct_order": [
+      2,
+      3,
+      4,
+      1,
+      0
+    ],
+    "topic": "making homemade bread",
+    "source": "goarno.io"
+  },
+  {
+    "id": "goarno-ro-26",
+    "items": [
+      "Local businesses have reported a surge in sales from the festivities.",
+      "The coach praised the team's dedication and the community's unwavering support throughout the season.",
+      "The hometown heroes, the Springfield Spartans, clinched the state football championship last weekend.",
+      "In a thrilling match that went into overtime, the Spartans secured their victory with a last-minute field goal.",
+      "The team celebrated their hard-earned win with a parade through downtown Springfield on Wednesday."
+    ],
+    "correct_order": [
+      2,
+      3,
+      4,
+      0,
+      1
+    ],
+    "topic": "hometown heroes springfield",
+    "source": "goarno.io"
+  },
+  {
+    "id": "goarno-ro-27",
+    "items": [
+      "The project aims to restore the theater's original Art Deco features while updating its sound and lighting systems.",
+      "The historic Grand Theater, which has stood in the heart of downtown for over a century, is undergoing a significant renovation.",
+      "The Grand Theater is scheduled to reopen next fall with a gala celebration.",
+      "Local performing arts groups have expressed enthusiasm about the prospect of performing in the updated facility.",
+      "The city hopes that the renovated theater will attract more visitors and revitalize the surrounding area."
+    ],
+    "correct_order": [
+      1,
+      0,
+      3,
+      4,
+      2
+    ],
+    "topic": "historic grand theater",
+    "source": "goarno.io"
+  },
+  {
+    "id": "goarno-ro-28",
+    "items": [
+      "Teachers report seeing improvements in reading confidence and comprehension already.",
+      "The program has also strengthened the sense of community within the school.",
+      "The aim is to improve literacy skills and foster a love of reading among students.",
+      "This program pairs younger students with older mentors to read together twice a week.",
+      "Maple Grove Elementary School recently launched a new reading initiative called \"Read Together, Grow Together.\""
+    ],
+    "correct_order": [
+      4,
+      3,
+      2,
+      0,
+      1
+    ],
+    "topic": "maple grove elementary",
+    "source": "goarno.io"
+  },
+  {
+    "id": "goarno-ro-29",
+    "items": [
+      "This accolade has brought significant attention to culinary talent in our region.",
+      "The community is proud to celebrate her national recognition.",
+      "Chef Maria Lopez, owner of the popular local restaurant Green Plate Diner, won first place in the National Chef's Challenge last Thursday.",
+      "Chef Lopez plans to introduce her award-winning dish to the diner's menu next month.",
+      "Her winning dish was a creative fusion of traditional Mexican and modern American cuisines."
+    ],
+    "correct_order": [
+      2,
+      4,
+      3,
+      0,
+      1
+    ],
+    "topic": "chef maria lopez",
+    "source": "goarno.io"
+  },
+  {
+    "id": "goarno-ro-30",
+    "items": [
+      "This ensures that even if someone intercepts the email, they cannot understand its contents without the key.",
+      "Email encryption is a process that secures email content to protect it from being read by anyone other than the intended recipients.",
+      "When the recipient receives the email, their software uses a decryption key to convert the cipher text back into readable text.",
+      "First, when an email is sent, encryption software converts the message from readable text into scrambled cipher text.",
+      "This is done using an encryption key, which only the sender and receiver possess."
+    ],
+    "correct_order": [
+      1,
+      3,
+      4,
+      2,
+      0
+    ],
+    "topic": "email encryption process",
+    "source": "goarno.io"
+  },
+  {
+    "id": "goarno-ro-31",
+    "items": [
+      "First, water enters through a sediment filter that catches large particles like dirt and rust.",
+      "A typical water filtration system works by passing water through multiple layers that trap and remove contaminants.",
+      "The final product is clean, safe drinking water.",
+      "Additional stages might include reverse osmosis, which uses a semi-permeable membrane to remove smaller particles, and UV filters that disinfect water by killing bacteria and viruses.",
+      "Next, it may pass through an activated carbon filter that removes chemicals and impurities through a process called adsorption."
+    ],
+    "correct_order": [
+      1,
+      0,
+      4,
+      3,
+      2
+    ],
+    "topic": "typical water filtration",
+    "source": "goarno.io"
+  },
+  {
+    "id": "goarno-ro-32",
+    "items": [
+      "The event served as a melting pot of cultures, featuring cooking demonstrations by renowned international chefs, tasting booths, and seminars on food sustainability and health.",
+      "Highlights included the Sushi Rolling Contest and the Italian Pasta Making Workshop, which were open for all attendees to participate.",
+      "The vibrant atmosphere and the exchange of culinary traditions made this expo a must-visit for food lovers looking to explore global cuisine.",
+      "The expo also emphasized eco-friendly practices, with vendors using biodegradable utensils and promoting organic ingredients.",
+      "The International Food Expo returned this year at the Grand Expo Center, showcasing culinary delights from over 40 countries."
+    ],
+    "correct_order": [
+      4,
+      0,
+      1,
+      3,
+      2
+    ],
+    "topic": "international food expo",
+    "source": "goarno.io"
+  },
+  {
+    "id": "goarno-ro-33",
+    "items": [
+      "One candidate argued for a single-payer system, claiming it would simplify healthcare delivery and ensure coverage for all citizens.",
+      "The debate highlighted the complexities of healthcare policy and left voters pondering the trade-offs of different approaches.",
+      "In a televised national debate, political candidates discussed the future of healthcare reform.",
+      "Another candidate countered that such a system would limit competition and potentially lower the quality of care.",
+      "Each side cited data from other countries' experiences to support their arguments."
+    ],
+    "correct_order": [
+      2,
+      0,
+      3,
+      4,
+      1
+    ],
+    "topic": "televised national debate",
+    "source": "goarno.io"
+  },
+  {
+    "id": "goarno-ro-34",
+    "items": [
+      "Local businesses sponsored the event, providing water stations and encouragement along the route.",
+      "The city hosted its annual Run for Hope marathon this Sunday to raise funds for cancer research.",
+      "Over 10,000 participants, including survivors and supporters, took to the streets in a demonstration of solidarity and resilience.",
+      "The day concluded with a celebration in the central park, where families enjoyed live music and a variety of food stalls, all while contributing to a noble cause.",
+      "The marathon featured a full 26.2-mile route and a half-marathon option, catering to all levels of runners."
+    ],
+    "correct_order": [
+      1,
+      2,
+      4,
+      0,
+      3
+    ],
+    "topic": "city hosted annual",
+    "source": "goarno.io"
+  },
+  {
+    "id": "goarno-ro-35",
+    "items": [
+      "The project not only beautifies the area but also provides a platform for artists to showcase their talents.",
+      "Walking tours of the murals are now offered, drawing both residents and tourists.",
+      "Local artists and community groups collaborated on the designs, which reflect the city's cultural diversity and history.",
+      "A new community art project titled 'Walls of Expression' has transformed the city’s blank walls into vibrant murals.",
+      "Organizers hope these murals will inspire more public art projects across the city."
+    ],
+    "correct_order": [
+      3,
+      2,
+      0,
+      1,
+      4
+    ],
+    "topic": "new community art",
+    "source": "goarno.io"
+  },
+  {
+    "id": "goarno-ro-36",
+    "items": [
+      "Bestselling author Jane Smith celebrated the launch of her latest novel with a special event at Booktown Library on Saturday.",
+      "The event was a success, further solidifying Jane's reputation as a key figure in contemporary literature.",
+      "Fans had the opportunity to meet the author, get their books signed, and hear Jane read excerpts from her new book.",
+      "Local aspiring writers and literature enthusiasts filled the venue, eager to engage with one of their favorite authors",
+      "The evening also included a Q&A session where Jane discussed her inspirations and writing process."
+    ],
+    "correct_order": [
+      0,
+      2,
+      4,
+      3,
+      1
+    ],
+    "topic": "bestselling author jane",
+    "source": "goarno.io"
+  },
+  {
+    "id": "goarno-ro-37",
+    "items": [
+      "Researchers measured changes in mood and anxiety levels through regular psychological assessments and blood tests, which monitored markers of inflammation and neurotransmitter activity.",
+      "This research could lead to dietary recommendations for managing mental health conditions.",
+      "The preliminary results suggest a strong correlation between a whole food diet and improved mental health indicators.",
+      "In an innovative study by nutritionists at the Health and Wellness Research Center, the impact of different diets on mental health was explored.",
+      "Participants followed specific dietary plans rich in either processed foods or whole foods for six months"
+    ],
+    "correct_order": [
+      3,
+      4,
+      0,
+      2,
+      1
+    ],
+    "topic": "innovative study nutritionists",
+    "source": "goarno.io"
+  },
+  {
+    "id": "goarno-ro-38",
+    "items": [
+      "Four years later, in 1932, she made the solo nonstop flight across the Atlantic.",
+      "Her mysterious disappearance during an attempt to circumnavigate the globe in 1937 remains one of aviation's greatest mysteries.",
+      "In 1928, Amelia Earhart became the first woman to fly across the Atlantic Ocean as a passenger.",
+      "Earhart's achievements promoted aviation and inspired a generation of female aviators.",
+      "Her courage and determination made her a symbol of the advancement of women in non-traditional fields."
+    ],
+    "correct_order": [
+      2,
+      0,
+      4,
+      3,
+      1
+    ],
+    "topic": "amelia earhart became",
+    "source": "goarno.io"
+  },
+  {
+    "id": "goarno-ro-39",
+    "items": [
+      "The printer uses materials such as plastic, metal, or resin, which it deposits in thin layers and then fuses together, typically using heat.",
+      "3D printing, or additive manufacturing, starts with designing a 3D model on a computer.",
+      "This model is then sent to a 3D printer, which builds the object layer by layer from the bottom up.",
+      "This process allows for the creation of complex and customized items that would be difficult to produce with traditional manufacturing methods.",
+      "Each layer corresponds to a cross-section of the final object."
+    ],
+    "correct_order": [
+      1,
+      2,
+      0,
+      4,
+      3
+    ],
+    "topic": "d printing or",
+    "source": "goarno.io"
+  },
+  {
+    "id": "goarno-ro-40",
+    "items": [
+      "Their method involves using topological quantum states, which are less affected by environmental noise, a common problem in earlier designs.",
+      "The research, published in 'Quantum Science Journal,' details how these qubits can be produced and integrated into existing quantum computing architectures.",
+      "However, the team cautions that scaling the design to thousands of qubits will require years of further engineering.",
+      "A team at the Tech Advanced Research Lab has made significant progress in quantum computing by developing a new type of quantum bit that is more stable and less prone to error.",
+      "This breakthrough could accelerate the practical deployment of quantum computers, potentially transforming data encryption and problem-solving capacities."
+    ],
+    "correct_order": [
+      3,
+      0,
+      1,
+      2,
+      4
+    ],
+    "topic": "team at tech",
+    "source": "goarno.io"
+  },
+  {
+    "id": "goarno-ro-41",
+    "items": [
+      "Insulin provided a way to manage blood sugar levels, saving countless lives.",
+      "The first successful treatment with insulin on a human was carried out in 1922.",
+      "This medical breakthrough earned Banting the Nobel Prize and has continued to benefit millions worldwide.",
+      "Before their discovery, diabetes was essentially a death sentence.",
+      "In 1921, Canadian scientists Frederick Banting and Charles Best discovered insulin, transforming the treatment of diabetes."
+    ],
+    "correct_order": [
+      4,
+      3,
+      0,
+      1,
+      2
+    ],
+    "topic": "canadian scientists frederick",
+    "source": "goarno.io"
+  },
+  {
+    "id": "goarno-ro-42",
+    "items": [
+      "By analyzing student performance data and surveying teachers, parents, and students, they aimed to identify which technologies facilitated effective learning and which did not.",
+      "The study also considered socio-economic factors to determine if some tools were more beneficial in different contexts.",
+      "Results from this research are expected to guide future educational technology development and deployment in schools.",
+      "Educational researchers from the University of Queensland embarked on a year-long study to assess the efficacy of remote learning tools used in elementary schools during the pandemic."
+    ],
+    "correct_order": [
+      3,
+      0,
+      1,
+      2
+    ],
+    "topic": "educational researchers university",
+    "source": "goarno.io"
+  },
+  {
+    "id": "goarno-ro-43",
+    "items": [
+      "It led to the rise of the French Republic and significant changes in French society.",
+      "The Revolution saw the overthrow of the monarchy, the establishment of a republic, and drastic and violent shifts in power.",
+      "The infamous Reign of Terror, marked by mass executions, was a significant phase of the Revolution.",
+      "The French Revolution had a profound influence on modern political ideologies and the development of democratic principles.",
+      "The French Revolution began in 1789, triggered by deep social and economic inequalities and discontent with the monarchy."
+    ],
+    "correct_order": [
+      4,
+      0,
+      1,
+      2,
+      3
+    ],
+    "topic": "french revolution began",
+    "source": "goarno.io"
+  },
+  {
+    "id": "goarno-ro-44",
+    "items": [
+      "This current is captured by wiring in the panels and is then converted from direct current (DC) to alternating current (AC) using an inverter.",
+      "First, solar panels, which are made of semiconductor materials, absorb sunlight.",
+      "Solar panels convert sunlight into electricity through a process called photovoltaic (PV) conversion.",
+      "The sunlight’s energy then frees electrons in the material, creating an electrical current.",
+      "The AC electricity is then usable in homes or businesses, or can be fed back into the power grid."
+    ],
+    "correct_order": [
+      2,
+      1,
+      3,
+      0,
+      4
+    ],
+    "topic": "solar panels convert",
+    "source": "goarno.io"
+  },
+  {
+    "id": "goarno-ro-45",
+    "items": [
+      "After cooling, the glass can be cut to size and further processed, such as by adding coatings or treatments to enhance strength or reduce glare.",
+      "Glass making begins with mixing sand (silicon dioxide) with soda ash and limestone.",
+      "Once shaped, the glass is slowly cooled in a process called annealing, which prevents it from becoming too brittle.",
+      "The molten glass is then poured into molds or floated on a bed of molten tin to form sheets.",
+      "This mixture is then heated to a very high temperature in a furnace until it melts and becomes liquid."
+    ],
+    "correct_order": [
+      1,
+      4,
+      3,
+      2,
+      0
+    ],
+    "topic": "glass making begins",
+    "source": "goarno.io"
+  },
+  {
+    "id": "goarno-ro-46",
+    "items": [
+      "Early observations indicate that microplastics may disrupt endocrine functions and reduce reproductive success in several fish species.",
+      "This ongoing research is crucial for understanding the broader ecological impacts of plastic pollution and shaping water quality regulations.",
+      "By introducing controlled amounts of microplastics into replicated freshwater environments, they observe how these particles affect fish health and behavior.",
+      "Environmental scientists at Greenwater Institute have initiated a project to investigate the effects of microplastics on freshwater ecosystems."
+    ],
+    "correct_order": [
+      3,
+      2,
+      0,
+      1
+    ],
+    "topic": "environmental scientists at",
+    "source": "goarno.io"
+  },
+  {
+    "id": "goarno-ro-47",
+    "items": [
+      "Over 40,000 workers participated in the construction, facing extreme challenges such as disease and difficult terrain.",
+      "Today, it remains one of the most important waterways in the world.",
+      "The Panama Canal, an engineering marvel, was completed in 1914 after ten years of intense labor.",
+      "It connected the Atlantic and Pacific Oceans, dramatically reducing the travel time for ships by avoiding the lengthy journey around South America.",
+      "The canal's completion had a profound impact on global trade patterns."
+    ],
+    "correct_order": [
+      2,
+      3,
+      0,
+      4,
+      1
+    ],
+    "topic": "panama canal engineering",
+    "source": "goarno.io"
+  },
+  {
+    "id": "goarno-ro-48",
+    "items": [
+      "Another candidate warned of the risks to civil liberties and privacy, urging for more oversight and accountability in intelligence practices.",
+      "One candidate advocated for increased surveillance and intelligence gathering to protect the nation from threats.",
+      "A national security debate took place among candidates running for federal office, focusing on the balance between privacy and security.",
+      "The debate touched on recent incidents of terrorism and cyber attacks, making it a critical issue for voters.",
+      "The candidates’ differing views highlighted the challenging decisions faced by lawmakers in an era of complex global threats."
+    ],
+    "correct_order": [
+      2,
+      1,
+      0,
+      3,
+      4
+    ],
+    "topic": "national security debate",
+    "source": "goarno.io"
+  },
+  {
+    "id": "goarno-ro-49",
+    "items": [
+      "Researchers at EcoPack Solutions are working on developing new bio-degradable packaging materials from plant-based polymers.",
+      "Success in this area could significantly reduce reliance on conventional plastics and the environmental damage they cause.",
+      "The team conducts various tests to evaluate the material's decomposition rate, resilience, and safety for food contact.",
+      "The company aims to commercialize their bio-degradable packaging within the next three years, offering a sustainable alternative to industries.",
+      "Their process involves extracting cellulose from agricultural waste, which is then treated with enzymes to produce a flexible, durable material."
+    ],
+    "correct_order": [
+      0,
+      4,
+      2,
+      1,
+      3
+    ],
+    "topic": "researchers at ecopack",
+    "source": "goarno.io"
+  },
+  {
+    "id": "goarno-ro-50",
+    "items": [
+      "Networking opportunities were abundant, with a special focus on startups looking to connect with potential investors.",
+      "Exhibitors showcased cutting-edge gadgets and software, offering attendees a glimpse into the future of tech.",
+      "The three-day event featured keynote speeches from industry leaders, panels discussing the latest trends in technology, and workshops for hands-on learning.",
+      "This week, the downtown convention center was bustling with tech enthusiasts and professionals attending the annual Tech Innovate Conference.",
+      "The conference wrapped up with an insightful roundtable on the ethical implications of artificial intelligence, a topic that sparked lively debate among participants."
+    ],
+    "correct_order": [
+      3,
+      2,
+      1,
+      0,
+      4
+    ],
+    "topic": "week downtown convention",
+    "source": "goarno.io"
+  },
+  {
+    "id": "edknot-ro-01",
+    "items": [
+      "This period, however, also sees the emergence of a Cold War that divides the continent for more than 40 years.",
+      "With the aim of ending the frequent and bloody conflicts that culminated in the Second World War, European politicians begin the process of building what we know today as the European Union.",
+      "The European Coal and Steel Community, founded in 1951, is the first step in securing a lasting peace.",
+      "In 1957, the Treaty of Rome establishes the European Economic Community (EEC) and a new era of ever-closer cooperation in Europe."
+    ],
+    "correct_order": [
+      1,
+      2,
+      3,
+      0
+    ],
+    "topic": "with the aim",
+    "source": "edknot.com",
+    "word_count": 91
+  },
+  {
+    "id": "edknot-ro-02",
+    "items": [
+      "The internet has also opened up new opportunities for businesses to reach global markets and for individuals to connect with people from around the world.",
+      "It has transformed industries, from retail and entertainment to education and healthcare.",
+      "This innovation has revolutionized the way we communicate, work, and access information.",
+      "In just a few decades, the internet has become an integral part of our daily lives."
+    ],
+    "correct_order": [
+      3,
+      1,
+      0,
+      2
+    ],
+    "topic": "in just a",
+    "source": "edknot.com",
+    "word_count": 65
+  },
+  {
+    "id": "edknot-ro-03",
+    "items": [
+      "The results of this comprehensive analysis have been published in Science.",
+      "They have spent the past three years crunching all the numbers they could lay their hands on.",
+      "These ranged from the current UN Food and Agriculture Organization&#x27;s database to information hundreds of years old, gleaned from kitchen records and archeology.",
+      "In order to establish whether diversity matters in the sea as well as on land, 11 marine biologists, along with three economists, have joined forces."
+    ],
+    "correct_order": [
+      3,
+      1,
+      2,
+      0
+    ],
+    "topic": "in order to",
+    "source": "edknot.com",
+    "word_count": 76
+  },
+  {
+    "id": "edknot-ro-04",
+    "items": [
+      "In order to do this , the manager should be able to motivate its employees.",
+      "The job of a manager in the workplace is to get things done through the employees.",
+      "However, this easier said than done.",
+      "Motivation practice and theory are difficult, complex subjects touching on several disciplines ."
+    ],
+    "correct_order": [
+      1,
+      0,
+      2,
+      3
+    ],
+    "topic": "the job of",
+    "source": "edknot.com",
+    "word_count": 50
+  },
+  {
+    "id": "edknot-ro-05",
+    "items": [
+      "For example, psychologist Gayle Delaney told of a woman who dreamed she was swimming underwater.",
+      "One explanation of dreams holds that they reflect the ongoing conscious preoccupations of waking life, such as concerns over health.",
+      "To Delaney, the message was obvious: the woman was &quot;drowning&#x27; under the responsibilities of child care, and her husband wasn&#x27;t &quot;getting the picture&quot;.",
+      "The woman&#x27;s eight-year-old son was on her back, his head above water. Her husuband was supposed to take pictures, but wasn&#x27;t, and she was starting to feel she was going to drown."
+    ],
+    "correct_order": [
+      1,
+      0,
+      3,
+      2
+    ],
+    "topic": "one explanation of",
+    "source": "edknot.com",
+    "word_count": 90
+  },
+  {
+    "id": "edknot-ro-07",
+    "items": [
+      "In Montana as elsewhere, companies that have acquired older mines respond to demands to pay for cleanup in either of two ways.",
+      "If the company is so large that it cannot claim that it would be bankrupted by cleanup costs (as in the case of ARCO that I shall discuss below), the company instead denies its responsibility or else seeks to minimize the costs.",
+      "Especially if the company is small, its owners may declare the company bankrupt, in some cases conceal its assets, and transfer their business efforts to other companies or to new companies that do not bear responsibility for cleanup at the old mine.",
+      "In either case, either the mine site and areas downstream of it remain toxic, thereby endangering people, or else the U.S. federal government and the Montana state government (hence ultimately all taxpayers) pay for the cleanup through the federal Superfund and a corresponding Montana state fund."
+    ],
+    "correct_order": [
+      0,
+      2,
+      1,
+      3
+    ],
+    "topic": "in montana as",
+    "source": "edknot.com",
+    "word_count": 152
+  },
+  {
+    "id": "edknot-ro-11",
+    "items": [
+      "Yet, this trend also challenges traditional food industries to innovate and adapt to changing consumer preferences.",
+      "This curiosity has led to a rise in ethnic restaurants and food festivals.",
+      "Globalization has increased the popularity of international cuisines.",
+      "People are now more adventurous in their food choices, exploring dishes from different cultures."
+    ],
+    "correct_order": [
+      2,
+      3,
+      1,
+      0
+    ],
+    "topic": "globalization has increased",
+    "source": "edknot.com",
+    "word_count": 51
+  }
+]

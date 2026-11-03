@@ -1,0 +1,78 @@
+{
+  "type": "lst_hcs",
+  "task_type": "Highlight Correct Summary",
+  "section": "listening",
+  "total": 3,
+  "generated_at": "2026-10-05",
+  "questions": [
+    {
+      "id": "pte-lst_hc-e87440e0",
+      "type": "lst_hcs",
+      "task_type": "lst-hcs",
+      "section": "listening",
+      "prompt": "",
+      "text": "Researchers in linguistics have long debated whether the structure of a language shapes the way its speakers think. The strong form of this hypothesis — that language strictly determines cognition — has been broadly rejected. But weaker versions are gathering empirical support. Speakers of languages with grammatical gender categorise objects differently from speakers of languages without it. Speakers of languages that use absolute directions, like north and south, rather than relative ones, like left and right, develop remarkable spatial awareness that persists even in unfamiliar environments. These effects are small, but they are real, and they have begun to reshape how cognitive scientists think about the interaction between thought and language.",
+      "transcript": "Researchers in linguistics have long debated whether the structure of a language shapes the way its speakers think. The strong form of this hypothesis — that language strictly determines cognition — has been broadly rejected. But weaker versions are gathering empirical support. Speakers of languages with grammatical gender categorise objects differently from speakers of languages without it. Speakers of languages that use absolute directions, like north and south, rather than relative ones, like left and right, develop remarkable spatial awareness that persists even in unfamiliar environments. These effects are small, but they are real, and they have begun to reshape how cognitive scientists think about the interaction between thought and language.",
+      "audio_text": "Researchers in linguistics have long debated whether the structure of a language shapes the way its speakers think. The strong form of this hypothesis — that language strictly determines cognition — has been broadly rejected. But weaker versions are gathering empirical support. Speakers of languages with grammatical gender categorise objects differently from speakers of languages without it. Speakers of languages that use absolute directions, like north and south, rather than relative ones, like left and right, develop remarkable spatial awareness that persists even in unfamiliar environments. These effects are small, but they are real, and they have begun to reshape how cognitive scientists think about the interaction between thought and language.",
+      "content": "Researchers in linguistics have long debated whether the structure of a language shapes the way its speakers think. The strong form of this hypothesis — that language strictly determines cognition — has been broadly rejected. But weaker versions are gathering empirical support. Speakers of languages with grammatical gender categorise objects differently from speakers of languages without it. Speakers of languages that use absolute directions, like north and south, rather than relative ones, like left and right, develop remarkable spatial awareness that persists even in unfamiliar environments. These effects are small, but they are real, and they have begun to reshape how cognitive scientists think about the interaction between thought and language.",
+      "answer": 1,
+      "source": "pteracai-seed",
+      "word_count": 111,
+      "options": [
+        "Linguists have proven that language entirely determines the way speakers think, and the strong form of this hypothesis is now accepted across the field.",
+        "While the strong form of the language-shapes-thought hypothesis has been rejected, weaker versions are now supported by small but real effects involving grammatical gender and spatial-direction conventions.",
+        "Languages with grammatical gender make speakers think exactly the same as speakers of languages without it, and direction systems have no measurable effect on cognition.",
+        "Cognitive scientists have given up studying the interaction between thought and language because the experimental evidence is too weak to be useful."
+      ],
+      "explanation": "Option B preserves the lecturer's nuanced position: strong hypothesis rejected, weaker versions supported, effects small but real. A inverts the actual conclusion. C contradicts the lecture's evidence. D is the opposite of the closing line about reshaping cognitive science.",
+      "trap": "A is dangerous because it uses the same vocabulary as the lecture ('strong form', 'language determines thought') but takes the opposite side. Read for direction of argument, not keyword overlap.",
+      "topic": "academic lecture"
+    },
+    {
+      "id": "pte-lst_hc-bfc76d3c",
+      "type": "lst_hcs",
+      "task_type": "lst-hcs",
+      "section": "listening",
+      "prompt": "",
+      "text": "When public health officials talk about vaccine hesitancy, the temptation is to frame it as a problem of misinformation, fixable through better education campaigns. The evidence suggests this framing is incomplete. Surveys consistently find that vaccine-hesitant parents are not less informed about vaccines — many have read extensively on the topic. What distinguishes them is lower baseline trust in the institutions delivering the message: government health agencies, pharmaceutical companies, and sometimes physicians themselves. Interventions that focus on information delivery without first rebuilding institutional trust tend to backfire, producing more entrenched hesitancy rather than less. Effective programs invest first in trusted local messengers — community doctors, pharmacists, religious leaders — who can carry the same scientific content with credibility the institution itself cannot supply.",
+      "transcript": "When public health officials talk about vaccine hesitancy, the temptation is to frame it as a problem of misinformation, fixable through better education campaigns. The evidence suggests this framing is incomplete. Surveys consistently find that vaccine-hesitant parents are not less informed about vaccines — many have read extensively on the topic. What distinguishes them is lower baseline trust in the institutions delivering the message: government health agencies, pharmaceutical companies, and sometimes physicians themselves. Interventions that focus on information delivery without first rebuilding institutional trust tend to backfire, producing more entrenched hesitancy rather than less. Effective programs invest first in trusted local messengers — community doctors, pharmacists, religious leaders — who can carry the same scientific content with credibility the institution itself cannot supply.",
+      "audio_text": "When public health officials talk about vaccine hesitancy, the temptation is to frame it as a problem of misinformation, fixable through better education campaigns. The evidence suggests this framing is incomplete. Surveys consistently find that vaccine-hesitant parents are not less informed about vaccines — many have read extensively on the topic. What distinguishes them is lower baseline trust in the institutions delivering the message: government health agencies, pharmaceutical companies, and sometimes physicians themselves. Interventions that focus on information delivery without first rebuilding institutional trust tend to backfire, producing more entrenched hesitancy rather than less. Effective programs invest first in trusted local messengers — community doctors, pharmacists, religious leaders — who can carry the same scientific content with credibility the institution itself cannot supply.",
+      "content": "When public health officials talk about vaccine hesitancy, the temptation is to frame it as a problem of misinformation, fixable through better education campaigns. The evidence suggests this framing is incomplete. Surveys consistently find that vaccine-hesitant parents are not less informed about vaccines — many have read extensively on the topic. What distinguishes them is lower baseline trust in the institutions delivering the message: government health agencies, pharmaceutical companies, and sometimes physicians themselves. Interventions that focus on information delivery without first rebuilding institutional trust tend to backfire, producing more entrenched hesitancy rather than less. Effective programs invest first in trusted local messengers — community doctors, pharmacists, religious leaders — who can carry the same scientific content with credibility the institution itself cannot supply.",
+      "answer": 2,
+      "source": "pteracai-seed",
+      "word_count": 123,
+      "options": [
+        "Vaccine hesitancy is mainly a problem of poor information, and the standard solution of public education campaigns has been highly successful.",
+        "Vaccine-hesitant parents are uniformly less educated and have read less about vaccines than parents who vaccinate readily.",
+        "Vaccine hesitancy is driven less by lack of information than by low trust in institutional messengers, so effective interventions rely on trusted local figures rather than information delivery alone.",
+        "Effective public health campaigns target individual fears through one-on-one therapy, while institutional messaging plays only a minor role."
+      ],
+      "explanation": "C captures the lecture's core claim: trust matters more than information, and local messengers carry credibility institutions cannot. A reverses the lecture's framing. B contradicts ('not less informed'). D is not in the lecture at all.",
+      "trap": "A reuses the lecture's framing ('information', 'public education') but takes the position the lecturer is arguing AGAINST. Anchor on the conclusion, not the surface vocabulary.",
+      "topic": "academic lecture"
+    },
+    {
+      "id": "pte-lst_hc-119ca48d",
+      "type": "lst_hcs",
+      "task_type": "lst-hcs",
+      "section": "listening",
+      "prompt": "",
+      "text": "The history of antibiotic resistance is often told as a story of bacteria evolving to defeat human medicine. That framing is misleading. Resistance genes existed in the soil microbiome long before penicillin was discovered — antibiotic compounds are produced naturally by competing microbes, and bacteria have been evolving counter-measures for millions of years. What human medicine did was unwittingly accelerate selection. The widespread use of antibiotics in agriculture and the over-prescription of antibiotics for viral infections created conditions where pre-existing resistance genes became overwhelmingly advantageous, spread rapidly through bacterial populations, and reached clinical settings. The implication is that 'discovering new antibiotics faster' is a partial fix at best — without changing how existing antibiotics are used, the same arms race will repeat.",
+      "transcript": "The history of antibiotic resistance is often told as a story of bacteria evolving to defeat human medicine. That framing is misleading. Resistance genes existed in the soil microbiome long before penicillin was discovered — antibiotic compounds are produced naturally by competing microbes, and bacteria have been evolving counter-measures for millions of years. What human medicine did was unwittingly accelerate selection. The widespread use of antibiotics in agriculture and the over-prescription of antibiotics for viral infections created conditions where pre-existing resistance genes became overwhelmingly advantageous, spread rapidly through bacterial populations, and reached clinical settings. The implication is that 'discovering new antibiotics faster' is a partial fix at best — without changing how existing antibiotics are used, the same arms race will repeat.",
+      "audio_text": "The history of antibiotic resistance is often told as a story of bacteria evolving to defeat human medicine. That framing is misleading. Resistance genes existed in the soil microbiome long before penicillin was discovered — antibiotic compounds are produced naturally by competing microbes, and bacteria have been evolving counter-measures for millions of years. What human medicine did was unwittingly accelerate selection. The widespread use of antibiotics in agriculture and the over-prescription of antibiotics for viral infections created conditions where pre-existing resistance genes became overwhelmingly advantageous, spread rapidly through bacterial populations, and reached clinical settings. The implication is that 'discovering new antibiotics faster' is a partial fix at best — without changing how existing antibiotics are used, the same arms race will repeat.",
+      "content": "The history of antibiotic resistance is often told as a story of bacteria evolving to defeat human medicine. That framing is misleading. Resistance genes existed in the soil microbiome long before penicillin was discovered — antibiotic compounds are produced naturally by competing microbes, and bacteria have been evolving counter-measures for millions of years. What human medicine did was unwittingly accelerate selection. The widespread use of antibiotics in agriculture and the over-prescription of antibiotics for viral infections created conditions where pre-existing resistance genes became overwhelmingly advantageous, spread rapidly through bacterial populations, and reached clinical settings. The implication is that 'discovering new antibiotics faster' is a partial fix at best — without changing how existing antibiotics are used, the same arms race will repeat.",
+      "answer": 1,
+      "source": "pteracai-seed",
+      "word_count": 122,
+      "options": [
+        "Antibiotic resistance is a recent invention by bacteria, and discovering new antibiotics is the complete solution to the problem.",
+        "Resistance genes existed in nature long before human medicine; modern misuse of antibiotics accelerated their spread, so simply inventing new drugs won't solve the underlying problem.",
+        "Antibiotic-resistant bacteria are a myth perpetuated by pharmaceutical companies to sell new drugs.",
+        "Agricultural use of antibiotics is the sole cause of resistance, and human medical use plays no role."
+      ],
+      "explanation": "B captures both halves of the lecturer's argument: pre-existing resistance + human acceleration + 'new drugs alone won't fix it'. A is the framing the lecturer rejects. C is not a position in the lecture. D singles out one cause while the lecture names multiple.",
+      "trap": "D picks out one fact from the audio (agricultural use) and inflates it into a sole cause. Summaries fail not only by contradicting evidence but by over-attributing.",
+      "topic": "academic lecture"
+    }
+  ]
+}

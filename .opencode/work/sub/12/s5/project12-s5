@@ -1,0 +1,13 @@
+# project12-s5 — Ajustes + Estados globais (S5)
+
+## Recorte (do PRD central §7.7/§7.8)
+`/settings` (settings.tsx), 404/ErrorComponent/UpdateBanner (`__root.tsx` ~:17-74), adoção do `EmptyState` unificado.
+
+## O quê
+- Ajustes: cartões de grupo com ícone e descrição; área **Studie Plus** com identidade própria (indicador de mecanismo do projeto 11 preservado, ~:156-224); importação de backup com hierarquia de ação de alto impacto (revisão/confirmação/resultado, ~:442-477); empilhamento limpo de rótulos+ações em 390px.
+- Estados globais: 404 e ErrorComponent na identidade nova; UpdateBanner redesenhado; EmptyState unificado adotado nas rotas do §7 (as rotas já redesignadas consomem; S5 entrega o componente/padrão global e aplica em settings).
+- PageHeader novo em /settings; alvos ≥44px; 390×844 sem overflow.
+
+## Como (restrição)
+- Nenhuma lógica de settings, backup (import/export/mescla), mecanismo Plus ou update muda (D5). Só apresentação.
+- Zero regressão: fluxo de backup 1:1 intacto; gates completos + Playwright em /settings, 404 e rota com ErrorComponent (axe 0, 390×844, console limpo).

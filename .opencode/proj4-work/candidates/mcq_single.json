@@ -1,0 +1,1278 @@
+[
+ {
+  "id": "goarno-mcq_si-01",
+  "taskType": "mcq_single",
+  "prompt": "Read the text and answer the multiple-choice question by selecting one correct response.",
+  "text": "For centuries, historical narratives often depicted pre-Columbian North America as a land sparsely populated by small, nomadic bands that left the landscape largely unaltered. However, the archaeological site of Cahokia, located near modern-day St. Louis, offers a striking counter-narrative to this view of simplicity. At its zenith around AD 1100, Cahokia was a sprawling urban center with a population that likely exceeded that of London at the time. The city was anchored by Monks Mound, a massive earthen structure covering fourteen acres and rising one hundred feet into the air. Constructing such a monument required the movement of millions of cubic feet of soil, a feat accomplished without the wheel or beasts of burden. This level of construction implies a highly stratified society with a centralized political and religious authority capable of organizing and sustaining a massive labor force. The existence of Cahokia demonstrates that indigenous North American societies were not limited to small-scale hunter-gatherer groups but were capable of developing complex, high-density metropolitan areas comparable to those in other parts of the world.\n\nWhat is the main point the author makes by discussing Cahokia?",
+  "transcript": "",
+  "audio_text": "",
+  "content": "For centuries, historical narratives often depicted pre-Columbian North America as a land sparsely populated by small, nomadic bands that left the landscape largely unaltered. However, the archaeological site of Cahokia, located near modern-day St. Louis, offers a striking counter-narrative to this view of simplicity. At its zenith around AD 1100, Cahokia was a sprawling urban center with a population that likely exceeded that of London at the time. The city was anchored by Monks Mound, a massive earthen structure covering fourteen acres and rising one hundred feet into the air. Constructing such a monument required the movement of millions of cubic feet of soil, a feat accomplished without the wheel or beasts of burden. This level of construction implies a highly stratified society with a centralized political and religious authority capable of organizing and sustaining a massive labor force. The existence of Cahokia demonstrates that indigenous North American societies were not limited to small-scale hunter-gatherer groups but were capable of developing complex, high-density metropolitan areas comparable to those in other parts of the world.\n\nWhat is the main point the author makes by discussing Cahokia?",
+  "options": [
+   "It serves as evidence that pre-Columbian societies were capable of sophisticated urban organization.",
+   "It proves that indigenous populations relied heavily on animal labor for construction.",
+   "It illustrates that North American settlements were generally smaller than European cities of the same era.",
+   "It supports the idea that indigenous people preferred a nomadic lifestyle with minimal environmental impact."
+  ],
+  "answer": [
+   0
+  ],
+  "source": "goarno.io",
+  "explanation": "",
+  "trap": "",
+  "topic": "for centuries historical"
+ },
+ {
+  "id": "goarno-mcq_si-02",
+  "taskType": "mcq_single",
+  "prompt": "Read the text and answer the multiple-choice question by selecting one correct response.",
+  "text": "For decades, anthropologists characterized the indigenous peoples of the Pacific Northwest primarily as hunter-gatherers who passively harvested the region's natural bounty. However, recent archaeological investigations along the coastline have revealed extensive stone terrace structures known as 'clam gardens' constructed in the intertidal zone. These rock walls were built at the low-tide line to trap sediment and flatten the slope of the beach. By expanding the habitat suitable for butter clams and littleneck clams, these structures significantly increased shellfish productivity. Furthermore, the act of tending these gardens—tilling the sediment to aerate it and removing predators—ensured sustainable yields over generations. These findings challenge the traditional binary classification of agriculturalists versus foragers, suggesting that marine management was as sophisticated as terrestrial farming. The existence of such systems indicates that the coastal ecosystem was not merely exploited opportunistically but was actively engineered to ensure long-term food security.\n\nWhat is the author's primary argument regarding the discovery of clam gardens?",
+  "transcript": "",
+  "audio_text": "",
+  "content": "For decades, anthropologists characterized the indigenous peoples of the Pacific Northwest primarily as hunter-gatherers who passively harvested the region's natural bounty. However, recent archaeological investigations along the coastline have revealed extensive stone terrace structures known as 'clam gardens' constructed in the intertidal zone. These rock walls were built at the low-tide line to trap sediment and flatten the slope of the beach. By expanding the habitat suitable for butter clams and littleneck clams, these structures significantly increased shellfish productivity. Furthermore, the act of tending these gardens—tilling the sediment to aerate it and removing predators—ensured sustainable yields over generations. These findings challenge the traditional binary classification of agriculturalists versus foragers, suggesting that marine management was as sophisticated as terrestrial farming. The existence of such systems indicates that the coastal ecosystem was not merely exploited opportunistically but was actively engineered to ensure long-term food security.\n\nWhat is the author's primary argument regarding the discovery of clam gardens?",
+  "options": [
+   "It proves that indigenous populations relied more heavily on seafood than on land-based hunting.",
+   "It demonstrates that indigenous peoples practiced a form of environmental engineering rather than simple foraging.",
+   "It suggests that archaeological methods have historically failed to identify coastal structures.",
+   "It explains why the Pacific Northwest was able to support higher population densities than other regions."
+  ],
+  "answer": [
+   1
+  ],
+  "source": "goarno.io",
+  "explanation": "",
+  "trap": "",
+  "topic": "for decades anthropologists"
+ },
+ {
+  "id": "goarno-mcq_si-03",
+  "taskType": "mcq_single",
+  "prompt": "Read the text and answer the multiple-choice question by selecting one correct response.",
+  "text": "Early European observers often mistook Indigenous agricultural plots in North America for chaotic tangles of vegetation, failing to recognize the sophisticated agronomy at play. The widespread 'Three Sisters' method—intercropping maize, climbing beans, and squash—exemplifies a deep understanding of plant ecology. The maize stalks provided necessary structural support for the beans, eliminating the need for artificial poles, while the beans, through their root systems, fixed atmospheric nitrogen to replenish the soil nutrients consumed by the corn. Meanwhile, the broad leaves of the squash plant acted as a living mulch, shading the ground to retain moisture and suppress weeds. Far from being a primitive lack of organization, this polyculture system maintained soil fertility over long periods without the need for the fallow rotation typically required by European monocultures. This evidence challenges historical narratives that characterize indigenous farming as rudimentary, revealing instead an advanced approach to sustainable food production.\n\nWhat point does the author primarily make about the 'Three Sisters' agricultural method?",
+  "transcript": "",
+  "audio_text": "",
+  "content": "Early European observers often mistook Indigenous agricultural plots in North America for chaotic tangles of vegetation, failing to recognize the sophisticated agronomy at play. The widespread 'Three Sisters' method—intercropping maize, climbing beans, and squash—exemplifies a deep understanding of plant ecology. The maize stalks provided necessary structural support for the beans, eliminating the need for artificial poles, while the beans, through their root systems, fixed atmospheric nitrogen to replenish the soil nutrients consumed by the corn. Meanwhile, the broad leaves of the squash plant acted as a living mulch, shading the ground to retain moisture and suppress weeds. Far from being a primitive lack of organization, this polyculture system maintained soil fertility over long periods without the need for the fallow rotation typically required by European monocultures. This evidence challenges historical narratives that characterize indigenous farming as rudimentary, revealing instead an advanced approach to sustainable food production.\n\nWhat point does the author primarily make about the 'Three Sisters' agricultural method?",
+  "options": [
+   "It was less efficient than European farming because it required artificial structural support.",
+   "It demonstrated a complex understanding of how different plant species support one another.",
+   "It was eventually abandoned in favor of European monocultures due to soil depletion.",
+   "It was designed primarily to create a chaotic appearance to deter wildlife."
+  ],
+  "answer": [
+   1
+  ],
+  "source": "goarno.io",
+  "explanation": "",
+  "trap": "",
+  "topic": "early european observers"
+ },
+ {
+  "id": "goarno-mcq_si-04",
+  "taskType": "mcq_single",
+  "prompt": "Read the text and answer the multiple-choice question by selecting one correct response.",
+  "text": "The debate concerning the legitimacy of audiobooks often centers on whether listening yields the same intellectual benefits as visual reading. Research indicates that for proficient readers, the cognitive processes used to construct meaning—such as inferring motives and visualizing scenes—are largely identical across both formats. The brain networks responsible for language comprehension are activated similarly, suggesting that the core experience of consuming a narrative is preserved regardless of the medium.\nNevertheless, a critical structural difference exists regarding the control of attention. Visual reading inherently accommodates regression, allowing the reader’s eyes to flit back to previous lines to clarify ambiguity or reinforce complex concepts before moving forward. In contrast, audio playback imposes a linear, continuous momentum that discourages pausing or rewinding for minor clarifications. While this unyielding pace rarely hinders the enjoyment of fiction, it can be detrimental when engaging with dense, informational texts where the ability to self-regulate speed and review specific details is essential for deep analysis.\n\nAccording to the passage, what is a significant limitation of the audiobook format?",
+  "transcript": "",
+  "audio_text": "",
+  "content": "The debate concerning the legitimacy of audiobooks often centers on whether listening yields the same intellectual benefits as visual reading. Research indicates that for proficient readers, the cognitive processes used to construct meaning—such as inferring motives and visualizing scenes—are largely identical across both formats. The brain networks responsible for language comprehension are activated similarly, suggesting that the core experience of consuming a narrative is preserved regardless of the medium.\nNevertheless, a critical structural difference exists regarding the control of attention. Visual reading inherently accommodates regression, allowing the reader’s eyes to flit back to previous lines to clarify ambiguity or reinforce complex concepts before moving forward. In contrast, audio playback imposes a linear, continuous momentum that discourages pausing or rewinding for minor clarifications. While this unyielding pace rarely hinders the enjoyment of fiction, it can be detrimental when engaging with dense, informational texts where the ability to self-regulate speed and review specific details is essential for deep analysis.\n\nAccording to the passage, what is a significant limitation of the audiobook format?",
+  "options": [
+   "It fails to stimulate the brain networks required for visualizing narrative scenes.",
+   "It restricts the audience's ability to easily revisit and review earlier sections of the text.",
+   "It is generally considered by researchers to be an invalid form of literacy.",
+   "It reduces the emotional impact of the story compared to visual reading."
+  ],
+  "answer": [
+   1
+  ],
+  "source": "goarno.io",
+  "explanation": "",
+  "trap": "",
+  "topic": "the debate concerning"
+ },
+ {
+  "id": "goarno-mcq_si-05",
+  "taskType": "mcq_single",
+  "prompt": "Read the text and answer the multiple-choice question by selecting one correct response.",
+  "text": "For much of human history, the act of reading was fundamentally a social and auditory performance rather than a private, silent activity. In classical antiquity, texts were often written in scriptio continua, a continuous stream of letters without spaces or punctuation. This format effectively necessitated reading aloud to decipher the meaning, as the rhythm and cadence of the spoken word helped separate varied syntactic units. Consequently, libraries in the ancient world were not the quiet sanctuaries we recognize today but were instead filled with the constant murmur of scholars vocalizing manuscripts.\nThe gradual transition to silent reading, accelerated by the introduction of word separation in the Middle Ages, marked a significant cultural and intellectual shift. It internalized the voice of the text, allowing for a faster, more personal engagement with information. This evolution did not merely increase the speed at which information could be consumed; it fundamentally altered the relationship between the reader and the author. No longer bound by the temporal pace of speech or the immediate presence of an audience, the silent reader could pause, reflect, and question the material in privacy. This fostered a new kind of individual intellectual autonomy that was less susceptible to communal regulation or social performance.\n\nAccording to the passage, how did the development of silent reading influence the reader's experience?",
+  "transcript": "",
+  "audio_text": "",
+  "content": "For much of human history, the act of reading was fundamentally a social and auditory performance rather than a private, silent activity. In classical antiquity, texts were often written in scriptio continua, a continuous stream of letters without spaces or punctuation. This format effectively necessitated reading aloud to decipher the meaning, as the rhythm and cadence of the spoken word helped separate varied syntactic units. Consequently, libraries in the ancient world were not the quiet sanctuaries we recognize today but were instead filled with the constant murmur of scholars vocalizing manuscripts.\nThe gradual transition to silent reading, accelerated by the introduction of word separation in the Middle Ages, marked a significant cultural and intellectual shift. It internalized the voice of the text, allowing for a faster, more personal engagement with information. This evolution did not merely increase the speed at which information could be consumed; it fundamentally altered the relationship between the reader and the author. No longer bound by the temporal pace of speech or the immediate presence of an audience, the silent reader could pause, reflect, and question the material in privacy. This fostered a new kind of individual intellectual autonomy that was less susceptible to communal regulation or social performance.\n\nAccording to the passage, how did the development of silent reading influence the reader's experience?",
+  "options": [
+   "It reduced the reader's ability to understand complex syntax without auditory cues.",
+   "It promoted a more independent and reflective mode of engaging with texts.",
+   "It forced libraries to enforce strict silence to accommodate the new reading style.",
+   "It caused a decline in the social aspect of learning by isolating scholars."
+  ],
+  "answer": [
+   1
+  ],
+  "source": "goarno.io",
+  "explanation": "",
+  "trap": "",
+  "topic": "for much of"
+ },
+ {
+  "id": "goarno-mcq_si-06",
+  "taskType": "mcq_single",
+  "prompt": "Read the text and answer the multiple-choice question by selecting one correct response.",
+  "text": "In the late Victorian era, the rapid and chaotic expansion of industrial hubs led to a deterioration in living standards, prompting a re-evaluation of urban design. Ebenezer Howard emerged as a pivotal figure, advocating for the creation of 'Garden Cities' designed to amalgamate the advantages of urban opportunity with the rural idyll. Howard’s blueprint envisioned self-sufficient communities encircled by protective 'green belts'—swathes of agricultural land meant to contain sprawl and provide residents with proximity to nature. This model was distinct from simple suburbanization; it sought to create balanced, autonomous municipalities rather than mere dormitory towns for major cities. Although the movement laid the groundwork for modern town planning and successfully established settlements like Letchworth, the ideal of complete economic independence was rarely fully realized. Consequently, while the aesthetic and zoning principles of the Garden City endured, the functional autonomy Howard originally proposed often gave way to commuter dependence on larger metropolitan centers.\n\nWhich of the following best summarizes the writer's assessment of the Garden City movement?",
+  "transcript": "",
+  "audio_text": "",
+  "content": "In the late Victorian era, the rapid and chaotic expansion of industrial hubs led to a deterioration in living standards, prompting a re-evaluation of urban design. Ebenezer Howard emerged as a pivotal figure, advocating for the creation of 'Garden Cities' designed to amalgamate the advantages of urban opportunity with the rural idyll. Howard’s blueprint envisioned self-sufficient communities encircled by protective 'green belts'—swathes of agricultural land meant to contain sprawl and provide residents with proximity to nature. This model was distinct from simple suburbanization; it sought to create balanced, autonomous municipalities rather than mere dormitory towns for major cities. Although the movement laid the groundwork for modern town planning and successfully established settlements like Letchworth, the ideal of complete economic independence was rarely fully realized. Consequently, while the aesthetic and zoning principles of the Garden City endured, the functional autonomy Howard originally proposed often gave way to commuter dependence on larger metropolitan centers.\n\nWhich of the following best summarizes the writer's assessment of the Garden City movement?",
+  "options": [
+   "It was entirely unsuccessful because it failed to limit the sprawl of industrial cities.",
+   "It achieved its visual and structural goals but often failed to maintain economic self-sufficiency.",
+   "It prioritized the needs of major metropolitan centers over the health of local residents.",
+   "It successfully replaced all Victorian industrial slums with autonomous agricultural towns."
+  ],
+  "answer": [
+   1
+  ],
+  "source": "goarno.io",
+  "explanation": "",
+  "trap": "",
+  "topic": "in the late"
+ },
+ {
+  "id": "goarno-mcq_si-07",
+  "taskType": "mcq_single",
+  "prompt": "Read the text and answer the multiple-choice question by selecting one correct response.",
+  "text": "For generations, a prevailing historical narrative suggested that the North American continent was a primeval wilderness, lightly trodden by indigenous inhabitants who lived in harmony with an untouched environment. This perception, however, largely stems from the specific timing of European observation. Early sixteenth-century explorers often reported densely settled regions and extensive agricultural clearance. Yet, when colonization intensified over a century later, settlers encountered vast, unbroken forests. This discrepancy is largely attributed to a silent biological invasion that preceded the settlers: Old World pathogens. These diseases swept through native populations with devastating speed, often arriving well in advance of direct European contact. As communities collapsed, the open fields and managed landscapes they had maintained for centuries were abandoned. The dense woodlands that later observers described were, in fact, rapidly regenerating secondary forests masking the footprint of complex societies. Therefore, the landscape perceived as a wild frontier was not an enduring state of nature, but rather a \"widowed land\" recovering from sudden anthropogenic withdrawal.\n\nAccording to the passage, why did later European settlers encounter vast forests instead of the populated landscapes reported by earlier explorers?",
+  "transcript": "",
+  "audio_text": "",
+  "content": "For generations, a prevailing historical narrative suggested that the North American continent was a primeval wilderness, lightly trodden by indigenous inhabitants who lived in harmony with an untouched environment. This perception, however, largely stems from the specific timing of European observation. Early sixteenth-century explorers often reported densely settled regions and extensive agricultural clearance. Yet, when colonization intensified over a century later, settlers encountered vast, unbroken forests. This discrepancy is largely attributed to a silent biological invasion that preceded the settlers: Old World pathogens. These diseases swept through native populations with devastating speed, often arriving well in advance of direct European contact. As communities collapsed, the open fields and managed landscapes they had maintained for centuries were abandoned. The dense woodlands that later observers described were, in fact, rapidly regenerating secondary forests masking the footprint of complex societies. Therefore, the landscape perceived as a wild frontier was not an enduring state of nature, but rather a \"widowed land\" recovering from sudden anthropogenic withdrawal.\n\nAccording to the passage, why did later European settlers encounter vast forests instead of the populated landscapes reported by earlier explorers?",
+  "options": [
+   "Indigenous populations had deliberately reforested their agricultural lands to avoid detection.",
+   "Earlier explorers had exaggerated the extent of indigenous settlement and agriculture.",
+   "The reduction in human activity due to disease allowed previously cleared land to regrow.",
+   "European settlers arrived in different regions than those visited by the initial sixteenth-century explorers."
+  ],
+  "answer": [
+   2
+  ],
+  "source": "goarno.io",
+  "explanation": "",
+  "trap": "",
+  "topic": "for generations a"
+ },
+ {
+  "id": "goarno-mcq_si-08",
+  "taskType": "mcq_single",
+  "prompt": "Read the text and answer the multiple-choice question by selecting one correct response.",
+  "text": "Scholars have long recognized that the agricultural practices of Indigenous peoples in North America were far more sophisticated than early European observers realized. A prime example is the intercropping system known as the \"Three Sisters,\" widely practiced by the Iroquois and other groups. Unlike European farmers who typically segregated crops into separate fields—a practice known as monoculture that often led to rapid soil depletion—Indigenous cultivators planted maize, climbing beans, and squash together in shared mounds. This arrangement was not merely convenient but ecologically engineered. The maize stalks provided a natural trellis for the beans to climb, eliminating the need for wooden poles. In return, the beans, through their root systems, fixed nitrogen in the soil, replenishing the nutrients that maize demanded. Meanwhile, the broad leaves of the squash plant shaded the ground, retaining soil moisture and suppressing weeds. This complex, symbiotic relationship allowed for high yields without the immediate need for artificial fertilizers, effectively challenging the historical assumption that pre-colonial agriculture was rudimentary.\n\nAccording to the passage, how did the \"Three Sisters\" system differ from the agricultural methods typically used by European farmers?",
+  "transcript": "",
+  "audio_text": "",
+  "content": "Scholars have long recognized that the agricultural practices of Indigenous peoples in North America were far more sophisticated than early European observers realized. A prime example is the intercropping system known as the \"Three Sisters,\" widely practiced by the Iroquois and other groups. Unlike European farmers who typically segregated crops into separate fields—a practice known as monoculture that often led to rapid soil depletion—Indigenous cultivators planted maize, climbing beans, and squash together in shared mounds. This arrangement was not merely convenient but ecologically engineered. The maize stalks provided a natural trellis for the beans to climb, eliminating the need for wooden poles. In return, the beans, through their root systems, fixed nitrogen in the soil, replenishing the nutrients that maize demanded. Meanwhile, the broad leaves of the squash plant shaded the ground, retaining soil moisture and suppressing weeds. This complex, symbiotic relationship allowed for high yields without the immediate need for artificial fertilizers, effectively challenging the historical assumption that pre-colonial agriculture was rudimentary.\n\nAccording to the passage, how did the \"Three Sisters\" system differ from the agricultural methods typically used by European farmers?",
+  "options": [
+   "It relied on a complex system of crop rotation to maintain soil fertility over time.",
+   "It utilized a monoculture approach that segregated crops to maximize harvest efficiency.",
+   "It employed a symbiotic planting strategy that naturally replenished soil nutrients.",
+   "It required the use of artificial fertilizers to support the high nutrient demands of maize."
+  ],
+  "answer": [
+   2
+  ],
+  "source": "goarno.io",
+  "explanation": "",
+  "trap": "",
+  "topic": "scholars have long"
+ },
+ {
+  "id": "goarno-mcq_si-09",
+  "taskType": "mcq_single",
+  "prompt": "Read the text and answer the multiple-choice question by selecting one correct response.",
+  "text": "For centuries, a prevalent narrative suggested that the North American continent prior to European contact was a vast, untamed wilderness inhabited exclusively by small, nomadic groups living in harmony with an unaltered environment. This perspective, however, is increasingly contradicted by archaeological investigations into the Mississippian culture, which flourished in the American Midwest and Southeast. The most prominent example is Cahokia, a complex urban center located near present-day St. Louis. At its zenith in the twelfth century, Cahokia was a bustling metropolis with a population rivaling that of major European cities of the era. The society relied on intensive maize agriculture, which required substantial deforestation and water management systems. Furthermore, the construction of monumental earthworks, such as the massive Monks Mound, involved the organized labor of thousands to move millions of cubic feet of earth. These engineering feats indicate that indigenous populations did not merely adapt to their surroundings but actively terraformed them to sustain large, sedentary communities, debunking the myth of a passive relationship with a pristine nature.\n\nWhich of the following best summarizes the author's central argument?",
+  "transcript": "",
+  "audio_text": "",
+  "content": "For centuries, a prevalent narrative suggested that the North American continent prior to European contact was a vast, untamed wilderness inhabited exclusively by small, nomadic groups living in harmony with an unaltered environment. This perspective, however, is increasingly contradicted by archaeological investigations into the Mississippian culture, which flourished in the American Midwest and Southeast. The most prominent example is Cahokia, a complex urban center located near present-day St. Louis. At its zenith in the twelfth century, Cahokia was a bustling metropolis with a population rivaling that of major European cities of the era. The society relied on intensive maize agriculture, which required substantial deforestation and water management systems. Furthermore, the construction of monumental earthworks, such as the massive Monks Mound, involved the organized labor of thousands to move millions of cubic feet of earth. These engineering feats indicate that indigenous populations did not merely adapt to their surroundings but actively terraformed them to sustain large, sedentary communities, debunking the myth of a passive relationship with a pristine nature.\n\nWhich of the following best summarizes the author's central argument?",
+  "options": [
+   "The Mississippian culture was unique in its ability to avoid altering the natural landscape while supporting a large population.",
+   "Archaeological evidence proves that pre-contact North America hosted complex societies that significantly engineered their environments.",
+   "Cahokia's population significantly exceeded that of European capitals, proving the superiority of indigenous agricultural methods.",
+   "European settlers were the first to introduce concepts of large-scale urban planning and deforestation to the North American continent."
+  ],
+  "answer": [
+   1
+  ],
+  "source": "goarno.io",
+  "explanation": "",
+  "trap": "",
+  "topic": "for centuries a"
+ },
+ {
+  "id": "goarno-mcq_si-11",
+  "taskType": "mcq_single",
+  "prompt": "Read the text and answer the multiple-choice question by selecting one correct response.",
+  "text": "At the turn of the twentieth century, the British urban planner Ebenezer Howard proposed a radical solution to the overcrowding and pollution of Victorian industrial cities. His vision was the 'Garden City,' a planned settlement that aimed to combine the economic opportunities of the city with the fresh air and natural beauty of the countryside. Howard conceptualized these towns as self-contained communities surrounded by 'greenbelts'—protected agricultural land that would prevent urban sprawl and ensure residents had access to nature. The movement achieved tangible success with the construction of Letchworth and Welwyn Garden City. These towns were distinct from mere dormitories for commuters; they were designed with designated zones for industry, ensuring local employment, and communal ownership of land to prevent speculation. However, as the twentieth century progressed, the term 'garden city' was increasingly co-opted by developers to market sprawling suburban estates that lacked the self-sufficiency and communal infrastructure Howard originally championed. While the aesthetic of tree-lined streets persisted, the socio-economic core of Howard’s philosophy was often stripped away, leaving behind a diluted version of his utopian ideal.\n\nAccording to the passage, how did many later developments diverge from Howard's original Garden City concept?",
+  "transcript": "",
+  "audio_text": "",
+  "content": "At the turn of the twentieth century, the British urban planner Ebenezer Howard proposed a radical solution to the overcrowding and pollution of Victorian industrial cities. His vision was the 'Garden City,' a planned settlement that aimed to combine the economic opportunities of the city with the fresh air and natural beauty of the countryside. Howard conceptualized these towns as self-contained communities surrounded by 'greenbelts'—protected agricultural land that would prevent urban sprawl and ensure residents had access to nature. The movement achieved tangible success with the construction of Letchworth and Welwyn Garden City. These towns were distinct from mere dormitories for commuters; they were designed with designated zones for industry, ensuring local employment, and communal ownership of land to prevent speculation. However, as the twentieth century progressed, the term 'garden city' was increasingly co-opted by developers to market sprawling suburban estates that lacked the self-sufficiency and communal infrastructure Howard originally championed. While the aesthetic of tree-lined streets persisted, the socio-economic core of Howard’s philosophy was often stripped away, leaving behind a diluted version of his utopian ideal.\n\nAccording to the passage, how did many later developments diverge from Howard's original Garden City concept?",
+  "options": [
+   "They prioritized industrial expansion over residential comfort.",
+   "They retained the visual style but abandoned the functional self-sufficiency.",
+   "They completely eliminated the use of green spaces and tree-lined streets.",
+   "They refused to build on land that was not previously agricultural."
+  ],
+  "answer": [
+   1
+  ],
+  "source": "goarno.io",
+  "explanation": "",
+  "trap": "",
+  "topic": "at the turn"
+ },
+ {
+  "id": "goarno-mcq_si-12",
+  "taskType": "mcq_single",
+  "prompt": "Read the text and answer the multiple-choice question by selecting one correct response.",
+  "text": "While carbon dioxide dominates global warming discussions, nitrous oxide—a byproduct primarily of agricultural activities—poses a unique and formidable challenge. Often overlooked, this gas is roughly 300 times more effective at trapping heat than carbon dioxide. Its primary source is not a centralized industrial chimney that can be capped or filtered, but rather the vast expanses of fertilized farmland worldwide. When nitrogen fertilizers are applied to boost crop yields, soil bacteria convert the excess nitrogen into nitrous oxide, which then seeps into the air. This diffuse nature makes emission control extremely difficult compared to point-source pollution. Moreover, the gas persists in the atmosphere for over a century, meaning today’s emissions will influence the climate for generations to come. Researchers suggest that without significant changes in global farming practices and fertilizer efficiency, climate targets will remain out of reach, regardless of the progress made in the renewable energy sector.\n\nWhat point does the author make about nitrous oxide emissions?",
+  "transcript": "",
+  "audio_text": "",
+  "content": "While carbon dioxide dominates global warming discussions, nitrous oxide—a byproduct primarily of agricultural activities—poses a unique and formidable challenge. Often overlooked, this gas is roughly 300 times more effective at trapping heat than carbon dioxide. Its primary source is not a centralized industrial chimney that can be capped or filtered, but rather the vast expanses of fertilized farmland worldwide. When nitrogen fertilizers are applied to boost crop yields, soil bacteria convert the excess nitrogen into nitrous oxide, which then seeps into the air. This diffuse nature makes emission control extremely difficult compared to point-source pollution. Moreover, the gas persists in the atmosphere for over a century, meaning today’s emissions will influence the climate for generations to come. Researchers suggest that without significant changes in global farming practices and fertilizer efficiency, climate targets will remain out of reach, regardless of the progress made in the renewable energy sector.\n\nWhat point does the author make about nitrous oxide emissions?",
+  "options": [
+   "They are easier to monitor than carbon dioxide because they come from specific industrial sites.",
+   "They constitute a significant climate hurdle because they stem from widespread farming and are long-lasting.",
+   "They have recently surpassed carbon dioxide as the leading contributor to the greenhouse effect.",
+   "They can be swiftly neutralized if synthetic nitrogen fertilizers are banned immediately."
+  ],
+  "answer": [
+   1
+  ],
+  "source": "goarno.io",
+  "explanation": "",
+  "trap": "",
+  "topic": "while carbon dioxide"
+ },
+ {
+  "id": "goarno-mcq_si-13",
+  "taskType": "mcq_single",
+  "prompt": "Read the text and answer the multiple-choice question by selecting one correct response.",
+  "text": "For decades, paleontologists have debated the primary driver behind the sudden disappearance of North America’s megafauna—giant creatures such as mammoths, mastodons, and saber-toothed cats—at the end of the Pleistocene epoch. The 'overkill hypothesis,' first popularized in the 1960s, posits that the arrival of humans across the Bering Land Bridge directly precipitated these extinctions through aggressive hunting practices. Proponents argue that the timing of human arrival coincides too perfectly with the collapse of megafaunal populations to be coincidental. However, recent radiocarbon dating and climatic reconstructions suggest a more nuanced reality. Evidence indicates that significant climate fluctuations, leading to habitat loss and vegetation changes, were already stressing these populations prior to human entry. Consequently, many researchers now advocate for a synergistic model, suggesting that while human predation may have delivered the final blow to weakened populations, it was likely the rapid environmental restructuring that made these species vulnerable in the first place.\n\nWhich view regarding the extinction of North American megafauna does the writer support?",
+  "transcript": "",
+  "audio_text": "",
+  "content": "For decades, paleontologists have debated the primary driver behind the sudden disappearance of North America’s megafauna—giant creatures such as mammoths, mastodons, and saber-toothed cats—at the end of the Pleistocene epoch. The 'overkill hypothesis,' first popularized in the 1960s, posits that the arrival of humans across the Bering Land Bridge directly precipitated these extinctions through aggressive hunting practices. Proponents argue that the timing of human arrival coincides too perfectly with the collapse of megafaunal populations to be coincidental. However, recent radiocarbon dating and climatic reconstructions suggest a more nuanced reality. Evidence indicates that significant climate fluctuations, leading to habitat loss and vegetation changes, were already stressing these populations prior to human entry. Consequently, many researchers now advocate for a synergistic model, suggesting that while human predation may have delivered the final blow to weakened populations, it was likely the rapid environmental restructuring that made these species vulnerable in the first place.\n\nWhich view regarding the extinction of North American megafauna does the writer support?",
+  "options": [
+   "The extinction was caused exclusively by the sophisticated hunting methods of early humans.",
+   "Climate change theories have been largely dismissed in favor of the overkill hypothesis.",
+   "A combination of ecological changes and human activity likely led to the species' demise.",
+   "Megafaunal populations had already vanished before humans migrated across the Bering Land Bridge."
+  ],
+  "answer": [
+   2
+  ],
+  "source": "goarno.io",
+  "explanation": "",
+  "trap": "",
+  "topic": "for decades paleontologists"
+ },
+ {
+  "id": "goarno-mcq_si-14",
+  "taskType": "mcq_single",
+  "prompt": "Read the text and answer the multiple-choice question by selecting one correct response.",
+  "text": "For decades, paleontologists have debated the sudden disappearance of megafauna—giant creatures like mammoths, ground sloths, and sabre-toothed cats—from the North American landscape approximately 13,000 years ago. One prominent theory, known as the 'Overkill Hypothesis,' suggests that the arrival of efficient human hunters spelled doom for these species, which possessed no evolutionary defense against such predation. Conversely, opponents argue that drastic climatic shifts at the end of the Ice Age were the true drivers of extinction, shrinking habitats and altering vegetation. However, recent analyses of kill sites and migration timing reveal a correlation that is difficult to dismiss. Although climate stress undoubtedly made these populations vulnerable, the weight of evidence increasingly implies that human hunting delivered the decisive blow, challenging the perception that early inhabitants had a negligible effect on the prehistoric ecosystem.\n\nWhich of the following best represents the author's conclusion regarding the extinction of North American megafauna?",
+  "transcript": "",
+  "audio_text": "",
+  "content": "For decades, paleontologists have debated the sudden disappearance of megafauna—giant creatures like mammoths, ground sloths, and sabre-toothed cats—from the North American landscape approximately 13,000 years ago. One prominent theory, known as the 'Overkill Hypothesis,' suggests that the arrival of efficient human hunters spelled doom for these species, which possessed no evolutionary defense against such predation. Conversely, opponents argue that drastic climatic shifts at the end of the Ice Age were the true drivers of extinction, shrinking habitats and altering vegetation. However, recent analyses of kill sites and migration timing reveal a correlation that is difficult to dismiss. Although climate stress undoubtedly made these populations vulnerable, the weight of evidence increasingly implies that human hunting delivered the decisive blow, challenging the perception that early inhabitants had a negligible effect on the prehistoric ecosystem.\n\nWhich of the following best represents the author's conclusion regarding the extinction of North American megafauna?",
+  "options": [
+   "Climate change was the sole factor, as habitat loss made survival impossible.",
+   "The arrival of humans was the critical factor that tipped vulnerable populations into extinction.",
+   "The 'Overkill Hypothesis' has been largely discredited by new evidence regarding vegetation patterns.",
+   "Early human inhabitants had no significant impact on the ecosystem or the survival of large mammals."
+  ],
+  "answer": [
+   1
+  ],
+  "source": "goarno.io",
+  "explanation": "",
+  "trap": "",
+  "topic": "for decades paleontologists"
+ },
+ {
+  "id": "goarno-mcq_si-15",
+  "taskType": "mcq_single",
+  "prompt": "Read the text and answer the multiple-choice question by selecting one correct response.",
+  "text": "At the turn of the twentieth century, Ebenezer Howard proposed a radical solution to the overcrowding and pollution of Victorian industrial cities: the Garden City. In his seminal publication, To-Morrow: A Peaceful Path to Real Reform, Howard envisioned self-contained communities surrounded by 'greenbelts' of agriculture and parkland. These settlements aimed to blend the economic opportunities of the city with the fresh air and natural beauty of the countryside. Unlike the sprawling suburbs that would later characterize urban expansion, Garden Cities were designed to be finite in size, preventing them from encroaching endlessly upon rural landscapes.\nCrucially, Howard’s model was not merely architectural but economic; he advocated for community ownership of land. This mechanism intended that the appreciation in land value created by the community’s growth would be reinvested for public benefit rather than captured by private landlords. While the aesthetic elements of tree-lined avenues and zoning were widely adopted in subsequent town planning, the radical economic underpinnings of Howard’s vision were largely diluted. Consequently, while the physical form of the Garden City influenced global urban design, the socio-economic equality Howard sought to engineer remains an unfulfilled ambition.\n\nAccording to the text, what was the fate of the economic principles central to Howard's Garden City model?",
+  "transcript": "",
+  "audio_text": "",
+  "content": "At the turn of the twentieth century, Ebenezer Howard proposed a radical solution to the overcrowding and pollution of Victorian industrial cities: the Garden City. In his seminal publication, To-Morrow: A Peaceful Path to Real Reform, Howard envisioned self-contained communities surrounded by 'greenbelts' of agriculture and parkland. These settlements aimed to blend the economic opportunities of the city with the fresh air and natural beauty of the countryside. Unlike the sprawling suburbs that would later characterize urban expansion, Garden Cities were designed to be finite in size, preventing them from encroaching endlessly upon rural landscapes.\nCrucially, Howard’s model was not merely architectural but economic; he advocated for community ownership of land. This mechanism intended that the appreciation in land value created by the community’s growth would be reinvested for public benefit rather than captured by private landlords. While the aesthetic elements of tree-lined avenues and zoning were widely adopted in subsequent town planning, the radical economic underpinnings of Howard’s vision were largely diluted. Consequently, while the physical form of the Garden City influenced global urban design, the socio-economic equality Howard sought to engineer remains an unfulfilled ambition.\n\nAccording to the text, what was the fate of the economic principles central to Howard's Garden City model?",
+  "options": [
+   "They were proven to be financially unsustainable in the long term.",
+   "They were mostly disregarded in favor of the architectural aspects.",
+   "They were strictly enforced to prevent the rise of private landlords.",
+   "They inevitably led to the limitless sprawl of suburban areas."
+  ],
+  "answer": [
+   1
+  ],
+  "source": "goarno.io",
+  "explanation": "",
+  "trap": "",
+  "topic": "at the turn"
+ },
+ {
+  "id": "goarno-mcq_si-16",
+  "taskType": "mcq_single",
+  "prompt": "Read the text and answer the multiple-choice question by selecting one correct response.",
+  "text": "The transition from traditional linear text to hypertext environments has fundamentally altered the structural relationship between author and reader. In a conventional physical manuscript, the author dictates the sequence of information, guiding the reader along a pre-determined path from introduction to conclusion. This structure ensures a cohesive narrative arc, effectively minimizing the need for the reader to make navigational decisions. Conversely, hypertext environments are characterized by their multilinearity and interconnectivity. By embedding links that allow immediate departure from the primary text, digital formats transform reading into an act of continuous choice. The reader must actively construct their own pathway through the material, deciding which tangents to pursue and which to ignore. While this architecture democratizes the reading experience by offering autonomy, it introduces a specific challenge: the fragmentation of the narrative. Consequently, the responsibility for synthesizing disparate fragments into a unified understanding shifts significantly from the creator to the consumer, potentially disrupting the continuity found in traditional storytelling.\n\nAccording to the passage, what is a key difference between reading physical manuscripts and reading hypertext?",
+  "transcript": "",
+  "audio_text": "",
+  "content": "The transition from traditional linear text to hypertext environments has fundamentally altered the structural relationship between author and reader. In a conventional physical manuscript, the author dictates the sequence of information, guiding the reader along a pre-determined path from introduction to conclusion. This structure ensures a cohesive narrative arc, effectively minimizing the need for the reader to make navigational decisions. Conversely, hypertext environments are characterized by their multilinearity and interconnectivity. By embedding links that allow immediate departure from the primary text, digital formats transform reading into an act of continuous choice. The reader must actively construct their own pathway through the material, deciding which tangents to pursue and which to ignore. While this architecture democratizes the reading experience by offering autonomy, it introduces a specific challenge: the fragmentation of the narrative. Consequently, the responsibility for synthesizing disparate fragments into a unified understanding shifts significantly from the creator to the consumer, potentially disrupting the continuity found in traditional storytelling.\n\nAccording to the passage, what is a key difference between reading physical manuscripts and reading hypertext?",
+  "options": [
+   "Physical manuscripts allow the reader more freedom to choose the order of information.",
+   "Hypertext shifts the burden of organizing the narrative structure onto the reader.",
+   "Digital formats discourage readers from pursuing tangential topics.",
+   "Traditional texts require the reader to make more frequent navigational decisions."
+  ],
+  "answer": [
+   1
+  ],
+  "source": "goarno.io",
+  "explanation": "",
+  "trap": "",
+  "topic": "the transition from"
+ },
+ {
+  "id": "goarno-mcq_si-17",
+  "taskType": "mcq_single",
+  "prompt": "Read the text and answer the multiple-choice question by selecting one correct response.",
+  "text": "The digital revolution has fundamentally altered the landscape of literary production and consumption. Historically, the dissemination of written works was rigorously controlled by a select group of publishers and editors who acted as cultural gatekeepers. These intermediaries ensured that published texts met specific standards of quality, accuracy, and relevance before reaching the public eye. In contrast, the advent of self-publishing platforms and digital distribution channels has effectively dismantled these traditional barriers, allowing for a democratization of voice that was previously unimaginable. While this shift ostensibly empowers authors who might have been marginalized by the conventional industry, it has simultaneously introduced a complex challenge regarding information quality. The unrestricted flow of content means that the burden of filtration and quality assurance has largely shifted from the publisher to the reader. Consequently, the modern reader is often confronted with a deluge of unverified material, necessitating a heightened level of critical discernment to distinguish credible work from amateur speculation. This significant transfer of responsibility suggests that advanced media literacy must become a fundamental component of contemporary education, ensuring that the accumulated benefits of liberated access to information do not inadvertently lead to a degradation of public discourse.\n\nAccording to the text, what is a primary consequence of the removal of traditional publishing barriers?",
+  "transcript": "",
+  "audio_text": "",
+  "content": "The digital revolution has fundamentally altered the landscape of literary production and consumption. Historically, the dissemination of written works was rigorously controlled by a select group of publishers and editors who acted as cultural gatekeepers. These intermediaries ensured that published texts met specific standards of quality, accuracy, and relevance before reaching the public eye. In contrast, the advent of self-publishing platforms and digital distribution channels has effectively dismantled these traditional barriers, allowing for a democratization of voice that was previously unimaginable. While this shift ostensibly empowers authors who might have been marginalized by the conventional industry, it has simultaneously introduced a complex challenge regarding information quality. The unrestricted flow of content means that the burden of filtration and quality assurance has largely shifted from the publisher to the reader. Consequently, the modern reader is often confronted with a deluge of unverified material, necessitating a heightened level of critical discernment to distinguish credible work from amateur speculation. This significant transfer of responsibility suggests that advanced media literacy must become a fundamental component of contemporary education, ensuring that the accumulated benefits of liberated access to information do not inadvertently lead to a degradation of public discourse.\n\nAccording to the text, what is a primary consequence of the removal of traditional publishing barriers?",
+  "options": [
+   "The overall quality of written content has guaranteed improvement due to diverse inputs.",
+   "Readers are now required to assume the evaluative role previously held by editors.",
+   "Educational institutions have ceased to emphasize the importance of literacy skills.",
+   "Authors are finding it increasingly difficult to distribute their work to the public."
+  ],
+  "answer": [
+   1
+  ],
+  "source": "goarno.io",
+  "explanation": "",
+  "trap": "",
+  "topic": "the digital revolution"
+ },
+ {
+  "id": "goarno-mcq_si-18",
+  "taskType": "mcq_single",
+  "prompt": "Read the text and answer the multiple-choice question by selecting one correct response.",
+  "text": "Reading is frequently misconceived as a passive mechanism wherein a reader simply receives and records information transmitted by a writer. However, contemporary research in educational psychology depicts reading as an intensely active and constructive endeavor. Central to this understanding is the theory of 'schema'—the complex, organized clusters of knowledge stored in an individual's long-term memory. According to this view, comprehension is not merely about extracting meaning from printed symbols but rather about bringing meaning to them. A reader's capacity to interpret a text is fundamentally constrained by their pre-existing knowledge base. To illustrate, a technically grammatically correct passage analyzing the nuances of a cricket match might be entirely opaque to a reader unfamiliar with the sport's rules, despite their fluency in the language. Therefore, a deficit in reading comprehension is often not a failure of linguistic processing or vocabulary, but a lack of the specific background knowledge required to fill in the gaps left by the author. This insight has led educators to emphasize the accumulation of broad cultural literacy as a prerequisite for advanced reading proficiency, moving beyond simple phonics and decoding strategies.\n\nAccording to the text, why might a fluent reader struggle to understand a specific passage?",
+  "transcript": "",
+  "audio_text": "",
+  "content": "Reading is frequently misconceived as a passive mechanism wherein a reader simply receives and records information transmitted by a writer. However, contemporary research in educational psychology depicts reading as an intensely active and constructive endeavor. Central to this understanding is the theory of 'schema'—the complex, organized clusters of knowledge stored in an individual's long-term memory. According to this view, comprehension is not merely about extracting meaning from printed symbols but rather about bringing meaning to them. A reader's capacity to interpret a text is fundamentally constrained by their pre-existing knowledge base. To illustrate, a technically grammatically correct passage analyzing the nuances of a cricket match might be entirely opaque to a reader unfamiliar with the sport's rules, despite their fluency in the language. Therefore, a deficit in reading comprehension is often not a failure of linguistic processing or vocabulary, but a lack of the specific background knowledge required to fill in the gaps left by the author. This insight has led educators to emphasize the accumulation of broad cultural literacy as a prerequisite for advanced reading proficiency, moving beyond simple phonics and decoding strategies.\n\nAccording to the text, why might a fluent reader struggle to understand a specific passage?",
+  "options": [
+   "They lack the necessary decoding skills to recognize the vocabulary used.",
+   "They are treating the reading process as an active rather than a passive task.",
+   "They do not possess the relevant background concepts to interpret the subject matter.",
+   "They are focusing too heavily on the grammatical structure of the sentences."
+  ],
+  "answer": [
+   2
+  ],
+  "source": "goarno.io",
+  "explanation": "",
+  "trap": "",
+  "topic": "reading is frequently"
+ },
+ {
+  "id": "goarno-mcq_si-19",
+  "taskType": "mcq_single",
+  "prompt": "Read the text and answer the multiple-choice question by selecting one correct response.",
+  "text": "At the turn of the 20th century, the rapid industrialization of British cities generated environments characterized by overcrowding, pollution, and squalor. In response to these dire urban conditions, urban planner Ebenezer Howard proposed a radical new vision: the Garden City. Howard’s concept was detailed in his 1898 publication, later retitled *Garden Cities of To-morrow*, where he argued for the creation of planned, self-contained communities surrounded by \"greenbelts\" of agricultural land. Unlike the sprawling, unplanned suburbs that merely extended a city's reach, Garden Cities were designed to combine the economic opportunities of the urban center with the health benefits and open spaces of the countryside. This hybrid model aimed to reduce the population pressure on major metropolises while providing a higher quality of life for the working class. Although only a few true Garden Cities, such as Letchworth and Welwyn, were constructed during his lifetime, Howard’s principles profoundly influenced the post-war New Towns movement and continue to shape modern sustainable urban planning discussions regarding density and green space integration.\n\nAccording to the passage, how did the Garden City concept differ from the unplanned suburban expansion of the era?",
+  "transcript": "",
+  "audio_text": "",
+  "content": "At the turn of the 20th century, the rapid industrialization of British cities generated environments characterized by overcrowding, pollution, and squalor. In response to these dire urban conditions, urban planner Ebenezer Howard proposed a radical new vision: the Garden City. Howard’s concept was detailed in his 1898 publication, later retitled *Garden Cities of To-morrow*, where he argued for the creation of planned, self-contained communities surrounded by \"greenbelts\" of agricultural land. Unlike the sprawling, unplanned suburbs that merely extended a city's reach, Garden Cities were designed to combine the economic opportunities of the urban center with the health benefits and open spaces of the countryside. This hybrid model aimed to reduce the population pressure on major metropolises while providing a higher quality of life for the working class. Although only a few true Garden Cities, such as Letchworth and Welwyn, were constructed during his lifetime, Howard’s principles profoundly influenced the post-war New Towns movement and continue to shape modern sustainable urban planning discussions regarding density and green space integration.\n\nAccording to the passage, how did the Garden City concept differ from the unplanned suburban expansion of the era?",
+  "options": [
+   "It prioritized high-density housing blocks to accommodate the growing industrial workforce.",
+   "It aimed to create independent settlements buffered by nature rather than simply expanding urban boundaries.",
+   "It focused on removing industry entirely to create purely residential zones for the wealthy.",
+   "It relied on government mandates to force residents to relocate from major cities against their will."
+  ],
+  "answer": [
+   1
+  ],
+  "source": "goarno.io",
+  "explanation": "",
+  "trap": "",
+  "topic": "at the turn"
+ },
+ {
+  "id": "goarno-mcq_si-20",
+  "taskType": "mcq_single",
+  "prompt": "Read the text and answer the multiple-choice question by selecting one correct response.",
+  "text": "Carbon capture and storage (CCS) has increasingly been positioned as a critical tool in the global effort to limit atmospheric warming. The process entails separating carbon dioxide from emissions streams at major industrial facilities, such as coal-fired power stations and cement plants. Following capture, the gas is compressed and injected deep into geological formations, such as saline aquifers, intended to sequester it indefinitely.\nWhile the theoretical benefits of CCS are clear, its practical application remains a subject of intense debate. Advocates emphasize that CCS provides a necessary pathway to decarbonize heavy industries that cannot easily switch to renewable electricity. Without such technology, they argue, achieving net-zero targets is virtually impossible. Conversely, skeptics highlight the significant energy penalty incurred during the capture phase, which paradoxically requires burning more fuel to generate the same amount of net power. Additionally, the integrity of geological storage poses a long-term risk; even minor leakages over centuries could undermine the climate benefits. Consequently, CCS occupies a complex position: it is viewed by many as an indispensable bridge technology, yet it is burdened by economic and environmental uncertainties that hinder its widespread adoption.\n\nAccording to the passage, which factor contributes to the controversy surrounding carbon capture and storage?",
+  "transcript": "",
+  "audio_text": "",
+  "content": "Carbon capture and storage (CCS) has increasingly been positioned as a critical tool in the global effort to limit atmospheric warming. The process entails separating carbon dioxide from emissions streams at major industrial facilities, such as coal-fired power stations and cement plants. Following capture, the gas is compressed and injected deep into geological formations, such as saline aquifers, intended to sequester it indefinitely.\nWhile the theoretical benefits of CCS are clear, its practical application remains a subject of intense debate. Advocates emphasize that CCS provides a necessary pathway to decarbonize heavy industries that cannot easily switch to renewable electricity. Without such technology, they argue, achieving net-zero targets is virtually impossible. Conversely, skeptics highlight the significant energy penalty incurred during the capture phase, which paradoxically requires burning more fuel to generate the same amount of net power. Additionally, the integrity of geological storage poses a long-term risk; even minor leakages over centuries could undermine the climate benefits. Consequently, CCS occupies a complex position: it is viewed by many as an indispensable bridge technology, yet it is burdened by economic and environmental uncertainties that hinder its widespread adoption.\n\nAccording to the passage, which factor contributes to the controversy surrounding carbon capture and storage?",
+  "options": [
+   "The technology completely eliminates the need for renewable energy sources.",
+   "It involves operational trade-offs between energy efficiency and emission reduction.",
+   "There are no suitable geological formations available for storing the gas.",
+   "The process is currently restricted to small-scale residential applications."
+  ],
+  "answer": [
+   1
+  ],
+  "source": "goarno.io",
+  "explanation": "",
+  "trap": "",
+  "topic": "carbon capture and"
+ },
+ {
+  "id": "goarno-mcq_si-21",
+  "taskType": "mcq_single",
+  "prompt": "Read the text and answer the multiple-choice question by selecting one correct response.",
+  "text": "Black carbon, a primary component of soot, has emerged as a significant driver of global climate change, ranking second only to carbon dioxide in its warming influence. Unlike well-known greenhouse gases that can persist in the atmosphere for centuries, black carbon is a short-lived climate pollutant with a lifespan of merely days to weeks. Originating from the incomplete combustion of fossil fuels and biomass, these fine particles absorb solar energy and warm the atmosphere directly. Their impact is particularly severe in polar regions; when black carbon settles on snow and ice, it darkens the surface, reducing its ability to reflect sunlight—a phenomenon known as the albedo effect. This absorption of heat accelerates melting, exposing darker land or water beneath, which further intensifies warming. Consequently, researchers suggest that targeting black carbon emissions presents a unique opportunity for near-term climate relief. Since these particles are removed from the atmosphere relatively quickly by rain and gravity, cutting emissions could result in immediate cooling benefits, slowing the rate of Arctic ice loss more swiftly than carbon dioxide reductions alone.\n\nAccording to the passage, what is a key advantage of reducing black carbon emissions compared to reducing carbon dioxide?",
+  "transcript": "",
+  "audio_text": "",
+  "content": "Black carbon, a primary component of soot, has emerged as a significant driver of global climate change, ranking second only to carbon dioxide in its warming influence. Unlike well-known greenhouse gases that can persist in the atmosphere for centuries, black carbon is a short-lived climate pollutant with a lifespan of merely days to weeks. Originating from the incomplete combustion of fossil fuels and biomass, these fine particles absorb solar energy and warm the atmosphere directly. Their impact is particularly severe in polar regions; when black carbon settles on snow and ice, it darkens the surface, reducing its ability to reflect sunlight—a phenomenon known as the albedo effect. This absorption of heat accelerates melting, exposing darker land or water beneath, which further intensifies warming. Consequently, researchers suggest that targeting black carbon emissions presents a unique opportunity for near-term climate relief. Since these particles are removed from the atmosphere relatively quickly by rain and gravity, cutting emissions could result in immediate cooling benefits, slowing the rate of Arctic ice loss more swiftly than carbon dioxide reductions alone.\n\nAccording to the passage, what is a key advantage of reducing black carbon emissions compared to reducing carbon dioxide?",
+  "options": [
+   "It permanently eliminates the need to address fossil fuel consumption.",
+   "It could produce faster climate cooling results due to the pollutant's short lifespan.",
+   "It prevents the albedo effect from occurring in non-polar regions.",
+   "It addresses a pollutant that stays in the atmosphere for hundreds of years."
+  ],
+  "answer": [
+   1
+  ],
+  "source": "goarno.io",
+  "explanation": "",
+  "trap": "",
+  "topic": "black carbon a"
+ },
+ {
+  "id": "goarno-mcq_si-22",
+  "taskType": "mcq_single",
+  "prompt": "Read the text and answer the multiple-choice question by selecting one correct response.",
+  "text": "For much of human history, reading was fundamentally a social and auditory act. In classical antiquity, written texts were generally viewed as scripts for performance, intended to be declaimed to an audience or muttered aloud to oneself. The concept of reading silently, processing information directly from eye to brain without the mediation of the voice, was widely regarded as an anomaly. St. Augustine, in his Confessions, famously expressed astonishment upon witnessing Ambrose, the Bishop of Milan, reading without moving his lips—a behavior so unusual in the fourth century that it warranted specific documentation.\nThe gradual transition to silent reading, which became more prevalent during the Middle Ages with the introduction of word separation in manuscripts, revolutionized the intellectual landscape. It transformed reading from a communal performance into a private, interior experience. This shift fostered a new form of individual autonomy, allowing readers to traverse texts at their own pace and engage in critical introspection without the constraints of a gathering. Consequently, the written word became a vehicle for private reflection, fundamentally altering the relationship between the reader and the text.\n\nAccording to the passage, what was a significant consequence of the historical shift towards silent reading?",
+  "transcript": "",
+  "audio_text": "",
+  "content": "For much of human history, reading was fundamentally a social and auditory act. In classical antiquity, written texts were generally viewed as scripts for performance, intended to be declaimed to an audience or muttered aloud to oneself. The concept of reading silently, processing information directly from eye to brain without the mediation of the voice, was widely regarded as an anomaly. St. Augustine, in his Confessions, famously expressed astonishment upon witnessing Ambrose, the Bishop of Milan, reading without moving his lips—a behavior so unusual in the fourth century that it warranted specific documentation.\nThe gradual transition to silent reading, which became more prevalent during the Middle Ages with the introduction of word separation in manuscripts, revolutionized the intellectual landscape. It transformed reading from a communal performance into a private, interior experience. This shift fostered a new form of individual autonomy, allowing readers to traverse texts at their own pace and engage in critical introspection without the constraints of a gathering. Consequently, the written word became a vehicle for private reflection, fundamentally altering the relationship between the reader and the text.\n\nAccording to the passage, what was a significant consequence of the historical shift towards silent reading?",
+  "options": [
+   "It reduced the speed at which readers could process written information.",
+   "It changed reading from a public activity into an independent, reflective practice.",
+   "It led to a decrease in the production of manuscripts intended for performance.",
+   "It caused religious authorities to ban the practice of reading aloud in groups."
+  ],
+  "answer": [
+   1
+  ],
+  "source": "goarno.io",
+  "explanation": "",
+  "trap": "",
+  "topic": "for much of"
+ },
+ {
+  "id": "goarno-mcq_si-24",
+  "taskType": "mcq_single",
+  "prompt": "Read the text and answer the multiple-choice question by selecting one correct response.",
+  "text": "In an era dominated by algorithmic curation and database indexing, the fundamental structure of expository writing is undergoing a subtle transformation. Authors in journalism and academia are increasingly incentivized to optimize their texts for retrieval systems rather than solely for narrative flow or stylistic elegance. This phenomenon, often driven by the mechanics of Search Engine Optimization (SEO), compels writers to front-load essential terminology and adopt standardized phrasing that machines can easily categorize. While this strategic linguistic rigidity ensures that content remains discoverable amidst an overwhelming deluge of information, critics argue it risks flattening the nuance of complex arguments. When the primary objective shifts from engaging the human intellect to satisfying an indexing crawler, the richness of vocabulary often diminishes. Furthermore, the serendipitous discovery of tangential ideas—once a hallmark of browsing physical libraries—becomes less likely as algorithms steer readers precisely to what they requested, filtering out the unexpected. Consequently, the relentless pursuit of 'findability' may inadvertently compromise the intellectual depth and creative diversity of modern discourse.\n\nWhat is the main argument the author makes regarding the impact of search optimization on writing?",
+  "transcript": "",
+  "audio_text": "",
+  "content": "In an era dominated by algorithmic curation and database indexing, the fundamental structure of expository writing is undergoing a subtle transformation. Authors in journalism and academia are increasingly incentivized to optimize their texts for retrieval systems rather than solely for narrative flow or stylistic elegance. This phenomenon, often driven by the mechanics of Search Engine Optimization (SEO), compels writers to front-load essential terminology and adopt standardized phrasing that machines can easily categorize. While this strategic linguistic rigidity ensures that content remains discoverable amidst an overwhelming deluge of information, critics argue it risks flattening the nuance of complex arguments. When the primary objective shifts from engaging the human intellect to satisfying an indexing crawler, the richness of vocabulary often diminishes. Furthermore, the serendipitous discovery of tangential ideas—once a hallmark of browsing physical libraries—becomes less likely as algorithms steer readers precisely to what they requested, filtering out the unexpected. Consequently, the relentless pursuit of 'findability' may inadvertently compromise the intellectual depth and creative diversity of modern discourse.\n\nWhat is the main argument the author makes regarding the impact of search optimization on writing?",
+  "options": [
+   "It has made academic and journalistic texts virtually impossible to find without specialized software.",
+   "It has forced writers to sacrifice complexity and chance discovery for the sake of better visibility.",
+   "It has improved the narrative flow of articles by encouraging shorter, more direct sentences.",
+   "It has increased the variety of vocabulary used by authors to describe similar concepts."
+  ],
+  "answer": [
+   1
+  ],
+  "source": "goarno.io",
+  "explanation": "",
+  "trap": "",
+  "topic": "in an era"
+ },
+ {
+  "id": "goarno-mcq_si-25",
+  "taskType": "mcq_single",
+  "prompt": "Read the text and answer the multiple-choice question by selecting one correct response.",
+  "text": "At the turn of the 20th century, urban planner Ebenezer Howard proposed a radical solution to the overcrowding and pollution plaguing industrial cities. His vision, known as the Garden City movement, sought to combine the economic opportunities of the city with the environmental benefits of the countryside. Howard advocated for the creation of planned, self-contained communities surrounded by 'greenbelts'—rings of agricultural land intended to limit urban sprawl and ensure residents had access to nature. Unlike the chaotic expansion of existing metropolises, these garden cities were meticulously designed with specific zones for industry, housing, and public parks. The concept was not merely aesthetic but deeply social; Howard believed that by harmonizing human habitation with the natural world, society could alleviate the poverty and squalor characteristic of the Victorian era. Although only a few true garden cities, such as Letchworth and Welwyn, were built during his lifetime, the movement profoundly influenced modern town planning, particularly the development of the post-war 'New Towns'.\n\nAccording to the text, what was a primary objective of Ebenezer Howard's Garden City proposal?",
+  "transcript": "",
+  "audio_text": "",
+  "content": "At the turn of the 20th century, urban planner Ebenezer Howard proposed a radical solution to the overcrowding and pollution plaguing industrial cities. His vision, known as the Garden City movement, sought to combine the economic opportunities of the city with the environmental benefits of the countryside. Howard advocated for the creation of planned, self-contained communities surrounded by 'greenbelts'—rings of agricultural land intended to limit urban sprawl and ensure residents had access to nature. Unlike the chaotic expansion of existing metropolises, these garden cities were meticulously designed with specific zones for industry, housing, and public parks. The concept was not merely aesthetic but deeply social; Howard believed that by harmonizing human habitation with the natural world, society could alleviate the poverty and squalor characteristic of the Victorian era. Although only a few true garden cities, such as Letchworth and Welwyn, were built during his lifetime, the movement profoundly influenced modern town planning, particularly the development of the post-war 'New Towns'.\n\nAccording to the text, what was a primary objective of Ebenezer Howard's Garden City proposal?",
+  "options": [
+   "To encourage the unrestricted expansion of existing industrial metropolises.",
+   "To create hybrid environments that offered the advantages of both urban and rural living.",
+   "To replace all major Victorian cities with purely agricultural land.",
+   "To focus exclusively on aesthetic improvements rather than social reform."
+  ],
+  "answer": [
+   1
+  ],
+  "source": "goarno.io",
+  "explanation": "",
+  "trap": "",
+  "topic": "at the turn"
+ },
+ {
+  "id": "goarno-mcq_si-26",
+  "taskType": "mcq_single",
+  "prompt": "Read the text and answer the multiple-choice question by selecting one correct response.",
+  "text": "For centuries, archaeologists operated under the assumption that the Amazon basin was an inhospitable environment for large-scale civilization. The prevailing theory suggested that the region's acidic, nutrient-poor soils were incapable of supporting the intensive agriculture required to feed populous settlements. Consequently, the rainforest was viewed as a pristine, sparsely inhabited wilderness where only small, nomadic tribes could survive. However, recent findings have fundamentally challenged this perspective. Researchers have identified vast expanses of terra preta, or 'dark earth'—a highly fertile, anthropogenic soil found throughout the basin. Unlike the surrounding natural soils, terra preta is rich in charcoal, pottery shards, and organic matter, indicating deliberate engineering by indigenous populations over thousands of years. The existence of these modified soil tracts suggests that pre-Columbian Amazonia was not a virgin wilderness, but a managed landscape capable of sustaining millions of people in complex, sedentary societies. This revelation forces a reconsideration of the historical demography of South America and the sophistication of its early inhabitants' environmental stewardship.\n\nWhat is the main significance of the discovery of terra preta described in the passage?",
+  "transcript": "",
+  "audio_text": "",
+  "content": "For centuries, archaeologists operated under the assumption that the Amazon basin was an inhospitable environment for large-scale civilization. The prevailing theory suggested that the region's acidic, nutrient-poor soils were incapable of supporting the intensive agriculture required to feed populous settlements. Consequently, the rainforest was viewed as a pristine, sparsely inhabited wilderness where only small, nomadic tribes could survive. However, recent findings have fundamentally challenged this perspective. Researchers have identified vast expanses of terra preta, or 'dark earth'—a highly fertile, anthropogenic soil found throughout the basin. Unlike the surrounding natural soils, terra preta is rich in charcoal, pottery shards, and organic matter, indicating deliberate engineering by indigenous populations over thousands of years. The existence of these modified soil tracts suggests that pre-Columbian Amazonia was not a virgin wilderness, but a managed landscape capable of sustaining millions of people in complex, sedentary societies. This revelation forces a reconsideration of the historical demography of South America and the sophistication of its early inhabitants' environmental stewardship.\n\nWhat is the main significance of the discovery of terra preta described in the passage?",
+  "options": [
+   "It confirms that the natural soil of the Amazon was actually rich in nutrients.",
+   "It disproves the idea that the Amazon could not support large, settled populations.",
+   "It indicates that indigenous tribes preferred nomadic lifestyles to avoid soil depletion.",
+   "It shows that European settlers introduced advanced soil management techniques."
+  ],
+  "answer": [
+   1
+  ],
+  "source": "goarno.io",
+  "explanation": "",
+  "trap": "",
+  "topic": "for centuries archaeologists"
+ },
+ {
+  "id": "goarno-mcq_si-27",
+  "taskType": "mcq_single",
+  "prompt": "Read the text and answer the multiple-choice question by selecting one correct response.",
+  "text": "In the aftermath of the Second World War, British urban planners faced a critical convergence of housing shortages and bomb-damaged infrastructure. The strategic response was not merely in situ reconstruction but the deliberate dispersal of the population from overcrowded, soot-stained industrial centers to freshly designated \"New Towns.\" Unlike the organic, uncontrolled sprawl of previous decades, these settlements were meticulously master-planned to be self-sufficient entities, designed to provide local employment, leisure, and housing within a unified boundary. The underlying philosophy was to engender balanced communities where residents could live and work without the burden of commuting back to the metropolis. However, while the architectural and social vision was bold, the economic reality often lagged behind the planning ideals. Attracting a diverse range of industries to these satellite locations proved significantly more difficult than anticipated. Consequently, a phenomenon emerged where many New Towns initially functioned merely as \"dormitory settlements,\" with residents continuing to travel long distances to the main cities for employment. This persistent disconnect between the idealized goal of economic self-containment and the practical necessity of commuting significantly undermined the utopian aspirations of the post-war planning committees.\n\nAccording to the text, what was a significant discrepancy between the plan for New Towns and their actual development?",
+  "transcript": "",
+  "audio_text": "",
+  "content": "In the aftermath of the Second World War, British urban planners faced a critical convergence of housing shortages and bomb-damaged infrastructure. The strategic response was not merely in situ reconstruction but the deliberate dispersal of the population from overcrowded, soot-stained industrial centers to freshly designated \"New Towns.\" Unlike the organic, uncontrolled sprawl of previous decades, these settlements were meticulously master-planned to be self-sufficient entities, designed to provide local employment, leisure, and housing within a unified boundary. The underlying philosophy was to engender balanced communities where residents could live and work without the burden of commuting back to the metropolis. However, while the architectural and social vision was bold, the economic reality often lagged behind the planning ideals. Attracting a diverse range of industries to these satellite locations proved significantly more difficult than anticipated. Consequently, a phenomenon emerged where many New Towns initially functioned merely as \"dormitory settlements,\" with residents continuing to travel long distances to the main cities for employment. This persistent disconnect between the idealized goal of economic self-containment and the practical necessity of commuting significantly undermined the utopian aspirations of the post-war planning committees.\n\nAccording to the text, what was a significant discrepancy between the plan for New Towns and their actual development?",
+  "options": [
+   "They became commuter hubs rather than the independent economic units envisioned.",
+   "The housing shortage in the major cities was not alleviated as effectively as planned.",
+   "The architectural designs were too radical for the conservative tastes of the residents.",
+   "They were built without adequate leisure facilities for the burgeoning population."
+  ],
+  "answer": [
+   0
+  ],
+  "source": "goarno.io",
+  "explanation": "",
+  "trap": "",
+  "topic": "in the aftermath"
+ },
+ {
+  "id": "goarno-mcq_si-28",
+  "taskType": "mcq_single",
+  "prompt": "Read the text and answer the multiple-choice question by selecting one correct response.",
+  "text": "Permafrost, the permanently frozen ground covering vast stretches of the Northern Hemisphere, serves as one of the Earth's largest terrestrial carbon sinks. For thousands of years, this frozen soil has locked away the remains of ancient plants and animals, effectively halting the decomposition process. However, as global temperatures rise, this permafrost is beginning to thaw at an unprecedented rate. When the ice melts, the organic matter within the soil becomes accessible to microbes, which break it down and release the by-products into the atmosphere. Depending on oxygen availability, this process emits either carbon dioxide or methane. The release of methane is particularly concerning because it is significantly more efficient at trapping heat than carbon dioxide over shorter timeframes. This creates a dangerous feedback loop: as the planet warms, more permafrost thaws, releasing more greenhouse gases, which in turn causes further warming. Consequently, what was once a stable storage system for carbon is threatening to become a major contributor to global climate instability.\n\nWhat is the main conclusion drawn by the writer regarding permafrost?",
+  "transcript": "",
+  "audio_text": "",
+  "content": "Permafrost, the permanently frozen ground covering vast stretches of the Northern Hemisphere, serves as one of the Earth's largest terrestrial carbon sinks. For thousands of years, this frozen soil has locked away the remains of ancient plants and animals, effectively halting the decomposition process. However, as global temperatures rise, this permafrost is beginning to thaw at an unprecedented rate. When the ice melts, the organic matter within the soil becomes accessible to microbes, which break it down and release the by-products into the atmosphere. Depending on oxygen availability, this process emits either carbon dioxide or methane. The release of methane is particularly concerning because it is significantly more efficient at trapping heat than carbon dioxide over shorter timeframes. This creates a dangerous feedback loop: as the planet warms, more permafrost thaws, releasing more greenhouse gases, which in turn causes further warming. Consequently, what was once a stable storage system for carbon is threatening to become a major contributor to global climate instability.\n\nWhat is the main conclusion drawn by the writer regarding permafrost?",
+  "options": [
+   "It acts as a permanent barrier that prevents microbes from accessing organic matter regardless of temperature.",
+   "The release of gases from thawing soil creates a cycle that further accelerates global warming.",
+   "Carbon dioxide is the primary concern because it traps heat more efficiently than methane.",
+   "Recent studies show that permafrost is expanding due to shifts in the Earth's climate stability."
+  ],
+  "answer": [
+   1
+  ],
+  "source": "goarno.io",
+  "explanation": "",
+  "trap": "",
+  "topic": "permafrost the permanently"
+ },
+ {
+  "id": "goarno-mcq_si-29",
+  "taskType": "mcq_single",
+  "prompt": "Read the text and answer the multiple-choice question by selecting one correct response.",
+  "text": "Traditional linear texts offer a singular path, where the author serves as the sole guide through an argument or narrative. In contrast, the architecture of the modern web is built on hypertext, a system that interconnects documents through clickable links. While this structure offers unparalleled access to supplementary information, it also introduces a unique psychological dynamic. In a hyperlinked environment, the reader is no longer a passive passenger but an active navigator who must constantly evaluate whether to follow a diversion or remain on the primary page.\nEducational theorists posit that this requirement to make frequent decisions—known as the 'decision-load'—competes with the mental energy needed for processing the actual text. Every potential exit point forces a split-second evaluation of value, interrupting the continuous flow of thought required for immersion. Therefore, the difficulty of reading in such environments stems not just from the vocabulary or subject matter, but from the executive capability required to manage these interruptions. The reader must balance the desire for depth in the current text against the promise of relevance elsewhere, a task that can fragment attention and hinder the formation of a unified understanding.\n\nAccording to the passage, what specific challenge does a hyperlinked environment present to the reader?",
+  "transcript": "",
+  "audio_text": "",
+  "content": "Traditional linear texts offer a singular path, where the author serves as the sole guide through an argument or narrative. In contrast, the architecture of the modern web is built on hypertext, a system that interconnects documents through clickable links. While this structure offers unparalleled access to supplementary information, it also introduces a unique psychological dynamic. In a hyperlinked environment, the reader is no longer a passive passenger but an active navigator who must constantly evaluate whether to follow a diversion or remain on the primary page.\nEducational theorists posit that this requirement to make frequent decisions—known as the 'decision-load'—competes with the mental energy needed for processing the actual text. Every potential exit point forces a split-second evaluation of value, interrupting the continuous flow of thought required for immersion. Therefore, the difficulty of reading in such environments stems not just from the vocabulary or subject matter, but from the executive capability required to manage these interruptions. The reader must balance the desire for depth in the current text against the promise of relevance elsewhere, a task that can fragment attention and hinder the formation of a unified understanding.\n\nAccording to the passage, what specific challenge does a hyperlinked environment present to the reader?",
+  "options": [
+   "It encourages the reader to skim rapidly rather than analyzing the text.",
+   "It requires the reader to verify the credibility of multiple authors.",
+   "It demands the allocation of mental resources to navigational choices.",
+   "It restricts access to supplementary information needed for context."
+  ],
+  "answer": [
+   2
+  ],
+  "source": "goarno.io",
+  "explanation": "",
+  "trap": "",
+  "topic": "traditional linear texts"
+ },
+ {
+  "id": "goarno-mcq_si-30",
+  "taskType": "mcq_single",
+  "prompt": "Read the text and answer the multiple-choice question by selecting one correct response.",
+  "text": "The extinction of North American megafauna, such as mammoths and mastodons, at the end of the Pleistocene epoch has long been a subject of contention among researchers. The \"overkill hypothesis\" suggests that the arrival of skilled human hunters was the decisive factor, asserting that these animals were quickly eradicated by the proliferation of the Clovis culture. Proponents point to the synchronization between human arrival and the disappearance of large mammals as definitive proof. Conversely, other scholars emphasize the role of climate change, noting that the warming world altered vegetation zones and fragmented habitats, placing immense stress on large herbivore populations independent of human activity.\nMore recent analyses, including examinations of fungal spores in ancient sediment to track population density, indicate that some species were declining significantly prior to widespread human settlement. This evidence has led to a growing consensus around a synergistic explanation. In this view, climate-driven habitat loss reduced megafauna resilience, rendering them susceptible to extinction when the additional pressure of human hunting was introduced. Thus, neither factor acts as a solitary agent; rather, the convergence of ecological transformation and predation likely sealed the fate of these ancient giants.\n\nWhich of the following best summarizes the author's conclusion regarding the extinction of North American megafauna?",
+  "transcript": "",
+  "audio_text": "",
+  "content": "The extinction of North American megafauna, such as mammoths and mastodons, at the end of the Pleistocene epoch has long been a subject of contention among researchers. The \"overkill hypothesis\" suggests that the arrival of skilled human hunters was the decisive factor, asserting that these animals were quickly eradicated by the proliferation of the Clovis culture. Proponents point to the synchronization between human arrival and the disappearance of large mammals as definitive proof. Conversely, other scholars emphasize the role of climate change, noting that the warming world altered vegetation zones and fragmented habitats, placing immense stress on large herbivore populations independent of human activity.\nMore recent analyses, including examinations of fungal spores in ancient sediment to track population density, indicate that some species were declining significantly prior to widespread human settlement. This evidence has led to a growing consensus around a synergistic explanation. In this view, climate-driven habitat loss reduced megafauna resilience, rendering them susceptible to extinction when the additional pressure of human hunting was introduced. Thus, neither factor acts as a solitary agent; rather, the convergence of ecological transformation and predation likely sealed the fate of these ancient giants.\n\nWhich of the following best summarizes the author's conclusion regarding the extinction of North American megafauna?",
+  "options": [
+   "The efficiency of Clovis hunters was the sole cause of the rapid disappearance of large mammals.",
+   "Climate change eliminated the megafauna before humans arrived on the continent.",
+   "The extinction was likely caused by a combination of environmental changes and human predation.",
+   "Current evidence disproves any link between human settlement and the decline of animal populations."
+  ],
+  "answer": [
+   2
+  ],
+  "source": "goarno.io",
+  "explanation": "",
+  "trap": "",
+  "topic": "the extinction of"
+ },
+ {
+  "id": "goarno-mcq_si-31",
+  "taskType": "mcq_single",
+  "prompt": "Read the text and answer the multiple-choice question by selecting one correct response.",
+  "text": "The Garden City movement, initiated by Sir Ebenezer Howard in 1898, represented a visionary response to the squalor and congestion of the Victorian industrial city. Howard proposed the creation of planned, self-contained communities that would blend the economic opportunities of the town with the environmental benefits of the country. A central tenet of his philosophy was that these settlements should be strictly limited in population and area, encircled by a permanent belt of agricultural land to prevent them from merging into one another. This 'green belt' was intended to act as a barrier against the unchecked urban sprawl that characterizes many modern metropolises. While only two towns, Letchworth and Welwyn, were built strictly adhering to his blueprint during his lifetime, the movement's legacy is evident in the subsequent New Towns Act of 1946. By advocating for decentralized, balanced communities, Howard laid the theoretical groundwork for much of 20th-century British town planning, challenging the assumption that urban expansion must inevitably lead to overcrowding and environmental degradation.\n\nAccording to the passage, what was the specific purpose of the 'green belt' in Howard's proposal?",
+  "transcript": "",
+  "audio_text": "",
+  "content": "The Garden City movement, initiated by Sir Ebenezer Howard in 1898, represented a visionary response to the squalor and congestion of the Victorian industrial city. Howard proposed the creation of planned, self-contained communities that would blend the economic opportunities of the town with the environmental benefits of the country. A central tenet of his philosophy was that these settlements should be strictly limited in population and area, encircled by a permanent belt of agricultural land to prevent them from merging into one another. This 'green belt' was intended to act as a barrier against the unchecked urban sprawl that characterizes many modern metropolises. While only two towns, Letchworth and Welwyn, were built strictly adhering to his blueprint during his lifetime, the movement's legacy is evident in the subsequent New Towns Act of 1946. By advocating for decentralized, balanced communities, Howard laid the theoretical groundwork for much of 20th-century British town planning, challenging the assumption that urban expansion must inevitably lead to overcrowding and environmental degradation.\n\nAccording to the passage, what was the specific purpose of the 'green belt' in Howard's proposal?",
+  "options": [
+   "To ensure the towns remained distinct by restricting their physical growth.",
+   "To provide a designated space for industrial factories away from residential areas.",
+   "To encourage the urban population to adopt a strictly agricultural lifestyle.",
+   "To connect the new towns with the major industrial cities of the Victorian era."
+  ],
+  "answer": [
+   0
+  ],
+  "source": "goarno.io",
+  "explanation": "",
+  "trap": "",
+  "topic": "the garden city"
+ },
+ {
+  "id": "goarno-mcq_si-32",
+  "taskType": "mcq_single",
+  "prompt": "Read the text and answer the multiple-choice question by selecting one correct response.",
+  "text": "A pervasive misconception regarding pre-Columbian North America is that the continent was inhabited almost exclusively by small, mobile bands of hunter-gatherers living in temporary encampments. This perspective often overlooks the existence of sophisticated, sedentary civilizations that thrived long before European contact. The Mississippian culture, which flourished in the mid-western and south-eastern United States from approximately 800 to 1600 CE, offers a striking counterexample. At its zenith, the city of Cahokia, located near modern-day St. Louis, boasted a population that rivaled, and perhaps exceeded, that of contemporary London. Dominated by Monks Mound, a colossal earthen structure requiring millions of basket-loads of soil, Cahokia was a hub of religious and political power. The sheer scale of its urban planning, including defined public plazas and solar calendars, clearly indicates a highly stratified society with centralized leadership. Such archaeological evidence forces a re-evaluation of indigenous history, demonstrating that urbanization and complex societal engineering were not foreign concepts to the Americas prior to the arrival of settlers.\n\nWhat is the main argument the author presents regarding the Mississippian culture?",
+  "transcript": "",
+  "audio_text": "",
+  "content": "A pervasive misconception regarding pre-Columbian North America is that the continent was inhabited almost exclusively by small, mobile bands of hunter-gatherers living in temporary encampments. This perspective often overlooks the existence of sophisticated, sedentary civilizations that thrived long before European contact. The Mississippian culture, which flourished in the mid-western and south-eastern United States from approximately 800 to 1600 CE, offers a striking counterexample. At its zenith, the city of Cahokia, located near modern-day St. Louis, boasted a population that rivaled, and perhaps exceeded, that of contemporary London. Dominated by Monks Mound, a colossal earthen structure requiring millions of basket-loads of soil, Cahokia was a hub of religious and political power. The sheer scale of its urban planning, including defined public plazas and solar calendars, clearly indicates a highly stratified society with centralized leadership. Such archaeological evidence forces a re-evaluation of indigenous history, demonstrating that urbanization and complex societal engineering were not foreign concepts to the Americas prior to the arrival of settlers.\n\nWhat is the main argument the author presents regarding the Mississippian culture?",
+  "options": [
+   "It serves as proof that pre-Columbian societies established complex, populous urban centers.",
+   "It demonstrates that indigenous populations were primarily nomadic hunter-gatherers.",
+   "It illustrates how European settlers influenced the architectural styles of indigenous cities.",
+   "It suggests that the population of North America was significantly lower than that of Europe."
+  ],
+  "answer": [
+   0
+  ],
+  "source": "goarno.io",
+  "explanation": "",
+  "trap": "",
+  "topic": "a pervasive misconception"
+ },
+ {
+  "id": "goarno-mcq_si-33",
+  "taskType": "mcq_single",
+  "prompt": "Read the text and answer the multiple-choice question by selecting one correct response.",
+  "text": "The advent of hypertext has fundamentally restructured the traditional narrative hierarchy found in linear literature. In a conventional novel, the author dictates the sequence of events, guiding the reader through a predetermined path from introduction to conclusion. This linear format ensures a cohesive argument or storyline but limits the reader's autonomy. Conversely, hypertext environments—characterized by linked nodes of information—transform the reader into an active navigator who constructs meaning through their choices of which links to follow. This shift from a static, author-centric model to a dynamic, reader-centric one has significant implications for textual coherence. While it offers a personalized exploration of content, it simultaneously dismantles the unifying structure that typically binds a narrative together. Critics argue that without the steady hand of an authorial guide, readers may experience a sense of disorientation, often referred to as 'lost in hyperspace.' Consequently, the challenge for modern digital writers is not merely to provide information, but to design an underlying architecture that allows for freedom of movement without sacrificing the logical progression necessary for understanding complex concepts.\n\nAccording to the text, what is a significant trade-off resulting from the use of hypertext systems?",
+  "transcript": "",
+  "audio_text": "",
+  "content": "The advent of hypertext has fundamentally restructured the traditional narrative hierarchy found in linear literature. In a conventional novel, the author dictates the sequence of events, guiding the reader through a predetermined path from introduction to conclusion. This linear format ensures a cohesive argument or storyline but limits the reader's autonomy. Conversely, hypertext environments—characterized by linked nodes of information—transform the reader into an active navigator who constructs meaning through their choices of which links to follow. This shift from a static, author-centric model to a dynamic, reader-centric one has significant implications for textual coherence. While it offers a personalized exploration of content, it simultaneously dismantles the unifying structure that typically binds a narrative together. Critics argue that without the steady hand of an authorial guide, readers may experience a sense of disorientation, often referred to as 'lost in hyperspace.' Consequently, the challenge for modern digital writers is not merely to provide information, but to design an underlying architecture that allows for freedom of movement without sacrificing the logical progression necessary for understanding complex concepts.\n\nAccording to the text, what is a significant trade-off resulting from the use of hypertext systems?",
+  "options": [
+   "The narrative structure becomes more rigid, preventing readers from exploring related topics.",
+   "Readers gain more autonomy but may struggle to maintain a coherent view of the narrative.",
+   "Authors can present more complex arguments, but readers often lose interest quickly.",
+   "Digital writers can produce content faster, but the quality of the writing tends to decrease."
+  ],
+  "answer": [
+   1
+  ],
+  "source": "goarno.io",
+  "explanation": "",
+  "trap": "",
+  "topic": "the advent of"
+ },
+ {
+  "id": "goarno-mcq_si-34",
+  "taskType": "mcq_single",
+  "prompt": "Read the text and answer the multiple-choice question by selecting one correct response.",
+  "text": "Scholars investigating digital environments have increasingly turned their attention to the structural architecture of the web, particularly the role of hypertext. Unlike the stable, linear path of a traditional monograph, a webpage is often a nexus of potential diversions, riddled with hyperlinks that promise additional context or related avenues of inquiry. While these links ostensibly offer freedom and depth, they impose a hidden tax on the reader's mental resources. Every highlighted phrase presents a micro-decision: to click or not to click?\nThis constant need to evaluate navigational options disrupts the focus required for sustained narrative absorption. Research indicates that the effort dedicated to mapping a path through these non-linear structures competes directly with the energy needed for processing the actual content. Consequently, the very features designed to enrich the reading experience may paradoxically weaken the reader's ability to construct a coherent mental model of the primary argument, turning the act of reading into a disjointed series of logistical choices rather than an immersive intellectual engagement.\n\nAccording to the passage, how does the presence of hyperlinks impact the reading process?",
+  "transcript": "",
+  "audio_text": "",
+  "content": "Scholars investigating digital environments have increasingly turned their attention to the structural architecture of the web, particularly the role of hypertext. Unlike the stable, linear path of a traditional monograph, a webpage is often a nexus of potential diversions, riddled with hyperlinks that promise additional context or related avenues of inquiry. While these links ostensibly offer freedom and depth, they impose a hidden tax on the reader's mental resources. Every highlighted phrase presents a micro-decision: to click or not to click?\nThis constant need to evaluate navigational options disrupts the focus required for sustained narrative absorption. Research indicates that the effort dedicated to mapping a path through these non-linear structures competes directly with the energy needed for processing the actual content. Consequently, the very features designed to enrich the reading experience may paradoxically weaken the reader's ability to construct a coherent mental model of the primary argument, turning the act of reading into a disjointed series of logistical choices rather than an immersive intellectual engagement.\n\nAccording to the passage, how does the presence of hyperlinks impact the reading process?",
+  "options": [
+   "It encourages readers to verify the credibility of the sources provided.",
+   "It reduces the capacity to understand the text by forcing constant decision-making.",
+   "It allows readers to navigate through complex narratives more quickly.",
+   "It helps readers build a more comprehensive mental model through added context."
+  ],
+  "answer": [
+   1
+  ],
+  "source": "goarno.io",
+  "explanation": "",
+  "trap": "",
+  "topic": "scholars investigating digital"
+ },
+ {
+  "id": "goarno-mcq_si-35",
+  "taskType": "mcq_single",
+  "prompt": "Read the text and answer the multiple-choice question by selecting one correct response.",
+  "text": "The shift from linear documents to hypertext has introduced a distinct challenge known as increased cognitive load. In traditional formats, the reader follows a singular, pre-determined path, allowing their mental energy to be focused entirely on interpreting the content. Hypertext environments, by contrast, present a landscape filled with clickable options that impose a secondary task on the reader. With every link encountered, the brain must momentarily pause to evaluate whether to follow the new path or continue reading.\nThis repetitive act of decision-making functions as a significant drain on mental resources. Research suggests that the mere existence of these navigational choices competes with the processing of the actual text, regardless of whether the links are clicked. Consequently, the depth of engagement suffers. This is not necessarily because screens are an inferior medium, but because the structural requirement to manage navigation fractures attention. The reader is left with fewer cognitive resources to build a cohesive understanding of the material.\n\nWhat does the writer suggest is the primary cause of reduced engagement when reading hypertext?",
+  "transcript": "",
+  "audio_text": "",
+  "content": "The shift from linear documents to hypertext has introduced a distinct challenge known as increased cognitive load. In traditional formats, the reader follows a singular, pre-determined path, allowing their mental energy to be focused entirely on interpreting the content. Hypertext environments, by contrast, present a landscape filled with clickable options that impose a secondary task on the reader. With every link encountered, the brain must momentarily pause to evaluate whether to follow the new path or continue reading.\nThis repetitive act of decision-making functions as a significant drain on mental resources. Research suggests that the mere existence of these navigational choices competes with the processing of the actual text, regardless of whether the links are clicked. Consequently, the depth of engagement suffers. This is not necessarily because screens are an inferior medium, but because the structural requirement to manage navigation fractures attention. The reader is left with fewer cognitive resources to build a cohesive understanding of the material.\n\nWhat does the writer suggest is the primary cause of reduced engagement when reading hypertext?",
+  "options": [
+   "The tendency of readers to skim quickly rather than reading deeply.",
+   "The mental burden of constantly choosing whether or not to click links.",
+   "The visual discomfort associated with reading on electronic devices.",
+   "The generally lower quality of writing found on the internet."
+  ],
+  "answer": [
+   1
+  ],
+  "source": "goarno.io",
+  "explanation": "",
+  "trap": "",
+  "topic": "the shift from"
+ },
+ {
+  "id": "goarno-mcq_si-36",
+  "taskType": "mcq_single",
+  "prompt": "Read the text and answer the multiple-choice question by selecting one correct response.",
+  "text": "The dramatic rise in audiobook consumption has prompted researchers to re-evaluate the nature of literary engagement. Traditionalists often characterize listening as a passive alternative to the active decoding required by visual texts. However, recent studies indicate that at the level of meaning construction, the brain makes little distinction between the two formats; the mental simulation of a narrative activates similar neural networks regardless of the input source. Despite this underlying cognitive overlap, functional differences significantly influence how information is processed. Visual reading inherently supports regression—the rapid, often unconscious backward movement of the eyes to re-examine a previous phrase—which is instrumental in parsing dense syntactic structures. Audio, conversely, imposes a relentless linear progression that makes such instantaneous review cumbersome. Consequently, while listening offers a robust medium for narrative absorption, it may prove less effective when the objective is the rigorous analysis of structurally complex arguments.\n\nAccording to the text, why might visual reading be better suited for complex material than listening?",
+  "transcript": "",
+  "audio_text": "",
+  "content": "The dramatic rise in audiobook consumption has prompted researchers to re-evaluate the nature of literary engagement. Traditionalists often characterize listening as a passive alternative to the active decoding required by visual texts. However, recent studies indicate that at the level of meaning construction, the brain makes little distinction between the two formats; the mental simulation of a narrative activates similar neural networks regardless of the input source. Despite this underlying cognitive overlap, functional differences significantly influence how information is processed. Visual reading inherently supports regression—the rapid, often unconscious backward movement of the eyes to re-examine a previous phrase—which is instrumental in parsing dense syntactic structures. Audio, conversely, imposes a relentless linear progression that makes such instantaneous review cumbersome. Consequently, while listening offers a robust medium for narrative absorption, it may prove less effective when the objective is the rigorous analysis of structurally complex arguments.\n\nAccording to the text, why might visual reading be better suited for complex material than listening?",
+  "options": [
+   "It stimulates neural networks that are not activated by auditory signals.",
+   "It allows readers to easily look back at text to clarify understanding.",
+   "It requires more active mental effort than the passive act of listening.",
+   "It eliminates the need for semantic processing, allowing for faster absorption."
+  ],
+  "answer": [
+   1
+  ],
+  "source": "goarno.io",
+  "explanation": "",
+  "trap": "",
+  "topic": "the dramatic rise"
+ },
+ {
+  "id": "goarno-mcq_si-37",
+  "taskType": "mcq_single",
+  "prompt": "Read the text and answer the multiple-choice question by selecting one correct response.",
+  "text": "In the late 19th century, urban planner Ebenezer Howard proposed a radical solution to the overcrowding and pollution of Victorian industrial cities: the Garden City. Howard envisioned self-contained communities surrounded by 'greenbelts' of agricultural land, which would limit urban sprawl and ensure residents had constant access to nature. The core philosophy was to marry the economic opportunities of the city with the health benefits of the countryside. Unlike typical suburbs, these towns were intended to be economically independent, possessing their own industries and businesses so that residents would not have to commute elsewhere for work. However, while the aesthetic principles of tree-lined avenues and designated zoning influenced town planning globally, the full economic model proved difficult to replicate. Howard’s ideal relied on community ownership of land to capture rising property values for the public good. In practice, as private developers adopted the style but not the substance of the movement, many resulting developments lacked the commercial infrastructure to be truly self-sufficient, devolving instead into the very dormitory suburbs Howard had sought to avoid.\n\nWhich of the following best summarizes the author's evaluation of the Garden City movement's outcome?",
+  "transcript": "",
+  "audio_text": "",
+  "content": "In the late 19th century, urban planner Ebenezer Howard proposed a radical solution to the overcrowding and pollution of Victorian industrial cities: the Garden City. Howard envisioned self-contained communities surrounded by 'greenbelts' of agricultural land, which would limit urban sprawl and ensure residents had constant access to nature. The core philosophy was to marry the economic opportunities of the city with the health benefits of the countryside. Unlike typical suburbs, these towns were intended to be economically independent, possessing their own industries and businesses so that residents would not have to commute elsewhere for work. However, while the aesthetic principles of tree-lined avenues and designated zoning influenced town planning globally, the full economic model proved difficult to replicate. Howard’s ideal relied on community ownership of land to capture rising property values for the public good. In practice, as private developers adopted the style but not the substance of the movement, many resulting developments lacked the commercial infrastructure to be truly self-sufficient, devolving instead into the very dormitory suburbs Howard had sought to avoid.\n\nWhich of the following best summarizes the author's evaluation of the Garden City movement's outcome?",
+  "options": [
+   "It successfully created a network of fully independent towns that replaced major industrial cities.",
+   "Its visual and zoning concepts were widely adopted, whereas its economic self-sufficiency goals were often unrealized.",
+   "It failed primarily because the inclusion of greenbelts made the towns too expensive to build.",
+   "It was rejected by private developers because the architectural style was considered unattractive."
+  ],
+  "answer": [
+   1
+  ],
+  "source": "goarno.io",
+  "explanation": "",
+  "trap": "",
+  "topic": "in the late"
+ },
+ {
+  "id": "goarno-mcq_si-38",
+  "taskType": "mcq_single",
+  "prompt": "Read the text and answer the multiple-choice question by selecting one correct response.",
+  "text": "For millennia, the frozen soils of the Arctic, known as permafrost, have acted as a vast repository for organic carbon, effectively locking away the remains of ancient plants and animals. However, as global temperatures rise, these permanently frozen grounds are beginning to thaw at an unprecedented rate. This thawing process reactivates dormant microbes in the soil, which then begin to decompose the newly accessible organic matter. A significant byproduct of this microbial activity is the release of methane, a greenhouse gas that is far more effective at trapping heat in the atmosphere than carbon dioxide over the short term. The release of this gas accelerates atmospheric warming, which in turn causes even more permafrost to melt. This self-perpetuating cycle, often referred to as a positive feedback loop, poses a critical challenge to climate scientists. Because the scale of potential emissions from these northern reservoirs remains difficult to quantify precisely, what was once a stable carbon sink threatens to become a volatile source of emissions, potentially undermining international efforts to stabilize global climate patterns.\n\nWhat is the main concern regarding permafrost thawing expressed in the passage?",
+  "transcript": "",
+  "audio_text": "",
+  "content": "For millennia, the frozen soils of the Arctic, known as permafrost, have acted as a vast repository for organic carbon, effectively locking away the remains of ancient plants and animals. However, as global temperatures rise, these permanently frozen grounds are beginning to thaw at an unprecedented rate. This thawing process reactivates dormant microbes in the soil, which then begin to decompose the newly accessible organic matter. A significant byproduct of this microbial activity is the release of methane, a greenhouse gas that is far more effective at trapping heat in the atmosphere than carbon dioxide over the short term. The release of this gas accelerates atmospheric warming, which in turn causes even more permafrost to melt. This self-perpetuating cycle, often referred to as a positive feedback loop, poses a critical challenge to climate scientists. Because the scale of potential emissions from these northern reservoirs remains difficult to quantify precisely, what was once a stable carbon sink threatens to become a volatile source of emissions, potentially undermining international efforts to stabilize global climate patterns.\n\nWhat is the main concern regarding permafrost thawing expressed in the passage?",
+  "options": [
+   "It creates a cycle where warming triggers emissions that lead to further warming.",
+   "It releases carbon dioxide, which is considered the most potent greenhouse gas.",
+   "It allows scientists to make highly accurate predictions about future temperatures.",
+   "It permanently destroys the microbes necessary for soil health in the Arctic."
+  ],
+  "answer": [
+   0
+  ],
+  "source": "goarno.io",
+  "explanation": "",
+  "trap": "",
+  "topic": "for millennia the"
+ },
+ {
+  "id": "goarno-mcq_si-39",
+  "taskType": "mcq_single",
+  "prompt": "Read the text and answer the multiple-choice question by selecting one correct response.",
+  "text": "In the Arctic regions, vast amounts of organic carbon are stored in permafrost, ground that has remained frozen for millennia. As global temperatures rise, this frozen soil begins to thaw, reanimating dormant microbes that metabolize the decaying organic matter buried within. This biological process results in the release of greenhouse gases, specifically carbon dioxide and methane, into the atmosphere. Although carbon dioxide is more prevalent, methane poses a specific threat because its capacity to trap heat in the atmosphere is substantially greater than that of carbon dioxide over a short timeframe. This phenomenon establishes a self-reinforcing cycle known as a positive feedback loop: the released gases intensify global warming, which subsequently speeds up the thawing of additional permafrost. Therefore, the Arctic permafrost, which has historically acted as a carbon sink by sequestering organic material, risks transforming into a significant emitter. This shift complicates climate predictions, as the precise rate at which these gases will be released remains difficult to quantify.\n\nWhat is the primary consequence of permafrost thawing described in the text?",
+  "transcript": "",
+  "audio_text": "",
+  "content": "In the Arctic regions, vast amounts of organic carbon are stored in permafrost, ground that has remained frozen for millennia. As global temperatures rise, this frozen soil begins to thaw, reanimating dormant microbes that metabolize the decaying organic matter buried within. This biological process results in the release of greenhouse gases, specifically carbon dioxide and methane, into the atmosphere. Although carbon dioxide is more prevalent, methane poses a specific threat because its capacity to trap heat in the atmosphere is substantially greater than that of carbon dioxide over a short timeframe. This phenomenon establishes a self-reinforcing cycle known as a positive feedback loop: the released gases intensify global warming, which subsequently speeds up the thawing of additional permafrost. Therefore, the Arctic permafrost, which has historically acted as a carbon sink by sequestering organic material, risks transforming into a significant emitter. This shift complicates climate predictions, as the precise rate at which these gases will be released remains difficult to quantify.\n\nWhat is the primary consequence of permafrost thawing described in the text?",
+  "options": [
+   "It allows the Arctic to absorb more carbon dioxide from the atmosphere.",
+   "It creates a cycle where emissions lead to further warming and more thawing.",
+   "It reduces the potency of methane compared to carbon dioxide over time.",
+   "It permanently stops microbial activity in the frozen soil."
+  ],
+  "answer": [
+   1
+  ],
+  "source": "goarno.io",
+  "explanation": "",
+  "trap": "",
+  "topic": "in the arctic"
+ },
+ {
+  "id": "goarno-mcq_si-40",
+  "taskType": "mcq_single",
+  "prompt": "Read the text and answer the multiple-choice question by selecting one correct response.",
+  "text": "In the digital age, the mechanisms governing social media feeds have fundamentally altered how information is consumed. Algorithms are primarily engineered to optimize user retention by presenting content that resonates with a user’s past behavior and apparent interests. This curatorial process often results in the formation of \"echo chambers,\" where individuals are insulated from dissenting opinions and repeatedly exposed to confirming evidence. While the commercial objective is to maintain user attention and satisfaction, the sociopolitical consequence is the erosion of a common factual ground. Critics argue that when users rarely encounter challenges to their pre-existing beliefs, their capacity for critical thinking and tolerance diminishes. The phenomenon suggests that the technical architecture of these platforms is not merely a neutral conduit for information but an active participant in deepening societal divisions. Thus, the challenge lies in balancing the benefits of personalized content with the civic necessity of exposure to diverse viewpoints.\n\nAccording to the text, what is a significant negative outcome of social media algorithms?",
+  "transcript": "",
+  "audio_text": "",
+  "content": "In the digital age, the mechanisms governing social media feeds have fundamentally altered how information is consumed. Algorithms are primarily engineered to optimize user retention by presenting content that resonates with a user’s past behavior and apparent interests. This curatorial process often results in the formation of \"echo chambers,\" where individuals are insulated from dissenting opinions and repeatedly exposed to confirming evidence. While the commercial objective is to maintain user attention and satisfaction, the sociopolitical consequence is the erosion of a common factual ground. Critics argue that when users rarely encounter challenges to their pre-existing beliefs, their capacity for critical thinking and tolerance diminishes. The phenomenon suggests that the technical architecture of these platforms is not merely a neutral conduit for information but an active participant in deepening societal divisions. Thus, the challenge lies in balancing the benefits of personalized content with the civic necessity of exposure to diverse viewpoints.\n\nAccording to the text, what is a significant negative outcome of social media algorithms?",
+  "options": [
+   "They decrease user satisfaction by filtering out too much content.",
+   "They reinforce existing beliefs and contribute to societal polarization.",
+   "They act as neutral tools that have little effect on public opinion.",
+   "They promote critical thinking by presenting a wide array of facts."
+  ],
+  "answer": [
+   1
+  ],
+  "source": "goarno.io",
+  "explanation": "",
+  "trap": "",
+  "topic": "in the digital"
+ },
+ {
+  "id": "goarno-mcq_si-41",
+  "taskType": "mcq_single",
+  "prompt": "Read the text and answer the multiple-choice question by selecting one correct response.",
+  "text": "For millennia, the American bison acted as the primary architect of the Great Plains, shaping the grassland ecosystem through specific grazing behaviors that modern livestock management struggles to replicate. Unlike cattle, which tend to linger near water sources and graze specific areas intensively, bison are highly mobile. They traverse vast distances, grazing an area briefly before moving on, a pattern that prevents the depletion of vegetation and allows for rapid recovery.\nThis distinct behavior creates a heterogeneous landscape often described as a shifting mosaic, characterized by patches of short, grazed grass interspersed with taller, undisturbed vegetation. This structural variety is vital for the survival of the prairie ecosystem, particularly for grassland birds that require specific grass heights for nesting and foraging. Additionally, the bison’s unique habit of wallowing—rolling in the dirt to remove molting fur and deter insects—creates compacted depressions. These depressions fill with rainwater to form ephemeral wetlands, supporting amphibians and providing drinking water for other wildlife. Thus, the decimation of bison herds in the 19th century fundamentally simplified the ecological complexity of the North American prairies.\n\nAccording to the text, what is a significant ecological consequence of the bison's migratory grazing habits?",
+  "transcript": "",
+  "audio_text": "",
+  "content": "For millennia, the American bison acted as the primary architect of the Great Plains, shaping the grassland ecosystem through specific grazing behaviors that modern livestock management struggles to replicate. Unlike cattle, which tend to linger near water sources and graze specific areas intensively, bison are highly mobile. They traverse vast distances, grazing an area briefly before moving on, a pattern that prevents the depletion of vegetation and allows for rapid recovery.\nThis distinct behavior creates a heterogeneous landscape often described as a shifting mosaic, characterized by patches of short, grazed grass interspersed with taller, undisturbed vegetation. This structural variety is vital for the survival of the prairie ecosystem, particularly for grassland birds that require specific grass heights for nesting and foraging. Additionally, the bison’s unique habit of wallowing—rolling in the dirt to remove molting fur and deter insects—creates compacted depressions. These depressions fill with rainwater to form ephemeral wetlands, supporting amphibians and providing drinking water for other wildlife. Thus, the decimation of bison herds in the 19th century fundamentally simplified the ecological complexity of the North American prairies.\n\nAccording to the text, what is a significant ecological consequence of the bison's migratory grazing habits?",
+  "options": [
+   "The creation of a varied landscape structure that supports diverse bird populations",
+   "The formation of compacted soil depressions that collect rainwater for amphibians",
+   "The elimination of tall vegetation to ensure a uniformly grazed environment",
+   "The concentration of grazing activity near water sources to protect open grasslands"
+  ],
+  "answer": [
+   0
+  ],
+  "source": "goarno.io",
+  "explanation": "",
+  "trap": "",
+  "topic": "for millennia the"
+ },
+ {
+  "id": "goarno-mcq_si-42",
+  "taskType": "mcq_single",
+  "prompt": "Read the text and answer the multiple-choice question by selecting one correct response.",
+  "text": "For much of human history, reading was an inherently social and auditory act. In antiquity and the Middle Ages, texts were primarily written to be heard, recited publicly in communal settings or muttered aloud by individuals during private study. The concept of silent reading—processing text entirely within the mind without vocalization—was originally considered an anomaly. The eventual transition to silent reading as a societal norm marked a pivotal cultural shift. It liberated the reader from the constraints of the breath and the pace of speech, allowing for a rapid intake of information that oral delivery could never match. More significantly, it fostered the development of a private interiority. Reading became an exclusive dialogue between the author and the reader, shielded from the immediate scrutiny of the community. This evolution enabled greater intellectual autonomy, as individuals could explore unconventional or heretical ideas without public surveillance, fundamentally changing the trajectory of individual thought and critical analysis.\n\nAccording to the passage, what was a significant consequence of the shift from oral to silent reading?",
+  "transcript": "",
+  "audio_text": "",
+  "content": "For much of human history, reading was an inherently social and auditory act. In antiquity and the Middle Ages, texts were primarily written to be heard, recited publicly in communal settings or muttered aloud by individuals during private study. The concept of silent reading—processing text entirely within the mind without vocalization—was originally considered an anomaly. The eventual transition to silent reading as a societal norm marked a pivotal cultural shift. It liberated the reader from the constraints of the breath and the pace of speech, allowing for a rapid intake of information that oral delivery could never match. More significantly, it fostered the development of a private interiority. Reading became an exclusive dialogue between the author and the reader, shielded from the immediate scrutiny of the community. This evolution enabled greater intellectual autonomy, as individuals could explore unconventional or heretical ideas without public surveillance, fundamentally changing the trajectory of individual thought and critical analysis.\n\nAccording to the passage, what was a significant consequence of the shift from oral to silent reading?",
+  "options": [
+   "It forced authors to simplify their writing styles to accommodate faster reading speeds.",
+   "It enabled individuals to consume and reflect on information away from public observation.",
+   "It reduced the ability of readers to memorize texts compared to traditional recitation.",
+   "It diminished the cultural importance of the written word in favor of spoken dialogue."
+  ],
+  "answer": [
+   1
+  ],
+  "source": "goarno.io",
+  "explanation": "",
+  "trap": "",
+  "topic": "for much of"
+ },
+ {
+  "id": "goarno-mcq_si-43",
+  "taskType": "mcq_single",
+  "prompt": "Read the text and answer the multiple-choice question by selecting one correct response.",
+  "text": "A pervasive narrative in historical accounts of North America suggests that prior to European contact, the continent was sparsely populated by nomadic tribes living in harmony with an uncultivated wilderness. However, archaeological evidence challenges this simplistic view by revealing the existence of sophisticated urban centers that rivaled contemporary European cities in size and complexity. One prominent example is Cahokia, located near present-day St. Louis, which flourished between AD 1050 and 1350. At its zenith, Cahokia supported a population estimated at tens of thousands, making it larger than London during the same period. The city featured colossal earthen mounds, notably Monks Mound, and an intricate layout indicative of centralized planning and social stratification. Far from being a pristine, empty landscape, the region was a hub of extensive trade networks and intensive agriculture. The existence of such sites compels historians to reconstruct their understanding of pre-Columbian civilization, acknowledging that the landscape was, in many places, highly engineered and densely inhabited.\n\nWhat is the main purpose of the text?",
+  "transcript": "",
+  "audio_text": "",
+  "content": "A pervasive narrative in historical accounts of North America suggests that prior to European contact, the continent was sparsely populated by nomadic tribes living in harmony with an uncultivated wilderness. However, archaeological evidence challenges this simplistic view by revealing the existence of sophisticated urban centers that rivaled contemporary European cities in size and complexity. One prominent example is Cahokia, located near present-day St. Louis, which flourished between AD 1050 and 1350. At its zenith, Cahokia supported a population estimated at tens of thousands, making it larger than London during the same period. The city featured colossal earthen mounds, notably Monks Mound, and an intricate layout indicative of centralized planning and social stratification. Far from being a pristine, empty landscape, the region was a hub of extensive trade networks and intensive agriculture. The existence of such sites compels historians to reconstruct their understanding of pre-Columbian civilization, acknowledging that the landscape was, in many places, highly engineered and densely inhabited.\n\nWhat is the main purpose of the text?",
+  "options": [
+   "To compare the architectural styles of Cahokia and medieval London",
+   "To describe the agricultural methods used to support large populations in Cahokia",
+   "To refute the misconception that pre-Columbian North America lacked complex urban civilizations",
+   "To analyze the reasons behind the sudden collapse of the Cahokia civilization"
+  ],
+  "answer": [
+   2
+  ],
+  "source": "goarno.io",
+  "explanation": "",
+  "trap": "",
+  "topic": "a pervasive narrative"
+ },
+ {
+  "id": "goarno-mcq_si-44",
+  "taskType": "mcq_single",
+  "prompt": "Read the text and answer the multiple-choice question by selecting one correct response.",
+  "text": "For decades, the transition from linear text to hypertext was heralded as a breakthrough for reader autonomy, allowing individuals to navigate information non-linearly. However, recent inquiries suggest that this structural freedom imposes a specific tax on the brain’s processing power. Unlike a traditional linear narrative, a hyperlinked environment necessitates continuous decision-making. Every highlighted link represents a fork in the road, requiring the reader to instantaneously evaluate whether to pursue the detour or remain on the current path.\nThis evaluative process consumes working memory, a finite resource essential for understanding and integrating new information. When this capacity is divided between decoding the text and managing navigational choices, the cognitive load typically increases. The result is often a fragmented reading experience where the brain is occupied with logistical management rather than deep absorption of the material. Thus, while the architecture of the web offers unparalleled access to related concepts, the very features designed to enrich the text may paradoxically hinder the ability to form a cohesive understanding of it.\n\nAccording to the text, what is a negative consequence of the decision-making process involved in reading hypertext?",
+  "transcript": "",
+  "audio_text": "",
+  "content": "For decades, the transition from linear text to hypertext was heralded as a breakthrough for reader autonomy, allowing individuals to navigate information non-linearly. However, recent inquiries suggest that this structural freedom imposes a specific tax on the brain’s processing power. Unlike a traditional linear narrative, a hyperlinked environment necessitates continuous decision-making. Every highlighted link represents a fork in the road, requiring the reader to instantaneously evaluate whether to pursue the detour or remain on the current path.\nThis evaluative process consumes working memory, a finite resource essential for understanding and integrating new information. When this capacity is divided between decoding the text and managing navigational choices, the cognitive load typically increases. The result is often a fragmented reading experience where the brain is occupied with logistical management rather than deep absorption of the material. Thus, while the architecture of the web offers unparalleled access to related concepts, the very features designed to enrich the text may paradoxically hinder the ability to form a cohesive understanding of it.\n\nAccording to the text, what is a negative consequence of the decision-making process involved in reading hypertext?",
+  "options": [
+   "It encourages readers to skim quickly rather than read every word.",
+   "It reduces the mental resources available for comprehending the content.",
+   "It forces readers to physically interact with the screen more frequently.",
+   "It limits the reader's access to related concepts and background information."
+  ],
+  "answer": [
+   1
+  ],
+  "source": "goarno.io",
+  "explanation": "",
+  "trap": "",
+  "topic": "for decades the"
+ },
+ {
+  "id": "goarno-mcq_si-45",
+  "taskType": "mcq_single",
+  "prompt": "Read the text and answer the multiple-choice question by selecting one correct response.",
+  "text": "While the accessibility of information in online environments is unprecedented, the structural format of this data often imposes hidden costs on the reader. Unlike traditional linear narratives, which guide the audience through a pre-determined sequence of ideas, web-based content is frequently structured as hypertext, riddled with links and branching pathways. Proponents originally argued that this non-linear format would liberate readers, allowing them to actively construct their own learning trajectories. However, research increasingly indicates that the freedom of hypertext creates a distinct cognitive burden.\nEvery time a reader encounters a link, a split-second decision must be made: to click or not to click. This constant need for decision-making demands mental resources that would otherwise be dedicated to analyzing the text itself. Consequently, the act of navigating through linked information can fragment attention and disrupt the consolidation of meaning. Rather than empowering the user, the navigational overhead of hypertext may actually impede the ability to absorb complex arguments, suggesting that for deep analytical work, a solitary, unlinked path may still be superior.\n\nAccording to the passage, what is the primary disadvantage of reading hypertext compared to linear text?",
+  "transcript": "",
+  "audio_text": "",
+  "content": "While the accessibility of information in online environments is unprecedented, the structural format of this data often imposes hidden costs on the reader. Unlike traditional linear narratives, which guide the audience through a pre-determined sequence of ideas, web-based content is frequently structured as hypertext, riddled with links and branching pathways. Proponents originally argued that this non-linear format would liberate readers, allowing them to actively construct their own learning trajectories. However, research increasingly indicates that the freedom of hypertext creates a distinct cognitive burden.\nEvery time a reader encounters a link, a split-second decision must be made: to click or not to click. This constant need for decision-making demands mental resources that would otherwise be dedicated to analyzing the text itself. Consequently, the act of navigating through linked information can fragment attention and disrupt the consolidation of meaning. Rather than empowering the user, the navigational overhead of hypertext may actually impede the ability to absorb complex arguments, suggesting that for deep analytical work, a solitary, unlinked path may still be superior.\n\nAccording to the passage, what is the primary disadvantage of reading hypertext compared to linear text?",
+  "options": [
+   "It restricts the reader from exploring topics outside of the author's intended sequence.",
+   "It diverts mental energy away from understanding content toward making navigational choices.",
+   "It presents information in shorter, less detailed segments that lack academic rigour.",
+   "It makes it difficult for readers to locate specific facts within a large volume of data."
+  ],
+  "answer": [
+   1
+  ],
+  "source": "goarno.io",
+  "explanation": "",
+  "trap": "",
+  "topic": "while the accessibility"
+ },
+ {
+  "id": "goarno-mcq_si-46",
+  "taskType": "mcq_single",
+  "prompt": "Read the text and answer the multiple-choice question by selecting one correct response.",
+  "text": "Subvocalization, often described as the internal speech made when reading words silently, allows the reader to imagine the sound of the word as it is processed. This natural mechanism helps the mind access meanings, thereby facilitating understanding and information recall. For decades, speed-reading advocates have categorized subvocalization as a detrimental habit, arguing that it creates a bottleneck by limiting reading speed to the pace of speaking—roughly 150 to 200 words per minute. Consequently, many training programs focus on techniques to suppress this inner voice to boost velocity.\nHowever, contemporary psycholinguistic research challenges the view that subvocalization should be completely eliminated. Studies indicate that while suppressing inner speech may indeed increase the raw number of words scanned per minute, it frequently leads to a significant drop in the grasp of the material, particularly when dealing with complex or nuanced arguments. The inner voice functions as a critical component of the phonological loop, holding data in working memory long enough for the brain to integrate concepts. Thus, rather than viewing subvocalization as a flaw to be eradicated, it is better understood as a regulatory tool. Proficient readers unconsciously adjust their reliance on this internal narration, minimizing it for simple texts while fully engaging it to navigate dense content.\n\nWhich of the following best summarizes the author's perspective on subvocalization?",
+  "transcript": "",
+  "audio_text": "",
+  "content": "Subvocalization, often described as the internal speech made when reading words silently, allows the reader to imagine the sound of the word as it is processed. This natural mechanism helps the mind access meanings, thereby facilitating understanding and information recall. For decades, speed-reading advocates have categorized subvocalization as a detrimental habit, arguing that it creates a bottleneck by limiting reading speed to the pace of speaking—roughly 150 to 200 words per minute. Consequently, many training programs focus on techniques to suppress this inner voice to boost velocity.\nHowever, contemporary psycholinguistic research challenges the view that subvocalization should be completely eliminated. Studies indicate that while suppressing inner speech may indeed increase the raw number of words scanned per minute, it frequently leads to a significant drop in the grasp of the material, particularly when dealing with complex or nuanced arguments. The inner voice functions as a critical component of the phonological loop, holding data in working memory long enough for the brain to integrate concepts. Thus, rather than viewing subvocalization as a flaw to be eradicated, it is better understood as a regulatory tool. Proficient readers unconsciously adjust their reliance on this internal narration, minimizing it for simple texts while fully engaging it to navigate dense content.\n\nWhich of the following best summarizes the author's perspective on subvocalization?",
+  "options": [
+   "It is an inefficient habit that must be overcome to master rapid reading.",
+   "It serves a valuable function in processing difficult texts and should not be entirely discarded.",
+   "It causes the brain to overload by retaining too much information in working memory.",
+   "It is essential for all types of reading, regardless of the simplicity of the content."
+  ],
+  "answer": [
+   1
+  ],
+  "source": "goarno.io",
+  "explanation": "",
+  "trap": "",
+  "topic": "subvocalization often described"
+ },
+ {
+  "id": "goarno-mcq_si-47",
+  "taskType": "mcq_single",
+  "prompt": "Read the text and answer the multiple-choice question by selecting one correct response.",
+  "text": "The Chaco Canyon civilization in the American Southwest is celebrated for its complex social structure and monumental great houses. For years, the prevailing theory attributed the sudden abandonment of these settlements in the 12th century primarily to a severe, decades-long drought. However, recent bioarchaeological and geological studies have begun to paint a more nuanced picture involving human agency. Analysis of ancient packrat middens—rodent nests that preserve plant materials over millennia—demonstrates that the canyon was once surrounded by dense pinyon and juniper woodlands. Over centuries, the Chacoans harvested this timber extensively for construction and firewood. The removal of this critical ground cover likely triggered a cycle of soil erosion and arroyo cutting, which lowered the water table and decimated the maize crops upon which the society depended. Thus, while climate variability was undeniably a factor, the society’s collapse was likely compounded by their unsustainable exploitation of the local environment, challenging the view that pre-colonial populations always lived in perfect equilibrium with their surroundings.\n\nWhich of the following best summarizes the writer's argument regarding the decline of the Chaco Canyon civilization?",
+  "transcript": "",
+  "audio_text": "",
+  "content": "The Chaco Canyon civilization in the American Southwest is celebrated for its complex social structure and monumental great houses. For years, the prevailing theory attributed the sudden abandonment of these settlements in the 12th century primarily to a severe, decades-long drought. However, recent bioarchaeological and geological studies have begun to paint a more nuanced picture involving human agency. Analysis of ancient packrat middens—rodent nests that preserve plant materials over millennia—demonstrates that the canyon was once surrounded by dense pinyon and juniper woodlands. Over centuries, the Chacoans harvested this timber extensively for construction and firewood. The removal of this critical ground cover likely triggered a cycle of soil erosion and arroyo cutting, which lowered the water table and decimated the maize crops upon which the society depended. Thus, while climate variability was undeniably a factor, the society’s collapse was likely compounded by their unsustainable exploitation of the local environment, challenging the view that pre-colonial populations always lived in perfect equilibrium with their surroundings.\n\nWhich of the following best summarizes the writer's argument regarding the decline of the Chaco Canyon civilization?",
+  "options": [
+   "It was primarily caused by a failure to transport timber from distant mountain ranges.",
+   "It was driven significantly by environmental degradation resulting from their own resource use.",
+   "It occurred solely because of a catastrophic natural drought that struck the region.",
+   "It resulted from the destruction of their maize crops by invasive rodent populations."
+  ],
+  "answer": [
+   1
+  ],
+  "source": "goarno.io",
+  "explanation": "",
+  "trap": "",
+  "topic": "the chaco canyon"
+ },
+ {
+  "id": "goarno-mcq_si-48",
+  "taskType": "mcq_single",
+  "prompt": "Read the text and answer the multiple-choice question by selecting one correct response.",
+  "text": "For decades, a fierce pedagogical debate known as the \"reading wars\" has divided educators and policymakers regarding the most effective method for teaching children to read. On one side, proponents of phonics argue that explicit instruction in the relationships between letters and sounds is the essential building block of literacy. They maintain that before children can comprehend text, they must first be able to decode words systematically. Conversely, advocates of the whole-language approach emphasize the importance of immersion in meaningful texts, suggesting that reading is a natural process acquired through exposure, much like spoken language.\nRecent cognitive research has increasingly tipped the scales in favor of structured phonics instruction for early learners, demonstrating that specific neural pathways must be rewired to connect visual symbols with spoken language centers. While exposure to rich literature remains vital for vocabulary and motivation, the evidence suggests it cannot replace the foundational skills of decoding. Consequently, many educational systems are now pivoting away from pure whole-language methodologies toward structured literacy programs, although the practical implementation of these changes in classrooms remains uneven and often contentious.\n\nAccording to the passage, what has recent research indicated about learning to read?",
+  "transcript": "",
+  "audio_text": "",
+  "content": "For decades, a fierce pedagogical debate known as the \"reading wars\" has divided educators and policymakers regarding the most effective method for teaching children to read. On one side, proponents of phonics argue that explicit instruction in the relationships between letters and sounds is the essential building block of literacy. They maintain that before children can comprehend text, they must first be able to decode words systematically. Conversely, advocates of the whole-language approach emphasize the importance of immersion in meaningful texts, suggesting that reading is a natural process acquired through exposure, much like spoken language.\nRecent cognitive research has increasingly tipped the scales in favor of structured phonics instruction for early learners, demonstrating that specific neural pathways must be rewired to connect visual symbols with spoken language centers. While exposure to rich literature remains vital for vocabulary and motivation, the evidence suggests it cannot replace the foundational skills of decoding. Consequently, many educational systems are now pivoting away from pure whole-language methodologies toward structured literacy programs, although the practical implementation of these changes in classrooms remains uneven and often contentious.\n\nAccording to the passage, what has recent research indicated about learning to read?",
+  "options": [
+   "Reading is an innate biological process that develops naturally through exposure to books.",
+   "Systematic instruction in decoding is necessary to establish connections in the brain.",
+   "The whole-language approach is superior because it prioritizes vocabulary and motivation.",
+   "The debate over reading methods has been fully resolved with the universal adoption of phonics."
+  ],
+  "answer": [
+   1
+  ],
+  "source": "goarno.io",
+  "explanation": "",
+  "trap": "",
+  "topic": "for decades a"
+ },
+ {
+  "id": "goarno-mcq_si-49",
+  "taskType": "mcq_single",
+  "prompt": "Read the text and answer the multiple-choice question by selecting one correct response.",
+  "text": "The Garden City movement, initiated in 1898 by Sir Ebenezer Howard in the United Kingdom, represented a radical departure from the unplanned sprawl of the industrial Victorian era. Howard envisioned self-contained communities surrounded by \"greenbelts,\" containing proportionate areas of residences, industry, and agriculture. The core philosophy was to marry the economic opportunities of the city with the environmental benefits of the countryside, thereby eliminating the squalor and pollution characteristic of 19th-century urban centers. Letchworth and Welwyn Garden City were the first tangible realizations of this ideal. However, while the aesthetic and sanitary objectives were largely met, the economic self-sufficiency Howard dreamed of proved elusive. Instead of becoming independent hubs of commerce and culture, many later iterations of the concept devolved into dormitory suburbs, where residents commuted back to major metropolises for employment. Despite this deviation from the original blueprint, the movement fundamentally reshaped modern town planning, influencing suburban design principles across the globe well into the 20th century.\n\nAccording to the passage, in what way did the actual development of Garden Cities differ from Howard’s original vision?",
+  "transcript": "",
+  "audio_text": "",
+  "content": "The Garden City movement, initiated in 1898 by Sir Ebenezer Howard in the United Kingdom, represented a radical departure from the unplanned sprawl of the industrial Victorian era. Howard envisioned self-contained communities surrounded by \"greenbelts,\" containing proportionate areas of residences, industry, and agriculture. The core philosophy was to marry the economic opportunities of the city with the environmental benefits of the countryside, thereby eliminating the squalor and pollution characteristic of 19th-century urban centers. Letchworth and Welwyn Garden City were the first tangible realizations of this ideal. However, while the aesthetic and sanitary objectives were largely met, the economic self-sufficiency Howard dreamed of proved elusive. Instead of becoming independent hubs of commerce and culture, many later iterations of the concept devolved into dormitory suburbs, where residents commuted back to major metropolises for employment. Despite this deviation from the original blueprint, the movement fundamentally reshaped modern town planning, influencing suburban design principles across the globe well into the 20th century.\n\nAccording to the passage, in what way did the actual development of Garden Cities differ from Howard’s original vision?",
+  "options": [
+   "They prioritized industrial expansion over environmental preservation.",
+   "They often failed to function as economically autonomous communities.",
+   "They were unable to provide better sanitary conditions than Victorian cities.",
+   "They were eventually absorbed into the unplanned sprawl of major cities."
+  ],
+  "answer": [
+   1
+  ],
+  "source": "goarno.io",
+  "explanation": "",
+  "trap": "",
+  "topic": "the garden city"
+ },
+ {
+  "id": "goarno-mcq_si-50",
+  "taskType": "mcq_single",
+  "prompt": "Read the text and answer the multiple-choice question by selecting one correct response.",
+  "text": "When English settlers described the dense, impenetrable woodlands of New England in the early seventeenth century, they believed they were observing a primordial wilderness that had existed unchanged for millennia. However, modern environmental historians suggest that what these settlers encountered was not an ancient, untouched ecosystem, but rather a landscape in the midst of a dramatic ecological rebound. Prior to European contact, large Indigenous populations had cleared extensive tracts of land for maize agriculture and village sites. Tragically, the introduction of Old World pathogens in the sixteenth century resulted in a catastrophic demographic collapse among Native American communities. As populations dwindled, vast areas of cultivated land were abandoned. Consequently, the forests rapidly reclaimed these open fields through the process of secondary succession. Thus, the \"virgin\" forest described in colonial chronicles was, in reality, a relatively young, dense overgrowth masking the footprint of a once-thriving agricultural society.\n\nWhat is the central argument regarding the New England forests described in the text?",
+  "transcript": "",
+  "audio_text": "",
+  "content": "When English settlers described the dense, impenetrable woodlands of New England in the early seventeenth century, they believed they were observing a primordial wilderness that had existed unchanged for millennia. However, modern environmental historians suggest that what these settlers encountered was not an ancient, untouched ecosystem, but rather a landscape in the midst of a dramatic ecological rebound. Prior to European contact, large Indigenous populations had cleared extensive tracts of land for maize agriculture and village sites. Tragically, the introduction of Old World pathogens in the sixteenth century resulted in a catastrophic demographic collapse among Native American communities. As populations dwindled, vast areas of cultivated land were abandoned. Consequently, the forests rapidly reclaimed these open fields through the process of secondary succession. Thus, the \"virgin\" forest described in colonial chronicles was, in reality, a relatively young, dense overgrowth masking the footprint of a once-thriving agricultural society.\n\nWhat is the central argument regarding the New England forests described in the text?",
+  "options": [
+   "They were ancient ecosystems that had remained biologically stable for thousands of years before European arrival.",
+   "They were actively maintained by Indigenous populations using fire to prevent overgrowth.",
+   "They were largely the product of recent regeneration after agricultural lands were left untended due to population decline.",
+   "They appeared impenetrable primarily because English settlers lacked the skills to navigate the terrain effectively."
+  ],
+  "answer": [
+   2
+  ],
+  "source": "goarno.io",
+  "explanation": "",
+  "trap": "",
+  "topic": "when english settlers"
+ },
+ {
+  "id": "ptea-mcq_si-01",
+  "taskType": "mcq_single",
+  "prompt": "Read the text and answer the multiple-choice question by selecting one correct response.",
+  "text": "The cost of mobile data varies significantly around the world, with some countries offering incredibly\naffordable rates while others charge exorbitant fees. According to recent studies, the global average\ncost of 1GB of mobile data is approximately $2.59. However, there are vast discrepancies between\nregions and countries.For instance, India boasts the cheapest mobile data in the world, with an\naverage cost of just $0.16 per gigabyte. This incredibly low price is attributed to intense market\ncompetition and government policies that promote affordable access to the internet.\nOn the other hand, Zimbabwe stands as the most expensive country for mobile data, charging an\naverage of $43.75 for 1GB. This staggering cost is a result of various factors, including limited\ninfrastructure, high operational costs, and a lack of competition.The affordability of mobile data has\na profound impact on individuals and societies. In countries with cheap data, internet access is\nwidespread, enabling people to connect with others, access information, and participate in the\ndigital economy. Conversely, in regions with expensive data, internet usage is restricted, hindering\nsocial interaction, educational opportunities, and economic development.\nBridging the digital divide remains a crucial challenge for governments and policymakers worldwide.\nBy addressing infrastructure limitations, fostering competition, and implementing supportive\npolicies, countries can work towards ensuring affordable and equitable access to mobile data for all.\n\nWhat is the central idea conveyed in this paragraph?",
+  "transcript": "",
+  "audio_text": "",
+  "content": "The cost of mobile data varies significantly around the world, with some countries offering incredibly\naffordable rates while others charge exorbitant fees. According to recent studies, the global average\ncost of 1GB of mobile data is approximately $2.59. However, there are vast discrepancies between\nregions and countries.For instance, India boasts the cheapest mobile data in the world, with an\naverage cost of just $0.16 per gigabyte. This incredibly low price is attributed to intense market\ncompetition and government policies that promote affordable access to the internet.\nOn the other hand, Zimbabwe stands as the most expensive country for mobile data, charging an\naverage of $43.75 for 1GB. This staggering cost is a result of various factors, including limited\ninfrastructure, high operational costs, and a lack of competition.The affordability of mobile data has\na profound impact on individuals and societies. In countries with cheap data, internet access is\nwidespread, enabling people to connect with others, access information, and participate in the\ndigital economy. Conversely, in regions with expensive data, internet usage is restricted, hindering\nsocial interaction, educational opportunities, and economic development.\nBridging the digital divide remains a crucial challenge for governments and policymakers worldwide.\nBy addressing infrastructure limitations, fostering competition, and implementing supportive\npolicies, countries can work towards ensuring affordable and equitable access to mobile data for all.\n\nWhat is the central idea conveyed in this paragraph?",
+  "options": [
+   "Zimbabwe boasts the most affordable mobile data in the world.",
+   "The affordability of mobile data plays a significant role in the development of societies.",
+   "The price of mobile data is consistent globally across different countries and regions.",
+   "The affordability of mobile data stems from expensive operating expenses and a lack of market\ncompetition."
+  ],
+  "answer": [
+   1
+  ],
+  "source": "pteacademy.in",
+  "explanation": "",
+  "trap": "",
+  "topic": "the cost of"
+ },
+ {
+  "id": "ptea-mcq_si-02",
+  "taskType": "mcq_single",
+  "prompt": "Read the text and answer the multiple-choice question by selecting one correct response.",
+  "text": "Long non-stop flights are becoming increasingly popular as airlines find ways to make them more\ncomfortable and efficient. These flights can be up to 19 hours long, and they typically fly between\nmajor cities on opposite sides of the world.\nThere are a number of benefits to flying non-stop. First, it saves time. Passengers don't have to\nwaste time going through security and customs twice, and they can avoid the hassle of connecting\nflights. Second, non-stop flights can be more comfortable. Airlines are investing in newer aircraft\nthat are designed for long-haul flights, and they are offering amenities such as lie-flat seats, in-flight\nentertainment, and premium meals. However, there are also some challenges associated with long\nnon-stop flights.\nOne challenge is that they can be very tiring for passengers. Sitting in an aeroplane seat for 19 hours\ncan be uncomfortable, and it can lead to jet lag. Another challenge is that long non-stop flights can\nbe more expensive than connecting flights. Airlines typically charge a premium for non-stop flights,\nand they may also have stricter baggage restrictions.\n\nWhich of the following most accurately summarizes the opinion of the author in the text?",
+  "transcript": "",
+  "audio_text": "",
+  "content": "Long non-stop flights are becoming increasingly popular as airlines find ways to make them more\ncomfortable and efficient. These flights can be up to 19 hours long, and they typically fly between\nmajor cities on opposite sides of the world.\nThere are a number of benefits to flying non-stop. First, it saves time. Passengers don't have to\nwaste time going through security and customs twice, and they can avoid the hassle of connecting\nflights. Second, non-stop flights can be more comfortable. Airlines are investing in newer aircraft\nthat are designed for long-haul flights, and they are offering amenities such as lie-flat seats, in-flight\nentertainment, and premium meals. However, there are also some challenges associated with long\nnon-stop flights.\nOne challenge is that they can be very tiring for passengers. Sitting in an aeroplane seat for 19 hours\ncan be uncomfortable, and it can lead to jet lag. Another challenge is that long non-stop flights can\nbe more expensive than connecting flights. Airlines typically charge a premium for non-stop flights,\nand they may also have stricter baggage restrictions.\n\nWhich of the following most accurately summarizes the opinion of the author in the text?",
+  "options": [
+   "Long non-stop flights offer several advantages over connecting flights, but they also come with\nsome challenges.",
+   "Long non-stop flights are the only way to travel between major cities in a country.",
+   "Long non-stop flights are not worth the extra cost or hassle, as they are uncomfortable and can\nlead to jet lag.",
+   "Long non-stop flights are unsuitable for business travellers who need to save time."
+  ],
+  "answer": [
+   0
+  ],
+  "source": "pteacademy.in",
+  "explanation": "",
+  "trap": "",
+  "topic": "long non stop"
+ },
+ {
+  "id": "ptea-mcq_si-03",
+  "taskType": "mcq_single",
+  "prompt": "Read the text and answer the multiple-choice question by selecting one correct response.",
+  "text": "Smoking a pack of tobacco cigarettes per day can have a significant impact on your health.\nIt is important to be aware of the risks before making the decision to smoke.\nSmoking is the leading cause of preventable death in the United States, killing over 480,000\npeople each year. It is also a major risk factor for many other health problems, including\nheart disease, stroke, cancer, lung diseases, and diabetes.\nSecondhand smoke is also dangerous, causing serious health problems in nonsmokers,\nincluding lung cancer, heart disease, and stroke.\nSmoking is an addiction, and it can be difficult to quit. If you are thinking about quitting\nsmoking, there are many resources available to help you. You can talk to your doctor, join a\nsupport group, or use online resources.\nThe benefits of quitting smoking are immediate and long-term. Within 20 minutes of\nquitting smoking, your heart rate and blood pressure begin to drop. Within a few days, your\nsense of smell and taste improve. And within a few months, your risk of heart attack\ndecreases.\nQuitting smoking is one of the best things you can do for your health. If you are ready to\nquit, there are many resources available to help you succeed.\n\nWhy does the speaker talk about the risks of smoking?",
+  "transcript": "",
+  "audio_text": "",
+  "content": "Smoking a pack of tobacco cigarettes per day can have a significant impact on your health.\nIt is important to be aware of the risks before making the decision to smoke.\nSmoking is the leading cause of preventable death in the United States, killing over 480,000\npeople each year. It is also a major risk factor for many other health problems, including\nheart disease, stroke, cancer, lung diseases, and diabetes.\nSecondhand smoke is also dangerous, causing serious health problems in nonsmokers,\nincluding lung cancer, heart disease, and stroke.\nSmoking is an addiction, and it can be difficult to quit. If you are thinking about quitting\nsmoking, there are many resources available to help you. You can talk to your doctor, join a\nsupport group, or use online resources.\nThe benefits of quitting smoking are immediate and long-term. Within 20 minutes of\nquitting smoking, your heart rate and blood pressure begin to drop. Within a few days, your\nsense of smell and taste improve. And within a few months, your risk of heart attack\ndecreases.\nQuitting smoking is one of the best things you can do for your health. If you are ready to\nquit, there are many resources available to help you succeed.\n\nWhy does the speaker talk about the risks of smoking?",
+  "options": [
+   "To persuade people to start smoking",
+   "To share their personal experience with smoking.",
+   "To advertise a new brand of cigarettes",
+   "To encourage people to quit smoking"
+  ],
+  "answer": [
+   3
+  ],
+  "source": "pteacademy.in",
+  "explanation": "",
+  "trap": "",
+  "topic": "smoking a pack"
+ },
+ {
+  "id": "ptea-mcq_si-04",
+  "taskType": "mcq_single",
+  "prompt": "Read the text and answer the multiple-choice question by selecting one correct response.",
+  "text": "The Chinese have a long and rich history of textile production, dating back to over 5,000 years ago.\nOne of their most iconic contributions to the world of textiles is the invention of silk. Silk is a natural\nfiber produced by the silkworm, a type of moth. The Chinese were the first to learn how to\ndomesticate the silkworm and produce silk thread. This discovery led to the development of a\nthriving silk industry in China, which quickly spread to other parts of the world.\nSilk is a highly prized material for its luxurious qualities. It is soft, smooth, and has a beautiful sheen.\nSilk is also very strong and durable. These qualities make it ideal for making a variety of textiles,\nincluding clothing, bedding, and upholstery.\nOne of the most popular uses of silk in China is in the making of quilts. Quilts are traditionally made\nof multiple layers of fabric, sewn together in a patchwork pattern. Silk quilts are prized for their\nwarmth, breathability, and lightness. They are also considered to be very beautiful and luxurious.The\nChinese continue to be a leading producer of silk today. They produce over 60% of the world's silk.\nSilk is an important part of the Chinese economy, and it is also a valuable export product.The\ninvention of silk is a testament to the ingenuity and creativity of the Chinese people. Silk has had a\nprofound impact on the world of textiles, and it continues to be a popular and sought-after material\ntoday.\n\nWhat point is the writer making in this paragraph?",
+  "transcript": "",
+  "audio_text": "",
+  "content": "The Chinese have a long and rich history of textile production, dating back to over 5,000 years ago.\nOne of their most iconic contributions to the world of textiles is the invention of silk. Silk is a natural\nfiber produced by the silkworm, a type of moth. The Chinese were the first to learn how to\ndomesticate the silkworm and produce silk thread. This discovery led to the development of a\nthriving silk industry in China, which quickly spread to other parts of the world.\nSilk is a highly prized material for its luxurious qualities. It is soft, smooth, and has a beautiful sheen.\nSilk is also very strong and durable. These qualities make it ideal for making a variety of textiles,\nincluding clothing, bedding, and upholstery.\nOne of the most popular uses of silk in China is in the making of quilts. Quilts are traditionally made\nof multiple layers of fabric, sewn together in a patchwork pattern. Silk quilts are prized for their\nwarmth, breathability, and lightness. They are also considered to be very beautiful and luxurious.The\nChinese continue to be a leading producer of silk today. They produce over 60% of the world's silk.\nSilk is an important part of the Chinese economy, and it is also a valuable export product.The\ninvention of silk is a testament to the ingenuity and creativity of the Chinese people. Silk has had a\nprofound impact on the world of textiles, and it continues to be a popular and sought-after material\ntoday.\n\nWhat point is the writer making in this paragraph?",
+  "options": [
+   "The Chinese never learned how to produce silk thread.",
+   "Silk is a cheap material that cannot be used for any purpose.",
+   "The Chinese do not have a long and rich history of silk production.",
+   "Silk, a luxurious and historically significant textile, remains in high demand today.\n\nPTE Academy: Your Path to Success:\nNow that you have a taste of the remarkable free practice material available at PTE Academy, let’s\nexplore how this esteemed coaching center can provide you with the support and guidance you\nneed to ace the PTE exam.\nComprehensive Online and Offline Classes:\nPTE Academy understands that every learner has unique preferences and schedules. That’s why\nwe offer both online and offline classes to cater to your individual needs. Our expert trainers have\nyears of experience in teaching PTE and can provide personalized guidance, strategies, and\nfeedback to maximize your success. Whether you prefer the convenience of online classes or the\nimmersive experience of offline sessions, PTE Academy has got you covered."
+  ],
+  "answer": [
+   3
+  ],
+  "source": "pteacademy.in",
+  "explanation": "",
+  "trap": "",
+  "topic": "the chinese have"
+ },
+ {
+  "id": "ptea-mcq_si-05",
+  "taskType": "mcq_single",
+  "prompt": "Read the text and answer the multiple-choice question by selecting one correct response.",
+  "text": "Australia has a relatively low population density, with around 3 people per square kilometer. This is due\nto a number of factors, including the country's large size, its arid climate, and its relatively recent history\nof European settlement.\nMost Australians live in coastal cities, with around 85% of the population living within 50 kilometers of\nthe coast. The largest cities are Sydney, Melbourne, Brisbane, and Perth.\nThe Australian government has a number of policies in place to encourage population growth, including\noffering financial incentives to immigrants and families. However, population growth has slowed in\nrecent years due to a number of factors, including the rising cost of living and the difficulty of finding\naffordable housing.\nDespite its low population density, Australia is a highly developed country with a strong economy. The\ncountry is a major exporter of minerals, agricultural products, and services. Australia also has a strong\ntourism industry.\n\nWhy does the speaker talk about the slowdown in population growth in recent years?",
+  "transcript": "",
+  "audio_text": "",
+  "content": "Australia has a relatively low population density, with around 3 people per square kilometer. This is due\nto a number of factors, including the country's large size, its arid climate, and its relatively recent history\nof European settlement.\nMost Australians live in coastal cities, with around 85% of the population living within 50 kilometers of\nthe coast. The largest cities are Sydney, Melbourne, Brisbane, and Perth.\nThe Australian government has a number of policies in place to encourage population growth, including\noffering financial incentives to immigrants and families. However, population growth has slowed in\nrecent years due to a number of factors, including the rising cost of living and the difficulty of finding\naffordable housing.\nDespite its low population density, Australia is a highly developed country with a strong economy. The\ncountry is a major exporter of minerals, agricultural products, and services. Australia also has a strong\ntourism industry.\n\nWhy does the speaker talk about the slowdown in population growth in recent years?",
+  "options": [
+   "To highlight the challenges of living in a country with a large population density.",
+   "To emphasize the need for the Australian government to implement policies that encourage\npopulation growth.",
+   "To explain the reasons behind Australia's relatively high population density.",
+   "To discuss the impact of Australia's recent history of European settlement on its population\ndistribution.\n\nTailored Study Materials:\nAt PTE Academy, we believe in delivering targeted resources to help you optimize your learning\nexperience. Alongside the free Multiple-choice, choose single answer practice material, we\nprovide comprehensive study materials that cover all sections of the Pearson Test of English exam.\nPerformance Analysis:\nTo fine-tune your exam skills and monitor your progress, PTE Academy offers regular performance\nanalysis. It helps you familiarize yourself with the test format, time management, and overall testtaking experience. Our detailed performance analysis provides insights into your strengths and\nweaknesses, enabling you to focus your efforts on areas that require improvement."
+  ],
+  "answer": [
+   1
+  ],
+  "source": "pteacademy.in",
+  "explanation": "",
+  "trap": "",
+  "topic": "australia has a"
+ },
+ {
+  "id": "ptea-mcq_si-06",
+  "taskType": "mcq_single",
+  "prompt": "Read the text and answer the multiple-choice question by selecting one correct response.",
+  "text": "Antarctica is home to some of the largest and most impressive icebergs on Earth. These massive\nblocks of ice can be hundreds of meters thick and thousands of kilometers long. They are formed\nwhen glaciers calve, or break off, from the Antarctic ice sheet.\nIcebergs play an important role in the Antarctic ecosystem. They provide habitat for a variety of\nmarine life, including penguins, seals, and whales. They also help to regulate the temperature of the\nocean by reflecting sunlight back into space.\nHowever, icebergs can also pose a hazard to ships. In 1912, the RMS Titanic struck an iceberg and\nsank in the North Atlantic Ocean. The disaster resulted in the deaths of over 1,500 people.\nToday, icebergs are carefully monitored by scientists and ships are equipped with radar and sonar to\nhelp them avoid collisions.Icebergs are a reminder of the power of nature and the importance of\nprotecting our planet. They are a beautiful and awe-inspiring sight, but they also serve as a warning\nabout the potential dangers of climate change.\n\nWhich of the following most accurately summarizes the opinion of the author in the text?",
+  "transcript": "",
+  "audio_text": "",
+  "content": "Antarctica is home to some of the largest and most impressive icebergs on Earth. These massive\nblocks of ice can be hundreds of meters thick and thousands of kilometers long. They are formed\nwhen glaciers calve, or break off, from the Antarctic ice sheet.\nIcebergs play an important role in the Antarctic ecosystem. They provide habitat for a variety of\nmarine life, including penguins, seals, and whales. They also help to regulate the temperature of the\nocean by reflecting sunlight back into space.\nHowever, icebergs can also pose a hazard to ships. In 1912, the RMS Titanic struck an iceberg and\nsank in the North Atlantic Ocean. The disaster resulted in the deaths of over 1,500 people.\nToday, icebergs are carefully monitored by scientists and ships are equipped with radar and sonar to\nhelp them avoid collisions.Icebergs are a reminder of the power of nature and the importance of\nprotecting our planet. They are a beautiful and awe-inspiring sight, but they also serve as a warning\nabout the potential dangers of climate change.\n\nWhich of the following most accurately summarizes the opinion of the author in the text?",
+  "options": [
+   "Icebergs are a beautiful and awe-inspiring sight, but they also serve as a warning about the\npotential dangers of climate change.",
+   "Icebergs are a hazard to ships and should be avoided at all costs.",
+   "Icebergs are an important part of the Antarctic ecosystem and should be protected.",
+   "Icebergs are formed when glaciers calve, or break off, from the Antarctic ice sheet.\n\nJoin PTE Academy Today and Unlock Your Potential:\nReady to embark on your journey towards Exam success? Join PTE Academy today and unlock\nyour potential to achieve your desired score. Our expert trainers, comprehensive study materials,\nand tailored practice resources are all geared towards providing you with the ultimate learning\nexperience.\nVisit our website now at www.pteacademy.in and enroll in our courses to gain access to the free\nMultiple-choice, choose single answer practice material. Empower yourself with the knowledge,\nskills, and confidence needed to conquer the PTE Speaking section and achieve your dream score!"
+  ],
+  "answer": [
+   0
+  ],
+  "source": "pteacademy.in",
+  "explanation": "",
+  "trap": "",
+  "topic": "antarctica is home"
+ },
+ {
+  "id": "ptea-mcq_si-07",
+  "taskType": "mcq_single",
+  "prompt": "Read the text and answer the multiple-choice question by selecting one correct response.",
+  "text": "Quizzes have long been used as a tool to assess an individual's knowledge and\nunderstanding of a particular subject. While they can be a valuable learning tool, it is\nimportant to recognize that quizzes do not measure intelligence in its entirety.\nIntelligence is a complex and multifaceted concept that encompasses a wide range of\ncognitive abilities. Quizzes typically focus on specific areas of knowledge, such as vocabulary,\ngrammar, or mathematical concepts. While these areas are certainly important, they do not\nrepresent the full spectrum of intelligence.\nIntelligence also involves the ability to think critically, solve problems, and adapt to new\nsituations. These skills are not always easily assessed through traditional quizzes. In fact,\nsome individuals may excel in academic settings but struggle with everyday problem-solving.\nOverall, quizzes can provide a useful snapshot of an individual's knowledge in a particular\ndomain. However, it is crucial to remember that they do not provide a complete measure of\nintelligence. Intelligence is a multifaceted construct that encompasses a variety of cognitive\nabilities.\n\nWhy does the speaker talk about quizzes designed to test intelligence?",
+  "transcript": "",
+  "audio_text": "",
+  "content": "Quizzes have long been used as a tool to assess an individual's knowledge and\nunderstanding of a particular subject. While they can be a valuable learning tool, it is\nimportant to recognize that quizzes do not measure intelligence in its entirety.\nIntelligence is a complex and multifaceted concept that encompasses a wide range of\ncognitive abilities. Quizzes typically focus on specific areas of knowledge, such as vocabulary,\ngrammar, or mathematical concepts. While these areas are certainly important, they do not\nrepresent the full spectrum of intelligence.\nIntelligence also involves the ability to think critically, solve problems, and adapt to new\nsituations. These skills are not always easily assessed through traditional quizzes. In fact,\nsome individuals may excel in academic settings but struggle with everyday problem-solving.\nOverall, quizzes can provide a useful snapshot of an individual's knowledge in a particular\ndomain. However, it is crucial to remember that they do not provide a complete measure of\nintelligence. Intelligence is a multifaceted construct that encompasses a variety of cognitive\nabilities.\n\nWhy does the speaker talk about quizzes designed to test intelligence?",
+  "options": [
+   "To argue that quizzes are not an accurate measure of intelligence.",
+   "To explain that quizzes can be a valuable learning tool.",
+   "To describe the different types of quizzes that are available.",
+   "To provide tips on how to take quizzes effectively.\n\nWelcome to PTE Academy, the pinnacle of success for PTE aspirants in Hyderabad. We take\npride in being recognized as the best PTE coaching center in the city. Our commitment to\nexcellence, personalized learning, and a team of experienced tutors sets us apart as the premier\ndestination for PTE preparation in Hyderabad.\n\nStart\nYour\nTraining\n\nCALL US TO BEGIN"
+  ],
+  "answer": [
+   0
+  ],
+  "source": "pteacademy.in",
+  "explanation": "",
+  "trap": "",
+  "topic": "quizzes have long"
+ },
+ {
+  "id": "ptea-mcq_si-08",
+  "taskType": "mcq_single",
+  "prompt": "Read the text and answer the multiple-choice question by selecting one correct response.",
+  "text": "The Persian wind tower, also known as a badgir, is a traditional Persian architecture feature used for\nnatural ventilation and passive cooling of buildings. These towers have been used in Iran for\ncenturies and are still in use today in many parts of the country.\nThe badgir works by harnessing the power of wind to create a natural draft inside a building. The\ntowers typically have multiple openings at different levels that allow air to flow in and out. As the\nwind blows through the tower, it creates a pressure difference that pulls cool air from outside into\nthe building. This cool air then circulates throughout the building, effectively cooling it down.\nBadgirs are an effective and sustainable way to cool buildings in hot and arid climates. They do not\nrequire any electricity to operate and they can be very effective in reducing indoor temperatures. In\nfact, badgirs have been known to cool buildings down by up to 12°C (22°F) on hot days.\nIn addition to their cooling benefits, badgirs also help to improve indoor air quality. By circulating\nfresh air throughout a building, they can help to remove dust, pollen, and other pollutants. This can\nbe especially beneficial for people with respiratory problems. Badgirs are a fascinating example of\nsustainable architecture. They are a testament to the ingenuity of Persian engineers and they\ncontinue to be a valuable resource for people living in hot climates today.\n\nWhich of the following most accurately summarizes the opinion of the author in the text?",
+  "transcript": "",
+  "audio_text": "",
+  "content": "The Persian wind tower, also known as a badgir, is a traditional Persian architecture feature used for\nnatural ventilation and passive cooling of buildings. These towers have been used in Iran for\ncenturies and are still in use today in many parts of the country.\nThe badgir works by harnessing the power of wind to create a natural draft inside a building. The\ntowers typically have multiple openings at different levels that allow air to flow in and out. As the\nwind blows through the tower, it creates a pressure difference that pulls cool air from outside into\nthe building. This cool air then circulates throughout the building, effectively cooling it down.\nBadgirs are an effective and sustainable way to cool buildings in hot and arid climates. They do not\nrequire any electricity to operate and they can be very effective in reducing indoor temperatures. In\nfact, badgirs have been known to cool buildings down by up to 12°C (22°F) on hot days.\nIn addition to their cooling benefits, badgirs also help to improve indoor air quality. By circulating\nfresh air throughout a building, they can help to remove dust, pollen, and other pollutants. This can\nbe especially beneficial for people with respiratory problems. Badgirs are a fascinating example of\nsustainable architecture. They are a testament to the ingenuity of Persian engineers and they\ncontinue to be a valuable resource for people living in hot climates today.\n\nWhich of the following most accurately summarizes the opinion of the author in the text?",
+  "options": [
+   "The Persian wind tower’s effectiveness is limited by its reliance on wind.",
+   "The Persian wind tower is a versatile and effective solution for natural ventilation and passive\ncooling, particularly in hot climates.",
+   "The Persian wind tower's modern applications are restricted due to advancements in air\nconditioning technology.",
+   "The Persian wind tower may not be appropriate for all climates and building types.\n\nStart\nYour\nTraining\n\nCALL US TO BEGIN"
+  ],
+  "answer": [
+   1
+  ],
+  "source": "pteacademy.in",
+  "explanation": "",
+  "trap": "",
+  "topic": "the persian wind"
+ },
+ {
+  "id": "ptea-mcq_si-09",
+  "taskType": "mcq_single",
+  "prompt": "Read the text and answer the multiple-choice question by selecting one correct response.",
+  "text": "Celebrated annually on November 11th, National Education Day in India commemorates the birth\nanniversary of Maulana Abul Kalam Azad, an eminent scholar and the first education minister of\nindependent India. This day serves as a tribute to his remarkable contributions to the realm of\neducation and his unwavering commitment to shaping a well-educated, progressive India.\nMaulana Azad's vision for education was deeply rooted in the principles of equality, inclusivity, and\nuniversal access. He firmly believed that education was the cornerstone of national development\nand the key to empowering individuals to reach their full potential. Under his leadership, India's\neducation system underwent significant transformation, with a focus on expanding access to\neducation, promoting multilingualism, and fostering scientific and technical education.\nNational Education Day serves as a reminder of the importance of education in shaping a nation's\nfuture. It is a call to action to continue striving towards providing quality education for all, ensuring\nthat every individual has the opportunity to learn, grow, and contribute to society. By honoring\nMaulana Azad's legacy, we reaffirm our commitment to building a thriving, knowledge-based society\nwhere education remains the driving force for progress and transformation.\n\nWhat is the central idea conveyed in this paragraph?",
+  "transcript": "",
+  "audio_text": "",
+  "content": "Celebrated annually on November 11th, National Education Day in India commemorates the birth\nanniversary of Maulana Abul Kalam Azad, an eminent scholar and the first education minister of\nindependent India. This day serves as a tribute to his remarkable contributions to the realm of\neducation and his unwavering commitment to shaping a well-educated, progressive India.\nMaulana Azad's vision for education was deeply rooted in the principles of equality, inclusivity, and\nuniversal access. He firmly believed that education was the cornerstone of national development\nand the key to empowering individuals to reach their full potential. Under his leadership, India's\neducation system underwent significant transformation, with a focus on expanding access to\neducation, promoting multilingualism, and fostering scientific and technical education.\nNational Education Day serves as a reminder of the importance of education in shaping a nation's\nfuture. It is a call to action to continue striving towards providing quality education for all, ensuring\nthat every individual has the opportunity to learn, grow, and contribute to society. By honoring\nMaulana Azad's legacy, we reaffirm our commitment to building a thriving, knowledge-based society\nwhere education remains the driving force for progress and transformation.\n\nWhat is the central idea conveyed in this paragraph?",
+  "options": [
+   "National Education Day in India commemorates the death anniversary of Maulana Abul Kalam\nAzad.",
+   "Maulana Azad's approach to education fell short of promoting equality, inclusivity, and\nuniversal access.",
+   "National Education Day serves as a reminder of the importance of education in shaping a\nnation's future and a call to action to continue striving towards providing quality education for all.",
+   "By honoring Maulana Azad's legacy, we reaffirm our commitment to building a society where\nilliteracy remains the driving force.\n\nStart\nYour\nTraining\n\nCALL US TO BEGIN"
+  ],
+  "answer": [
+   2
+  ],
+  "source": "pteacademy.in",
+  "explanation": "",
+  "trap": "",
+  "topic": "celebrated annually on"
+ },
+ {
+  "id": "ptea-mcq_si-10",
+  "taskType": "mcq_single",
+  "prompt": "Read the text and answer the multiple-choice question by selecting one correct response.",
+  "text": "Horseshoe crabs, also known as Limulidae, are ancient marine arthropods that have been around for\nover 300 million years, predating even the dinosaurs. These fascinating creatures are found along\nthe Atlantic and Pacific coasts of North America and Asia, inhabiting shallow, sandy or muddy\nbottoms.\nHorseshoe crabs are characterized by their distinctive horseshoe-shaped shell, which protects their\ndelicate bodies. They have ten legs, of which the first pair is modified into chelicerae for grasping\nprey. Horseshoe crabs are filter feeders, using their specialized legs to sift through sand and mud for\nsmall worms, crustaceans, and mollusks.\nThese ancient arthropods play a crucial role in the marine ecosystem. They serve as food for various\nmarine predators, including fish, birds, and shorebirds. Their eggs, which are laid in large numbers\nalong shorelines, are a vital food source for migratory birds. Additionally, horseshoe crabs' blood\ncontains a unique compound called amebocyte lysate (AL), which is used in the manufacturing of\nmedical diagnostics.\nDespite their ecological and economic importance, horseshoe crabs face numerous threats, including\nhabitat loss, overfishing, and biomedical bleeding. Conservation efforts are underway to protect\nthese vital creatures and ensure their continued survival in the marine environment.\n\nWhich of the following most accurately summarizes the opinion of the author in the text?",
+  "transcript": "",
+  "audio_text": "",
+  "content": "Horseshoe crabs, also known as Limulidae, are ancient marine arthropods that have been around for\nover 300 million years, predating even the dinosaurs. These fascinating creatures are found along\nthe Atlantic and Pacific coasts of North America and Asia, inhabiting shallow, sandy or muddy\nbottoms.\nHorseshoe crabs are characterized by their distinctive horseshoe-shaped shell, which protects their\ndelicate bodies. They have ten legs, of which the first pair is modified into chelicerae for grasping\nprey. Horseshoe crabs are filter feeders, using their specialized legs to sift through sand and mud for\nsmall worms, crustaceans, and mollusks.\nThese ancient arthropods play a crucial role in the marine ecosystem. They serve as food for various\nmarine predators, including fish, birds, and shorebirds. Their eggs, which are laid in large numbers\nalong shorelines, are a vital food source for migratory birds. Additionally, horseshoe crabs' blood\ncontains a unique compound called amebocyte lysate (AL), which is used in the manufacturing of\nmedical diagnostics.\nDespite their ecological and economic importance, horseshoe crabs face numerous threats, including\nhabitat loss, overfishing, and biomedical bleeding. Conservation efforts are underway to protect\nthese vital creatures and ensure their continued survival in the marine environment.\n\nWhich of the following most accurately summarizes the opinion of the author in the text?",
+  "options": [
+   "Horseshoe crabs play a crucial role in the marine ecosystem, but they have been overexploited\nand face numerous threats.",
+   "Horseshoe crab's importance to the environment and the economy is often not understood.",
+   "Horseshoe crabs are found in North America and Asia, and their eggs are a vital food source for\n\nmigratory birds.",
+   "Horseshoe crab’s blood contains a unique compound called amebocyte lysate.\n\nStart\nYour\nTraining\n\nCALL US TO BEGIN\n\n\fANSWERS\n1.\n2.\n3.\n4.\n5.\n\nB\nA\nD\nD\nB\n\n6. A\n7. A\n8. B\n9. C\n10.A\n\nDon’t just take our word for it; hear what our students have to say\nabout their experience with PTE Academy. We have a track record of\nhelping countless students achieve their desired scores and pursue their\ndreams of studying or working abroad. Visit our website to read\ninspiring success stories and testimonials that demonstrate the\neffectiveness of our coaching program.\nJoin PTE Academy Today and Unlock Your Potential:\nReady to embark on your journey towards Exam success? Join PTE Academy\ntoday and unlock your potential to achieve your desired score. Our expert\ntrainers, comprehensive study materials, and tailored practice resources are all\ngeared towards providing you with the ultimate learning experience.\nVisit our website now at www.pteacademy.in and enroll in our courses to gain\naccess to the free pte describe image practice material. Empower yourself with\nthe knowledge, skills, and confidence needed to conquer the PTE Speaking\nsection and achieve your dream score!\n\nStart\nYour\nTraining\n\nCALL US TO BEGIN"
+  ],
+  "answer": [
+   0
+  ],
+  "source": "pteacademy.in",
+  "explanation": "",
+  "trap": "",
+  "topic": "horseshoe crabs also"
+ }
+]

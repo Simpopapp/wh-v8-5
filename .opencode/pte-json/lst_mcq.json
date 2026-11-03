@@ -1,0 +1,147 @@
+{
+  "type": "lst_mcq",
+  "task_type": "Listening MCQ Single",
+  "section": "listening",
+  "total": 6,
+  "generated_at": "2026-10-05",
+  "questions": [
+    {
+      "id": "pte-lst_mc-fa949a2e",
+      "type": "lst_mcq",
+      "task_type": "lst-mcq",
+      "section": "listening",
+      "prompt": "",
+      "text": "Today's lecture focuses on the impact of urbanization on biodiversity. As cities expand, they fragment habitats and reduce the connectivity that many species depend on for migration and genetic exchange. Studies in five major metropolitan areas have shown that bird species diversity drops sharply within the urban core, though some species — like crows, pigeons, and certain raptors — actually thrive in these environments. The lesson for urban planners is that thoughtful design, including green corridors that connect parks, can substantially reduce the biodiversity cost of urban growth.",
+      "transcript": "Today's lecture focuses on the impact of urbanization on biodiversity. As cities expand, they fragment habitats and reduce the connectivity that many species depend on for migration and genetic exchange. Studies in five major metropolitan areas have shown that bird species diversity drops sharply within the urban core, though some species — like crows, pigeons, and certain raptors — actually thrive in these environments. The lesson for urban planners is that thoughtful design, including green corridors that connect parks, can substantially reduce the biodiversity cost of urban growth.",
+      "audio_text": "Today's lecture focuses on the impact of urbanization on biodiversity. As cities expand, they fragment habitats and reduce the connectivity that many species depend on for migration and genetic exchange. Studies in five major metropolitan areas have shown that bird species diversity drops sharply within the urban core, though some species — like crows, pigeons, and certain raptors — actually thrive in these environments. The lesson for urban planners is that thoughtful design, including green corridors that connect parks, can substantially reduce the biodiversity cost of urban growth.",
+      "content": "Today's lecture focuses on the impact of urbanization on biodiversity. As cities expand, they fragment habitats and reduce the connectivity that many species depend on for migration and genetic exchange. Studies in five major metropolitan areas have shown that bird species diversity drops sharply within the urban core, though some species — like crows, pigeons, and certain raptors — actually thrive in these environments. The lesson for urban planners is that thoughtful design, including green corridors that connect parks, can substantially reduce the biodiversity cost of urban growth.",
+      "answer": 1,
+      "source": "pteracai-seed",
+      "word_count": 88,
+      "options": [
+        "Stopping all urban expansion immediately.",
+        "Designing green corridors that connect park spaces.",
+        "Removing all species that don't thrive in cities.",
+        "Building taller buildings to reduce city footprint."
+      ],
+      "explanation": "The lecturer explicitly says 'green corridors that connect parks, can substantially reduce the biodiversity cost'. Option B paraphrases this. A is extreme, C contradicts the lecture's nuanced view, D isn't mentioned.",
+      "trap": "Option D ('taller buildings') sounds like good urban planning but isn't in the lecture. Stick to what's explicitly said.",
+      "topic": "academic lecture"
+    },
+    {
+      "id": "pte-lst_mc-d3641cd0",
+      "type": "lst_mcq",
+      "task_type": "lst-mcq",
+      "section": "listening",
+      "prompt": "",
+      "text": "Sleep researchers have demonstrated that memory consolidation occurs preferentially during specific stages of sleep, with deep slow-wave sleep being most important for fact and event memories, while REM sleep appears critical for emotional processing and creative problem-solving. This is why cutting sleep short by even an hour can disproportionately impair the type of learning that depends on REM, which is concentrated in the later half of the night. Students who pull all-nighters before exams may retain some surface material but typically perform worse on tasks requiring deeper integration of what they've learned.",
+      "transcript": "Sleep researchers have demonstrated that memory consolidation occurs preferentially during specific stages of sleep, with deep slow-wave sleep being most important for fact and event memories, while REM sleep appears critical for emotional processing and creative problem-solving. This is why cutting sleep short by even an hour can disproportionately impair the type of learning that depends on REM, which is concentrated in the later half of the night. Students who pull all-nighters before exams may retain some surface material but typically perform worse on tasks requiring deeper integration of what they've learned.",
+      "audio_text": "Sleep researchers have demonstrated that memory consolidation occurs preferentially during specific stages of sleep, with deep slow-wave sleep being most important for fact and event memories, while REM sleep appears critical for emotional processing and creative problem-solving. This is why cutting sleep short by even an hour can disproportionately impair the type of learning that depends on REM, which is concentrated in the later half of the night. Students who pull all-nighters before exams may retain some surface material but typically perform worse on tasks requiring deeper integration of what they've learned.",
+      "content": "Sleep researchers have demonstrated that memory consolidation occurs preferentially during specific stages of sleep, with deep slow-wave sleep being most important for fact and event memories, while REM sleep appears critical for emotional processing and creative problem-solving. This is why cutting sleep short by even an hour can disproportionately impair the type of learning that depends on REM, which is concentrated in the later half of the night. Students who pull all-nighters before exams may retain some surface material but typically perform worse on tasks requiring deeper integration of what they've learned.",
+      "answer": 1,
+      "source": "pteracai-seed",
+      "word_count": 92,
+      "options": [
+        "Because they completely eliminate the ability to remember any information.",
+        "Because they disproportionately impair deeper learning that depends on REM sleep.",
+        "Because they reduce the brain's ability to absorb new material at all.",
+        "Because they damage long-term physical health."
+      ],
+      "explanation": "The lecturer says all-nighters affect 'tasks requiring deeper integration' and connects this to losing REM sleep. Option B captures this. A overstates ('completely'), C and D aren't said in the passage.",
+      "trap": "A is the extreme version of what was said. IELTS/PTE distractors often take a hedged claim and make it absolute.",
+      "topic": "academic lecture"
+    },
+    {
+      "id": "pte-lst_mc-744841d8",
+      "type": "lst_mcq",
+      "task_type": "lst-mcq",
+      "section": "listening",
+      "prompt": "",
+      "text": "I want to introduce the concept of opportunity cost, which is fundamental to economic thinking. The opportunity cost of any choice is the value of the next best alternative you give up. For example, if you choose to spend an hour studying instead of working, the opportunity cost is the wages you would have earned. This concept is often invisible because it's about what you don't see — the path not taken. But ignoring opportunity costs leads to bad decisions. The discipline of asking 'what else could we be doing with these resources?' is at the heart of economic analysis.",
+      "transcript": "I want to introduce the concept of opportunity cost, which is fundamental to economic thinking. The opportunity cost of any choice is the value of the next best alternative you give up. For example, if you choose to spend an hour studying instead of working, the opportunity cost is the wages you would have earned. This concept is often invisible because it's about what you don't see — the path not taken. But ignoring opportunity costs leads to bad decisions. The discipline of asking 'what else could we be doing with these resources?' is at the heart of economic analysis.",
+      "audio_text": "I want to introduce the concept of opportunity cost, which is fundamental to economic thinking. The opportunity cost of any choice is the value of the next best alternative you give up. For example, if you choose to spend an hour studying instead of working, the opportunity cost is the wages you would have earned. This concept is often invisible because it's about what you don't see — the path not taken. But ignoring opportunity costs leads to bad decisions. The discipline of asking 'what else could we be doing with these resources?' is at the heart of economic analysis.",
+      "content": "I want to introduce the concept of opportunity cost, which is fundamental to economic thinking. The opportunity cost of any choice is the value of the next best alternative you give up. For example, if you choose to spend an hour studying instead of working, the opportunity cost is the wages you would have earned. This concept is often invisible because it's about what you don't see — the path not taken. But ignoring opportunity costs leads to bad decisions. The discipline of asking 'what else could we be doing with these resources?' is at the heart of economic analysis.",
+      "answer": 1,
+      "source": "pteracai-seed",
+      "word_count": 100,
+      "options": [
+        "It is the most expensive choice you could make.",
+        "It's important precisely because it's often invisible in decision-making.",
+        "It applies only to choices about money and wages.",
+        "It is a concept used mostly in personal finance, not in business."
+      ],
+      "explanation": "The lecturer emphasizes opportunity cost is 'often invisible' and that ignoring it 'leads to bad decisions' — option B captures the importance + invisibility paradox. A misdefines it, C limits the scope wrongly, D narrows the application.",
+      "trap": "C is tempting because the example given uses wages. But the lecturer presents it as broadly applicable, not money-only.",
+      "topic": "academic lecture"
+    },
+    {
+      "id": "pte-lst_mc-b2550b3d",
+      "type": "lst_mcq",
+      "task_type": "lst-mcq",
+      "section": "listening",
+      "prompt": "",
+      "text": "The history of antibiotics provides a striking example of both medical triumph and unintended consequence. Penicillin and its successors transformed bacterial infections from frequent killers into easily treatable conditions, dramatically extending life expectancy in the twentieth century. However, widespread use — and overuse — created selective pressure for resistant bacterial strains. Today, the World Health Organization considers antimicrobial resistance one of the most serious threats to global health, with researchers in a race to develop new antibiotics before existing ones become ineffective.",
+      "transcript": "The history of antibiotics provides a striking example of both medical triumph and unintended consequence. Penicillin and its successors transformed bacterial infections from frequent killers into easily treatable conditions, dramatically extending life expectancy in the twentieth century. However, widespread use — and overuse — created selective pressure for resistant bacterial strains. Today, the World Health Organization considers antimicrobial resistance one of the most serious threats to global health, with researchers in a race to develop new antibiotics before existing ones become ineffective.",
+      "audio_text": "The history of antibiotics provides a striking example of both medical triumph and unintended consequence. Penicillin and its successors transformed bacterial infections from frequent killers into easily treatable conditions, dramatically extending life expectancy in the twentieth century. However, widespread use — and overuse — created selective pressure for resistant bacterial strains. Today, the World Health Organization considers antimicrobial resistance one of the most serious threats to global health, with researchers in a race to develop new antibiotics before existing ones become ineffective.",
+      "content": "The history of antibiotics provides a striking example of both medical triumph and unintended consequence. Penicillin and its successors transformed bacterial infections from frequent killers into easily treatable conditions, dramatically extending life expectancy in the twentieth century. However, widespread use — and overuse — created selective pressure for resistant bacterial strains. Today, the World Health Organization considers antimicrobial resistance one of the most serious threats to global health, with researchers in a race to develop new antibiotics before existing ones become ineffective.",
+      "answer": 1,
+      "source": "pteracai-seed",
+      "word_count": 82,
+      "options": [
+        "Antibiotics are no longer useful as a treatment for any infection.",
+        "Antibiotics have been a major triumph but have created new problems through overuse.",
+        "Antibiotics should be banned to prevent further resistance.",
+        "Antibiotics are entirely safe and have no downsides."
+      ],
+      "explanation": "The lecturer presents BOTH the triumph and the resistance problem — option B captures this duality. A overstates, C is extreme, D contradicts.",
+      "trap": "A and D are both extreme positions. The lecturer's argument is the balanced one in the middle — typical of academic speech.",
+      "topic": "academic lecture"
+    },
+    {
+      "id": "pte-lst_mc-5c7472cd",
+      "type": "lst_mcq",
+      "task_type": "lst-mcq",
+      "section": "listening",
+      "prompt": "",
+      "text": "In today's session we'll discuss confirmation bias, which is the human tendency to seek out, interpret, and remember information that confirms our existing beliefs. This bias affects everyone, regardless of intelligence or education, and explains many phenomena we observe in modern society — from political polarization to the spread of misinformation. Importantly, simply telling people about confirmation bias is rarely enough to overcome it. The most effective interventions involve structured techniques that force consideration of contrary evidence, such as deliberately seeking out the strongest case for opposing views.",
+      "transcript": "In today's session we'll discuss confirmation bias, which is the human tendency to seek out, interpret, and remember information that confirms our existing beliefs. This bias affects everyone, regardless of intelligence or education, and explains many phenomena we observe in modern society — from political polarization to the spread of misinformation. Importantly, simply telling people about confirmation bias is rarely enough to overcome it. The most effective interventions involve structured techniques that force consideration of contrary evidence, such as deliberately seeking out the strongest case for opposing views.",
+      "audio_text": "In today's session we'll discuss confirmation bias, which is the human tendency to seek out, interpret, and remember information that confirms our existing beliefs. This bias affects everyone, regardless of intelligence or education, and explains many phenomena we observe in modern society — from political polarization to the spread of misinformation. Importantly, simply telling people about confirmation bias is rarely enough to overcome it. The most effective interventions involve structured techniques that force consideration of contrary evidence, such as deliberately seeking out the strongest case for opposing views.",
+      "content": "In today's session we'll discuss confirmation bias, which is the human tendency to seek out, interpret, and remember information that confirms our existing beliefs. This bias affects everyone, regardless of intelligence or education, and explains many phenomena we observe in modern society — from political polarization to the spread of misinformation. Importantly, simply telling people about confirmation bias is rarely enough to overcome it. The most effective interventions involve structured techniques that force consideration of contrary evidence, such as deliberately seeking out the strongest case for opposing views.",
+      "answer": 2,
+      "source": "pteracai-seed",
+      "word_count": 88,
+      "options": [
+        "Educating people about its existence is usually sufficient.",
+        "Avoiding all media that might present opposing views.",
+        "Using structured techniques to force consideration of contrary evidence.",
+        "Trusting that intelligent people don't suffer from this bias."
+      ],
+      "explanation": "The lecturer explicitly says 'most effective interventions involve structured techniques that force consideration of contrary evidence' — option C paraphrases this. A contradicts (the lecturer says education alone is rarely enough), B is the opposite of the recommendation, D contradicts the 'everyone' claim.",
+      "trap": "A is what you might intuitively think (more awareness = solution) — but the lecturer specifically rebuts this. Active listening for refutations matters.",
+      "topic": "academic lecture"
+    },
+    {
+      "id": "pte-lst_mc-c0a02a4c",
+      "type": "lst_mcq",
+      "task_type": "lst-mcq",
+      "section": "listening",
+      "prompt": "",
+      "text": "Recent advances in materials science have produced fabrics that can monitor health metrics like heart rate and respiration, generate small amounts of electricity from body motion, or even change color in response to temperature. These so-called smart textiles are moving from research labs into commercial products faster than many anticipated. Athletic apparel manufacturers are already integrating sensors into garments, and medical applications — particularly for elderly care monitoring — represent a substantial growth area. However, questions about durability through repeated washing, manufacturing scalability, and the lifecycle environmental impact remain open challenges.",
+      "transcript": "Recent advances in materials science have produced fabrics that can monitor health metrics like heart rate and respiration, generate small amounts of electricity from body motion, or even change color in response to temperature. These so-called smart textiles are moving from research labs into commercial products faster than many anticipated. Athletic apparel manufacturers are already integrating sensors into garments, and medical applications — particularly for elderly care monitoring — represent a substantial growth area. However, questions about durability through repeated washing, manufacturing scalability, and the lifecycle environmental impact remain open challenges.",
+      "audio_text": "Recent advances in materials science have produced fabrics that can monitor health metrics like heart rate and respiration, generate small amounts of electricity from body motion, or even change color in response to temperature. These so-called smart textiles are moving from research labs into commercial products faster than many anticipated. Athletic apparel manufacturers are already integrating sensors into garments, and medical applications — particularly for elderly care monitoring — represent a substantial growth area. However, questions about durability through repeated washing, manufacturing scalability, and the lifecycle environmental impact remain open challenges.",
+      "content": "Recent advances in materials science have produced fabrics that can monitor health metrics like heart rate and respiration, generate small amounts of electricity from body motion, or even change color in response to temperature. These so-called smart textiles are moving from research labs into commercial products faster than many anticipated. Athletic apparel manufacturers are already integrating sensors into garments, and medical applications — particularly for elderly care monitoring — represent a substantial growth area. However, questions about durability through repeated washing, manufacturing scalability, and the lifecycle environmental impact remain open challenges.",
+      "answer": 1,
+      "source": "pteracai-seed",
+      "word_count": 91,
+      "options": [
+        "The technology is decades away from being commercially viable.",
+        "Durability through washing, manufacturing scale, and environmental impact.",
+        "Smart textiles have been entirely rejected by the athletic industry.",
+        "Only medical applications are practical; consumer use is impossible."
+      ],
+      "explanation": "The lecturer lists 'durability through repeated washing, manufacturing scalability, and the lifecycle environmental impact' as open challenges. Option B captures this. A contradicts ('moving from labs to products'), C and D contradict the lecturer's commercial-progress framing.",
+      "trap": "A reverses the lecturer's actual claim that smart textiles are commercializing quickly.",
+      "topic": "academic lecture"
+    }
+  ]
+}

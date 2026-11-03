@@ -1,0 +1,70 @@
+AVISO OPENCODE — LEIA ANTES DE USAR
+=====================================
+
+A pasta `.opencode/node_modules/` (aprox. 54 MB) e a pasta raiz
+`node_modules/` (aprox. 338 MB) foram REMOVIDAS deste zip de proposito,
+pois iam deixar o arquivo muito pesado para armazenar no projeto.
+
+Nada de configuracao foi removido. Estao mantidos:
+- opencode.json (config principal)
+- .opencode/AGENTS.md, TOOLS.md, git-tool.md
+- .opencode/mcp/ (servidores MCP locais: imagegen-server.ts, gateway-server.ts, projectops-server.ts)
+- .opencode/tools-skills/, metodologia-skills
+- .opencode/package.json + package-lock.json (para reinstalar)
+- package.json + bun.lock da raiz (para reinstalar)
+- vite-opencode-proxy.ts (proxy same-origin que expoe o OpenCode na rota /oc)
+- ESTE arquivo de aviso (AVISO-OPENCODE.txt)
+
+COMO REINSTALAR (escolha bun, padrao do projeto):
+----------------------------
+1) Dependencias principais do projeto (raiz):
+   cd dev-server
+   bun install
+
+   # alternativa npm:
+   # npm install
+
+2) Dependencias pesadas do OpenCode (.opencode):
+   cd dev-server/.opencode
+   bun install
+
+   # alternativa npm:
+   # npm install
+   # conteudo: apenas "@opencode-ai/plugin" + deps (ver .opencode/package.json)
+
+Depois disso o OpenCode volta a funcionar normalmente.
+Motivo da remocao: economia de espaco — sao pastas 100% reinstalaveis
+via package.json / package-lock.json / bun.lock, sem perda de config.
+
+COMO ATIVAR O OPENCODE WEB NA MESMA PORTA E MESMA ROTA /oc:
+-----------------------------------------------------------
+O app ja vem pronto para expor o OpenCode Web na rota /oc.
+Nao precisa mudar codigo — so subir os 2 processos:
+
+1) Subir o OpenCode Web (porta 4096, workspace = raiz do projeto):
+   opencode serve --port 4096 --hostname 127.0.0.1
+   # rodar a partir de /dev-server, ou com directory=/dev-server
+   # log sugerido: nohup opencode serve --port 4096 --hostname 127.0.0.1 > /tmp/opencode-web.log 2>&1 &
+   # binario padrao nesta sandbox: /root/.bun/bin/opencode
+
+2) Subir o preview do app (porta 8080):
+   # o dev server ja faz proxy same-origin via vite-opencode-proxy.ts:
+   #   TARGET = http://127.0.0.1:4096  (ou $OPENCODE_URL)
+   #   /oc (+ /session, /api/health, etc.) -> 127.0.0.1:4096
+   bun run dev
+   # ou: lovable-exec -w /dev-server dev
+   # abrir: http://localhost:8080/oc
+
+3) Prova de funcionamento (health-check):
+   curl -sf http://127.0.0.1:4096/api/health
+   # deve responder OK. No app, o badge le GET /api/health e mostra
+   # "Agente online" / "Agente desligado".
+   # Se falhar: ver /tmp/opencode-web.log, reiniciar o serve uma vez.
+
+Detalhes que NAO mudar (ja vao no zip):
+- opencode.json -> mcp lovable-tools, mcp-gateway, mcp-projectops, browser-playwright
+- vite-opencode-proxy.ts -> mapeia /oc e prefixos /session, /api/* para 127.0.0.1:4096
+- .opencode/AGENTS.md §2-§3 -> endereco, arranque tipico e prova em disco
+
+Se a rota /oc der "OpenCode indisponivel" (502 do proxy), e porque
+o processo da porta 4096 nao esta rodando — e so repetir o passo 1.

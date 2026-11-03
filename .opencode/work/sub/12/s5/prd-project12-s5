@@ -1,0 +1,14 @@
+# PRD — S5 Ajustes + Estados globais (projeto 12, PRD central §7.7/§7.8)
+
+## Diagnóstico a confirmar (auditar antes de especificar)
+- `settings.tsx`: grupos sem ícone/descrição; área Studie Plus sem identidade própria (~:156-224, indicador de mecanismo a preservar); importação de backup sem hierarquia de alto impacto (~:442-477); rótulos+ações com wrap ruim em 390px.
+- `__root.tsx` (~:17-74): 404/ErrorComponent default; UpdateBanner básico.
+
+## Escopo
+1. **Ajustes**: PageHeader; cartões de grupo com ícone + descrição; área Studie Plus com identidade (indicador de mecanismo preservado); importação de backup com hierarquia de risco (revisão → confirmação → resultado); empilhamento 390px.
+2. **Globais**: 404 e ErrorComponent na identidade nova (serif + explicação honesta + CTA para a Home); UpdateBanner redesenhado; EmptyState unificado disponível e documentado.
+3. Acessibilidade: axe 0 em /settings, 404 e estado de erro; alvos ≥44px.
+
+## Critérios de aceite
+- Gates: vitest verde (D9) · tsgo · build · lint · Playwright /settings + 404 (axe 0, 390×844, console limpo).
+- Nenhuma mudança de lógica: backup/mescla, mecanismo Plus e atualização intactos.

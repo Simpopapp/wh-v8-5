@@ -1,0 +1,26 @@
+# Roadmap — projeto 4 (expansão confiável do banco de questões)
+
+Fonte: `.opencode/prd-project4.md` (← `.opencode/project4`). Gates por fase: vitest verde ·
+tsgo limpo · build OK · lint 0 erros · preview das práticas tocadas (Playwright).
+Escopo único: mais questões reais, úteis e não duplicadas. Nenhuma outra mudança.
+
+- [x] Fase 0 (P0) — Varredura extensa + veredito de fontes
+  - [x] Buscar fontes abertas por tipo (prioridade §3 do PRD)
+  - [x] Verificar acesso (HTTP 200, sem login) + gabarito/transcript presentes
+  - [x] Preencher §6 do PRD (aprovadas e reprovadas, com URL, volume, evidência)
+- [x] Fase 1 (P0) — lst_hcs, lst_hiw, lst_smw, lst_mcq_multi, lst_summary, lst_mcq,
+  answer_short, mcq_multi
+  - [x] Extração + normalização no schema existente
+  - [x] Dedupe (exato + similaridade ≥ 0,85) + relatório
+  - [x] Integração nos JSONs + build-manifest + bank-integrity
+- [x] Fase 2 (P1) — swt, retell_lecture, write_essay, mcq_single, read_fib,
+  reorder_paragraphs
+  - [x] Extração + normalização · dedupe + relatório · integração
+- [x] Fase 3 (P2) — lst_fib, summarize_spoken_text, read_aloud (+ RS/WFD só se 100% novos)
+  - [x] Extração + normalização · dedupe + relatório · integração
+- [x] Fase 4 — Fechamento
+  - [x] Contagem final por tipo/fonte registrada no PRD (prd-project4 §8; total 2.536 no
+        manifesto, 5.072 nos JSONs)
+  - [x] Offline E2E (pendente do proj3) — executado no Projeto 5 (Fase 3 do roadmap-proj5,
+        produção via wrangler: Home, /listening e /practice WFD offline OK, console limpo)
+  - Tipos sem fonte aprovada: registrados, nunca preenchidos com conteúdo duvidoso

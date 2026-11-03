@@ -1,0 +1,4 @@
+# Roadmap — S1 Superfícies de prática
+
+Fase A — Auditoria: mapear os 17 motores de prática + SectionPage + QuestionRow (o shell que cada motor monta hoje, pontos de Plus, MicNotice, contagens). Gates: relatório com arquivo:linha, sem edição de arquivos.
+Fase B — Especificação: desenho do PracticeShell (contratos de props/slots), transformação de cada motor, redesign de SectionPage/QuestionRow. Gates: spec por arquivo, riscos de markup/testes (D9) listados.

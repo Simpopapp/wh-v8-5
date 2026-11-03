@@ -1,0 +1,12 @@
+trocar o sistema atual de tradução por um mais inteligente quando a internet estiver ativa (ativada por padrão mas com desativação configuravel em "ajustes"), usando i.a pra tradução individual completa em card ao cicar na palavra "modelo A" ou na frase "modelo B", gerando as traduções no momento do click e abrindo um card bonito e bem planejado pra eficiencia.
+- no modelo A de tradução (ou seja, quando o usuário seleciona uma palavra): 
+contendo "4 tipos de tradução": tipo1= "literal" (contendo o significado literal da palavra), tipo2= "na frase" (contendo o significado daquela palavra tendo em vista o contexto da frase, ou seja, o por que ela foi usada ali), tipo3= "por que ao invés de" {sinonimo conhecido mais provavel} + usar {o sinonimo comum mais provavel} é: 1- errado, 2- certo, ou 3- certo mas "MCNC" = (menos cabivel nesse contexto).
+- no modelo B de tradução (ou seja, quando o usuário clica na frase): 
+mostra a tradução completa da frase + dicas sobre "termos girias ou expressões"/palavras contra intuitivas que não foram traduzidas ao pé da letra porque não tinham função literal na frase mas sim um outro motivo ou outras coisas que ao traduzir a frase deixam de ter o significado literal por motivo, em formato de lista logo abaixo da tradução completa, contendo as expressões identificadas como promissoras pra essa explicação, intercaladas pelas respectivas explicações de cada uma.
+
+encontre uma forma inteligente e bem planejada de fazer isso, visando a experiencia visual e de aprendizado/utilidade como usuário.
+
+(obs: essa função fará parte do studie-plus, ela é apenas outro metodo daquilo que já existe, não função nova, os botões de ativação de tradução de palavra ou frase permanecem lá, o que muda é o "modo/metodo" que deve ser ajustavel e contemplar simultaneamente ambas, com "online" ou "offline" sendo a forma de alternar entre os mecanismos das funções já existentes no painel de settings)
+(obs2: a forma de implementar isso e a aparencia devem se ajustar à logica de cada um dos tipos de questão de forma inteligente identificando a melhor forma de fazer em cada um dos 22 tipos (quando for algo aplicavel, talvez nem todos os tipos dê pra implementar esse tipo de coisa, mas acredito que a maioria)
+(obs3: estude o codigo atual antes de bolar o prd e quando for iniciar um remix pra não ficar algo bagunçado nem gerar bugs que podem custar esforço extra no futuro)
+(obs4: ative o monitor somente após a conclusão do roadmap para avaliação geral, não antes ( a menos que o usuário pró-ativamente peça para ativa-lo)

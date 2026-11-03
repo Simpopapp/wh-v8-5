@@ -1,0 +1,68 @@
+{
+  "type": "describe_image",
+  "task_type": "Describe Image",
+  "section": "speaking",
+  "total": 6,
+  "questions": [
+    {
+      "id": "di-owid-01",
+      "topic": "Life Expectancy",
+      "image": "life-expectancy",
+      "title": "Life expectancy, 1543 to 2023",
+      "alt": "Line chart of life expectancy from 1543 to 2023 for many countries and the world; lines rise steeply during the twentieth century, with the world line reaching about 73 years in 2023.",
+      "text": "This line chart shows life expectancy from 1543 to 2023 for many countries, with the world average highlighted. The y-axis shows life expectancy in years and the x-axis shows the year. Most lines stay low and flat for centuries, then rise steeply during the twentieth century. World life expectancy has more than doubled, reaching about 73 years in 2023, compared with roughly 28 years in 1770. In 2023 the highest values are around 86 years, in countries such as Monaco, San Marino and Hong Kong, while the lowest are around 54 to 57 years, in countries such as Nigeria and Chad. Overall, the chart shows a dramatic global improvement, especially after 1900, but with a wide and persistent gap between countries.",
+      "source": "ourworldindata.org",
+      "word_count": 130
+    },
+    {
+      "id": "di-owid-02",
+      "topic": "Electricity by Source",
+      "image": "electricity-prod-source-stacked",
+      "title": "Electricity production by source, World, 2023",
+      "alt": "Stacked area chart of world electricity production by source, showing coal, gas and hydro dominating while solar and wind grow rapidly after 2000.",
+      "text": "This stacked area chart shows world electricity production by source over time. Fossil fuels still dominate: coal grew from about 5,800 terawatt-hours in 2000 to roughly 10,500 in 2023, and gas from about 2,700 to 6,900. Hydropower remains the largest low-carbon source, rising from 2,600 to about 4,400 terawatt-hours. The most striking change is the rapid growth of solar and wind after 2010: solar went from almost 1 terawatt-hour in 2000 to nearly 2,800 in 2023, and wind from about 30 to 2,700. Nuclear stayed roughly flat at around 2,800. The chart shows total electricity demand rising steeply, with renewables expanding quickly but from a low base.",
+      "source": "ourworldindata.org",
+      "word_count": 120
+    },
+    {
+      "id": "di-owid-03",
+      "topic": "Annual CO2 Emissions",
+      "image": "annual-co2-emissions-per-country",
+      "title": "Annual CO₂ emissions by country, 1750 to 2024",
+      "alt": "Line chart of annual CO2 emissions by country from 1750 to 2024; global emissions climb steeply after 1950 to about 38 billion tonnes in 2024.",
+      "text": "This line chart shows annual carbon dioxide emissions by country from 1750 to 2024. The world line starts near zero in the eighteenth century and climbs slowly until the twentieth century, then rises very steeply after 1950. In 2024 global emissions were about 38.6 billion tonnes of CO2, the highest level on the chart. Emissions briefly dipped around the 2009 financial crisis and in 2020 during the pandemic, but recovered quickly afterwards. A small number of large emitters account for most of the total, while many countries' lines stay close to the bottom throughout. The overall trend is a strong, sustained increase driven by industrialization and energy use.",
+      "source": "ourworldindata.org",
+      "word_count": 115
+    },
+    {
+      "id": "di-owid-04",
+      "topic": "Internet Users",
+      "image": "share-of-individuals-using-the-internet",
+      "title": "Share of the population using the Internet, 1990 to 2025",
+      "alt": "Line chart showing the share of the population using the Internet rising from under one percent in 1990 to almost 74 percent worldwide in 2025.",
+      "text": "This line chart shows the share of the population using the Internet from 1990 to 2025 for many countries and for the world. In 1990, fewer than one percent of people worldwide were online. The world line rises slowly through the 1990s, then climbs steeply from the mid-2000s onwards: about 16 percent in 2005, and nearly 74 percent by 2025. Some countries, such as Bahrain, Saudi Arabia and the United Arab Emirates, reach complete saturation, close to 100 percent of their populations. Other lines remain far lower, showing a persistent digital divide between richer and poorer countries. The main pattern is rapid, near-universal growth, especially after 2005.",
+      "source": "ourworldindata.org",
+      "word_count": 120
+    },
+    {
+      "id": "di-owid-05",
+      "topic": "Global Primary Energy",
+      "image": "global-primary-energy",
+      "title": "Global primary energy consumption by source",
+      "alt": "Stacked area chart of global primary energy consumption by source, with fossil fuels still the majority while solar and wind grow quickly after 2010.",
+      "text": "This stacked area chart shows global primary energy consumption by source, measured in terawatt-hours. Fossil fuels remain the majority: oil rose from about 43,000 terawatt-hours in 2000 to roughly 56,000, coal from 27,000 to 46,000, and gas from 24,000 to almost 42,000. Traditional biomass is the only source to fall, from about 12,500 to 11,000. Low-carbon sources grew fast but from a small base: solar went from almost nothing in 2000 to about 2,800 terawatt-hours, wind to 2,700, and hydropower from 2,600 to 4,500. Nuclear grew only slightly, from 7,800 to 8,600. The chart shows total energy use expanding strongly, with renewables rising quickly yet still supplying a small share of the total.",
+      "source": "ourworldindata.org",
+      "word_count": 120
+    },
+    {
+      "id": "di-owid-06",
+      "topic": "Measles Vaccination",
+      "image": "share-of-children-vaccinated-against-measles",
+      "title": "Share of children vaccinated against measles, first dose, 1980 to 2024",
+      "alt": "Line chart of the share of one-year-olds vaccinated against measles by country from 1980 to 2024; the world line rises from 16 percent in 1980 to 84 percent in 2024.",
+      "text": "This line chart shows the share of one-year-old children who received their first dose of the measles vaccine, by country, from 1980 to 2024. In 1980, only about 16 percent of children worldwide were vaccinated. The world line rises sharply through the 1980s and 1990s, reaching about 73 percent by 1990 and continuing upward, with a global coverage of 84 percent in 2024. Most national lines climb steeply after their vaccination programmes start, and many countries sit above 90 percent today. However, a visible gap remains: some lines stay much lower, well below the levels needed for herd immunity, which is around 95 percent. The chart shows one of the largest public health achievements of recent decades, with coverage still incomplete.",
+      "source": "ourworldindata.org",
+      "word_count": 130
+    }
+  ]
+}

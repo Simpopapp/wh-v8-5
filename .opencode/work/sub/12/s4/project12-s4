@@ -1,0 +1,13 @@
+# project12-s4 — Progresso + Vocabulário (S4)
+
+## Recorte (do PRD central §7.5/§7.6)
+`/progress` (progress.tsx) e `/vocabulary` (vocabulary.tsx).
+
+## O quê
+- Progresso: resumo prioritário no topo (prontidão, estimativa, meta como números-herói tabulares via StatHero); análises secundárias progressivas abaixo; títulos de bloco com hierarquia real; gráficos com a paleta nova (chart-1..5); tabela a 390px sem rolagem horizontal; empty state com CTA contextual.
+- Vocabulário: demarcar visualmente explorar × estudar (modo revisão com composição própria de foco); filtros com alvos ≥44px; item de vocabulário editorial (palavra serif + tradução, pills de origem/tipo); estados: vazio (convite + explicação), sessão concluída com celebração contida.
+- Ambas: PageHeader novo, protagonista único por tela, alvos ≥44px, 390×844 sem overflow.
+
+## Como (restrição)
+- Nenhuma lógica de dados, métrica, cálculo de estimativa, revisão SRS ou vocabulário muda (D5). Só apresentação/composição.
+- Zero regressão: fluxo traduzir→vocabulário→estudar→origem intacto; gates completos (vitest/tsgo/build/lint) + Playwright em /progress e /vocabulary (axe 0, 390×844, console limpo).

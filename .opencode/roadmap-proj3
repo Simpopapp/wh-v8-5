@@ -1,0 +1,56 @@
+# Roadmap — projeto 3 (meta, plano de estudo e prontidão)
+
+Fonte: `.opencode/prd-project3.md` (← `.opencode/project3`). Gates por fase: vitest verde ·
+tsgo limpo · build OK · preview :8080 verificado (Playwright nas rotas tocadas).
+
+- [x] Fase 0 (P0) — Gate de fonte da Fase 5 (pesquisa, roda em paralelo)
+  - [x] Varredura online por fontes de Describe Image / Write Essay / Re-order / Reading FIB
+  - [x] Veredito registrado (§4.1 do PRD): fontes aprovadas/reprovadas + contagens
+  - Gates: veredito documentado (a fase 5 só executa se houver fonte aprovada) ✅
+    (URLs confirmadas no ar com respostas: GoArno Re-order 50 · GoArno FIB dropdown 50 ·
+    Band9PTE essays 38 · TypoGrammar DI 100 · Gurully DI 50 — todos APROVADOS)
+- [x] Fase 1 (P0) — Meta do usuário
+  - [x] Settings v4 (examDate, targetScore) + normalização + migração v3→v4 + backup v4
+  - [x] src/lib/pte/goal.ts (daysUntil, targetVerdict, countdownLabel) + testes
+  - [x] /settings: seção "Prova" (data + alvo 50/58/65/79); home: countdown + alvo
+  - Gates: vitest · tsgo · build · preview /settings + home verificados ✅ (147/147)
+- [x] Fase 2 (P0) — Índice de prontidão
+  - [x] src/lib/pte/readiness.ts (readinessBySection, weakestSection) + testes
+  - [x] /progress: seção "Prontidão" (4 barras, legenda do cálculo, seção fraca destacada)
+  - [x] Home: chip de prontidão por card de seção + link para /progress
+  - Gates: vitest · tsgo · build · preview /progress + home verificados ✅ (147/147, sem erros de console)
+- [x] Fase 3 (P1) — Plano do dia
+  - [x] src/lib/pte/studyPlan.ts (EXAM_WEIGHTS 30/30/20/20, buildDailyPlan, planSummary) + testes (14)
+  - [x] Home: card "Plano de hoje" + "Iniciar plano" (startMixedSession com counts)
+  - [x] /session: entrada "Plano de hoje (N)"
+  - Gates: vitest 161/161 · tsgo limpo · build OK · lint src 0 erros · preview home +
+    /session verificados (Playwright: card, resumo, Iniciar plano → sessão em andamento)
+- [x] Fase 4 (P1) — Relatório semanal
+  - [x] src/lib/pte/report.ts (weeklyReport, renderReportMarkdown/Json) + testes (10)
+  - [x] /progress: seção "Relatório semanal" (preview colapsado, copiar com fallback,
+    baixar .md e .json) — envelope de backup inalterado (D4)
+  - Gates: vitest 171/171 · tsgo limpo · build OK · lint 0 erros · preview /progress
+    verificado (Playwright: preview renderiza, clipboard recebe o markdown,
+    downloads .md/.json OK, 0 erros de console)
+- [ ] Fase 5 (P2) — Novos task types (DESBLOQUEADA pela Fase 0: fontes aprovadas)
+  - [x] Gate de dedupe + normalização dos bancos aprovados (contra os ids/conteúdos existentes)
+  - [x] 3 de 4 tipos integrados (138 questões): write_essay 38 (band9pte.com.au),
+    reorder_paragraphs 50 (goarno.io), read_fib 50 (goarno.io) — motores próprios
+    (WriteEssayPractice 20:00 · ReorderPractice pares adjacentes · FibDropdownPractice
+    dropdowns inline), correção pura (essay.ts, reorder.ts, fibDropdown.ts), dispatcher
+    /practice, EXAM_PLAN/EXAM_SECONDS e widgets de simulado (Essay/Reorder/FibDropdown
+    ExamWidget), home/seções atualizadas
+  - [x] Describe Image: BLOQUEADO — TypoGrammar exige e-mail para download; PDF da Gurully
+    tem ~10 imagens reais (não 50). Não passa no gate de fonte executável; registrado como
+    bloqueio externo (alternativa: itens originais próprios em rodada futura)
+  - [ ] Offline E2E dos novos motores (sw.js v2 já cobre /assets/*)
+  - [x] E2E do simulado: bloco Reading completo percorrido por Playwright — Reorder widget
+    (Q4), FIB dropdown (Q5–6), resumo final; 0 erros de página
+  - Gates: vitest 181/181 (10 testes novos de essay/reorder/fibDropdown) · tsgo limpo ·
+    build OK · lint 0 erros · manifesto 2.164 questões · preview /practice dos 3 novos
+    tipos verificado (motores renderizam, 0 erros de console)
+  - [ ] Offline E2E dos novos motores (sw.js v2 já cobre /assets/*) — pendente
+    (roda junto com o E2E offline de fechamento do projeto)
+
+Regras: 100% localStorage; backup JSON é o envelope (v4 aceita v2/v3); TTS Web Speech;
+nenhuma dependência nova; funções puras em src/lib com testes antes da UI.

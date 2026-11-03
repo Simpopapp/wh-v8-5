@@ -1,0 +1,17 @@
+# PRD — S1 Superfícies de prática (projeto 12, PRD central §7.2)
+
+## Diagnóstico a confirmar
+- Cada motor de prática (`src/components/practice/*`) importa `TopNav` sozinho → 17 cópias do shell.
+- `SectionPage.tsx`: header sem identidade de seção (kicker = label, título = description), cards de task type sem ícone, filtros `<select>` nativos com alvos de 38px, empty state sem CTA desenhado.
+- `QuestionRow.tsx`: linha ok mas sem ícone do tipo, pills de 11px densos, prévia preservada.
+
+## Escopo por superfície
+1. **`PracticeShell`** (novo, `src/components/practice/PracticeShell.tsx`): estrutura TopNav + PageHeader (kicker = label do tipo, título = instrução curta) + slot de corpo + slot de rodapé de ação; largura `max-w-2xl` regra do PageHeader; skeleton de altura estável no fallback do Suspense.
+2. **Motores**: trocar a montagem própria (TopNav + contêiner + título) por PracticeShell; nada de lógica (temporizador, gravação, correção) muda. MicNotice com contraste/estado; WriteEssay/Swt com faixa de contagem junto ao campo.
+3. **SectionPage**: PageHeader (kicker = seção, título = description), SectionIcon nos cards de task type (cor da seção), progresso por card, filtros como controles ≥44px (search + selects mantêm comportamento; estiliza), EmptyState com CTA "Limpar filtros", tokens do design system.
+4. **QuestionRow**: ícone do tipo (SectionIcon sm), pills de estado com cor semântica (success/warning/destructive), alvos ≥44px no ★, prévia serif preservada.
+
+## Critérios de aceite
+- Gates: vitest verde · tsgo · build · lint 0 erros · Playwright nas rotas tocadas (axe 0, 390×844 sem overflow, console limpo).
+- Comportamento idêntico (filtros, stats, bookmark, navegação); nenhum teste de asserção muda (só seletor, se markup exigir — D9).
+- Nenhum motor com cara "default shadcn"; ícones lucide; tokens --section-*.

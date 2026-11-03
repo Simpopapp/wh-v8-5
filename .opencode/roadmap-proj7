@@ -1,0 +1,58 @@
+# Roadmap — projeto 7 (corrigir o erro lógico do áudio do pack "studie-plus")
+
+Fonte: `.opencode/prd-project7.md` (← `.opencode/project7`). Gates por fase: vitest
+verde · tsgo limpo · build OK · lint 0 erros (8 warnings preexistentes) · preview
+:8080 (Playwright). Pack 100% off por padrão; zero fala pt-BR no pack; áudio =
+pronúncia do inglês original, independente dos toggles de tradução.
+
+- [x] Fase 0 (P0) — Mapeamento e leitura ✅ (executada na preparação do PRD em 10/10/2026)
+  - [x] Leitura: project7.md, project6.md, roadmap-proj6, prd-project6 (padrões)
+  - [x] rg completo: único ponto do erro = PlusPhraseCard.tsx (ptVoice +
+        PlusSpeakButton lang="pt-BR" "ouvir tradução"); docs de dados OK
+  - [x] Inventário de call sites: PlusPhraseCard (ReadAloud, Mcq, Reorder,
+        FibDropdown, Wfd) · PlusWordText (ReadAloud, Mcq, Reorder, FibDropdown,
+        Swt, Sst, WriteEssay) · PlusSpeakButton pack-audio em 11 motores
+- [x] Fase 1 (P0) — Remover o áudio da tradução
+  - [x] PlusPhraseCard.tsx: ptVoice/useEffect/botão "ouvir tradução" removidos
+        (expansão fica só com texto; 🔊 compacto por frase, fora da expansão)
+  - [x] PlusSpeakButton.tsx: doc da regra (nunca fala tradução) + variante
+        compacta 44×44 só-ícone para linhas de frase/palavra
+  - Gates: vitest verde · tsgo limpo · build OK · lint 0 erros
+- [x] Fase 2 (P0) — Áudio de pronúncia independente
+  - [x] PlusPhraseCard: 🔊 por frase ORIGINAL (PlusSpeakButton compact, sem
+        langOverride); prop audioEnabled independente de enabled; modos:
+        só áudio / tradução+áudio / só tradução / nenhum; estado vazio honesto
+  - [x] PlusWordText: prop audioEnabled; balão de pronúncia (só áudio) OU
+        balão de tradução (com 🔊 da palavra em inglês quando ambos)
+  - [x] Motores: audioEnabled passado em ReadAloud, WriteEssay, Swt, Sst,
+        Reorder, Mcq, Wfd, FibDropdown (mudança mecânica de props)
+  - Gates: vitest verde · tsgo limpo · build OK · lint 0 erros
+- [x] Fase 3 (P0) — Testes da regra correta
+  - [x] plus-integration.test.tsx reescrito: 17 testes — balão portallado
+        (regressão), 4 cenários de toggle (só áudio / só tradução / ambos /
+        nenhum), fala observada via stub de speechSynthesis (text = original
+        em inglês, lang nunca pt), varredura de fonte sem "pt-BR"/"ouvir
+        tradução", integridade dos 8 tipos de frases
+  - [x] plus-audio.test.ts matriz nativa intacta (sem alteração necessária)
+  - [x] session-persist.test.ts: timeout 30 s (imports dinâmicos pesados
+        estouravam 5 s sob a suite paralela — flake, não regressão)
+  - Gates: vitest 248/248 · tsgo limpo · build OK · lint 0 erros (8 warnings
+    preexistentes)
+- [x] Fase 4 (P1) — Documentação + auditoria mobile
+  - [x] PLUS_TOGGLES: descrições esclarecem tradução = significado (texto)
+        vs áudio = pronúncia do inglês
+  - [x] AGENTS.md (estado) atualizado; roadmap-proj6/prd-project6 mantidos
+        como histórico (a correção fica registrada neste roadmap)
+  - [x] Playwright 390×844: /settings, /practice read_fib e read_aloud —
+        zero overflow horizontal, zero console errors; card "Pronúncia por
+        frase" e balão de palavra (só áudio e tradução+áudio) verificados
+  - Gates: build OK · preview ✅ · console limpo
+- [x] Fase 5 (P0) — Fechamento
+  - [x] Gates globais completos (vitest 248/248 · tsgo · build · lint ·
+        preview :8080 Playwright)
+  - [x] AGENTS.md: estado atual atualizado
+  - [x] Monitor avisado ("remix finalizado (+5 fases do roadmap-proj7)") e
+        usuário informado
+
+Regras: zero deps de runtime; matriz plusAudio.ts e 11 motores intocados;
+traduções geradas intocadas; app 100% local (localStorage).

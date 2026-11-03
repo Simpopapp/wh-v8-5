@@ -1,0 +1,85 @@
+> ⚠️⚠️⚠️ OBSERVAÇÃO IMPORTANTE ⚠️⚠️⚠️
+> NÃO TESTE NEM USE O OPENCODE PARA ESSA TAREFA (mas rode ele normalmente em background),
+> pois ela exige o máximo potencial agêntico — apenas deixe-o rodando em background
+> para edições futuras após a conclusão completa da tarefa.
+> ⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
+
+# Projeto 1 — PTE Master Hub: plataforma unificada para os 16 tipos de questões
+
+## Contexto
+A base de dados migrou de um único tipo (Read Aloud, 148 questões) para **2.032 questões em 16 task types**,
+organizadas em `.opencode/pte-json/` (um JSON por tipo). O app atual (`src/lib/pte.ts`, rotas `/practice`,
+`/session`, `/progress`, `/settings`) só entende Read Aloud. A missão é transformar o app em uma plataforma
+única e inteligente que cubra Speaking, Writing, Reading e Listening — sem auth, sem nuvem, tudo local
+(localStorage), offline-first.
+
+## Inventário da base (`.opencode/pte-json/`)
+
+| Seção | Task type | Arquivo | Qtd | Interação principal |
+|---|---|---|---|---|
+| Speaking | read_aloud | read_aloud.json | 148 | Texto na tela → prep → gravação → alinhamento LCS |
+| Speaking | repeat_sentence | repeat_sentence.json | 591 | Áudio → repetição imediata → alinhamento exato |
+| Speaking | retell_lecture | retell_lecture.json | 31 | Áudio palestra → prep 10s → 40s de fala → keywords + fluência |
+| Speaking | answer_short | answer_short.json | 8 | Pergunta em áudio → resposta oral curta → matching exato/sinônimos |
+| Writing | swt | swt.json | 29 | Texto longo → 10 min → resumo em frase única (5-75 palavras) |
+| Reading | mcq_single | mcq_single.json | 54 | Leitura → escolha única → feedback de traps |
+| Reading | mcq_multi | mcq_multi.json | 3 | Leitura → múltipla escolha (desconto de erros) |
+| Listening | wfd | wfd.json | 934 | Áudio de frase → digitação exata (+1 por palavra correta) |
+| Listening | lst_fib | lst_fib.json | 96 | Áudio → preenchimento de lacunas inline |
+| Listening | summarize_spoken_text | summarize_spoken_text.json | 115 | Palestra em áudio → 10 min → resumo 50-70 palavras |
+| Listening | lst_hiw | lst_hiw.json | 3 | Áudio com discrepâncias → clique nas palavras erradas |
+| Listening | lst_hcs / lst_summary | lst_hcs.json / lst_summary.json | 8+8 | Áudio longo → seleção do melhor resumo |
+| Listening | lst_smw | lst_smw.json | 3 | Áudio com bipe final → seleção da palavra que falta |
+| Listening | lst_mcq | lst_mcq.json | 6 | Áudio → escolha única |
+| Listening | lst_mcq_multi | lst_mcq_multi.json | 3 | Áudio → múltipla escolha |
+
+## Arquitetura: 4 motores modulares + camada de dados unificada
+
+### Camada de dados (`src/lib/pte/`)
+- Módulos tipados por task type que carregam e indexam os JSONs (import estático dos arquivos copiados
+  para `src/data/pte/`), com catálogo unificado: busca por `section`, `task_type`, `topic`, `id`.
+- `Question` vira um tipo discriminado por `task_type` (cada motor recebe o subtipo que entende).
+- `src/lib/storage.ts` estendido: progresso e métricas por tipo (score de alinhamento, WPM, acerto de
+  lacunas, contagem de palavras escritas, saldo líquido de MCQ, tentativas, streaks) — tudo versionado
+  no mesmo envelope de backup JSON.
+
+### Motor A — Voz & Acústica (Speaking): read_aloud, repeat_sentence, retell_lecture, answer_short
+- Timer de preparação adaptativo (RA 35-40s, RS 3s, RL 10s, ASQ 3s) e limites de gravação por tipo.
+- Medidor de nível de mic (AnalyserNode) visível durante prep e gravação.
+- Reconhecimento com sotaques (en-AU padrão, en-US, en-GB) e alinhamento por sequência
+  (hit/missed/substituted/moved + penalidade parcial) — reaproveita `src/lib/scoring.ts`.
+- Replay da própria voz (MediaRecorder em paralelo) no resultado.
+- ASQ: matching contra resposta + sinônimos ("autumn or fall" → aceita qualquer alternativa).
+
+### Motor B — Escrita & Ditado: wfd, swt, summarize_spoken_text
+- WFD: TTS de alta fidelidade com 1 reprodução (modo simulado) + campo de digitação; correção
+  palavra a palavra com normalização (casing/pontuação), +1 por palavra correta, destaque de
+  acertos/omissões/extras.
+- SWT: textarea com contador de palavras (zona 5-75), validador estrito de frase única (1 ponto final
+  terminal), analisador de cobertura de keywords do texto-fonte.
+- SST: cronômetro regressivo de 10:00, contador em tempo real (zona segura 50-70), análise de
+  vocabulário e cobertura semântica contra a transcrição da palestra.
+
+### Motor C — Áudio Interativo & Lacunas: lst_fib, lst_hiw, lst_smw, lst_hcs, lst_summary, lst_mcq, lst_mcq_multi
+- Player de áudio (TTS gerado a partir de `audio_text`/`transcript`) com reprodução única em modo
+  simulado e barra de progresso.
+- FIB: texto com inputs inline nas lacunas, navegação por Tab, correção exata + tolerante a casing.
+- HIW: texto clicável palavra a palavra; clique marca suspeita; pontuação = acertos − falsos (mín. 0).
+- SMW: áudio com bipe terminal + opções de completamento.
+- HCS/Summary/MCQs: cards de opções com justificativa didática e análise de distratores.
+
+### Motor D — Leitura & Compreensão: mcq_single, mcq_multi
+- Passage com tipografia ajustável e modo foco.
+- Rádio (single) ou checkbox (multi) com saldo líquido de pontos (acerto +1, erro −1, mín. 0).
+- Painel explicativo com evidência textual e explicação das armadilhas (traps).
+
+## Hub central e sessões
+- Home vira dashboard por seção (Speaking / Writing / Reading / Listening) com progresso por task type.
+- Modo Sessão estendido: fila híbrida entre tipos (ex.: 5 RA + 10 WFD + 3 FIB), shuffle inteligente
+  (fracas primeiro + menos recentes), barra de progresso e resumo final — generaliza `src/lib/session.ts`.
+- Filtros úteis na lista: seção, task type, tamanho, score, tentativas, nunca-tentadas.
+
+## Restrições permanentes
+- Sem auth, sem multiusuário, sem nuvem — 100% localStorage com export/import de backup.
+- TTS via Web Speech API (sem custo); áudio dos JSONs é sempre texto (`audio_text`/`transcript`).
+- Não editar `routeTree.gen.ts`; gates por fase: vitest + tsc --noEmit + build + preview :8080.

@@ -1,0 +1,1052 @@
+[
+  {
+    "id": "goarno-lst_smw-01",
+    "taskType": "lst_smw",
+    "prompt": "You will hear a recording with the last word or short phrase missing. Select the best completion.",
+    "text": "Many advocates of renewable energy view biofuels as a critical component in the transition away from fossil fuels. Since these fuels are produced from organic material, they are theoretically carbon-neutral. Yet, there is a significant ethical dilemma regarding land use. If expansive tracts of fertile soil are dedicated solely to growing crops for ethanol or biodiesel, there is less land available for sustenance farming. Consequently, economists predict that this shift will cause a sharp increase in ...",
+    "transcript": "Many advocates of renewable energy view biofuels as a critical component in the transition away from fossil fuels. Since these fuels are produced from organic material, they are theoretically carbon-neutral. Yet, there is a significant ethical dilemma regarding land use. If expansive tracts of fertile soil are dedicated solely to growing crops for ethanol or biodiesel, there is less land available for sustenance farming. Consequently, economists predict that this shift will cause a sharp increase in ...",
+    "audio_text": "Many advocates of renewable energy view biofuels as a critical component in the transition away from fossil fuels. Since these fuels are produced from organic material, they are theoretically carbon-neutral. Yet, there is a significant ethical dilemma regarding land use. If expansive tracts of fertile soil are dedicated solely to growing crops for ethanol or biodiesel, there is less land available for sustenance farming. Consequently, economists predict that this shift will cause a sharp increase in ...",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "energy reserves",
+      "food prices",
+      "global temperatures",
+      "farming subsidies"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_smw-02",
+    "taskType": "lst_smw",
+    "prompt": "You will hear a recording with the last word or short phrase missing. Select the best completion.",
+    "text": "In the quest for sustainable alternatives to traditional petrol, biofuels derived from crops have garnered significant attention. Theoretically, they offer a cleaner cycle, absorbing gases during growth to offset what is released during combustion. However, a major ethical concern arises regarding land allocation. Dedicating vast areas of fertile soil to fuel production inevitably reduces the acreage available for crops intended for human consumption. Consequently, experts warn that widespread adoption could jeopardize ...",
+    "transcript": "In the quest for sustainable alternatives to traditional petrol, biofuels derived from crops have garnered significant attention. Theoretically, they offer a cleaner cycle, absorbing gases during growth to offset what is released during combustion. However, a major ethical concern arises regarding land allocation. Dedicating vast areas of fertile soil to fuel production inevitably reduces the acreage available for crops intended for human consumption. Consequently, experts warn that widespread adoption could jeopardize ...",
+    "audio_text": "In the quest for sustainable alternatives to traditional petrol, biofuels derived from crops have garnered significant attention. Theoretically, they offer a cleaner cycle, absorbing gases during growth to offset what is released during combustion. However, a major ethical concern arises regarding land allocation. Dedicating vast areas of fertile soil to fuel production inevitably reduces the acreage available for crops intended for human consumption. Consequently, experts warn that widespread adoption could jeopardize ...",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "heavy industry growth",
+      "global food security",
+      "soil nutrient levels",
+      "water conservation efforts"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_smw-03",
+    "taskType": "lst_smw",
+    "prompt": "You will hear a recording with the last word or short phrase missing. Select the best completion.",
+    "text": "The romantic view of Shakespeare depicts a solitary genius working in isolation to craft his masterpieces. However, the commercial demands of the early modern stage often required a faster output than one person could sustain. By analyzing vocabulary frequency and grammatical quirks, scholars have detected stylistic shifts within individual plays that point to multiple authors. For example, in The Two Noble Kinsmen, the verse style changes abruptly between scenes. This implies that for some of his output, Shakespeare was actually ...",
+    "transcript": "The romantic view of Shakespeare depicts a solitary genius working in isolation to craft his masterpieces. However, the commercial demands of the early modern stage often required a faster output than one person could sustain. By analyzing vocabulary frequency and grammatical quirks, scholars have detected stylistic shifts within individual plays that point to multiple authors. For example, in The Two Noble Kinsmen, the verse style changes abruptly between scenes. This implies that for some of his output, Shakespeare was actually ...",
+    "audio_text": "The romantic view of Shakespeare depicts a solitary genius working in isolation to craft his masterpieces. However, the commercial demands of the early modern stage often required a faster output than one person could sustain. By analyzing vocabulary frequency and grammatical quirks, scholars have detected stylistic shifts within individual plays that point to multiple authors. For example, in The Two Noble Kinsmen, the verse style changes abruptly between scenes. This implies that for some of his output, Shakespeare was actually ...",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "writing in collaboration",
+      "ignoring audience preferences",
+      "struggling to find inspiration",
+      "copying from history books"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_smw-04",
+    "taskType": "lst_smw",
+    "prompt": "You will hear a recording with the last word or short phrase missing. Select the best completion.",
+    "text": "Concrete is the backbone of modern infrastructure, yet it suffers from a fundamental flaw: it cracks under stress. These fissures allow moisture to penetrate and corrode the steel reinforcement, compromising stability. To counter this, researchers have engineered a new type of concrete containing dormant bacteria. When cracks form and water seeps in, the bacteria awaken and generate limestone, sealing the gap. This autonomous repair process means that in the future, our bridges and roads could essentially heal themselves without ...",
+    "transcript": "Concrete is the backbone of modern infrastructure, yet it suffers from a fundamental flaw: it cracks under stress. These fissures allow moisture to penetrate and corrode the steel reinforcement, compromising stability. To counter this, researchers have engineered a new type of concrete containing dormant bacteria. When cracks form and water seeps in, the bacteria awaken and generate limestone, sealing the gap. This autonomous repair process means that in the future, our bridges and roads could essentially heal themselves without ...",
+    "audio_text": "Concrete is the backbone of modern infrastructure, yet it suffers from a fundamental flaw: it cracks under stress. These fissures allow moisture to penetrate and corrode the steel reinforcement, compromising stability. To counter this, researchers have engineered a new type of concrete containing dormant bacteria. When cracks form and water seeps in, the bacteria awaken and generate limestone, sealing the gap. This autonomous repair process means that in the future, our bridges and roads could essentially heal themselves without ...",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "creating waste",
+      "human intervention",
+      "increasing costs",
+      "government oversight"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_smw-05",
+    "taskType": "lst_smw",
+    "prompt": "You will hear a recording with the last word or short phrase missing. Select the best completion.",
+    "text": "One of the most striking aspects of Shakespeare’s stagecraft is the use of verbal scenery. In the open-air playhouses of the time, there were no painted backdrops to indicate a forest or a castle, and no lighting effects to simulate darkness. Consequently, the atmosphere had to be generated entirely through the dialogue. Characters described the environment in vivid detail, prompting the spectators to visualize the surroundings themselves. Thus, the lack of physical sets meant that the world of the play was built not on the wooden boards, but in the ...",
+    "transcript": "One of the most striking aspects of Shakespeare’s stagecraft is the use of verbal scenery. In the open-air playhouses of the time, there were no painted backdrops to indicate a forest or a castle, and no lighting effects to simulate darkness. Consequently, the atmosphere had to be generated entirely through the dialogue. Characters described the environment in vivid detail, prompting the spectators to visualize the surroundings themselves. Thus, the lack of physical sets meant that the world of the play was built not on the wooden boards, but in the ...",
+    "audio_text": "One of the most striking aspects of Shakespeare’s stagecraft is the use of verbal scenery. In the open-air playhouses of the time, there were no painted backdrops to indicate a forest or a castle, and no lighting effects to simulate darkness. Consequently, the atmosphere had to be generated entirely through the dialogue. Characters described the environment in vivid detail, prompting the spectators to visualize the surroundings themselves. Thus, the lack of physical sets meant that the world of the play was built not on the wooden boards, but in the ...",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "printed text of the script",
+      "imagination of the audience",
+      "costumes of the players",
+      "strict rules of the theater"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_smw-06",
+    "taskType": "lst_smw",
+    "prompt": "You will hear a recording with the last word or short phrase missing. Select the best completion.",
+    "text": "When considering the Globe Theatre in Shakespeare's time, we must remember it was an open-air venue without artificial lighting. Performances occurred in broad daylight, and the stage was remarkably bare, lacking the elaborate scenery we see today. This limitation created a specific necessity for the dramatist. If a scene was set in a moonlit garden or a stormy heath, the audience could not rely on lighting effects to tell them so. Therefore, the atmosphere and setting had to be conjured up entirely through ...",
+    "transcript": "When considering the Globe Theatre in Shakespeare's time, we must remember it was an open-air venue without artificial lighting. Performances occurred in broad daylight, and the stage was remarkably bare, lacking the elaborate scenery we see today. This limitation created a specific necessity for the dramatist. If a scene was set in a moonlit garden or a stormy heath, the audience could not rely on lighting effects to tell them so. Therefore, the atmosphere and setting had to be conjured up entirely through ...",
+    "audio_text": "When considering the Globe Theatre in Shakespeare's time, we must remember it was an open-air venue without artificial lighting. Performances occurred in broad daylight, and the stage was remarkably bare, lacking the elaborate scenery we see today. This limitation created a specific necessity for the dramatist. If a scene was set in a moonlit garden or a stormy heath, the audience could not rely on lighting effects to tell them so. Therefore, the atmosphere and setting had to be conjured up entirely through ...",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "visual aids on stage",
+      "the spoken dialogue",
+      "silent physical acting",
+      "elaborate painted backdrops"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_smw-07",
+    "taskType": "lst_smw",
+    "prompt": "You will hear a recording with the last word or short phrase missing. Select the best completion.",
+    "text": "Educational theorists often distinguish between the mechanics of decoding and the ultimate goal of literacy. Initially, a child's mental energy is consumed by translating visual symbols into sounds. As this process becomes effortless and automatic, their cognitive resources are liberated to focus on higher-level meaning. If a reader must consciously pause to decipher every word, the flow is interrupted and the overall meaning is lost. Therefore, fluent decoding is considered a necessary condition for successful ...",
+    "transcript": "Educational theorists often distinguish between the mechanics of decoding and the ultimate goal of literacy. Initially, a child's mental energy is consumed by translating visual symbols into sounds. As this process becomes effortless and automatic, their cognitive resources are liberated to focus on higher-level meaning. If a reader must consciously pause to decipher every word, the flow is interrupted and the overall meaning is lost. Therefore, fluent decoding is considered a necessary condition for successful ...",
+    "audio_text": "Educational theorists often distinguish between the mechanics of decoding and the ultimate goal of literacy. Initially, a child's mental energy is consumed by translating visual symbols into sounds. As this process becomes effortless and automatic, their cognitive resources are liberated to focus on higher-level meaning. If a reader must consciously pause to decipher every word, the flow is interrupted and the overall meaning is lost. Therefore, fluent decoding is considered a necessary condition for successful ...",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "visual design",
+      "reading comprehension",
+      "public speaking",
+      "social interaction"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_smw-08",
+    "taskType": "lst_smw",
+    "prompt": "You will hear a recording with the last word or short phrase missing. Select the best completion.",
+    "text": "Implementing sustainable infrastructure requires balancing energy production with nature conservation. Unlike traditional thermal plants, which have a relatively small physical footprint, green energy installations often cover vast territories to capture diffuse resources. This extensive land use can encroach on wilderness areas, fragmenting habitats and impeding migratory paths. Consequently, biologists warn that without careful siting, the drive for clean energy could inadvertently harm ...",
+    "transcript": "Implementing sustainable infrastructure requires balancing energy production with nature conservation. Unlike traditional thermal plants, which have a relatively small physical footprint, green energy installations often cover vast territories to capture diffuse resources. This extensive land use can encroach on wilderness areas, fragmenting habitats and impeding migratory paths. Consequently, biologists warn that without careful siting, the drive for clean energy could inadvertently harm ...",
+    "audio_text": "Implementing sustainable infrastructure requires balancing energy production with nature conservation. Unlike traditional thermal plants, which have a relatively small physical footprint, green energy installations often cover vast territories to capture diffuse resources. This extensive land use can encroach on wilderness areas, fragmenting habitats and impeding migratory paths. Consequently, biologists warn that without careful siting, the drive for clean energy could inadvertently harm ...",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "economic growth",
+      "local wildlife",
+      "grid reliability",
+      "atmospheric stability"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_smw-09",
+    "taskType": "lst_smw",
+    "prompt": "You will hear a recording with the last word or short phrase missing. Select the best completion.",
+    "text": "Hydroelectric power is widely regarded as a reliable source of renewable energy, offering a consistent output that wind and solar cannot always guarantee. However, the creation of reservoirs for these plants often requires flooding large areas, which can displace communities and destroy wildlife habitats. Furthermore, dams block natural river paths, affecting fish migration. Because of these significant drawbacks, critics emphasize that the benefits of clean energy must be weighed against the potential for ...",
+    "transcript": "Hydroelectric power is widely regarded as a reliable source of renewable energy, offering a consistent output that wind and solar cannot always guarantee. However, the creation of reservoirs for these plants often requires flooding large areas, which can displace communities and destroy wildlife habitats. Furthermore, dams block natural river paths, affecting fish migration. Because of these significant drawbacks, critics emphasize that the benefits of clean energy must be weighed against the potential for ...",
+    "audio_text": "Hydroelectric power is widely regarded as a reliable source of renewable energy, offering a consistent output that wind and solar cannot always guarantee. However, the creation of reservoirs for these plants often requires flooding large areas, which can displace communities and destroy wildlife habitats. Furthermore, dams block natural river paths, affecting fish migration. Because of these significant drawbacks, critics emphasize that the benefits of clean energy must be weighed against the potential for ...",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "increased carbon emissions",
+      "severe ecological damage",
+      "reduced energy reliability",
+      "technological improvement"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_smw-10",
+    "taskType": "lst_smw",
+    "prompt": "You will hear a recording with the last word or short phrase missing. Select the best completion.",
+    "text": "One of the primary criticisms of renewable energy sources, such as wind and solar, is their variable nature. Since electricity production depends on environmental conditions rather than human control, there are periods of surplus and periods of deficit. When production exceeds demand, that excess power is often wasted unless it can be captured for later use. Therefore, a critical component of a modern, sustainable grid is not just generation infrastructure, but efficient systems for ...",
+    "transcript": "One of the primary criticisms of renewable energy sources, such as wind and solar, is their variable nature. Since electricity production depends on environmental conditions rather than human control, there are periods of surplus and periods of deficit. When production exceeds demand, that excess power is often wasted unless it can be captured for later use. Therefore, a critical component of a modern, sustainable grid is not just generation infrastructure, but efficient systems for ...",
+    "audio_text": "One of the primary criticisms of renewable energy sources, such as wind and solar, is their variable nature. Since electricity production depends on environmental conditions rather than human control, there are periods of surplus and periods of deficit. When production exceeds demand, that excess power is often wasted unless it can be captured for later use. Therefore, a critical component of a modern, sustainable grid is not just generation infrastructure, but efficient systems for ...",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "predicting weather",
+      "storing energy",
+      "measuring pollution",
+      "increasing consumption"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_smw-11",
+    "taskType": "lst_smw",
+    "prompt": "You will hear a recording with the last word or short phrase missing. Select the best completion.",
+    "text": "While the push for plant-based fuels offers a promising avenue for reducing our reliance on traditional oil, the scalability of this solution presents a significant challenge. Dedicating millions of hectares to crops intended for engines rather than people places immense pressure on agricultural resources. Economists observe that as farmers switch their focus to these profitable fuel crops, the reduced availability of grain for human consumption inevitably leads to a sharp increase in ...",
+    "transcript": "While the push for plant-based fuels offers a promising avenue for reducing our reliance on traditional oil, the scalability of this solution presents a significant challenge. Dedicating millions of hectares to crops intended for engines rather than people places immense pressure on agricultural resources. Economists observe that as farmers switch their focus to these profitable fuel crops, the reduced availability of grain for human consumption inevitably leads to a sharp increase in ...",
+    "audio_text": "While the push for plant-based fuels offers a promising avenue for reducing our reliance on traditional oil, the scalability of this solution presents a significant challenge. Dedicating millions of hectares to crops intended for engines rather than people places immense pressure on agricultural resources. Economists observe that as farmers switch their focus to these profitable fuel crops, the reduced availability of grain for human consumption inevitably leads to a sharp increase in ...",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "oil imports",
+      "food prices",
+      "farming efficiency",
+      "energy consumption"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_smw-12",
+    "taskType": "lst_smw",
+    "prompt": "You will hear a recording with the last word or short phrase missing. Select the best completion.",
+    "text": "While the transition to renewable energy is crucial, the reliance on biofuels has sparked a heated debate regarding land management. Advocates emphasize that plant-based fuels offer a cleaner alternative to petroleum. Yet, detractors highlight a potential conflict with basic human needs. They warn that if vast amounts of arable land are exclusively dedicated to growing crops for energy production, the reduced supply of grain available for consumption will inevitably drive up ...",
+    "transcript": "While the transition to renewable energy is crucial, the reliance on biofuels has sparked a heated debate regarding land management. Advocates emphasize that plant-based fuels offer a cleaner alternative to petroleum. Yet, detractors highlight a potential conflict with basic human needs. They warn that if vast amounts of arable land are exclusively dedicated to growing crops for energy production, the reduced supply of grain available for consumption will inevitably drive up ...",
+    "audio_text": "While the transition to renewable energy is crucial, the reliance on biofuels has sparked a heated debate regarding land management. Advocates emphasize that plant-based fuels offer a cleaner alternative to petroleum. Yet, detractors highlight a potential conflict with basic human needs. They warn that if vast amounts of arable land are exclusively dedicated to growing crops for energy production, the reduced supply of grain available for consumption will inevitably drive up ...",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "carbon emissions",
+      "food prices",
+      "fuel supplies",
+      "crop diversity"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_smw-13",
+    "taskType": "lst_smw",
+    "prompt": "You will hear a recording with the last word or short phrase missing. Select the best completion.",
+    "text": "Although the transition to sustainable infrastructure is vital, it often generates friction regarding land use. Large-scale developments, such as bioenergy crops, occupy vast territories, which can fragment sensitive habitats and disrupt wildlife corridors. Planners must therefore balance the urgent need for clean power with the preservation of local biodiversity. Experts warn that focusing solely on emissions might solve one environmental problem while creating ...",
+    "transcript": "Although the transition to sustainable infrastructure is vital, it often generates friction regarding land use. Large-scale developments, such as bioenergy crops, occupy vast territories, which can fragment sensitive habitats and disrupt wildlife corridors. Planners must therefore balance the urgent need for clean power with the preservation of local biodiversity. Experts warn that focusing solely on emissions might solve one environmental problem while creating ...",
+    "audio_text": "Although the transition to sustainable infrastructure is vital, it often generates friction regarding land use. Large-scale developments, such as bioenergy crops, occupy vast territories, which can fragment sensitive habitats and disrupt wildlife corridors. Planners must therefore balance the urgent need for clean power with the preservation of local biodiversity. Experts warn that focusing solely on emissions might solve one environmental problem while creating ...",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "a surplus",
+      "another",
+      "efficiency",
+      "the demand"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_smw-14",
+    "taskType": "lst_smw",
+    "prompt": "You will hear a recording with the last word or short phrase missing. Select the best completion.",
+    "text": "One of the most enduring legacies of Shakespeare is his expansion of the English vocabulary. He is credited with introducing hundreds of words we use today, from 'addiction' to 'swagger'. This linguistic creativity was likely born of necessity. The existing lexicon of the Elizabethan era was often too limited to convey the subtle psychological shifts of his characters. He required a language that was as flexible and complex as the human mind. So, when the standard vocabulary fell short of his needs, he ...",
+    "transcript": "One of the most enduring legacies of Shakespeare is his expansion of the English vocabulary. He is credited with introducing hundreds of words we use today, from 'addiction' to 'swagger'. This linguistic creativity was likely born of necessity. The existing lexicon of the Elizabethan era was often too limited to convey the subtle psychological shifts of his characters. He required a language that was as flexible and complex as the human mind. So, when the standard vocabulary fell short of his needs, he ...",
+    "audio_text": "One of the most enduring legacies of Shakespeare is his expansion of the English vocabulary. He is credited with introducing hundreds of words we use today, from 'addiction' to 'swagger'. This linguistic creativity was likely born of necessity. The existing lexicon of the Elizabethan era was often too limited to convey the subtle psychological shifts of his characters. He required a language that was as flexible and complex as the human mind. So, when the standard vocabulary fell short of his needs, he ...",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "returned to historical sources",
+      "simply coined a new term",
+      "simplified the dramatic action",
+      "abandoned the English language"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_smw-15",
+    "taskType": "lst_smw",
+    "prompt": "You will hear a recording with the last word or short phrase missing. Select the best completion.",
+    "text": "In the context of ancient Greek tragedy, the Chorus served a function that is quite distinct from modern supporting roles. They were not simply bystanders but operated as a collective voice, reacting to the unfolding drama with chants and dance. While the protagonists on stage were often driven by personal ambition or blindness, the Chorus stood apart to interpret these events for the audience. Essentially, they represented the social norms and ethical values of the ...",
+    "transcript": "In the context of ancient Greek tragedy, the Chorus served a function that is quite distinct from modern supporting roles. They were not simply bystanders but operated as a collective voice, reacting to the unfolding drama with chants and dance. While the protagonists on stage were often driven by personal ambition or blindness, the Chorus stood apart to interpret these events for the audience. Essentially, they represented the social norms and ethical values of the ...",
+    "audio_text": "In the context of ancient Greek tragedy, the Chorus served a function that is quite distinct from modern supporting roles. They were not simply bystanders but operated as a collective voice, reacting to the unfolding drama with chants and dance. While the protagonists on stage were often driven by personal ambition or blindness, the Chorus stood apart to interpret these events for the audience. Essentially, they represented the social norms and ethical values of the ...",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "wider community",
+      "tragic hero",
+      "private individual",
+      "foreign enemy"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_smw-16",
+    "taskType": "lst_smw",
+    "prompt": "You will hear a recording with the last word or short phrase missing. Select the best completion.",
+    "text": "There is a growing enthusiasm for biodegradable plastics as a solution to global waste. However, a significant misunderstanding exists regarding how these materials actually function. Most bioplastics require high temperatures found only in industrial composting facilities to break down effectively. When they are discarded in cold seawater or buried in standard landfills without oxygen, the degradation process stalls completely. In these environments, rather than vanishing harmlessly, these eco-friendly substitutes remain intact and pose the same long-term ecological risks as the conventional petroleum-based products they were designed to ...",
+    "transcript": "There is a growing enthusiasm for biodegradable plastics as a solution to global waste. However, a significant misunderstanding exists regarding how these materials actually function. Most bioplastics require high temperatures found only in industrial composting facilities to break down effectively. When they are discarded in cold seawater or buried in standard landfills without oxygen, the degradation process stalls completely. In these environments, rather than vanishing harmlessly, these eco-friendly substitutes remain intact and pose the same long-term ecological risks as the conventional petroleum-based products they were designed to ...",
+    "audio_text": "There is a growing enthusiasm for biodegradable plastics as a solution to global waste. However, a significant misunderstanding exists regarding how these materials actually function. Most bioplastics require high temperatures found only in industrial composting facilities to break down effectively. When they are discarded in cold seawater or buried in standard landfills without oxygen, the degradation process stalls completely. In these environments, rather than vanishing harmlessly, these eco-friendly substitutes remain intact and pose the same long-term ecological risks as the conventional petroleum-based products they were designed to ...",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "preserve",
+      "replace",
+      "manufacture",
+      "recycle"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_smw-17",
+    "taskType": "lst_smw",
+    "prompt": "You will hear a recording with the last word or short phrase missing. Select the best completion.",
+    "text": "Modern stylistic analysis has forced scholars to rethink the romantic notion of the singular playwright. By feeding texts into algorithms that detect the frequency of function words, researchers have identified shifts in style within a single play that point to multiple authors. For instance, parts of Macbeth show the fingerprints of Thomas Middleton. This suggests that for the King's Men company, playwriting was often treated not as a private act, but as a ...",
+    "transcript": "Modern stylistic analysis has forced scholars to rethink the romantic notion of the singular playwright. By feeding texts into algorithms that detect the frequency of function words, researchers have identified shifts in style within a single play that point to multiple authors. For instance, parts of Macbeth show the fingerprints of Thomas Middleton. This suggests that for the King's Men company, playwriting was often treated not as a private act, but as a ...",
+    "audio_text": "Modern stylistic analysis has forced scholars to rethink the romantic notion of the singular playwright. By feeding texts into algorithms that detect the frequency of function words, researchers have identified shifts in style within a single play that point to multiple authors. For instance, parts of Macbeth show the fingerprints of Thomas Middleton. This suggests that for the King's Men company, playwriting was often treated not as a private act, but as a ...",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "purely theoretical exercise",
+      "shared collaborative enterprise",
+      "form of political protest",
+      "solitary creative struggle"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_smw-18",
+    "taskType": "lst_smw",
+    "prompt": "You will hear a recording with the last word or short phrase missing. Select the best completion.",
+    "text": "Literary critics have often found themselves at odds when defining Shakespeare's 'problem plays,' works that sit uncomfortably between tragedy and comedy. In plays like Measure for Measure, the tone shifts rapidly from dark psychological drama to farce, leaving the audience disoriented. Unlike the comedies, which typically restore social order through marriage, these plays offer conclusions that feel artificial or forced. The play doesn't resolve the conflict so much as simply stop it. By refusing to provide a neat ending, Shakespeare compels us to acknowledge that in the real world, complex moral issues rarely have ...",
+    "transcript": "Literary critics have often found themselves at odds when defining Shakespeare's 'problem plays,' works that sit uncomfortably between tragedy and comedy. In plays like Measure for Measure, the tone shifts rapidly from dark psychological drama to farce, leaving the audience disoriented. Unlike the comedies, which typically restore social order through marriage, these plays offer conclusions that feel artificial or forced. The play doesn't resolve the conflict so much as simply stop it. By refusing to provide a neat ending, Shakespeare compels us to acknowledge that in the real world, complex moral issues rarely have ...",
+    "audio_text": "Literary critics have often found themselves at odds when defining Shakespeare's 'problem plays,' works that sit uncomfortably between tragedy and comedy. In plays like Measure for Measure, the tone shifts rapidly from dark psychological drama to farce, leaving the audience disoriented. Unlike the comedies, which typically restore social order through marriage, these plays offer conclusions that feel artificial or forced. The play doesn't resolve the conflict so much as simply stop it. By refusing to provide a neat ending, Shakespeare compels us to acknowledge that in the real world, complex moral issues rarely have ...",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "dramatic tension",
+      "simple resolutions",
+      "political bias",
+      "audience appeal"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_smw-19",
+    "taskType": "lst_smw",
+    "prompt": "You will hear a recording with the last word or short phrase missing. Select the best completion.",
+    "text": "As freshwater scarcity becomes a pressing global concern, desalination technology is increasingly viewed as a vital solution for arid coastal regions. By removing salt from seawater, nations can secure a reliable water supply independent of rainfall. However, the process is not without environmental costs. It produces a highly concentrated brine byproduct, which, if released directly back into the ocean, can severely damage local ...",
+    "transcript": "As freshwater scarcity becomes a pressing global concern, desalination technology is increasingly viewed as a vital solution for arid coastal regions. By removing salt from seawater, nations can secure a reliable water supply independent of rainfall. However, the process is not without environmental costs. It produces a highly concentrated brine byproduct, which, if released directly back into the ocean, can severely damage local ...",
+    "audio_text": "As freshwater scarcity becomes a pressing global concern, desalination technology is increasingly viewed as a vital solution for arid coastal regions. By removing salt from seawater, nations can secure a reliable water supply independent of rainfall. However, the process is not without environmental costs. It produces a highly concentrated brine byproduct, which, if released directly back into the ocean, can severely damage local ...",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "weather patterns",
+      "marine ecosystems",
+      "energy grids",
+      "industrial outputs"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_smw-20",
+    "taskType": "lst_smw",
+    "prompt": "You will hear a recording with the last word or short phrase missing. Select the best completion.",
+    "text": "In analyzing Elizabethan plays, we often categorize dialogue based on social status: verse for kings and prose for clowns. However, this distinction is far from rigid. Shakespeare, for instance, frequently disrupts this convention to signal psychological shifts. When a noble character switches suddenly from the rhythmic structure of verse to the jagged, unstructured sentences of prose, it is not a demotion in status. Rather, it signifies a fracturing of the mind. The rigid constraints of poetry can no longer hold the raw intensity of their ...",
+    "transcript": "In analyzing Elizabethan plays, we often categorize dialogue based on social status: verse for kings and prose for clowns. However, this distinction is far from rigid. Shakespeare, for instance, frequently disrupts this convention to signal psychological shifts. When a noble character switches suddenly from the rhythmic structure of verse to the jagged, unstructured sentences of prose, it is not a demotion in status. Rather, it signifies a fracturing of the mind. The rigid constraints of poetry can no longer hold the raw intensity of their ...",
+    "audio_text": "In analyzing Elizabethan plays, we often categorize dialogue based on social status: verse for kings and prose for clowns. However, this distinction is far from rigid. Shakespeare, for instance, frequently disrupts this convention to signal psychological shifts. When a noble character switches suddenly from the rhythmic structure of verse to the jagged, unstructured sentences of prose, it is not a demotion in status. Rather, it signifies a fracturing of the mind. The rigid constraints of poetry can no longer hold the raw intensity of their ...",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "social interactions",
+      "emotional turmoil",
+      "comedic scenes",
+      "historical context"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_smw-21",
+    "taskType": "lst_smw",
+    "prompt": "You will hear a recording with the last word or short phrase missing. Select the best completion.",
+    "text": "During Shakespeare's career, outbreaks of the plague frequently forced London's theaters to close, sometimes for over a year. With the stage unavailable, Shakespeare could not rely on the box office and instead turned his hand to narrative poetry. Works like Venus and Adonis were composed during these hiatuses, designed for the printing press rather than the stage. This transition fundamentally altered the consumption of his art, shifting it from a communal event to the experience of an ...",
+    "transcript": "During Shakespeare's career, outbreaks of the plague frequently forced London's theaters to close, sometimes for over a year. With the stage unavailable, Shakespeare could not rely on the box office and instead turned his hand to narrative poetry. Works like Venus and Adonis were composed during these hiatuses, designed for the printing press rather than the stage. This transition fundamentally altered the consumption of his art, shifting it from a communal event to the experience of an ...",
+    "audio_text": "During Shakespeare's career, outbreaks of the plague frequently forced London's theaters to close, sometimes for over a year. With the stage unavailable, Shakespeare could not rely on the box office and instead turned his hand to narrative poetry. Works like Venus and Adonis were composed during these hiatuses, designed for the printing press rather than the stage. This transition fundamentally altered the consumption of his art, shifting it from a communal event to the experience of an ...",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "acting troupe",
+      "individual reader",
+      "illiterate public",
+      "overseas market"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_smw-22",
+    "taskType": "lst_smw",
+    "prompt": "You will hear a recording with the last word or short phrase missing. Select the best completion.",
+    "text": "Concrete is susceptible to cracking over time, allowing moisture to reach and corrode the steel reinforcement bars within. To address this vulnerability, material scientists have developed a form of self-healing concrete containing dormant bacteria. Upon contact with infiltrating water, these microorganisms produce limestone, effectively sealing the cracks from the inside. This biological innovation reduces the need for external maintenance and significantly increases the ...",
+    "transcript": "Concrete is susceptible to cracking over time, allowing moisture to reach and corrode the steel reinforcement bars within. To address this vulnerability, material scientists have developed a form of self-healing concrete containing dormant bacteria. Upon contact with infiltrating water, these microorganisms produce limestone, effectively sealing the cracks from the inside. This biological innovation reduces the need for external maintenance and significantly increases the ...",
+    "audio_text": "Concrete is susceptible to cracking over time, allowing moisture to reach and corrode the steel reinforcement bars within. To address this vulnerability, material scientists have developed a form of self-healing concrete containing dormant bacteria. Upon contact with infiltrating water, these microorganisms produce limestone, effectively sealing the cracks from the inside. This biological innovation reduces the need for external maintenance and significantly increases the ...",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "amount of reinforcement",
+      "structure's service life",
+      "architectural complexity",
+      "risk of fracture"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_smw-23",
+    "taskType": "lst_smw",
+    "prompt": "You will hear a recording with the last word or short phrase missing. Select the best completion.",
+    "text": "A significant challenge facing the renewable energy sector is the issue of intermittency. Unlike traditional power plants that run continuously, wind and solar sources depend entirely on fluctuating weather patterns, often leading to gaps in supply. Consequently, the industry is prioritizing the development of high-capacity storage systems. Experts warn that without efficient batteries to bridge these gaps, the prospect of a completely green power grid will ...",
+    "transcript": "A significant challenge facing the renewable energy sector is the issue of intermittency. Unlike traditional power plants that run continuously, wind and solar sources depend entirely on fluctuating weather patterns, often leading to gaps in supply. Consequently, the industry is prioritizing the development of high-capacity storage systems. Experts warn that without efficient batteries to bridge these gaps, the prospect of a completely green power grid will ...",
+    "audio_text": "A significant challenge facing the renewable energy sector is the issue of intermittency. Unlike traditional power plants that run continuously, wind and solar sources depend entirely on fluctuating weather patterns, often leading to gaps in supply. Consequently, the industry is prioritizing the development of high-capacity storage systems. Experts warn that without efficient batteries to bridge these gaps, the prospect of a completely green power grid will ...",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "become a reality",
+      "remain out of reach",
+      "increase efficiency",
+      "harm the environment"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_smw-24",
+    "taskType": "lst_smw",
+    "prompt": "You will hear a recording with the last word or short phrase missing. Select the best completion.",
+    "text": "As the global push for green technology accelerates, particularly within the electric vehicle sector, there is a growing concern regarding the supply chain for essential components. Most modern batteries rely heavily on lithium and cobalt, minerals that are difficult to extract and geographically concentrated. This creates significant vulnerability for manufacturers. To prevent future production bottlenecks, scientists are actively experimenting with sodium and other abundant materials to minimize reliance on these ...",
+    "transcript": "As the global push for green technology accelerates, particularly within the electric vehicle sector, there is a growing concern regarding the supply chain for essential components. Most modern batteries rely heavily on lithium and cobalt, minerals that are difficult to extract and geographically concentrated. This creates significant vulnerability for manufacturers. To prevent future production bottlenecks, scientists are actively experimenting with sodium and other abundant materials to minimize reliance on these ...",
+    "audio_text": "As the global push for green technology accelerates, particularly within the electric vehicle sector, there is a growing concern regarding the supply chain for essential components. Most modern batteries rely heavily on lithium and cobalt, minerals that are difficult to extract and geographically concentrated. This creates significant vulnerability for manufacturers. To prevent future production bottlenecks, scientists are actively experimenting with sodium and other abundant materials to minimize reliance on these ...",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "fossil fuels",
+      "scarce resources",
+      "complex systems",
+      "green initiatives"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_smw-25",
+    "taskType": "lst_smw",
+    "prompt": "You will hear a recording with the last word or short phrase missing. Select the best completion.",
+    "text": "For a long time, sustainable architecture prioritized reducing operational energy, specifically the power needed for heating and lighting. Yet, as modern structures become increasingly efficient in their daily use, the relative importance of embodied energy has grown. This term describes the energy consumed during the extraction, processing, and delivery of construction components. Experts warn that even a net-zero energy building can be environmentally damaging if we fail to account for the emissions released during ...",
+    "transcript": "For a long time, sustainable architecture prioritized reducing operational energy, specifically the power needed for heating and lighting. Yet, as modern structures become increasingly efficient in their daily use, the relative importance of embodied energy has grown. This term describes the energy consumed during the extraction, processing, and delivery of construction components. Experts warn that even a net-zero energy building can be environmentally damaging if we fail to account for the emissions released during ...",
+    "audio_text": "For a long time, sustainable architecture prioritized reducing operational energy, specifically the power needed for heating and lighting. Yet, as modern structures become increasingly efficient in their daily use, the relative importance of embodied energy has grown. This term describes the energy consumed during the extraction, processing, and delivery of construction components. Experts warn that even a net-zero energy building can be environmentally damaging if we fail to account for the emissions released during ...",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "daily operation",
+      "material production",
+      "waste management",
+      "urban expansion"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_smw-26",
+    "taskType": "lst_smw",
+    "prompt": "You will hear a recording with the last word or short phrase missing. Select the best completion.",
+    "text": "Concrete is ubiquitous in modern infrastructure, yet it suffers from a significant flaw: it is prone to cracking. Once fractures appear, water can penetrate the surface and corrode the internal steel reinforcement, eventually leading to failure. To address this, engineers have created self-healing concrete containing dormant bacteria. When cracks form and moisture enters, these bacteria activate to produce limestone, sealing the damage. This process preserves the structure's strength and significantly extends its ...",
+    "transcript": "Concrete is ubiquitous in modern infrastructure, yet it suffers from a significant flaw: it is prone to cracking. Once fractures appear, water can penetrate the surface and corrode the internal steel reinforcement, eventually leading to failure. To address this, engineers have created self-healing concrete containing dormant bacteria. When cracks form and moisture enters, these bacteria activate to produce limestone, sealing the damage. This process preserves the structure's strength and significantly extends its ...",
+    "audio_text": "Concrete is ubiquitous in modern infrastructure, yet it suffers from a significant flaw: it is prone to cracking. Once fractures appear, water can penetrate the surface and corrode the internal steel reinforcement, eventually leading to failure. To address this, engineers have created self-healing concrete containing dormant bacteria. When cracks form and moisture enters, these bacteria activate to produce limestone, sealing the damage. This process preserves the structure's strength and significantly extends its ...",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "susceptibility to damage",
+      "functional lifespan",
+      "aesthetic limitations",
+      "negative environmental impact"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_smw-27",
+    "taskType": "lst_smw",
+    "prompt": "You will hear a recording with the last word or short phrase missing. Select the best completion.",
+    "text": "In modern cinema, a director can use filters and CGI to set a mood instantly. But for Shakespeare, working in an open-air theatre in broad daylight, creating atmosphere was a distinct challenge. He could not simply dim the lights to signal the onset of night or a spooky occurrence. Instead, he had to embed these cues directly into the dialogue. When a character remarks on the bitter cold or the encroaching darkness, they are literally painting the scene for the audience. Thus, the rich imagery in these plays serves a practical purpose, filling the void left by the absence of ...",
+    "transcript": "In modern cinema, a director can use filters and CGI to set a mood instantly. But for Shakespeare, working in an open-air theatre in broad daylight, creating atmosphere was a distinct challenge. He could not simply dim the lights to signal the onset of night or a spooky occurrence. Instead, he had to embed these cues directly into the dialogue. When a character remarks on the bitter cold or the encroaching darkness, they are literally painting the scene for the audience. Thus, the rich imagery in these plays serves a practical purpose, filling the void left by the absence of ...",
+    "audio_text": "In modern cinema, a director can use filters and CGI to set a mood instantly. But for Shakespeare, working in an open-air theatre in broad daylight, creating atmosphere was a distinct challenge. He could not simply dim the lights to signal the onset of night or a spooky occurrence. Instead, he had to embed these cues directly into the dialogue. When a character remarks on the bitter cold or the encroaching darkness, they are literally painting the scene for the audience. Thus, the rich imagery in these plays serves a practical purpose, filling the void left by the absence of ...",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "scenery and lighting",
+      "historical accuracy",
+      "talented actors",
+      "complex storylines"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_smw-28",
+    "taskType": "lst_smw",
+    "prompt": "You will hear a recording with the last word or short phrase missing. Select the best completion.",
+    "text": "Scholars of tragedy frequently analyze the tragic flaw, or hamartia, which dictates that a hero's downfall must stem from a personal error or trait, not external forces. For instance, it is not the world that destroys Macbeth, but his own ambition. This distinction is crucial; if a protagonist is crushed solely by accident, the audience feels only shock, not the catharsis of tragedy. Therefore, the narrative structure ensures that the hero's ultimate fate is a reflection of his ...",
+    "transcript": "Scholars of tragedy frequently analyze the tragic flaw, or hamartia, which dictates that a hero's downfall must stem from a personal error or trait, not external forces. For instance, it is not the world that destroys Macbeth, but his own ambition. This distinction is crucial; if a protagonist is crushed solely by accident, the audience feels only shock, not the catharsis of tragedy. Therefore, the narrative structure ensures that the hero's ultimate fate is a reflection of his ...",
+    "audio_text": "Scholars of tragedy frequently analyze the tragic flaw, or hamartia, which dictates that a hero's downfall must stem from a personal error or trait, not external forces. For instance, it is not the world that destroys Macbeth, but his own ambition. This distinction is crucial; if a protagonist is crushed solely by accident, the audience feels only shock, not the catharsis of tragedy. Therefore, the narrative structure ensures that the hero's ultimate fate is a reflection of his ...",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "financial wealth",
+      "inner nature",
+      "pure luck",
+      "public reputation"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_smw-29",
+    "taskType": "lst_smw",
+    "prompt": "You will hear a recording with the last word or short phrase missing. Select the best completion.",
+    "text": "While wind and solar technologies are gaining ground in the green economy, they face the inherent challenge of intermittency; simply put, weather conditions fluctuate. In contrast, tidal energy represents a highly reliable alternative. Because tides are determined by the gravitational pull of the moon, their cycles are known well in advance. Consequently, tidal power plants can offer grid operators a completely predictable ...",
+    "transcript": "While wind and solar technologies are gaining ground in the green economy, they face the inherent challenge of intermittency; simply put, weather conditions fluctuate. In contrast, tidal energy represents a highly reliable alternative. Because tides are determined by the gravitational pull of the moon, their cycles are known well in advance. Consequently, tidal power plants can offer grid operators a completely predictable ...",
+    "audio_text": "While wind and solar technologies are gaining ground in the green economy, they face the inherent challenge of intermittency; simply put, weather conditions fluctuate. In contrast, tidal energy represents a highly reliable alternative. Because tides are determined by the gravitational pull of the moon, their cycles are known well in advance. Consequently, tidal power plants can offer grid operators a completely predictable ...",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "weather system",
+      "energy output",
+      "financial loss",
+      "consumption rate"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_smw-30",
+    "taskType": "lst_smw",
+    "prompt": "You will hear a recording with the last word or short phrase missing. Select the best completion.",
+    "text": "While the generation of sustainable power has surged, the physical networks that transport it have largely remained unchanged. Traditional power grids were designed for a linear flow, moving electricity from massive central stations out to the consumer. However, the rise of decentralized systems means power must now flow in both directions, a task for which older infrastructure is ill-equipped. Engineers emphasize that without transforming these passive networks into smart, responsive grids, the integration of distributed sources will remain ...",
+    "transcript": "While the generation of sustainable power has surged, the physical networks that transport it have largely remained unchanged. Traditional power grids were designed for a linear flow, moving electricity from massive central stations out to the consumer. However, the rise of decentralized systems means power must now flow in both directions, a task for which older infrastructure is ill-equipped. Engineers emphasize that without transforming these passive networks into smart, responsive grids, the integration of distributed sources will remain ...",
+    "audio_text": "While the generation of sustainable power has surged, the physical networks that transport it have largely remained unchanged. Traditional power grids were designed for a linear flow, moving electricity from massive central stations out to the consumer. However, the rise of decentralized systems means power must now flow in both directions, a task for which older infrastructure is ill-equipped. Engineers emphasize that without transforming these passive networks into smart, responsive grids, the integration of distributed sources will remain ...",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "fully optimized",
+      "fundamentally constrained",
+      "purely theoretical",
+      "financially negligible"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_smw-31",
+    "taskType": "lst_smw",
+    "prompt": "You will hear a recording with the last word or short phrase missing. Select the best completion.",
+    "text": "We tend to view the Shakespearean canon as the product of a singular, unrivaled intellect. However, modern computational linguistics has begun to complicate this narrative. By analyzing subtle markers—such as the frequency of conjunctions or unique vocabulary choices—algorithms have detected the distinct stylistic fingerprints of other playwrights within the texts. It appears that plays once thought to be the exclusive work of the Bard, including parts of Macbeth, actually contain material written by his contemporaries. This evidence suggests that for the Elizabethan dramatist, writing was not always a solitary pursuit, but frequently ...",
+    "transcript": "We tend to view the Shakespearean canon as the product of a singular, unrivaled intellect. However, modern computational linguistics has begun to complicate this narrative. By analyzing subtle markers—such as the frequency of conjunctions or unique vocabulary choices—algorithms have detected the distinct stylistic fingerprints of other playwrights within the texts. It appears that plays once thought to be the exclusive work of the Bard, including parts of Macbeth, actually contain material written by his contemporaries. This evidence suggests that for the Elizabethan dramatist, writing was not always a solitary pursuit, but frequently ...",
+    "audio_text": "We tend to view the Shakespearean canon as the product of a singular, unrivaled intellect. However, modern computational linguistics has begun to complicate this narrative. By analyzing subtle markers—such as the frequency of conjunctions or unique vocabulary choices—algorithms have detected the distinct stylistic fingerprints of other playwrights within the texts. It appears that plays once thought to be the exclusive work of the Bard, including parts of Macbeth, actually contain material written by his contemporaries. This evidence suggests that for the Elizabethan dramatist, writing was not always a solitary pursuit, but frequently ...",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "a reflection of personal grief",
+      "a collaborative team effort",
+      "an act of political rebellion",
+      "a result of poor planning"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_smw-32",
+    "taskType": "lst_smw",
+    "prompt": "You will hear a recording with the last word or short phrase missing. Select the best completion.",
+    "text": "In the drive for sustainable cities, passive design has emerged as a key strategy. By utilizing the natural environment to heat and cool buildings, architects can significantly reduce the need for active mechanical systems. This lowers energy consumption and operational costs. However, unlike technological add-ons such as solar panels, passive design elements rely on the fundamental orientation and shape of the building. Consequently, these features must be integrated into the original blueprints, as they are generally not suitable for ...",
+    "transcript": "In the drive for sustainable cities, passive design has emerged as a key strategy. By utilizing the natural environment to heat and cool buildings, architects can significantly reduce the need for active mechanical systems. This lowers energy consumption and operational costs. However, unlike technological add-ons such as solar panels, passive design elements rely on the fundamental orientation and shape of the building. Consequently, these features must be integrated into the original blueprints, as they are generally not suitable for ...",
+    "audio_text": "In the drive for sustainable cities, passive design has emerged as a key strategy. By utilizing the natural environment to heat and cool buildings, architects can significantly reduce the need for active mechanical systems. This lowers energy consumption and operational costs. However, unlike technological add-ons such as solar panels, passive design elements rely on the fundamental orientation and shape of the building. Consequently, these features must be integrated into the original blueprints, as they are generally not suitable for ...",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "public funding",
+      "retrofitting",
+      "rapid construction",
+      "safety testing"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_smw-33",
+    "taskType": "lst_smw",
+    "prompt": "You will hear a recording with the last word or short phrase missing. Select the best completion.",
+    "text": "We often take for granted that the Shakespearean texts we read are definitive. In reality, the path from the playwright's pen to the printed page was perilous. Shakespeare wrote scripts for actors to memorize, not books for the public to read, and he never published a collected edition himself. We rely heavily on the First Folio, assembled by his colleagues years after his death, which rescued eighteen plays that had never been printed before. If that book had not been published, our knowledge of his work would be ...",
+    "transcript": "We often take for granted that the Shakespearean texts we read are definitive. In reality, the path from the playwright's pen to the printed page was perilous. Shakespeare wrote scripts for actors to memorize, not books for the public to read, and he never published a collected edition himself. We rely heavily on the First Folio, assembled by his colleagues years after his death, which rescued eighteen plays that had never been printed before. If that book had not been published, our knowledge of his work would be ...",
+    "audio_text": "We often take for granted that the Shakespearean texts we read are definitive. In reality, the path from the playwright's pen to the printed page was perilous. Shakespeare wrote scripts for actors to memorize, not books for the public to read, and he never published a collected edition himself. We rely heavily on the First Folio, assembled by his colleagues years after his death, which rescued eighteen plays that had never been printed before. If that book had not been published, our knowledge of his work would be ...",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "universally admired",
+      "far less comprehensive",
+      "strictly political",
+      "better understood"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_smw-34",
+    "taskType": "lst_smw",
+    "prompt": "You will hear a recording with the last word or short phrase missing. Select the best completion.",
+    "text": "One of the primary criticisms leveled against renewable energy is its intermittency. Solar panels require sunlight and wind turbines need a breeze, neither of which is constant. This unpredictability poses a significant challenge for grid operators who must balance supply and demand in real time. While we have made great strides in generating clean power, the infrastructure to hold that power for later use is still catching up. Consequently, the next great breakthrough in the green revolution depends less on new generation methods and more on efficient energy ...",
+    "transcript": "One of the primary criticisms leveled against renewable energy is its intermittency. Solar panels require sunlight and wind turbines need a breeze, neither of which is constant. This unpredictability poses a significant challenge for grid operators who must balance supply and demand in real time. While we have made great strides in generating clean power, the infrastructure to hold that power for later use is still catching up. Consequently, the next great breakthrough in the green revolution depends less on new generation methods and more on efficient energy ...",
+    "audio_text": "One of the primary criticisms leveled against renewable energy is its intermittency. Solar panels require sunlight and wind turbines need a breeze, neither of which is constant. This unpredictability poses a significant challenge for grid operators who must balance supply and demand in real time. While we have made great strides in generating clean power, the infrastructure to hold that power for later use is still catching up. Consequently, the next great breakthrough in the green revolution depends less on new generation methods and more on efficient energy ...",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "consumption",
+      "storage",
+      "prediction",
+      "reduction"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_smw-35",
+    "taskType": "lst_smw",
+    "prompt": "You will hear a recording with the last word or short phrase missing. Select the best completion.",
+    "text": "Writers of historical fiction walk a fine line between artistic license and factual accuracy. While a historian's primary goal is to record events as they occurred based on evidence, a novelist must prioritize narrative arc and emotional resonance. Sometimes, this requires compressing timelines or merging historical figures to maintain dramatic tension. Consequently, while the atmosphere may be authentic, a reader seeking a precise, academic record might find the novel's portrayal of events to be ...",
+    "transcript": "Writers of historical fiction walk a fine line between artistic license and factual accuracy. While a historian's primary goal is to record events as they occurred based on evidence, a novelist must prioritize narrative arc and emotional resonance. Sometimes, this requires compressing timelines or merging historical figures to maintain dramatic tension. Consequently, while the atmosphere may be authentic, a reader seeking a precise, academic record might find the novel's portrayal of events to be ...",
+    "audio_text": "Writers of historical fiction walk a fine line between artistic license and factual accuracy. While a historian's primary goal is to record events as they occurred based on evidence, a novelist must prioritize narrative arc and emotional resonance. Sometimes, this requires compressing timelines or merging historical figures to maintain dramatic tension. Consequently, while the atmosphere may be authentic, a reader seeking a precise, academic record might find the novel's portrayal of events to be ...",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "historically flawless",
+      "factually unreliable",
+      "lacking in drama",
+      "completely objective"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_smw-36",
+    "taskType": "lst_smw",
+    "prompt": "You will hear a recording with the last word or short phrase missing. Select the best completion.",
+    "text": "For centuries, the stage was dominated by heightened language and larger-than-life characters, designed to inspire or terrify. But the arrival of Realism in the 19th century disrupted this tradition entirely. Playwrights started depicting the messy, unglamorous lives of the middle class, using dialogue that stuttered and paused just like actual speech. While today we accept this as standard, contemporary critics were often appalled. They believed theatre should transcend reality, offering an idealized vision of the world. Consequently, they accused these realist writers of debasing the art form by obsessing over ...",
+    "transcript": "For centuries, the stage was dominated by heightened language and larger-than-life characters, designed to inspire or terrify. But the arrival of Realism in the 19th century disrupted this tradition entirely. Playwrights started depicting the messy, unglamorous lives of the middle class, using dialogue that stuttered and paused just like actual speech. While today we accept this as standard, contemporary critics were often appalled. They believed theatre should transcend reality, offering an idealized vision of the world. Consequently, they accused these realist writers of debasing the art form by obsessing over ...",
+    "audio_text": "For centuries, the stage was dominated by heightened language and larger-than-life characters, designed to inspire or terrify. But the arrival of Realism in the 19th century disrupted this tradition entirely. Playwrights started depicting the messy, unglamorous lives of the middle class, using dialogue that stuttered and paused just like actual speech. While today we accept this as standard, contemporary critics were often appalled. They believed theatre should transcend reality, offering an idealized vision of the world. Consequently, they accused these realist writers of debasing the art form by obsessing over ...",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "the mundane aspects of existence",
+      "supernatural and magical elements",
+      "the heroic deeds of kings",
+      "historical political conflicts"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_smw-37",
+    "taskType": "lst_smw",
+    "prompt": "You will hear a recording with the last word or short phrase missing. Select the best completion.",
+    "text": "Long-span suspension bridges are engineering marvels, yet they are uniquely vulnerable to aerodynamic instability. When wind strikes the bridge deck, it can create rhythmic vortices that induce dangerous oscillations, potentially leading to structural failure. To mitigate this, engineers utilize advanced wind tunnel simulations to optimize the cross-sectional shape. By streamlining the design to allow air to pass smoothly, they ensure the structure remains stable even during ...",
+    "transcript": "Long-span suspension bridges are engineering marvels, yet they are uniquely vulnerable to aerodynamic instability. When wind strikes the bridge deck, it can create rhythmic vortices that induce dangerous oscillations, potentially leading to structural failure. To mitigate this, engineers utilize advanced wind tunnel simulations to optimize the cross-sectional shape. By streamlining the design to allow air to pass smoothly, they ensure the structure remains stable even during ...",
+    "audio_text": "Long-span suspension bridges are engineering marvels, yet they are uniquely vulnerable to aerodynamic instability. When wind strikes the bridge deck, it can create rhythmic vortices that induce dangerous oscillations, potentially leading to structural failure. To mitigate this, engineers utilize advanced wind tunnel simulations to optimize the cross-sectional shape. By streamlining the design to allow air to pass smoothly, they ensure the structure remains stable even during ...",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "peak traffic congestion",
+      "extreme wind conditions",
+      "routine maintenance checks",
+      "sudden temperature drops"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_smw-38",
+    "taskType": "lst_smw",
+    "prompt": "You will hear a recording with the last word or short phrase missing. Select the best completion.",
+    "text": "It is a sobering realization that we possess the texts of Shakespeare's plays largely through a stroke of fortune. In the Elizabethan era, play scripts were viewed as disposable tools for the stage, rather than enduring literature. Shakespeare himself made no attempt to publish his dramatic works. It was left to two of his colleagues to assemble the First Folio seven years after he died. Had they not undertaken this monumental task, eighteen of the plays, including Macbeth, would simply have ...",
+    "transcript": "It is a sobering realization that we possess the texts of Shakespeare's plays largely through a stroke of fortune. In the Elizabethan era, play scripts were viewed as disposable tools for the stage, rather than enduring literature. Shakespeare himself made no attempt to publish his dramatic works. It was left to two of his colleagues to assemble the First Folio seven years after he died. Had they not undertaken this monumental task, eighteen of the plays, including Macbeth, would simply have ...",
+    "audio_text": "It is a sobering realization that we possess the texts of Shakespeare's plays largely through a stroke of fortune. In the Elizabethan era, play scripts were viewed as disposable tools for the stage, rather than enduring literature. Shakespeare himself made no attempt to publish his dramatic works. It was left to two of his colleagues to assemble the First Folio seven years after he died. Had they not undertaken this monumental task, eighteen of the plays, including Macbeth, would simply have ...",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "influenced modern writers",
+      "disappeared from history",
+      "been criticized heavily",
+      "remained strictly theatrical"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_smw-39",
+    "taskType": "lst_smw",
+    "prompt": "You will hear a recording with the last word or short phrase missing. Select the best completion.",
+    "text": "Critics often analyze Elizabethan drama purely as art, overlooking that the theater was a ruthless commercial business. Playwrights relied heavily on ticket sales, necessitating a product that appealed to a highly stratified society. The plays had to satisfy the intellectual demands of the educated elite while simultaneously providing broad entertainment for the groundlings standing in the yard. This economic reality dictated an eclectic mix of styles, as a successful dramatist could not afford to write for one group and ...",
+    "transcript": "Critics often analyze Elizabethan drama purely as art, overlooking that the theater was a ruthless commercial business. Playwrights relied heavily on ticket sales, necessitating a product that appealed to a highly stratified society. The plays had to satisfy the intellectual demands of the educated elite while simultaneously providing broad entertainment for the groundlings standing in the yard. This economic reality dictated an eclectic mix of styles, as a successful dramatist could not afford to write for one group and ...",
+    "audio_text": "Critics often analyze Elizabethan drama purely as art, overlooking that the theater was a ruthless commercial business. Playwrights relied heavily on ticket sales, necessitating a product that appealed to a highly stratified society. The plays had to satisfy the intellectual demands of the educated elite while simultaneously providing broad entertainment for the groundlings standing in the yard. This economic reality dictated an eclectic mix of styles, as a successful dramatist could not afford to write for one group and ...",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "copy his competitors",
+      "alienate the others",
+      "study history deeply",
+      "abandon the verse"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_smw-40",
+    "taskType": "lst_smw",
+    "prompt": "You will hear a recording with the last word or short phrase missing. Select the best completion.",
+    "text": "The construction industry is under increasing pressure to address the environmental impact of cement production. Consequently, researchers have introduced green concrete alternatives that utilize recycled industrial byproducts to significantly lower carbon emissions. Although laboratory tests confirm that these sustainable mixtures possess comparable compressive strength to traditional concrete, the industry remains conservative. Engineers are reluctant to specify these new materials for critical infrastructure until they are confident that, unlike standard cement which has a proven lifespan, the green alternatives will not fail due to insufficient ...",
+    "transcript": "The construction industry is under increasing pressure to address the environmental impact of cement production. Consequently, researchers have introduced green concrete alternatives that utilize recycled industrial byproducts to significantly lower carbon emissions. Although laboratory tests confirm that these sustainable mixtures possess comparable compressive strength to traditional concrete, the industry remains conservative. Engineers are reluctant to specify these new materials for critical infrastructure until they are confident that, unlike standard cement which has a proven lifespan, the green alternatives will not fail due to insufficient ...",
+    "audio_text": "The construction industry is under increasing pressure to address the environmental impact of cement production. Consequently, researchers have introduced green concrete alternatives that utilize recycled industrial byproducts to significantly lower carbon emissions. Although laboratory tests confirm that these sustainable mixtures possess comparable compressive strength to traditional concrete, the industry remains conservative. Engineers are reluctant to specify these new materials for critical infrastructure until they are confident that, unlike standard cement which has a proven lifespan, the green alternatives will not fail due to insufficient ...",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "initial strength",
+      "durability",
+      "carbon output",
+      "market demand"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_smw-41",
+    "taskType": "lst_smw",
+    "prompt": "You will hear a recording with the last word or short phrase missing. Select the best completion.",
+    "text": "When we consider the layout of the Globe Theatre, we realize that the division between actor and audience was far less rigid than in modern theatres. The spectators were visible in the daylight, surrounding the stage on three sides. This structural intimacy implies that Shakespeare’s famous soliloquies were not intended as private inner thoughts irrelevant to those watching. On the contrary, the actor would likely break the fictional boundary to speak directly to the listeners, effectively turning the audience into ...",
+    "transcript": "When we consider the layout of the Globe Theatre, we realize that the division between actor and audience was far less rigid than in modern theatres. The spectators were visible in the daylight, surrounding the stage on three sides. This structural intimacy implies that Shakespeare’s famous soliloquies were not intended as private inner thoughts irrelevant to those watching. On the contrary, the actor would likely break the fictional boundary to speak directly to the listeners, effectively turning the audience into ...",
+    "audio_text": "When we consider the layout of the Globe Theatre, we realize that the division between actor and audience was far less rigid than in modern theatres. The spectators were visible in the daylight, surrounding the stage on three sides. This structural intimacy implies that Shakespeare’s famous soliloquies were not intended as private inner thoughts irrelevant to those watching. On the contrary, the actor would likely break the fictional boundary to speak directly to the listeners, effectively turning the audience into ...",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "unseen eavesdroppers",
+      "his trusted confidants",
+      "passive observers",
+      "harsh critics"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_smw-42",
+    "taskType": "lst_smw",
+    "prompt": "You will hear a recording with the last word or short phrase missing. Select the best completion.",
+    "text": "Concrete is prone to cracking, which typically requires costly manual repairs to prevent further damage. To address this, scientists have developed a new form of bio-concrete embedded with special bacteria. When water seeps into a crack, the bacteria activate and produce limestone, sealing the gap naturally. This self-healing capability transforms the material from a static element into a responsive system. By effectively managing its own defects, the concrete can significantly extend its ...",
+    "transcript": "Concrete is prone to cracking, which typically requires costly manual repairs to prevent further damage. To address this, scientists have developed a new form of bio-concrete embedded with special bacteria. When water seeps into a crack, the bacteria activate and produce limestone, sealing the gap naturally. This self-healing capability transforms the material from a static element into a responsive system. By effectively managing its own defects, the concrete can significantly extend its ...",
+    "audio_text": "Concrete is prone to cracking, which typically requires costly manual repairs to prevent further damage. To address this, scientists have developed a new form of bio-concrete embedded with special bacteria. When water seeps into a crack, the bacteria activate and produce limestone, sealing the gap naturally. This self-healing capability transforms the material from a static element into a responsive system. By effectively managing its own defects, the concrete can significantly extend its ...",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "rate of decay",
+      "service life",
+      "carbon footprint",
+      "visual complexity"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_smw-43",
+    "taskType": "lst_smw",
+    "prompt": "You will hear a recording with the last word or short phrase missing. Select the best completion.",
+    "text": "When we examine the layout of Elizabethan playhouses like the Globe, we find a unique social convergence. The wealthy occupied the sheltered galleries, while the working class, or groundlings, stood in the open pit. This mix dictated the texture of the plays. Shakespeare and his contemporaries included complex philosophical soliloquies for the educated ear, yet punctuated them with physical comedy and puns to hold the attention of the standing patrons. To remain commercially viable, a dramatist had to weave a narrative that effectively engaged ...",
+    "transcript": "When we examine the layout of Elizabethan playhouses like the Globe, we find a unique social convergence. The wealthy occupied the sheltered galleries, while the working class, or groundlings, stood in the open pit. This mix dictated the texture of the plays. Shakespeare and his contemporaries included complex philosophical soliloquies for the educated ear, yet punctuated them with physical comedy and puns to hold the attention of the standing patrons. To remain commercially viable, a dramatist had to weave a narrative that effectively engaged ...",
+    "audio_text": "When we examine the layout of Elizabethan playhouses like the Globe, we find a unique social convergence. The wealthy occupied the sheltered galleries, while the working class, or groundlings, stood in the open pit. This mix dictated the texture of the plays. Shakespeare and his contemporaries included complex philosophical soliloquies for the educated ear, yet punctuated them with physical comedy and puns to hold the attention of the standing patrons. To remain commercially viable, a dramatist had to weave a narrative that effectively engaged ...",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "only the wealthy elite",
+      "the entire social spectrum",
+      "critics from rival theaters",
+      "the actors on the stage"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_smw-44",
+    "taskType": "lst_smw",
+    "prompt": "You will hear a recording with the last word or short phrase missing. Select the best completion.",
+    "text": "In the open-air playhouses of Shakespeare's London, performances took place in the afternoon using natural light. There were no elaborate stage sets, no backdrops of castles or forests, and certainly no lighting effects to simulate night or storms. This physical simplicity meant the playwright had to do the work of the set designer. Creating the atmosphere of a foggy heath or a moonlit garden required vivid language. Therefore, the elaborate imagery found in the plays served a very practical function: it compensated for the lack of ...",
+    "transcript": "In the open-air playhouses of Shakespeare's London, performances took place in the afternoon using natural light. There were no elaborate stage sets, no backdrops of castles or forests, and certainly no lighting effects to simulate night or storms. This physical simplicity meant the playwright had to do the work of the set designer. Creating the atmosphere of a foggy heath or a moonlit garden required vivid language. Therefore, the elaborate imagery found in the plays served a very practical function: it compensated for the lack of ...",
+    "audio_text": "In the open-air playhouses of Shakespeare's London, performances took place in the afternoon using natural light. There were no elaborate stage sets, no backdrops of castles or forests, and certainly no lighting effects to simulate night or storms. This physical simplicity meant the playwright had to do the work of the set designer. Creating the atmosphere of a foggy heath or a moonlit garden required vivid language. Therefore, the elaborate imagery found in the plays served a very practical function: it compensated for the lack of ...",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "dramatic tension",
+      "visual scenery",
+      "professional actors",
+      "published texts"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_smw-45",
+    "taskType": "lst_smw",
+    "prompt": "You will hear a recording with the last word or short phrase missing. Select the best completion.",
+    "text": "Concrete structures inevitably suffer from cracking, which can lead to the corrosion of steel reinforcements and eventual structural failure. Traditionally, addressing these issues involves invasive and expensive repair work. However, the advent of self-healing concrete offers a promising solution. By embedding bacteria that produce limestone when exposed to water and air, cracks can be sealed autonomously. This technology not only enhances durability but also substantially lowers the requirement for ...",
+    "transcript": "Concrete structures inevitably suffer from cracking, which can lead to the corrosion of steel reinforcements and eventual structural failure. Traditionally, addressing these issues involves invasive and expensive repair work. However, the advent of self-healing concrete offers a promising solution. By embedding bacteria that produce limestone when exposed to water and air, cracks can be sealed autonomously. This technology not only enhances durability but also substantially lowers the requirement for ...",
+    "audio_text": "Concrete structures inevitably suffer from cracking, which can lead to the corrosion of steel reinforcements and eventual structural failure. Traditionally, addressing these issues involves invasive and expensive repair work. However, the advent of self-healing concrete offers a promising solution. By embedding bacteria that produce limestone when exposed to water and air, cracks can be sealed autonomously. This technology not only enhances durability but also substantially lowers the requirement for ...",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "initial planning",
+      "regular maintenance",
+      "steel reinforcement",
+      "scientific research"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_smw-46",
+    "taskType": "lst_smw",
+    "prompt": "You will hear a recording with the last word or short phrase missing. Select the best completion.",
+    "text": "As we transition away from fossil fuels, we encounter the challenge of managing the lifecycle of green technologies. The equipment used to capture clean power, often reinforced with durable polymers and rare metals, is not easily biodegradable. Experts caution that if we fail to implement circular economy principles, the very devices meant to save the planet will eventually pile up as ...",
+    "transcript": "As we transition away from fossil fuels, we encounter the challenge of managing the lifecycle of green technologies. The equipment used to capture clean power, often reinforced with durable polymers and rare metals, is not easily biodegradable. Experts caution that if we fail to implement circular economy principles, the very devices meant to save the planet will eventually pile up as ...",
+    "audio_text": "As we transition away from fossil fuels, we encounter the challenge of managing the lifecycle of green technologies. The equipment used to capture clean power, often reinforced with durable polymers and rare metals, is not easily biodegradable. Experts caution that if we fail to implement circular economy principles, the very devices meant to save the planet will eventually pile up as ...",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "sustainable assets",
+      "hazardous waste",
+      "carbon credits",
+      "surplus energy"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_smw-47",
+    "taskType": "lst_smw",
+    "prompt": "You will hear a recording with the last word or short phrase missing. Select the best completion.",
+    "text": "In the debate over sustainable urban development, the notion of 'embodied energy' is crucial. This term describes the sum of energy required to extract, process, and transport materials for construction. When we tear down an old building to erect a new, efficient one, we discard the massive energy investment already made. Experts argue that the operational savings of a new building often take decades to recoup the initial carbon cost. Therefore, the most ecological strategy is frequently ...",
+    "transcript": "In the debate over sustainable urban development, the notion of 'embodied energy' is crucial. This term describes the sum of energy required to extract, process, and transport materials for construction. When we tear down an old building to erect a new, efficient one, we discard the massive energy investment already made. Experts argue that the operational savings of a new building often take decades to recoup the initial carbon cost. Therefore, the most ecological strategy is frequently ...",
+    "audio_text": "In the debate over sustainable urban development, the notion of 'embodied energy' is crucial. This term describes the sum of energy required to extract, process, and transport materials for construction. When we tear down an old building to erect a new, efficient one, we discard the massive energy investment already made. Experts argue that the operational savings of a new building often take decades to recoup the initial carbon cost. Therefore, the most ecological strategy is frequently ...",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "retaining the original structure",
+      "increasing demolition speed",
+      "ignoring material costs",
+      "constructing innovative designs"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_smw-48",
+    "taskType": "lst_smw",
+    "prompt": "You will hear a recording with the last word or short phrase missing. Select the best completion.",
+    "text": "Research consistently demonstrates the benefits of reading aloud to young children, even before they can understand the words. It establishes a comforting routine and introduces the rhythm of language. While parents often stop reading to their children once they acquire the ability to read independently, educators argue this is a mistake. Listening to complex stories allows older children to access vocabulary and concepts that are beyond their current reading level. Therefore, continuing this practice helps them bridge the gap between their listening potential and their actual ...",
+    "transcript": "Research consistently demonstrates the benefits of reading aloud to young children, even before they can understand the words. It establishes a comforting routine and introduces the rhythm of language. While parents often stop reading to their children once they acquire the ability to read independently, educators argue this is a mistake. Listening to complex stories allows older children to access vocabulary and concepts that are beyond their current reading level. Therefore, continuing this practice helps them bridge the gap between their listening potential and their actual ...",
+    "audio_text": "Research consistently demonstrates the benefits of reading aloud to young children, even before they can understand the words. It establishes a comforting routine and introduces the rhythm of language. While parents often stop reading to their children once they acquire the ability to read independently, educators argue this is a mistake. Listening to complex stories allows older children to access vocabulary and concepts that are beyond their current reading level. Therefore, continuing this practice helps them bridge the gap between their listening potential and their actual ...",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "emotional intelligence",
+      "reading proficiency",
+      "social environment",
+      "educational background"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_smw-49",
+    "taskType": "lst_smw",
+    "prompt": "You will hear a recording with the last word or short phrase missing. Select the best completion.",
+    "text": "Shakespeare's narratives have been transposed into every conceivable setting, from high schools to samurai courts. Traditionalists sometimes complain that stripping away the Elizabethan context robs the plays of their essential character. Yet, the fact that Macbeth works just as well in a modern war zone suggests that the underlying human conflict is what matters most. By removing the period costumes, directors prove that the playwright's insights are not bound by ...",
+    "transcript": "Shakespeare's narratives have been transposed into every conceivable setting, from high schools to samurai courts. Traditionalists sometimes complain that stripping away the Elizabethan context robs the plays of their essential character. Yet, the fact that Macbeth works just as well in a modern war zone suggests that the underlying human conflict is what matters most. By removing the period costumes, directors prove that the playwright's insights are not bound by ...",
+    "audio_text": "Shakespeare's narratives have been transposed into every conceivable setting, from high schools to samurai courts. Traditionalists sometimes complain that stripping away the Elizabethan context robs the plays of their essential character. Yet, the fact that Macbeth works just as well in a modern war zone suggests that the underlying human conflict is what matters most. By removing the period costumes, directors prove that the playwright's insights are not bound by ...",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "time or place",
+      "theatrical conventions",
+      "historical accuracy",
+      "audience expectations"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_smw-50",
+    "taskType": "lst_smw",
+    "prompt": "You will hear a recording with the last word or short phrase missing. Select the best completion.",
+    "text": "Many of us gesture instinctively when we speak, even when talking on the phone where no one can see us. This behavior implies that hand movements aren't just for the listener's benefit; they actually help the speaker think. Neuroscientists have found that the brain regions processing language and motor control overlap significantly. Gesturing seems to lighten the cognitive load involved in creating sentences. In experiments where participants' hands are restrained, their speech becomes less fluent, and they struggle to retrieve ...",
+    "transcript": "Many of us gesture instinctively when we speak, even when talking on the phone where no one can see us. This behavior implies that hand movements aren't just for the listener's benefit; they actually help the speaker think. Neuroscientists have found that the brain regions processing language and motor control overlap significantly. Gesturing seems to lighten the cognitive load involved in creating sentences. In experiments where participants' hands are restrained, their speech becomes less fluent, and they struggle to retrieve ...",
+    "audio_text": "Many of us gesture instinctively when we speak, even when talking on the phone where no one can see us. This behavior implies that hand movements aren't just for the listener's benefit; they actually help the speaker think. Neuroscientists have found that the brain regions processing language and motor control overlap significantly. Gesturing seems to lighten the cognitive load involved in creating sentences. In experiments where participants' hands are restrained, their speech becomes less fluent, and they struggle to retrieve ...",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "visual memories",
+      "the right words",
+      "complex grammar",
+      "listener attention"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "",
+    "trap": ""
+  }
+]

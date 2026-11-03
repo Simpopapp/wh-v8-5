@@ -1,0 +1,14 @@
+# PRD — S4 Progresso + Vocabulário (projeto 12, PRD central §7.5/§7.6)
+
+## Diagnóstico a confirmar (auditar antes de especificar)
+- `progress.tsx`: página analítica longa; cabeçalhos de bloco fracos (`text-sm` muted, ~:173-180 e ~:259-303); tabela sensível a 390px (~:428-458); empty state sem CTA.
+- `vocabulary.tsx`: filtros com alvos 36px (~:303-304); modos explorar/estudar pouco demarcados; item de lista básico.
+
+## Escopo
+1. **Progresso**: PageHeader; bloco de resumo prioritário com números-herói tabulares (StatHero); títulos de bloco com hierarquia real; gráficos com paleta nova; tabela responsiva a 390px sem overflow; empty state com CTA.
+2. **Vocabulário**: PageHeader; demarcação visual explícita explorar × estudar (composição própria no modo revisão, foco na palavra); filtros ≥44px com estado ativo óbvio; item editorial (palavra serif, tradução, pills de origem/tipo); empty state com convite; sessão concluída com celebração contida.
+3. Acessibilidade: axe 0 nas duas rotas; alvos ≥44px; aria preservado.
+
+## Critérios de aceite
+- Gates: vitest verde (D9: ajuste de seletor permitido, asserção intacta) · tsgo · build · lint · Playwright /progress + /vocabulary (axe 0, 390×844 sem overflow horizontal, console limpo).
+- Nenhuma mudança de lógica: estimativa, métricas, SRS, backup e captura de vocabulário intactos.

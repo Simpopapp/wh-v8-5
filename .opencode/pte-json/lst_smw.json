@@ -1,0 +1,78 @@
+{
+  "type": "lst_smw",
+  "task_type": "Select Missing Word",
+  "section": "listening",
+  "total": 3,
+  "generated_at": "2026-10-05",
+  "questions": [
+    {
+      "id": "pte-lst_sm-40c6f847",
+      "type": "lst_smw",
+      "task_type": "lst-smw",
+      "section": "listening",
+      "prompt": "",
+      "text": "When economists first started studying happiness as an outcome variable, the surprising finding was how little additional income increased self-reported well-being once a household had moved out of poverty. Across high-income countries, the gap between earning fifty thousand and earning a hundred thousand dollars per year produces only a modest increase in reported happiness. The dominant predictor at those income levels is not money but the strength of close personal",
+      "transcript": "When economists first started studying happiness as an outcome variable, the surprising finding was how little additional income increased self-reported well-being once a household had moved out of poverty. Across high-income countries, the gap between earning fifty thousand and earning a hundred thousand dollars per year produces only a modest increase in reported happiness. The dominant predictor at those income levels is not money but the strength of close personal",
+      "audio_text": "When economists first started studying happiness as an outcome variable, the surprising finding was how little additional income increased self-reported well-being once a household had moved out of poverty. Across high-income countries, the gap between earning fifty thousand and earning a hundred thousand dollars per year produces only a modest increase in reported happiness. The dominant predictor at those income levels is not money but the strength of close personal",
+      "content": "When economists first started studying happiness as an outcome variable, the surprising finding was how little additional income increased self-reported well-being once a household had moved out of poverty. Across high-income countries, the gap between earning fifty thousand and earning a hundred thousand dollars per year produces only a modest increase in reported happiness. The dominant predictor at those income levels is not money but the strength of close personal",
+      "answer": 0,
+      "source": "pteracai-seed",
+      "word_count": 70,
+      "options": [
+        "relationships",
+        "education",
+        "investments",
+        "ambitions"
+      ],
+      "explanation": "The lecture explicitly contrasts money with the predictor of happiness at high income levels and frames it around 'close personal ___'. The standard pairing is 'close personal relationships'.",
+      "trap": "All four options fit grammatically ('close personal investments' is grammatical too), but only 'relationships' fits the well-known finding from happiness economics that the lecture is leading to.",
+      "topic": "academic lecture"
+    },
+    {
+      "id": "pte-lst_sm-d8259139",
+      "type": "lst_smw",
+      "task_type": "lst-smw",
+      "section": "listening",
+      "prompt": "",
+      "text": "Modern cryptography rests on two foundations. The first is the use of mathematical problems that are easy to compute in one direction but extremely hard to reverse — multiplying two large prime numbers, for example, is fast, but factoring the result is computationally expensive. The second foundation is the careful management of secret keys: a perfect mathematical scheme is worthless if the keys can be intercepted or guessed. The whole field, in other words, depends as much on key management as it does on",
+      "transcript": "Modern cryptography rests on two foundations. The first is the use of mathematical problems that are easy to compute in one direction but extremely hard to reverse — multiplying two large prime numbers, for example, is fast, but factoring the result is computationally expensive. The second foundation is the careful management of secret keys: a perfect mathematical scheme is worthless if the keys can be intercepted or guessed. The whole field, in other words, depends as much on key management as it does on",
+      "audio_text": "Modern cryptography rests on two foundations. The first is the use of mathematical problems that are easy to compute in one direction but extremely hard to reverse — multiplying two large prime numbers, for example, is fast, but factoring the result is computationally expensive. The second foundation is the careful management of secret keys: a perfect mathematical scheme is worthless if the keys can be intercepted or guessed. The whole field, in other words, depends as much on key management as it does on",
+      "content": "Modern cryptography rests on two foundations. The first is the use of mathematical problems that are easy to compute in one direction but extremely hard to reverse — multiplying two large prime numbers, for example, is fast, but factoring the result is computationally expensive. The second foundation is the careful management of secret keys: a perfect mathematical scheme is worthless if the keys can be intercepted or guessed. The whole field, in other words, depends as much on key management as it does on",
+      "answer": 1,
+      "source": "pteracai-seed",
+      "word_count": 84,
+      "options": [
+        "budgets",
+        "mathematics",
+        "advertising",
+        "compliance"
+      ],
+      "explanation": "The lecture's argument structure is 'as much on X as on Y' where Y is the other foundation discussed. The first foundation was hard mathematical problems, so 'mathematics' is the only option that closes the parallel.",
+      "trap": "'Compliance' sounds professional and security-adjacent, but the lecture never raised compliance as a foundation. Track the actual structure of the argument, not vibes-related distractors.",
+      "topic": "academic lecture"
+    },
+    {
+      "id": "pte-lst_sm-29ad3261",
+      "type": "lst_smw",
+      "task_type": "lst-smw",
+      "section": "listening",
+      "prompt": "",
+      "text": "Field biologists studying coral reefs have noticed that the recovery of bleached reefs depends heavily on the surrounding ocean conditions. Reefs near coastlines with healthy mangrove forests recover more reliably than reefs adjacent to coastlines where mangroves have been cleared. Mangroves filter sediment from runoff, stabilise water temperature in lagoons, and serve as nurseries for juvenile reef fish. In short, the fate of a coral reef cannot be understood without also understanding the health of its neighbouring",
+      "transcript": "Field biologists studying coral reefs have noticed that the recovery of bleached reefs depends heavily on the surrounding ocean conditions. Reefs near coastlines with healthy mangrove forests recover more reliably than reefs adjacent to coastlines where mangroves have been cleared. Mangroves filter sediment from runoff, stabilise water temperature in lagoons, and serve as nurseries for juvenile reef fish. In short, the fate of a coral reef cannot be understood without also understanding the health of its neighbouring",
+      "audio_text": "Field biologists studying coral reefs have noticed that the recovery of bleached reefs depends heavily on the surrounding ocean conditions. Reefs near coastlines with healthy mangrove forests recover more reliably than reefs adjacent to coastlines where mangroves have been cleared. Mangroves filter sediment from runoff, stabilise water temperature in lagoons, and serve as nurseries for juvenile reef fish. In short, the fate of a coral reef cannot be understood without also understanding the health of its neighbouring",
+      "content": "Field biologists studying coral reefs have noticed that the recovery of bleached reefs depends heavily on the surrounding ocean conditions. Reefs near coastlines with healthy mangrove forests recover more reliably than reefs adjacent to coastlines where mangroves have been cleared. Mangroves filter sediment from runoff, stabilise water temperature in lagoons, and serve as nurseries for juvenile reef fish. In short, the fate of a coral reef cannot be understood without also understanding the health of its neighbouring",
+      "answer": 1,
+      "source": "pteracai-seed",
+      "word_count": 77,
+      "options": [
+        "industries",
+        "mangroves",
+        "predators",
+        "tourists"
+      ],
+      "explanation": "The entire passage is a setup for the final word: mangroves are named four times and presented as the relevant neighbouring ecosystem. 'Predators' and 'tourists' are not discussed; 'industries' could fit loosely but the lecture is not about industry.",
+      "trap": "Test-takers who tune out for the buildup may grab any noun. The Select Missing Word task often rewards listeners who track what the lecture has been building toward.",
+      "topic": "academic lecture"
+    }
+  ]
+}

@@ -1,0 +1,542 @@
+{
+  "band9-essay-01": {
+    "t": [
+      {
+        "l": "No futuro, as pessoas trabalharão menos horas do que trabalham hoje.",
+        "c": "Prevê uma redução na jornada de trabalho nos anos que virão."
+      },
+      {
+        "l": "Você concorda ou discorda?",
+        "c": "Pede o posicionamento do leitor sobre o tema apresentado."
+      },
+      {
+        "l": "Dê sua opinião com razões e exemplos.",
+        "c": "Solicita que o ponto de vista seja justificado com argumentos e casos práticos."
+      }
+    ]
+  },
+  "band9-essay-02": {
+    "t": [
+      {
+        "l": "Algumas organizações acreditam que os trabalhadores devem estar envolvidos nos processos de tomada de decisão.",
+        "c": "Trata da ideia de incluir funcionários nas escolhas estratégicas das empresas."
+      },
+      {
+        "l": "Discuta as vantagens e desvantagens desta abordagem.",
+        "c": "Propõe analisar os pontos positivos e negativos da gestão participativa."
+      }
+    ]
+  },
+  "band9-essay-03": {
+    "t": [
+      {
+        "l": "Uma semana de trabalho mais curta beneficiaria tanto funcionários quanto empregadores.",
+        "c": "Sugere que reduzir os dias úteis traz ganhos para todos os envolvidos."
+      },
+      {
+        "l": "Em que medida você concorda ou discorda?",
+        "c": "Pergunta o nível de concordância com a afirmação anterior."
+      },
+      {
+        "l": "Dê sua opinião com razões e exemplos.",
+        "c": "Requer uma argumentação detalhada sobre a visão pessoal do autor."
+      }
+    ]
+  },
+  "band9-essay-04": {
+    "t": [
+      {
+        "l": "Algumas pessoas preferem trabalhar em casa, enquanto outras preferem trabalhar em um escritório.",
+        "c": "Compara as preferências entre o regime de home office e o presencial."
+      },
+      {
+        "l": "Discuta ambas as visões e dê sua própria opinião.",
+        "c": "Pede para avaliar os dois lados da questão e expor sua conclusão pessoal."
+      }
+    ]
+  },
+  "band9-essay-05": {
+    "t": [
+      {
+        "l": "O desemprego entre os jovens é uma preocupação global crescente.",
+        "c": "Aborda a falta de trabalho para a juventude como um problema mundial sério."
+      },
+      {
+        "l": "Quais são as causas deste problema e quais soluções você pode sugerir?",
+        "c": "Indaga sobre os motivos do desemprego jovem e formas de resolvê-lo."
+      }
+    ]
+  },
+  "band9-essay-06": {
+    "t": [
+      {
+        "l": "As universidades devem descontar notas se os alunos entregarem seus trabalhos com atraso.",
+        "c": "Defende a aplicação de punição acadêmica para entregas fora do prazo."
+      },
+      {
+        "l": "Em que medida você concorda ou discorda?",
+        "c": "Questiona o grau de apoio à política de penalização por atraso."
+      }
+    ]
+  },
+  "band9-essay-07": {
+    "t": [
+      {
+        "l": "Muitos sistemas educacionais avaliam os alunos usando exames escritos formais.",
+        "c": "Refere-se à prática comum de testar o conhecimento por meio de provas tradicionais."
+      },
+      {
+        "l": "Em que medida você acha que este é um método de avaliação válido?",
+        "c": "Pede uma análise crítica sobre a eficácia das provas escritas como medida de aprendizado."
+      }
+    ]
+  },
+  "band9-essay-08": {
+    "t": [
+      {
+        "l": "Algumas universidades estão substituindo livros didáticos tradicionais por mídia digital.",
+        "c": "Observa a tendência de trocar o material impresso pelo eletrônico no ensino superior."
+      },
+      {
+        "l": "Discuta as vantagens e desvantagens desta evolução.",
+        "c": "Analisa os prós e contras da digitalização dos materiais de estudo."
+      }
+    ]
+  },
+  "band9-essay-09": {
+    "t": [
+      {
+        "l": "Alunos do ensino médio devem estudar peças e teatro de séculos passados.",
+        "c": "Propõe o ensino de dramaturgia clássica para estudantes adolescentes."
+      },
+      {
+        "l": "Discuta os benefícios e desvantagens desta abordagem.",
+        "c": "Pondera sobre o valor e os desafios de ensinar obras teatrais antigas."
+      }
+    ]
+  },
+  "band9-essay-10": {
+    "t": [
+      {
+        "l": "O aprendizado experiencial, como estágios e trabalho de campo, é mais valioso do que a educação em sala de aula.",
+        "c": "Argumenta que a prática profissional ensina mais do que a teoria acadêmica."
+      },
+      {
+        "l": "Em que medida você concorda ou discorda?",
+        "c": "Avalia a concordância com a ideia de que a prática supera a sala de aula."
+      }
+    ]
+  },
+  "band9-essay-11": {
+    "t": [
+      {
+        "l": "Viajar é uma das melhores maneiras de educar os jovens sobre o mundo.",
+        "c": "Sustenta que o turismo cultural é uma ferramenta educativa poderosa para a juventude."
+      },
+      {
+        "l": "Você concorda ou discorda?",
+        "c": "Solicita a posição do autor sobre o valor educacional das viagens."
+      },
+      {
+        "l": "Dê razões e exemplos.",
+        "c": "Pede justificativas e ilustrações práticas para sustentar o argumento."
+      }
+    ]
+  },
+  "band9-essay-12": {
+    "t": [
+      {
+        "l": "A tecnologia está sendo cada vez mais usada na educação.",
+        "c": "Constata a crescente integração de ferramentas tecnológicas nas escolas."
+      },
+      {
+        "l": "Discuta as vantagens e desvantagens desta tendência.",
+        "c": "Pede uma análise dos impactos positivos e negativos da tecnologia no ensino."
+      }
+    ]
+  },
+  "band9-essay-13": {
+    "t": [
+      {
+        "l": "A inteligência artificial está sendo usada de forma mais ampla na educação.",
+        "c": "Aponta a expansão da IA como recurso pedagógico."
+      },
+      {
+        "l": "Discuta as vantagens e desvantagens desta evolução.",
+        "c": "Solicita a discussão sobre o uso de IA nas salas de aula."
+      }
+    ]
+  },
+  "band9-essay-14": {
+    "t": [
+      {
+        "l": "Ferramentas de IA estão mudando a maneira como as pessoas aprendem línguas estrangeiras.",
+        "c": "Observa como a inteligência artificial transforma o ensino de idiomas."
+      },
+      {
+        "l": "Quais são os problemas e benefícios desta evolução?",
+        "c": "Questiona as consequências boas e ruins do uso de IA para aprender línguas."
+      }
+    ]
+  },
+  "band9-essay-15": {
+    "t": [
+      {
+        "l": "As redes sociais mudaram significativamente a maneira como as pessoas se comunicam e interagem.",
+        "c": "Ressalta a transformação profunda na comunicação interpessoal causada pela internet."
+      },
+      {
+        "l": "Discuta os impactos positivos e negativos das redes sociais na sociedade.",
+        "c": "Propõe analisar como as mídias digitais afetam a vida em comunidade."
+      }
+    ]
+  },
+  "band9-essay-16": {
+    "t": [
+      {
+        "l": "A tecnologia moderna trouxe muitas invenções que afetam a vida cotidiana.",
+        "c": "Refere-se aos aparelhos contemporâneos que moldam nossa rotina."
+      },
+      {
+        "l": "Discuta as vantagens e desvantagens dessas invenções tecnológicas.",
+        "c": "Avalia os benefícios e prejuízos das novas tecnologias no dia a dia."
+      }
+    ]
+  },
+  "band9-essay-17": {
+    "t": [
+      {
+        "l": "Em muitas cidades e vilas, grandes shoppings estão substituindo pequenas lojas locais.",
+        "c": "Descreve o fenômeno da substituição do comércio de bairro por grandes centros de compras."
+      },
+      {
+        "l": "Você acha que esta é uma evolução positiva ou negativa?",
+        "c": "Pergunta se a troca do comércio local por shoppings é benéfica ou prejudicial."
+      },
+      {
+        "l": "Dê suas razões e exemplos.",
+        "c": "Solicita argumentos fundamentados sobre o impacto dos shoppings na urbanização."
+      }
+    ]
+  },
+  "band9-essay-18": {
+    "t": [
+      {
+        "l": "Restrições de idade são aplicadas a atividades como dirigir, votar e consumir álcool.",
+        "c": "Lista exemplos de ações que exigem uma idade mínima por lei."
+      },
+      {
+        "l": "Você acha que esses limites de idade devem ser alterados?",
+        "c": "Questiona se as idades mínimas vigentes para certas atividades deveriam ser revistas."
+      },
+      {
+        "l": "Escolha uma atividade e explique sua visão.",
+        "c": "Pede para focar em um exemplo específico e justificar a opinião."
+      }
+    ]
+  },
+  "band9-essay-19": {
+    "t": [
+      {
+        "l": "Algumas pessoas preferem morar em cidades, enquanto outras preferem morar no campo.",
+        "c": "Contrasta as preferências de moradia entre a zona urbana e a rural."
+      },
+      {
+        "l": "Discuta ambas as visões e dê sua própria opinião.",
+        "c": "Solicita a análise dos dois estilos de vida e a escolha de um deles."
+      }
+    ]
+  },
+  "band9-essay-20": {
+    "t": [
+      {
+        "l": "A televisão proporciona às pessoas relaxamento e companhia.",
+        "c": "Sugere que a TV serve como lazer e um meio de evitar a solidão."
+      },
+      {
+        "l": "Discuta em que medida você concorda ou discorda desta afirmação.",
+        "c": "Pergunta o quanto o leitor concorda que a TV traz bem-estar social."
+      }
+    ]
+  },
+  "band9-essay-21": {
+    "t": [
+      {
+        "l": "A mídia de massa, incluindo televisão, jornais e a internet, tem uma poderosa influência na sociedade.",
+        "c": "Destaca o grande poder que os meios de comunicação exercem sobre o público."
+      },
+      {
+        "l": "Discuta os efeitos positivos e negativos da mídia de massa.",
+        "c": "Pede uma reflexão sobre a influência benéfica ou nociva da imprensa e internet."
+      }
+    ]
+  },
+  "band9-essay-22": {
+    "t": [
+      {
+        "l": "É mais difícil para as crianças crescerem no século 21 do que era no passado.",
+        "c": "Propõe a ideia de que a infância atual é mais desafiadora que a de gerações anteriores."
+      },
+      {
+        "l": "Em que medida você concorda ou discorda?",
+        "c": "Indaga sobre a percepção das dificuldades enfrentadas pelas crianças hoje."
+      }
+    ]
+  },
+  "band9-essay-23": {
+    "t": [
+      {
+        "l": "Pessoas que são artistas ou esportistas famosos devem abrir mão do direito à privacidade, pois este é o preço da fama.",
+        "c": "Discute a ideia de que celebridades não deveriam ter vida privada."
+      },
+      {
+        "l": "Em que medida você concorda ou discorda?",
+        "c": "Pergunta se o leitor apoia o fim da privacidade para pessoas famosas."
+      }
+    ]
+  },
+  "band9-essay-24": {
+    "t": [
+      {
+        "l": "A mudança climática é um dos problemas mais sérios que nosso planeta enfrenta hoje.",
+        "c": "Enfatiza a gravidade da crise ambiental global."
+      },
+      {
+        "l": "Quais são as causas da mudança climática e quais soluções podem ser implementadas?",
+        "c": "Busca identificar as raízes do aquecimento global e formas de combatê-lo."
+      }
+    ]
+  },
+  "band9-essay-25": {
+    "t": [
+      {
+        "l": "A globalização teve um impacto significativo nas culturas locais em todo o mundo.",
+        "c": "Observa como a integração mundial afeta os costumes de cada região."
+      },
+      {
+        "l": "Discuta os efeitos positivos e negativos da globalização nas culturas locais.",
+        "c": "Analisa se a influência global é boa ou ruim para as tradições locais."
+      }
+    ]
+  },
+  "band9-essay-26": {
+    "t": [
+      {
+        "l": "Um dos problemas globais enfrentados pelos habitantes do nosso planeta é o aumento do abismo entre nações ricas e pobres.",
+        "c": "Aponta a desigualdade econômica internacional como um grande desafio mundial."
+      },
+      {
+        "l": "Discuta este problema e sugira possíveis soluções.",
+        "c": "Pede a análise da desigualdade entre países e ideias para reduzir essa diferença."
+      }
+    ]
+  },
+  "band9-essay-27": {
+    "t": [
+      {
+        "l": "A tecnologia médica está expandindo a expectativa de vida média das pessoas ao redor do mundo.",
+        "c": "O avanço da medicina faz com que a população mundial viva cada vez mais tempo."
+      },
+      {
+        "l": "Discuta as vantagens e desvantagens de as pessoas viverem mais.",
+        "c": "Avalie os pontos positivos e negativos do aumento da longevidade humana."
+      }
+    ]
+  },
+  "band9-essay-28": {
+    "t": [
+      {
+        "l": "Os governos deveriam investir mais em transporte público em vez de construir novas estradas.",
+        "c": "Sugestão de que o foco governamental mude da ampliação de vias para a melhoria dos transportes coletivos."
+      },
+      {
+        "l": "Até que ponto você concorda ou discorda?",
+        "c": "Expressão usada para pedir que se avalie o grau de concordância com uma afirmação anterior."
+      }
+    ]
+  },
+  "band9-essay-29": {
+    "t": [
+      {
+        "l": "O design de edifícios modernos deve priorizar a função em relação à aparência.",
+        "c": "Ideia de que a utilidade de uma construção contemporânea é mais importante que sua estética."
+      },
+      {
+        "l": "Discuta as vantagens e desvantagens dessa visão.",
+        "c": "Analise os prós e contras da perspectiva apresentada anteriormente."
+      }
+    ]
+  },
+  "band9-essay-30": {
+    "t": [
+      {
+        "l": "Há uma preocupação crescente sobre o impacto das redes sociais na saúde mental dos jovens.",
+        "c": "Cresce o debate sobre como as mídias sociais afetam o bem-estar psicológico das novas gerações."
+      },
+      {
+        "l": "Discuta as causas deste problema e sugira soluções possíveis.",
+        "c": "Analise por que isso acontece e proponha formas de resolver a situação."
+      }
+    ]
+  },
+  "band9-essay-31": {
+    "t": [
+      {
+        "l": "Algumas pessoas acreditam que edifícios históricos devem ser preservados, enquanto outras pensam que eles devem ser demolidos para dar lugar ao desenvolvimento moderno.",
+        "c": "Debate sobre manter construções antigas ou destruí-las para realizar novos projetos urbanos."
+      },
+      {
+        "l": "Discuta ambas as visões e dê sua própria opinião.",
+        "c": "Considere os dois lados da questão e apresente o seu ponto de vista pessoal."
+      }
+    ]
+  },
+  "band9-essay-32": {
+    "t": [
+      {
+        "l": "Alguns jovens optam por tirar um ano sabático entre o ensino médio e a universidade.",
+        "c": "Prática comum de fazer uma pausa nos estudos após a escola antes de ingressar no ensino superior."
+      },
+      {
+        "l": "Você acha que isso é benéfico ou prejudicial?",
+        "c": "Questionamento sobre as consequências positivas ou negativas de uma determinada escolha."
+      },
+      {
+        "l": "Dê sua opinião com razões e exemplos.",
+        "c": "Apresente seu pensamento fundamentado em justificativas e ilustrações práticas."
+      }
+    ]
+  },
+  "band9-essay-33": {
+    "t": [
+      {
+        "l": "Um diploma universitário é essencial para o sucesso na carreira no mundo de hoje.",
+        "c": "A afirmação diz que o ensino superior é indispensável para ser bem-sucedido profissionalmente na atualidade."
+      },
+      {
+        "l": "Até que ponto você concorda ou discorda?",
+        "c": "Pergunta sobre o nível de aceitação ou rejeição do argumento proposto."
+      }
+    ]
+  },
+  "band9-essay-34": {
+    "t": [
+      {
+        "l": "Algumas pessoas argumentam que usar animais em pesquisas científicas é cruel e desnecessário, enquanto outras acreditam que é essencial para o progresso médico.",
+        "c": "O dilema ético sobre testes em animais versus sua importância para avanços na saúde."
+      },
+      {
+        "l": "Discuta ambas as visões e dê sua própria opinião.",
+        "c": "Analise os argumentos conflitantes e posicione-se sobre o assunto."
+      }
+    ]
+  },
+  "band9-essay-35": {
+    "t": [
+      {
+        "l": "Algumas pessoas acreditam que a publicidade é prejudicial à sociedade, enquanto outras argumentam que ela desempenha um papel importante nas economias modernas.",
+        "c": "Opiniões divergentes sobre os efeitos negativos da propaganda versus sua função econômica essencial."
+      },
+      {
+        "l": "Discuta ambas as visões e dê sua própria opinião.",
+        "c": "Pede-se uma análise dos dois lados e a manifestação de um juízo pessoal."
+      }
+    ]
+  },
+  "band9-essay-36": {
+    "t": [
+      {
+        "l": "Muitos governos estão introduzindo proibições de plásticos de uso único.",
+        "c": "Vários países estão criando leis para impedir o uso de descartáveis plásticos."
+      },
+      {
+        "l": "Discuta as vantagens e desvantagens de tais proibições.",
+        "c": "Avalie os benefícios e os problemas decorrentes de proibir certos materiais plásticos."
+      }
+    ]
+  },
+  "band9-essay-37": {
+    "t": [
+      {
+        "l": "A educação online tornou-se cada vez mais popular.",
+        "c": "O ensino a distância está ganhando muito espaço e adesão nos dias atuais."
+      },
+      {
+        "l": "Quais são as vantagens e desvantagens do aprendizado online em comparação com a educação tradicional em sala de aula?",
+        "c": "Comparativo entre os pontos positivos e negativos do estudo virtual versus o presencial."
+      }
+    ]
+  },
+  "band9-essay-38": {
+    "t": [
+      {
+        "l": "A imigração tem efeitos tanto positivos quanto negativos nas economias dos países receptores.",
+        "c": "A entrada de estrangeiros impacta a economia local de formas variadas, boas e ruins."
+      },
+      {
+        "l": "Discuta ambas as visões e dê sua própria opinião.",
+        "c": "Avalie os diferentes pontos de vista e conclua com seu posicionamento."
+      }
+    ]
+  },
+  "79score-essay-01": {
+    "t": [
+      {
+        "l": "A tecnologia está tornando as pessoas menos sociáveis?",
+        "c": "Questiona se os avanços tecnológicos prejudicam as interações humanas reais."
+      },
+      {
+        "l": "Escreva uma dissertação de 200 a 300 palavras dando sua opinião com razões e exemplos.",
+        "c": "Instrução para redigir um texto argumentativo de tamanho médio sobre o tema proposto."
+      }
+    ]
+  },
+  "79score-essay-02": {
+    "t": [
+      {
+        "l": "Os alunos devem ser obrigados a usar uniformes?",
+        "c": "Pergunta sobre a obrigatoriedade de vestimenta escolar padronizada."
+      },
+      {
+        "l": "Escreva uma dissertação de 200 a 300 palavras dando sua opinião com razões e exemplos.",
+        "c": "Solicitação de um ensaio dissertativo fundamentado dentro de um limite de palavras."
+      }
+    ]
+  },
+  "la-essay-01": {
+    "t": [
+      {
+        "l": "Aprendizado online vs. sala de aula tradicional – qual é mais eficaz?",
+        "c": "Confronto entre métodos de ensino remoto e presencial para determinar a melhor eficácia."
+      },
+      {
+        "l": "Discuta ambas as visões e dê sua própria opinião.",
+        "c": "Debata as duas perspectivas e manifeste seu pensamento crítico."
+      }
+    ]
+  },
+  "la-essay-02": {
+    "t": [
+      {
+        "l": "A inteligência artificial fará mais bem ou mal à sociedade?",
+        "c": "Especulação sobre se a IA trará mais benefícios ou prejuízos para a humanidade."
+      },
+      {
+        "l": "Discuta ambas as visões e dê sua própria opinião.",
+        "c": "Análise dos riscos e benefícios da tecnologia, seguida de conclusão pessoal."
+      }
+    ]
+  },
+  "la-essay-03": {
+    "t": [
+      {
+        "l": "Os governos deveriam fornecer assistência médica gratuita?",
+        "c": "Debate sobre o papel do Estado em garantir saúde pública sem custos diretos ao cidadão."
+      },
+      {
+        "l": "Escreva uma dissertação de 200 a 300 palavras dando sua opinião com razões e exemplos.",
+        "c": "Tarefa de escrita para expressar um ponto de vista com argumentos e evidências."
+      }
+    ]
+  }
+}

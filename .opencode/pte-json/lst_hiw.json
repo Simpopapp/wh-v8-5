@@ -1,0 +1,81 @@
+{
+  "type": "lst_hiw",
+  "task_type": "Highlight Incorrect Words",
+  "section": "listening",
+  "total": 3,
+  "generated_at": "2026-10-05",
+  "questions": [
+    {
+      "id": "pte-lst_hi-bf40243b",
+      "type": "lst_hiw",
+      "task_type": "lst-hiw",
+      "section": "listening",
+      "prompt": "",
+      "text": "The Antarctic ice sheet has been losing mass at an accelerating rate since the early 1990s, with most of the loss concentrated in West Antarctica where warming ocean currents are eroding the floating ice shelves that buttress inland glaciers.",
+      "transcript": "The Antarctic ice sheet has been losing mass at an accelerating rate since the early 1990s, with most of the loss concentrated in West Antarctica where warming ocean currents are eroding the floating ice shelves that buttress inland glaciers.",
+      "audio_text": "The Antarctic ice sheet has been losing mass at an accelerating rate since the early 1990s, with most of the loss concentrated in West Antarctica where warming ocean currents are eroding the floating ice shelves that buttress inland glaciers.",
+      "content": "The Antarctic ice sheet has been losing mass at an accelerating rate since the early 1990s, with most of the loss concentrated in West Antarctica where warming ocean currents are eroding the floating ice shelves that buttress inland glaciers.",
+      "answer": "",
+      "source": "pteracai-seed",
+      "word_count": 39,
+      "errors": [
+        5,
+        12,
+        17,
+        19,
+        33
+      ],
+      "explanation": "Word 5 ('gaining' vs. 'losing'), word 12 ('1980s' vs. '1990s'), word 17 ('East' vs. 'West'), word 19 ('cooling' vs. 'warming'), and word 33 ('coastal' vs. 'inland') all differ between the transcript and the audio.",
+      "trap": "Read the transcript ahead and predict likely substitution points (dates, directions, polarity words). Highlight only what differed — over-highlighting incurs negative marking.",
+      "topic": "academic lecture"
+    },
+    {
+      "id": "pte-lst_hi-f01a6e63",
+      "type": "lst_hiw",
+      "task_type": "lst-hiw",
+      "section": "listening",
+      "prompt": "",
+      "text": "Anthropologists who study small-scale societies have documented a remarkable diversity of marriage and family arrangements, and the pattern that holds is not monogamy but flexibility: different communities adopt different rules in response to ecological pressure, resource scarcity, and historical contact with neighbours.",
+      "transcript": "Anthropologists who study small-scale societies have documented a remarkable diversity of marriage and family arrangements, and the pattern that holds is not monogamy but flexibility: different communities adopt different rules in response to ecological pressure, resource scarcity, and historical contact with neighbours.",
+      "audio_text": "Anthropologists who study small-scale societies have documented a remarkable diversity of marriage and family arrangements, and the pattern that holds is not monogamy but flexibility: different communities adopt different rules in response to ecological pressure, resource scarcity, and historical contact with neighbours.",
+      "content": "Anthropologists who study small-scale societies have documented a remarkable diversity of marriage and family arrangements, and the pattern that holds is not monogamy but flexibility: different communities adopt different rules in response to ecological pressure, resource scarcity, and historical contact with neighbours.",
+      "answer": "",
+      "source": "pteracai-seed",
+      "word_count": 42,
+      "errors": [
+        3,
+        9,
+        20,
+        24,
+        31,
+        34
+      ],
+      "explanation": "'large-scale' (vs. small-scale), 'uniformity' (vs. diversity), 'rigidity' (vs. flexibility), 'similar' (vs. different), 'abundance' (vs. scarcity), 'isolation' (vs. contact) all differ. The transcript reverses the polarity of nearly every claim.",
+      "trap": "Mass-polarity-reversal questions reward listeners who note the direction of every claim in the audio. Don't get distracted by the unchanged words — about 80% of the transcript matches, and your job is to spot the 20%.",
+      "topic": "academic lecture"
+    },
+    {
+      "id": "pte-lst_hi-d8a61e2e",
+      "type": "lst_hiw",
+      "task_type": "lst-hiw",
+      "section": "listening",
+      "prompt": "",
+      "text": "Renewable hydrogen is produced by passing electricity through water to split it into hydrogen and oxygen, a process called electrolysis. The hydrogen can then be stored, transported, and burned in fuel cells with water as the only emission, which makes it attractive for sectors like steel manufacturing and heavy transport that are difficult to electrify directly.",
+      "transcript": "Renewable hydrogen is produced by passing electricity through water to split it into hydrogen and oxygen, a process called electrolysis. The hydrogen can then be stored, transported, and burned in fuel cells with water as the only emission, which makes it attractive for sectors like steel manufacturing and heavy transport that are difficult to electrify directly.",
+      "audio_text": "Renewable hydrogen is produced by passing electricity through water to split it into hydrogen and oxygen, a process called electrolysis. The hydrogen can then be stored, transported, and burned in fuel cells with water as the only emission, which makes it attractive for sectors like steel manufacturing and heavy transport that are difficult to electrify directly.",
+      "content": "Renewable hydrogen is produced by passing electricity through water to split it into hydrogen and oxygen, a process called electrolysis. The hydrogen can then be stored, transported, and burned in fuel cells with water as the only emission, which makes it attractive for sectors like steel manufacturing and heavy transport that are difficult to electrify directly.",
+      "answer": "",
+      "source": "pteracai-seed",
+      "word_count": 56,
+      "errors": [
+        14,
+        27,
+        35,
+        38
+      ],
+      "explanation": "'nitrogen' (vs. oxygen), 'carbon' (vs. water), 'coal' (vs. steel), 'light' (vs. heavy) differ between the transcript and the spoken audio.",
+      "trap": "Three of the four substitutions are technically nonsensical (electrolysis doesn't produce nitrogen, fuel cells don't emit carbon). Domain knowledge helps you predict where the transcript is likely to be wrong, but always rely on what you actually hear.",
+      "topic": "academic lecture"
+    }
+  ]
+}

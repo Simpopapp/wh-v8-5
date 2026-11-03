@@ -1,0 +1,4 @@
+# Roadmap — S2 Home
+
+Fase A — Auditoria: mapear index.tsx, libs usadas (estimate, vocabCounts), composição atual em 390px. Gates: relatório com arquivo:linha.
+Fase B — Especificação: hero editorial, score-card, grid de seções clicável, cartão vocab + par, rodapé. Gates: spec com classes-alvo e decisão do segundo cartão registrada.

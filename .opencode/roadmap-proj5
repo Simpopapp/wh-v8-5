@@ -1,0 +1,32 @@
+# Roadmap — projeto 5 (consistência de métricas, SEO dinâmico e fechamento)
+
+Fonte: `.opencode/prd-project5.md` (← `.opencode/project5`). Gates por fase: vitest
+verde · tsgo limpo · build OK · lint 0 erros · preview :8080 (Playwright). Escopo único:
+números sempre derivados do manifesto + regra de prevenção + offline E2E. Nada mais.
+
+- [x] Fase 1 (P0) — Sincronização de números (UI + SEO)
+  - [x] index.tsx: head() (19 task types via TYPE_COUNT, 2.536 via TOTAL_ALL_QUESTIONS_LABEL),
+        parágrafo do hero, h1 e rodapé do hero dinâmicos (pt-BR; Describe Image permanece
+        como aviso manual — tipo fora do catálogo TYPE_META)
+  - [x] listening.tsx: head() com sectionCountLabel("listening") → 1.168
+  - [x] Auditoria: __root.tsx e progress.tsx também diziam "16 task types" → TYPE_COUNT
+  - Gates: vitest 195/195 · tsgo limpo · build OK · lint 0 erros · preview :8080 Playwright
+    (Home "2.536" em cabeçalho/cards/rodapé, sem "2.164"; Listening 1.168; console limpo)
+- [x] Fase 2 (P0) — Teste de sincronização
+  - [x] src/test/metrics-sync.test.ts: (a) TOTAL === allMeta.length; (b) soma
+        sectionCounts === TOTAL; (c) rotas sem strings proibidas ("2.164", "1.165",
+        "16 tipos", "16 task types", "2.000 questões")
+  - Gates: vitest 195/195 (181 + 14 novos) · tsgo limpo · build OK · lint 0 erros
+- [x] Fase 3 (P1) — Offline E2E (transferido do Projeto 3/4)
+  - [x] /tmp/browser/test_offline.py: carga normal (SW ativo) → set_offline → Home,
+        /listening e /practice?q=pte-wfd-002027ca via cache do sw.js — produção servida
+        via wrangler (SW só registra em PROD); screenshots + console limpo
+  - Gates: navegação offline sem falhas · console 0 erros
+- [x] Fase 4 (P1) — Fechamento
+  - [x] Gates globais completos (vitest · tsgo · build · lint · preview :8080 Playwright)
+  - [x] roadmap-proj4 Fase 4 marcada (contagem no PRD 4 §8; offline E2E executado aqui)
+  - [x] AGENTS.md: "Estado atual do projeto" preenchido
+  - [x] Monitor avisado ("remix finalizado (+4 fases do roadmap-proj5)") e usuário informado
+
+Regras: zero dependências novas de runtime; nenhuma mudança em motores/correção/SRS/
+dados; app 100% local (localStorage).

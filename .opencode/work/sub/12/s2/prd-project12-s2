@@ -1,0 +1,15 @@
+# PRD — S2 Home (projeto 12, PRD central §7.1)
+
+## Diagnóstico a confirmar
+- `index.tsx`: hero centrado texto-puro, grid de cards de borda fina idênticos, VocabCard isolado sem par, rodapé genérico, TargetStrip como parágrafo.
+
+## Escopo
+1. **Hero editorial**: selo de identidade (gradiente índigo), kicker, título Fraunces grande (com opsz/semibold), sub curto, CTAs (primário + secundário), `bg-glow` discreto.
+2. **Score-card de estimativa** (TargetStrip): número tabular grande + rótulo; só quando houver treino.
+3. **Grid de seções**: cartão inteiro clicável (Link wrapper), SectionIcon com cor da seção, contagem, meta de treino; hover com elevação (shadow-card → pop).
+4. **Cartão vivo de vocabulário**: contagens + revisões do dia em destaque tabular; segundo cartão ao lado (decisão: **Sessão de estudo rápida** — ações de treino > divulgação; registrar no relatório).
+5. **Rodapé institucional**: discreto, alinhado ao hero.
+
+## Critérios de aceite
+- Gates: vitest/tsgo/build/lint · Playwright em / (axe 0, 390×844, console limpo, desktop ok).
+- Nenhuma lib de dados muda; head() da rota preservado.

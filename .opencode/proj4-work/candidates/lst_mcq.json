@@ -1,0 +1,1052 @@
+[
+  {
+    "id": "goarno-lst_mcq-01",
+    "taskType": "lst_mcq",
+    "prompt": "Listen to the recording and answer the multiple-choice question.",
+    "text": "Sociologists have long observed how we display social status, famously using the term 'conspicuous consumption' to describe how the wealthy historically flaunted their leisure time as a sign of prestige. If you didn't have to work, you were effectively at the top of the hierarchy. However, in the contemporary economy, we are witnessing a fascinating reversal. Today, a lack of leisure time has become the new status symbol. We now observe 'conspicuous busyness,' where high-status individuals signal their importance not by how much free time they possess, but by how little. The implication is that if you are incredibly busy, your skills are in high demand, making you a scarce and valuable resource.",
+    "transcript": "Sociologists have long observed how we display social status, famously using the term 'conspicuous consumption' to describe how the wealthy historically flaunted their leisure time as a sign of prestige. If you didn't have to work, you were effectively at the top of the hierarchy. However, in the contemporary economy, we are witnessing a fascinating reversal. Today, a lack of leisure time has become the new status symbol. We now observe 'conspicuous busyness,' where high-status individuals signal their importance not by how much free time they possess, but by how little. The implication is that if you are incredibly busy, your skills are in high demand, making you a scarce and valuable resource.",
+    "audio_text": "Sociologists have long observed how we display social status, famously using the term 'conspicuous consumption' to describe how the wealthy historically flaunted their leisure time as a sign of prestige. If you didn't have to work, you were effectively at the top of the hierarchy. However, in the contemporary economy, we are witnessing a fascinating reversal. Today, a lack of leisure time has become the new status symbol. We now observe 'conspicuous busyness,' where high-status individuals signal their importance not by how much free time they possess, but by how little. The implication is that if you are incredibly busy, your skills are in high demand, making you a scarce and valuable resource.",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "It is now defined by the ability to avoid working entirely",
+      "It has shifted from displaying leisure to demonstrating a lack of free time",
+      "It relies more heavily on the consumption of luxury material goods",
+      "It focuses on maximizing leisure time to show wealth"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_mcq-02",
+    "taskType": "lst_mcq",
+    "prompt": "Listen to the recording and answer the multiple-choice question.",
+    "text": "Many assume that human memory functions like a video camera, faithfully recording events as they unfold and archiving them for later playback. In reality, psychological research demonstrates that memory is fundamentally reconstructive. When we retrieve a memory, we aren't replaying a file; we are actively rebuilding the event from fragmented data points stored across different neural networks. Since these fragments are often incomplete, our brains unconsciously fill in the missing pieces with plausible details or current knowledge. This reconstructive nature implies that our recollections are susceptible to distortion, which is why eyewitness accounts can sometimes be inaccurate, especially when influenced by external suggestions or subsequent information.",
+    "transcript": "Many assume that human memory functions like a video camera, faithfully recording events as they unfold and archiving them for later playback. In reality, psychological research demonstrates that memory is fundamentally reconstructive. When we retrieve a memory, we aren't replaying a file; we are actively rebuilding the event from fragmented data points stored across different neural networks. Since these fragments are often incomplete, our brains unconsciously fill in the missing pieces with plausible details or current knowledge. This reconstructive nature implies that our recollections are susceptible to distortion, which is why eyewitness accounts can sometimes be inaccurate, especially when influenced by external suggestions or subsequent information.",
+    "audio_text": "Many assume that human memory functions like a video camera, faithfully recording events as they unfold and archiving them for later playback. In reality, psychological research demonstrates that memory is fundamentally reconstructive. When we retrieve a memory, we aren't replaying a file; we are actively rebuilding the event from fragmented data points stored across different neural networks. Since these fragments are often incomplete, our brains unconsciously fill in the missing pieces with plausible details or current knowledge. This reconstructive nature implies that our recollections are susceptible to distortion, which is why eyewitness accounts can sometimes be inaccurate, especially when influenced by external suggestions or subsequent information.",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "It is a passive process that records events exactly as they happen",
+      "It involves piecing together fragments and filling in gaps",
+      "It is consistently accurate regardless of external influences",
+      "It stores complete events in a single area of the brain"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_mcq-03",
+    "taskType": "lst_mcq",
+    "prompt": "Listen to the recording and answer the multiple-choice question.",
+    "text": "In the academic world, there is a significant bias toward publishing positive results—experiments that prove a hypothesis correct. However, this tendency often overlooks the immense value of negative results. When a researcher fails to find a significant link between two variables, or when an experiment does not go as planned, that data is still vital. It prevents other scientists from wasting resources repeating the same dead-end paths. Furthermore, analyzing why an approach failed often leads to deeper theoretical understanding than a straightforward success would. Therefore, encouraging the dissemination of these so-called 'failures' is essential for a more efficient and transparent scientific community, ensuring that the collective knowledge base is comprehensive rather than just selectively successful.",
+    "transcript": "In the academic world, there is a significant bias toward publishing positive results—experiments that prove a hypothesis correct. However, this tendency often overlooks the immense value of negative results. When a researcher fails to find a significant link between two variables, or when an experiment does not go as planned, that data is still vital. It prevents other scientists from wasting resources repeating the same dead-end paths. Furthermore, analyzing why an approach failed often leads to deeper theoretical understanding than a straightforward success would. Therefore, encouraging the dissemination of these so-called 'failures' is essential for a more efficient and transparent scientific community, ensuring that the collective knowledge base is comprehensive rather than just selectively successful.",
+    "audio_text": "In the academic world, there is a significant bias toward publishing positive results—experiments that prove a hypothesis correct. However, this tendency often overlooks the immense value of negative results. When a researcher fails to find a significant link between two variables, or when an experiment does not go as planned, that data is still vital. It prevents other scientists from wasting resources repeating the same dead-end paths. Furthermore, analyzing why an approach failed often leads to deeper theoretical understanding than a straightforward success would. Therefore, encouraging the dissemination of these so-called 'failures' is essential for a more efficient and transparent scientific community, ensuring that the collective knowledge base is comprehensive rather than just selectively successful.",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "It proves that the original hypothesis was correctly formulated.",
+      "It helps other researchers avoid duplicating unsuccessful work.",
+      "It guarantees that future experiments will yield positive outcomes.",
+      "It is the primary way to secure funding for scientific projects."
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_mcq-04",
+    "taskType": "lst_mcq",
+    "prompt": "Listen to the recording and answer the multiple-choice question.",
+    "text": "In contemporary research, we frequently see a drive toward interdisciplinary work, merging fields like computer science and the humanities. While this approach is celebrated for generating innovative problem-solving strategies, it introduces a significant friction point: the compatibility of methodologies. A major issue arises because scholars are conditioned by their specific disciplines to value different types of verification. For instance, a quantitative analyst prioritizes statistical robustness, while an ethnographer values subjective narrative depth. Therefore, before any actual discovery can occur, these teams must often dedicate substantial time simply to negotiating a common framework for what qualifies as reliable data.",
+    "transcript": "In contemporary research, we frequently see a drive toward interdisciplinary work, merging fields like computer science and the humanities. While this approach is celebrated for generating innovative problem-solving strategies, it introduces a significant friction point: the compatibility of methodologies. A major issue arises because scholars are conditioned by their specific disciplines to value different types of verification. For instance, a quantitative analyst prioritizes statistical robustness, while an ethnographer values subjective narrative depth. Therefore, before any actual discovery can occur, these teams must often dedicate substantial time simply to negotiating a common framework for what qualifies as reliable data.",
+    "audio_text": "In contemporary research, we frequently see a drive toward interdisciplinary work, merging fields like computer science and the humanities. While this approach is celebrated for generating innovative problem-solving strategies, it introduces a significant friction point: the compatibility of methodologies. A major issue arises because scholars are conditioned by their specific disciplines to value different types of verification. For instance, a quantitative analyst prioritizes statistical robustness, while an ethnographer values subjective narrative depth. Therefore, before any actual discovery can occur, these teams must often dedicate substantial time simply to negotiating a common framework for what qualifies as reliable data.",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "The inability to generate innovative strategies for problem-solving",
+      "The conflict between differing standards of evidence and verification",
+      "The tendency for quantitative analysis to overshadow narrative depth",
+      "The lack of available subjects for ethnographic study"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_mcq-05",
+    "taskType": "lst_mcq",
+    "prompt": "Listen to the recording and answer the multiple-choice question.",
+    "text": "When we examine the concept of success across different cultures, we see a distinct divergence in priorities. In individualistic societies, success is frequently viewed as a personal trajectory—standing out, achieving autonomy, and accumulating accolades. Conversely, in many collectivist cultures, the definition shifts. Here, success is less about rising above the crowd and more about the ability to fulfill one's role within the social fabric, maintaining harmony, and contributing to the family's standing. It’s not that personal achievement is disregarded, but rather that it is validated primarily through the lens of group cohesion. Consequently, someone who achieves significant wealth but alienates their community might actually be viewed as unsuccessful in these contexts.",
+    "transcript": "When we examine the concept of success across different cultures, we see a distinct divergence in priorities. In individualistic societies, success is frequently viewed as a personal trajectory—standing out, achieving autonomy, and accumulating accolades. Conversely, in many collectivist cultures, the definition shifts. Here, success is less about rising above the crowd and more about the ability to fulfill one's role within the social fabric, maintaining harmony, and contributing to the family's standing. It’s not that personal achievement is disregarded, but rather that it is validated primarily through the lens of group cohesion. Consequently, someone who achieves significant wealth but alienates their community might actually be viewed as unsuccessful in these contexts.",
+    "audio_text": "When we examine the concept of success across different cultures, we see a distinct divergence in priorities. In individualistic societies, success is frequently viewed as a personal trajectory—standing out, achieving autonomy, and accumulating accolades. Conversely, in many collectivist cultures, the definition shifts. Here, success is less about rising above the crowd and more about the ability to fulfill one's role within the social fabric, maintaining harmony, and contributing to the family's standing. It’s not that personal achievement is disregarded, but rather that it is validated primarily through the lens of group cohesion. Consequently, someone who achieves significant wealth but alienates their community might actually be viewed as unsuccessful in these contexts.",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "By the degree of personal autonomy and independence one achieves",
+      "By the ability to stand out from others through accumulation of wealth",
+      "By the contribution to group harmony and fulfillment of social roles",
+      "By the total rejection of personal achievement in favor of family reputation"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_mcq-06",
+    "taskType": "lst_mcq",
+    "prompt": "Listen to the recording and answer the multiple-choice question.",
+    "text": "When we observe high achievers, we typically assume their success stems from innate genius. Yet, psychology suggests that 'grit'—a blend of passion and perseverance—is a far more reliable predictor of long-term results. Unlike simple intensity, grit involves working towards a singular objective for years, not just weeks. Interestingly, data indicates that talent and grit are often unconnected. People with modest natural aptitude frequently develop stronger work habits to compensate, ultimately allowing them to overtake naturally gifted peers who may rely too heavily on their intellect and quit when things get difficult.",
+    "transcript": "When we observe high achievers, we typically assume their success stems from innate genius. Yet, psychology suggests that 'grit'—a blend of passion and perseverance—is a far more reliable predictor of long-term results. Unlike simple intensity, grit involves working towards a singular objective for years, not just weeks. Interestingly, data indicates that talent and grit are often unconnected. People with modest natural aptitude frequently develop stronger work habits to compensate, ultimately allowing them to overtake naturally gifted peers who may rely too heavily on their intellect and quit when things get difficult.",
+    "audio_text": "When we observe high achievers, we typically assume their success stems from innate genius. Yet, psychology suggests that 'grit'—a blend of passion and perseverance—is a far more reliable predictor of long-term results. Unlike simple intensity, grit involves working towards a singular objective for years, not just weeks. Interestingly, data indicates that talent and grit are often unconnected. People with modest natural aptitude frequently develop stronger work habits to compensate, ultimately allowing them to overtake naturally gifted peers who may rely too heavily on their intellect and quit when things get difficult.",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "Innate genius is the sole determinant of high achievement",
+      "Persistence can allow less talented people to surpass gifted ones",
+      "Gifted individuals typically lack the passion required for success",
+      "Talent and grit are usually positively correlated traits"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_mcq-07",
+    "taskType": "lst_mcq",
+    "prompt": "Listen to the recording and answer the multiple-choice question.",
+    "text": "One of the most persistent myths in our professional lives is the belief that hitting the next big milestone will permanently alter our sense of well-being. We often convince ourselves that once we secure that senior management role or purchase a larger property, we will finally be satisfied. However, psychologists point to a phenomenon known as the hedonic treadmill. This concept explains that while we do experience a surge of joy following a major achievement, it is surprisingly short-lived. Humans are remarkably adaptable; we quickly acclimatize to improved circumstances, and our expectations simply shift upward. Consequently, our baseline level of happiness remains largely unchanged despite significant external improvements, challenging the logic behind our endless pursuit of status.",
+    "transcript": "One of the most persistent myths in our professional lives is the belief that hitting the next big milestone will permanently alter our sense of well-being. We often convince ourselves that once we secure that senior management role or purchase a larger property, we will finally be satisfied. However, psychologists point to a phenomenon known as the hedonic treadmill. This concept explains that while we do experience a surge of joy following a major achievement, it is surprisingly short-lived. Humans are remarkably adaptable; we quickly acclimatize to improved circumstances, and our expectations simply shift upward. Consequently, our baseline level of happiness remains largely unchanged despite significant external improvements, challenging the logic behind our endless pursuit of status.",
+    "audio_text": "One of the most persistent myths in our professional lives is the belief that hitting the next big milestone will permanently alter our sense of well-being. We often convince ourselves that once we secure that senior management role or purchase a larger property, we will finally be satisfied. However, psychologists point to a phenomenon known as the hedonic treadmill. This concept explains that while we do experience a surge of joy following a major achievement, it is surprisingly short-lived. Humans are remarkably adaptable; we quickly acclimatize to improved circumstances, and our expectations simply shift upward. Consequently, our baseline level of happiness remains largely unchanged despite significant external improvements, challenging the logic behind our endless pursuit of status.",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "They permanently maintain a higher level of satisfaction",
+      "They eventually return to their previous level of happiness",
+      "They lose interest in pursuing further professional success",
+      "They realize that their previous expectations were set too low"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_mcq-08",
+    "taskType": "lst_mcq",
+    "prompt": "Listen to the recording and answer the multiple-choice question.",
+    "text": "One of the most striking phenomena in the field of perception is what psychologists call inattentional blindness. This occurs when an individual fails to perceive an unexpected stimulus that is in plain sight, purely because their attention is engaged on another specific task. In a classic demonstration, participants were asked to track moving objects on a screen. While they were busy counting interactions, a distinct shape drifted right through the middle of the display. Remarkably, a significant portion of the viewers simply did not see it. This suggests that conscious perception is not just about the visual information hitting the retina; it requires active attention. The implications are profound, particularly for high-stakes activities like driving, where focusing intently on navigation might cause a driver to completely overlook a pedestrian.",
+    "transcript": "One of the most striking phenomena in the field of perception is what psychologists call inattentional blindness. This occurs when an individual fails to perceive an unexpected stimulus that is in plain sight, purely because their attention is engaged on another specific task. In a classic demonstration, participants were asked to track moving objects on a screen. While they were busy counting interactions, a distinct shape drifted right through the middle of the display. Remarkably, a significant portion of the viewers simply did not see it. This suggests that conscious perception is not just about the visual information hitting the retina; it requires active attention. The implications are profound, particularly for high-stakes activities like driving, where focusing intently on navigation might cause a driver to completely overlook a pedestrian.",
+    "audio_text": "One of the most striking phenomena in the field of perception is what psychologists call inattentional blindness. This occurs when an individual fails to perceive an unexpected stimulus that is in plain sight, purely because their attention is engaged on another specific task. In a classic demonstration, participants were asked to track moving objects on a screen. While they were busy counting interactions, a distinct shape drifted right through the middle of the display. Remarkably, a significant portion of the viewers simply did not see it. This suggests that conscious perception is not just about the visual information hitting the retina; it requires active attention. The implications are profound, particularly for high-stakes activities like driving, where focusing intently on navigation might cause a driver to completely overlook a pedestrian.",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "It is immune to errors when objects are large and distinct",
+      "It relies heavily on where mental focus is directed",
+      "It is primarily determined by the physical quality of eyesight",
+      "It improves significantly when tracking multiple moving objects"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_mcq-09",
+    "taskType": "lst_mcq",
+    "prompt": "Listen to the recording and answer the multiple-choice question.",
+    "text": "When we analyze high achievers, we often fall into a specific cognitive pattern. We tend to ascribe the success of others primarily to their innate talent or relentless work ethic—essentially, internal qualities. However, sociologists argue that we frequently underestimate situational advantages, such as timing and accumulated opportunity. It’s comforting to believe that meritocracy is absolute, implying that the best always rise to the top solely through grit. Yet, evidence suggests that while skill is necessary, it is rarely sufficient without the multiplier effect of fortunate circumstances. This perception gap leads us to overvalue individual agency while ignoring the structural or random elements that actually facilitated their ascent.",
+    "transcript": "When we analyze high achievers, we often fall into a specific cognitive pattern. We tend to ascribe the success of others primarily to their innate talent or relentless work ethic—essentially, internal qualities. However, sociologists argue that we frequently underestimate situational advantages, such as timing and accumulated opportunity. It’s comforting to believe that meritocracy is absolute, implying that the best always rise to the top solely through grit. Yet, evidence suggests that while skill is necessary, it is rarely sufficient without the multiplier effect of fortunate circumstances. This perception gap leads us to overvalue individual agency while ignoring the structural or random elements that actually facilitated their ascent.",
+    "audio_text": "When we analyze high achievers, we often fall into a specific cognitive pattern. We tend to ascribe the success of others primarily to their innate talent or relentless work ethic—essentially, internal qualities. However, sociologists argue that we frequently underestimate situational advantages, such as timing and accumulated opportunity. It’s comforting to believe that meritocracy is absolute, implying that the best always rise to the top solely through grit. Yet, evidence suggests that while skill is necessary, it is rarely sufficient without the multiplier effect of fortunate circumstances. This perception gap leads us to overvalue individual agency while ignoring the structural or random elements that actually facilitated their ascent.",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "They believe that luck is the primary driver of achievement",
+      "They focus too heavily on personal traits rather than external factors",
+      "They assume that hard work alone is never enough to succeed",
+      "They think that innate talent is less important than timing"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_mcq-10",
+    "taskType": "lst_mcq",
+    "prompt": "Listen to the recording and answer the multiple-choice question.",
+    "text": "Historically, the primary hurdle for any researcher was the physical acquisition of texts; one could spend weeks just locating a specific manuscript. In the digital era, however, we encounter the inverse predicament: an excessive abundance of accessible data. The defining skill for contemporary scholars is no longer the mere retrieval of information, but rather the capacity to filter and critically evaluate the sheer volume of material available instantly. This transition demands a fundamental change in approach. Success now depends on discernment—specifically, the ability to distinguish credible, relevant evidence from the vast background noise of the internet, rather than simply gathering as much data as possible.",
+    "transcript": "Historically, the primary hurdle for any researcher was the physical acquisition of texts; one could spend weeks just locating a specific manuscript. In the digital era, however, we encounter the inverse predicament: an excessive abundance of accessible data. The defining skill for contemporary scholars is no longer the mere retrieval of information, but rather the capacity to filter and critically evaluate the sheer volume of material available instantly. This transition demands a fundamental change in approach. Success now depends on discernment—specifically, the ability to distinguish credible, relevant evidence from the vast background noise of the internet, rather than simply gathering as much data as possible.",
+    "audio_text": "Historically, the primary hurdle for any researcher was the physical acquisition of texts; one could spend weeks just locating a specific manuscript. In the digital era, however, we encounter the inverse predicament: an excessive abundance of accessible data. The defining skill for contemporary scholars is no longer the mere retrieval of information, but rather the capacity to filter and critically evaluate the sheer volume of material available instantly. This transition demands a fundamental change in approach. Success now depends on discernment—specifically, the ability to distinguish credible, relevant evidence from the vast background noise of the internet, rather than simply gathering as much data as possible.",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "Researchers must focus on locating scarce physical resources.",
+      "The priority has shifted from finding data to evaluating its relevance.",
+      "Digital tools have made it more difficult to retrieve information.",
+      "Scholars are gathering less data than they did in the past."
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_mcq-11",
+    "taskType": "lst_mcq",
+    "prompt": "Listen to the recording and answer the multiple-choice question.",
+    "text": "When we present participants with a list of words to memorize and then ask them to recall as many as possible, a distinct pattern emerges known as the serial position effect. Typically, individuals are much better at recalling words from the beginning and the end of the list, while forgetting those in the middle. The improved recall for the first few items, called the primacy effect, occurs because these words receive more attention and rehearsal, allowing them to shift into long-term memory. In contrast, the recency effect—remembering the last items—happens because those words are still active in short-term working memory. Consequently, the middle items are often lost as they are neither rehearsed enough for long-term storage nor recent enough to remain in short-term memory.",
+    "transcript": "When we present participants with a list of words to memorize and then ask them to recall as many as possible, a distinct pattern emerges known as the serial position effect. Typically, individuals are much better at recalling words from the beginning and the end of the list, while forgetting those in the middle. The improved recall for the first few items, called the primacy effect, occurs because these words receive more attention and rehearsal, allowing them to shift into long-term memory. In contrast, the recency effect—remembering the last items—happens because those words are still active in short-term working memory. Consequently, the middle items are often lost as they are neither rehearsed enough for long-term storage nor recent enough to remain in short-term memory.",
+    "audio_text": "When we present participants with a list of words to memorize and then ask them to recall as many as possible, a distinct pattern emerges known as the serial position effect. Typically, individuals are much better at recalling words from the beginning and the end of the list, while forgetting those in the middle. The improved recall for the first few items, called the primacy effect, occurs because these words receive more attention and rehearsal, allowing them to shift into long-term memory. In contrast, the recency effect—remembering the last items—happens because those words are still active in short-term working memory. Consequently, the middle items are often lost as they are neither rehearsed enough for long-term storage nor recent enough to remain in short-term memory.",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "They remain active in short-term working memory immediately after the test.",
+      "They have been successfully transferred to long-term memory via rehearsal.",
+      "They are naturally more distinct and interesting than items in the middle.",
+      "The brain prioritizes them before fatigue sets in during the task."
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_mcq-12",
+    "taskType": "lst_mcq",
+    "prompt": "Listen to the recording and answer the multiple-choice question.",
+    "text": "In the realm of nonverbal communication, there is a fascinating phenomenon known as 'mirroring' or 'postural echo.' This occurs when two people in conversation subconsciously imitate each other’s gestures, body language, or speech patterns. Unlike displays of dominance where one might expand their physical space, mirroring serves as a signal of empathy and rapport. Research suggests that when we mirror someone, we are essentially communicating that we share their perspective. However, while this behavior often happens naturally during positive interactions, deliberate mimicking can be risky. If a person consciously copies another’s movements too precisely, it often feels unnatural to the observer. Instead of building trust, this artificial imitation can actually trigger suspicion or discomfort, breaking the very connection the speaker intends to forge.",
+    "transcript": "In the realm of nonverbal communication, there is a fascinating phenomenon known as 'mirroring' or 'postural echo.' This occurs when two people in conversation subconsciously imitate each other’s gestures, body language, or speech patterns. Unlike displays of dominance where one might expand their physical space, mirroring serves as a signal of empathy and rapport. Research suggests that when we mirror someone, we are essentially communicating that we share their perspective. However, while this behavior often happens naturally during positive interactions, deliberate mimicking can be risky. If a person consciously copies another’s movements too precisely, it often feels unnatural to the observer. Instead of building trust, this artificial imitation can actually trigger suspicion or discomfort, breaking the very connection the speaker intends to forge.",
+    "audio_text": "In the realm of nonverbal communication, there is a fascinating phenomenon known as 'mirroring' or 'postural echo.' This occurs when two people in conversation subconsciously imitate each other’s gestures, body language, or speech patterns. Unlike displays of dominance where one might expand their physical space, mirroring serves as a signal of empathy and rapport. Research suggests that when we mirror someone, we are essentially communicating that we share their perspective. However, while this behavior often happens naturally during positive interactions, deliberate mimicking can be risky. If a person consciously copies another’s movements too precisely, it often feels unnatural to the observer. Instead of building trust, this artificial imitation can actually trigger suspicion or discomfort, breaking the very connection the speaker intends to forge.",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "It effectively demonstrates authority and dominance",
+      "It makes the observer feel suspicious or uncomfortable",
+      "It guarantees a stronger emotional bond between speakers",
+      "It encourages the listener to expand their physical space"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_mcq-13",
+    "taskType": "lst_mcq",
+    "prompt": "Listen to the recording and answer the multiple-choice question.",
+    "text": "We often convince ourselves that reaching the next milestone, whether it's a promotion or a new home, will permanently transform our lives. However, psychologists have found that this anticipated joy is usually transient. This phenomenon is often referred to as the hedonic treadmill. Essentially, as our standard of living improves, our expectations inflate to match the new reality. Consequently, after a brief period of excitement, we drift back to our established baseline of happiness. We continue chasing new achievements, yet in terms of overall well-being, we remain relatively stationary.",
+    "transcript": "We often convince ourselves that reaching the next milestone, whether it's a promotion or a new home, will permanently transform our lives. However, psychologists have found that this anticipated joy is usually transient. This phenomenon is often referred to as the hedonic treadmill. Essentially, as our standard of living improves, our expectations inflate to match the new reality. Consequently, after a brief period of excitement, we drift back to our established baseline of happiness. We continue chasing new achievements, yet in terms of overall well-being, we remain relatively stationary.",
+    "audio_text": "We often convince ourselves that reaching the next milestone, whether it's a promotion or a new home, will permanently transform our lives. However, psychologists have found that this anticipated joy is usually transient. This phenomenon is often referred to as the hedonic treadmill. Essentially, as our standard of living improves, our expectations inflate to match the new reality. Consequently, after a brief period of excitement, we drift back to our established baseline of happiness. We continue chasing new achievements, yet in terms of overall well-being, we remain relatively stationary.",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "People naturally lower their expectations over time",
+      "Individuals eventually adapt to their improved circumstances",
+      "The stress of maintaining success outweighs the benefits",
+      "Most goals are not challenging enough to provide satisfaction"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_mcq-14",
+    "taskType": "lst_mcq",
+    "prompt": "Listen to the recording and answer the multiple-choice question.",
+    "text": "Traditionally, a researcher’s primary challenge was locating scarce information, often requiring physical travel to specialized archives. Today, however, we face the inverse problem: an abundance of accessible data. For modern students, the critical skill set has shifted from mere retrieval to rigorous evaluation. It is no longer sufficient to simply find a source; one must now possess the analytical capability to assess the credibility, bias, and authority of that source. Consequently, educators are placing less emphasis on the mechanics of search strategies and more on the cognitive processes involved in discerning valid academic evidence from the noise of unverified digital content.",
+    "transcript": "Traditionally, a researcher’s primary challenge was locating scarce information, often requiring physical travel to specialized archives. Today, however, we face the inverse problem: an abundance of accessible data. For modern students, the critical skill set has shifted from mere retrieval to rigorous evaluation. It is no longer sufficient to simply find a source; one must now possess the analytical capability to assess the credibility, bias, and authority of that source. Consequently, educators are placing less emphasis on the mechanics of search strategies and more on the cognitive processes involved in discerning valid academic evidence from the noise of unverified digital content.",
+    "audio_text": "Traditionally, a researcher’s primary challenge was locating scarce information, often requiring physical travel to specialized archives. Today, however, we face the inverse problem: an abundance of accessible data. For modern students, the critical skill set has shifted from mere retrieval to rigorous evaluation. It is no longer sufficient to simply find a source; one must now possess the analytical capability to assess the credibility, bias, and authority of that source. Consequently, educators are placing less emphasis on the mechanics of search strategies and more on the cognitive processes involved in discerning valid academic evidence from the noise of unverified digital content.",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "Moving from finding information to evaluating its quality",
+      "Mastering the mechanical strategies of search engines",
+      "Overcoming the scarcity of physical archival materials",
+      "Increasing the volume of data retrieved for projects"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_mcq-15",
+    "taskType": "lst_mcq",
+    "prompt": "Listen to the recording and answer the multiple-choice question.",
+    "text": "We often operate under the assumption that memory works like a recording device, capturing events exactly as they unfold and archiving them for future reference. Yet, decades of cognitive research paint a different picture; memory is inherently reconstructive. When we retrieve a memory, we aren't just playing back a file; we are piecing together fragments of information based on our current schemas and beliefs. This malleability means that external factors, such as the phrasing of a question or post-event information, can significantly alter our recollection. Therefore, vividness or confidence in a memory does not necessarily equate to accuracy, as the mind often fills in gaps to create a coherent, though potentially flawed, narrative.",
+    "transcript": "We often operate under the assumption that memory works like a recording device, capturing events exactly as they unfold and archiving them for future reference. Yet, decades of cognitive research paint a different picture; memory is inherently reconstructive. When we retrieve a memory, we aren't just playing back a file; we are piecing together fragments of information based on our current schemas and beliefs. This malleability means that external factors, such as the phrasing of a question or post-event information, can significantly alter our recollection. Therefore, vividness or confidence in a memory does not necessarily equate to accuracy, as the mind often fills in gaps to create a coherent, though potentially flawed, narrative.",
+    "audio_text": "We often operate under the assumption that memory works like a recording device, capturing events exactly as they unfold and archiving them for future reference. Yet, decades of cognitive research paint a different picture; memory is inherently reconstructive. When we retrieve a memory, we aren't just playing back a file; we are piecing together fragments of information based on our current schemas and beliefs. This malleability means that external factors, such as the phrasing of a question or post-event information, can significantly alter our recollection. Therefore, vividness or confidence in a memory does not necessarily equate to accuracy, as the mind often fills in gaps to create a coherent, though potentially flawed, narrative.",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "It is a passive process similar to replaying a video recording",
+      "It involves synthesizing details and can be influenced by external cues",
+      "It is generally immune to distortion unless the brain is physically damaged",
+      "It relies solely on the emotional intensity of the original event"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_mcq-16",
+    "taskType": "lst_mcq",
+    "prompt": "Listen to the recording and answer the multiple-choice question.",
+    "text": "One specific cognitive bias that heavily impacts our social judgments is the halo effect. This is the tendency for an impression created in one area to influence our opinion in another area. For instance, if a person is physically attractive or speaks very fluently, we subconsciously assume they are also intelligent and trustworthy. Now, in a business context, this can be quite problematic. Recruiters might favor a candidate who presents well over one who actually possesses the requisite technical expertise. The result is that companies often promote individuals based on charisma rather than competence, which can lead to significant leadership failures down the line when actual substance is needed to solve complex problems.",
+    "transcript": "One specific cognitive bias that heavily impacts our social judgments is the halo effect. This is the tendency for an impression created in one area to influence our opinion in another area. For instance, if a person is physically attractive or speaks very fluently, we subconsciously assume they are also intelligent and trustworthy. Now, in a business context, this can be quite problematic. Recruiters might favor a candidate who presents well over one who actually possesses the requisite technical expertise. The result is that companies often promote individuals based on charisma rather than competence, which can lead to significant leadership failures down the line when actual substance is needed to solve complex problems.",
+    "audio_text": "One specific cognitive bias that heavily impacts our social judgments is the halo effect. This is the tendency for an impression created in one area to influence our opinion in another area. For instance, if a person is physically attractive or speaks very fluently, we subconsciously assume they are also intelligent and trustworthy. Now, in a business context, this can be quite problematic. Recruiters might favor a candidate who presents well over one who actually possesses the requisite technical expertise. The result is that companies often promote individuals based on charisma rather than competence, which can lead to significant leadership failures down the line when actual substance is needed to solve complex problems.",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "It causes recruiters to ignore candidates who are articulate.",
+      "It results in the promotion of competent but uncharismatic leaders.",
+      "It leads to prioritizing presentation over actual skill.",
+      "It makes physical attractiveness the only criterion for hiring."
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_mcq-17",
+    "taskType": "lst_mcq",
+    "prompt": "Listen to the recording and answer the multiple-choice question.",
+    "text": "When considering the evolution of research skills, we must recognize a fundamental shift in the landscape of information. Historically, the primary obstacle for a scholar was scarcity—simply locating the necessary texts or data sets. In the digital age, however, the challenge has inverted. We are now besieged by an excess of information, making the ability to filter and curate content the new premium skill. It is no longer enough to gather sources; one must efficiently discard the irrelevant and verify the credible. This sophisticated form of information management is arguably the most valuable transferable asset a researcher develops, as it applies directly to strategic planning and complex problem-solving in any professional environment.",
+    "transcript": "When considering the evolution of research skills, we must recognize a fundamental shift in the landscape of information. Historically, the primary obstacle for a scholar was scarcity—simply locating the necessary texts or data sets. In the digital age, however, the challenge has inverted. We are now besieged by an excess of information, making the ability to filter and curate content the new premium skill. It is no longer enough to gather sources; one must efficiently discard the irrelevant and verify the credible. This sophisticated form of information management is arguably the most valuable transferable asset a researcher develops, as it applies directly to strategic planning and complex problem-solving in any professional environment.",
+    "audio_text": "When considering the evolution of research skills, we must recognize a fundamental shift in the landscape of information. Historically, the primary obstacle for a scholar was scarcity—simply locating the necessary texts or data sets. In the digital age, however, the challenge has inverted. We are now besieged by an excess of information, making the ability to filter and curate content the new premium skill. It is no longer enough to gather sources; one must efficiently discard the irrelevant and verify the credible. This sophisticated form of information management is arguably the most valuable transferable asset a researcher develops, as it applies directly to strategic planning and complex problem-solving in any professional environment.",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "It has shifted from finding scarce information to evaluating an abundance of it.",
+      "It now requires more technical expertise to access digital archives than before.",
+      "It focuses less on problem-solving and more on gathering large datasets.",
+      "It has become difficult to apply academic skills to professional environments."
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_mcq-18",
+    "taskType": "lst_mcq",
+    "prompt": "Listen to the recording and answer the multiple-choice question.",
+    "text": "In the current digital landscape, the concept of research has evolved significantly. It is no longer sufficient to simply locate information, as the sheer volume of available data has made retrieval relatively easy. Instead, the focus has shifted to information literacy—specifically, the capacity to act as a filter. Modern researchers must distinguish credible evidence from noise, a challenge exacerbated by the democratization of publishing where findings are disseminated without rigorous peer review. Consequently, the most valuable research skill today is not the ability to find answers, but the judgment to evaluate the provenance and intent of the sources providing them. This critical assessment of validity is now the cornerstone of effective inquiry.",
+    "transcript": "In the current digital landscape, the concept of research has evolved significantly. It is no longer sufficient to simply locate information, as the sheer volume of available data has made retrieval relatively easy. Instead, the focus has shifted to information literacy—specifically, the capacity to act as a filter. Modern researchers must distinguish credible evidence from noise, a challenge exacerbated by the democratization of publishing where findings are disseminated without rigorous peer review. Consequently, the most valuable research skill today is not the ability to find answers, but the judgment to evaluate the provenance and intent of the sources providing them. This critical assessment of validity is now the cornerstone of effective inquiry.",
+    "audio_text": "In the current digital landscape, the concept of research has evolved significantly. It is no longer sufficient to simply locate information, as the sheer volume of available data has made retrieval relatively easy. Instead, the focus has shifted to information literacy—specifically, the capacity to act as a filter. Modern researchers must distinguish credible evidence from noise, a challenge exacerbated by the democratization of publishing where findings are disseminated without rigorous peer review. Consequently, the most valuable research skill today is not the ability to find answers, but the judgment to evaluate the provenance and intent of the sources providing them. This critical assessment of validity is now the cornerstone of effective inquiry.",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "The ability to rapidly retrieve large volumes of digital data",
+      "The judgment to assess the reliability and origin of information",
+      "The capacity to publish findings without traditional peer review",
+      "The technical skill to find direct answers to complex questions"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_mcq-19",
+    "taskType": "lst_mcq",
+    "prompt": "Listen to the recording and answer the multiple-choice question.",
+    "text": "Many novice researchers view negative results as a personal failure or a significant waste of resources. Yet, experienced practitioners understand that encountering dead ends is an intrinsic part of the discovery process. In a professional context, this experience is invaluable because it fosters resilience. When a hypothesis fails, a researcher must analyze the causes, adjust their variables, and attempt a new approach. This iterative cycle closely mirrors the problem-solving landscape of the modern workplace, where straightforward solutions are rare. Consequently, employers often prioritize candidates who can demonstrate that they have successfully navigated research setbacks, as this indicates they possess the adaptability necessary to manage complex, unpredictable projects.",
+    "transcript": "Many novice researchers view negative results as a personal failure or a significant waste of resources. Yet, experienced practitioners understand that encountering dead ends is an intrinsic part of the discovery process. In a professional context, this experience is invaluable because it fosters resilience. When a hypothesis fails, a researcher must analyze the causes, adjust their variables, and attempt a new approach. This iterative cycle closely mirrors the problem-solving landscape of the modern workplace, where straightforward solutions are rare. Consequently, employers often prioritize candidates who can demonstrate that they have successfully navigated research setbacks, as this indicates they possess the adaptability necessary to manage complex, unpredictable projects.",
+    "audio_text": "Many novice researchers view negative results as a personal failure or a significant waste of resources. Yet, experienced practitioners understand that encountering dead ends is an intrinsic part of the discovery process. In a professional context, this experience is invaluable because it fosters resilience. When a hypothesis fails, a researcher must analyze the causes, adjust their variables, and attempt a new approach. This iterative cycle closely mirrors the problem-solving landscape of the modern workplace, where straightforward solutions are rare. Consequently, employers often prioritize candidates who can demonstrate that they have successfully navigated research setbacks, as this indicates they possess the adaptability necessary to manage complex, unpredictable projects.",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "It proves they can eventually validate their original theories",
+      "It indicates they have the adaptability to handle complex tasks",
+      "It shows they are capable of avoiding future mistakes",
+      "It suggests they prefer clear and straightforward solutions"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_mcq-20",
+    "taskType": "lst_mcq",
+    "prompt": "Listen to the recording and answer the multiple-choice question.",
+    "text": "We frequently hear the narrative of the 'self-made' success story, suggesting that high achievement is purely the result of individual determination and skill. However, social scientists warn that this perspective is heavily biased. It tends to strip away the context of support systems—such as educational opportunities, economic stability, and social networks—that actually facilitate that rise to the top. When we attribute success solely to the individual, we inadvertently suggest that those who do not succeed are personally deficient, ignoring the structural inequalities they may face. Ultimately, while ambition is necessary, it is usually effective only when combined with favorable circumstances.",
+    "transcript": "We frequently hear the narrative of the 'self-made' success story, suggesting that high achievement is purely the result of individual determination and skill. However, social scientists warn that this perspective is heavily biased. It tends to strip away the context of support systems—such as educational opportunities, economic stability, and social networks—that actually facilitate that rise to the top. When we attribute success solely to the individual, we inadvertently suggest that those who do not succeed are personally deficient, ignoring the structural inequalities they may face. Ultimately, while ambition is necessary, it is usually effective only when combined with favorable circumstances.",
+    "audio_text": "We frequently hear the narrative of the 'self-made' success story, suggesting that high achievement is purely the result of individual determination and skill. However, social scientists warn that this perspective is heavily biased. It tends to strip away the context of support systems—such as educational opportunities, economic stability, and social networks—that actually facilitate that rise to the top. When we attribute success solely to the individual, we inadvertently suggest that those who do not succeed are personally deficient, ignoring the structural inequalities they may face. Ultimately, while ambition is necessary, it is usually effective only when combined with favorable circumstances.",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "It places too much emphasis on structural inequalities.",
+      "It fails to acknowledge the external support systems that aid success.",
+      "It discourages individuals from being ambitious or determined.",
+      "It suggests that economic stability is the only factor that matters."
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_mcq-21",
+    "taskType": "lst_mcq",
+    "prompt": "Listen to the recording and answer the multiple-choice question.",
+    "text": "Psychologists have long investigated why we sometimes struggle to recall information we know we have learned. One prominent concept is context-dependent memory, which suggests that when we encode new information, we also subconsciously record details about our physical surroundings, such as lighting or background noise. Later, these environmental cues act as powerful triggers. Research indicates that if you attempt to retrieve information in a setting that matches the original learning environment, your recall is significantly improved. Conversely, a mismatched context strips away these cues, potentially causing memory lapses. Consequently, for tasks like exam preparation, it is often recommended that students replicate the conditions of the test room during their study sessions, rather than choosing a comfortable but dissimilar location like a busy café.",
+    "transcript": "Psychologists have long investigated why we sometimes struggle to recall information we know we have learned. One prominent concept is context-dependent memory, which suggests that when we encode new information, we also subconsciously record details about our physical surroundings, such as lighting or background noise. Later, these environmental cues act as powerful triggers. Research indicates that if you attempt to retrieve information in a setting that matches the original learning environment, your recall is significantly improved. Conversely, a mismatched context strips away these cues, potentially causing memory lapses. Consequently, for tasks like exam preparation, it is often recommended that students replicate the conditions of the test room during their study sessions, rather than choosing a comfortable but dissimilar location like a busy café.",
+    "audio_text": "Psychologists have long investigated why we sometimes struggle to recall information we know we have learned. One prominent concept is context-dependent memory, which suggests that when we encode new information, we also subconsciously record details about our physical surroundings, such as lighting or background noise. Later, these environmental cues act as powerful triggers. Research indicates that if you attempt to retrieve information in a setting that matches the original learning environment, your recall is significantly improved. Conversely, a mismatched context strips away these cues, potentially causing memory lapses. Consequently, for tasks like exam preparation, it is often recommended that students replicate the conditions of the test room during their study sessions, rather than choosing a comfortable but dissimilar location like a busy café.",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "By ignoring environmental cues to focus solely on the material",
+      "By aligning their study conditions with the environment where they will be tested",
+      "By studying in environments that differ significantly from the test setting",
+      "By avoiding quiet rooms to prevent reliance on external triggers"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_mcq-22",
+    "taskType": "lst_mcq",
+    "prompt": "Listen to the recording and answer the multiple-choice question.",
+    "text": "Often, the stereotype of a researcher involves someone meticulously following a professor's instructions. However, the reality of conducting substantial research is defined by a high degree of autonomy. You aren't clocking in; you are managing your own milestones over months or years. This structural independence fosters a specific capability often overlooked: self-regulation. In today's landscape of remote work and decentralized teams, the ability to structure unstructured time is invaluable. Employers are increasingly recognizing that individuals with a research background don't just bring subject expertise; they bring the proven discipline to deliver results without constant managerial oversight. It is this capacity for self-directed workflow that often distinguishes them in a flexible corporate environment.",
+    "transcript": "Often, the stereotype of a researcher involves someone meticulously following a professor's instructions. However, the reality of conducting substantial research is defined by a high degree of autonomy. You aren't clocking in; you are managing your own milestones over months or years. This structural independence fosters a specific capability often overlooked: self-regulation. In today's landscape of remote work and decentralized teams, the ability to structure unstructured time is invaluable. Employers are increasingly recognizing that individuals with a research background don't just bring subject expertise; they bring the proven discipline to deliver results without constant managerial oversight. It is this capacity for self-directed workflow that often distinguishes them in a flexible corporate environment.",
+    "audio_text": "Often, the stereotype of a researcher involves someone meticulously following a professor's instructions. However, the reality of conducting substantial research is defined by a high degree of autonomy. You aren't clocking in; you are managing your own milestones over months or years. This structural independence fosters a specific capability often overlooked: self-regulation. In today's landscape of remote work and decentralized teams, the ability to structure unstructured time is invaluable. Employers are increasingly recognizing that individuals with a research background don't just bring subject expertise; they bring the proven discipline to deliver results without constant managerial oversight. It is this capacity for self-directed workflow that often distinguishes them in a flexible corporate environment.",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "They are accustomed to following strict schedules set by supervisors.",
+      "They possess the discipline to manage their own work independently.",
+      "They bring specialized technical knowledge that is rare in the corporate sector.",
+      "They have extensive experience using remote communication software."
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_mcq-23",
+    "taskType": "lst_mcq",
+    "prompt": "Listen to the recording and answer the multiple-choice question.",
+    "text": "In the pre-digital era, research was largely defined by the scarcity of information. The struggle was often just locating the right book or journal. Today, that dynamic has inverted. We face an abundance of information, and the sheer volume can be paralyzing. Consequently, the essential skill for a modern researcher isn't finding data, but filtering it. It involves distinguishing credible facts from unverified noise. Educators suggest we need to stop focusing on teaching students where to look, and instead teach them how to evaluate the validity of what they find. If we don't, this unlimited access becomes a hindrance rather than a help.",
+    "transcript": "In the pre-digital era, research was largely defined by the scarcity of information. The struggle was often just locating the right book or journal. Today, that dynamic has inverted. We face an abundance of information, and the sheer volume can be paralyzing. Consequently, the essential skill for a modern researcher isn't finding data, but filtering it. It involves distinguishing credible facts from unverified noise. Educators suggest we need to stop focusing on teaching students where to look, and instead teach them how to evaluate the validity of what they find. If we don't, this unlimited access becomes a hindrance rather than a help.",
+    "audio_text": "In the pre-digital era, research was largely defined by the scarcity of information. The struggle was often just locating the right book or journal. Today, that dynamic has inverted. We face an abundance of information, and the sheer volume can be paralyzing. Consequently, the essential skill for a modern researcher isn't finding data, but filtering it. It involves distinguishing credible facts from unverified noise. Educators suggest we need to stop focusing on teaching students where to look, and instead teach them how to evaluate the validity of what they find. If we don't, this unlimited access becomes a hindrance rather than a help.",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "Emphasizing the speed of digital data retrieval",
+      "Focusing on the critical assessment of information quality",
+      "Returning to traditional library-based search methods",
+      "Limiting the amount of online sources used in projects"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_mcq-24",
+    "taskType": "lst_mcq",
+    "prompt": "Listen to the recording and answer the multiple-choice question.",
+    "text": "Many assume memory functions like a video camera, faithfully recording events for later playback. Yet, psychological research reveals that memory is a reconstructive process, prone to distortion. In a pivotal study, subjects viewed a film of a car accident. Later, the specific verbs used in questioning significantly influenced their recollection. Participants asked how fast the cars were going when they 'smashed' into each other gave higher speed estimates than those who heard the word 'hit'. Moreover, the 'smashed' group falsely reported seeing broken glass. This indicates that the way we are questioned after an event can integrate misleading details into our original memory, effectively rewriting our past experiences.",
+    "transcript": "Many assume memory functions like a video camera, faithfully recording events for later playback. Yet, psychological research reveals that memory is a reconstructive process, prone to distortion. In a pivotal study, subjects viewed a film of a car accident. Later, the specific verbs used in questioning significantly influenced their recollection. Participants asked how fast the cars were going when they 'smashed' into each other gave higher speed estimates than those who heard the word 'hit'. Moreover, the 'smashed' group falsely reported seeing broken glass. This indicates that the way we are questioned after an event can integrate misleading details into our original memory, effectively rewriting our past experiences.",
+    "audio_text": "Many assume memory functions like a video camera, faithfully recording events for later playback. Yet, psychological research reveals that memory is a reconstructive process, prone to distortion. In a pivotal study, subjects viewed a film of a car accident. Later, the specific verbs used in questioning significantly influenced their recollection. Participants asked how fast the cars were going when they 'smashed' into each other gave higher speed estimates than those who heard the word 'hit'. Moreover, the 'smashed' group falsely reported seeing broken glass. This indicates that the way we are questioned after an event can integrate misleading details into our original memory, effectively rewriting our past experiences.",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "Human memory is as accurate as a video recording.",
+      "People are unable to recall details of traumatic accidents.",
+      "Post-event questioning can alter the memory of an event.",
+      "Visual perception is more reliable than verbal suggestion."
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_mcq-25",
+    "taskType": "lst_mcq",
+    "prompt": "Listen to the recording and answer the multiple-choice question.",
+    "text": "Novice researchers often view the literature review as merely a bureaucratic hurdle—a checklist to prove they have read the relevant texts. However, seasoned academics understand that its function is far more critical. It is not just a catalog of previous work, but a strategic map that identifies specific gaps in current knowledge. By synthesizing existing studies, a researcher demonstrates exactly where their new inquiry fits into the broader scholarly conversation. If a student skips this analytical synthesis and simply lists authors, they fail to justify why their own research is necessary in the first place. Effectively, the literature review provides the essential context that validates the significance of the entire project.",
+    "transcript": "Novice researchers often view the literature review as merely a bureaucratic hurdle—a checklist to prove they have read the relevant texts. However, seasoned academics understand that its function is far more critical. It is not just a catalog of previous work, but a strategic map that identifies specific gaps in current knowledge. By synthesizing existing studies, a researcher demonstrates exactly where their new inquiry fits into the broader scholarly conversation. If a student skips this analytical synthesis and simply lists authors, they fail to justify why their own research is necessary in the first place. Effectively, the literature review provides the essential context that validates the significance of the entire project.",
+    "audio_text": "Novice researchers often view the literature review as merely a bureaucratic hurdle—a checklist to prove they have read the relevant texts. However, seasoned academics understand that its function is far more critical. It is not just a catalog of previous work, but a strategic map that identifies specific gaps in current knowledge. By synthesizing existing studies, a researcher demonstrates exactly where their new inquiry fits into the broader scholarly conversation. If a student skips this analytical synthesis and simply lists authors, they fail to justify why their own research is necessary in the first place. Effectively, the literature review provides the essential context that validates the significance of the entire project.",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "To serve as a comprehensive list of all books read by the student",
+      "To highlight gaps in knowledge and establish the study's relevance",
+      "To satisfy administrative requirements for course completion",
+      "To summarize the biographies of leading authors in the field"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_mcq-26",
+    "taskType": "lst_mcq",
+    "prompt": "Listen to the recording and answer the multiple-choice question.",
+    "text": "In modern career counseling, there is a pervasive narrative often called the 'passion hypothesis.' This is the belief that the key to occupational happiness is matching your job to your pre-existing interests. While this sounds appealing, sociologists argue it can actually be quite dangerous. By prioritizing passion above all else, workers often accept lower wages or poorer working conditions, believing the emotional reward justifies the sacrifice. Furthermore, it implies that if you aren't thrilled by your daily tasks, your career is a failure. Historically, work was viewed primarily as a means to support one's life outside the office, not necessarily the source of one's identity.",
+    "transcript": "In modern career counseling, there is a pervasive narrative often called the 'passion hypothesis.' This is the belief that the key to occupational happiness is matching your job to your pre-existing interests. While this sounds appealing, sociologists argue it can actually be quite dangerous. By prioritizing passion above all else, workers often accept lower wages or poorer working conditions, believing the emotional reward justifies the sacrifice. Furthermore, it implies that if you aren't thrilled by your daily tasks, your career is a failure. Historically, work was viewed primarily as a means to support one's life outside the office, not necessarily the source of one's identity.",
+    "audio_text": "In modern career counseling, there is a pervasive narrative often called the 'passion hypothesis.' This is the belief that the key to occupational happiness is matching your job to your pre-existing interests. While this sounds appealing, sociologists argue it can actually be quite dangerous. By prioritizing passion above all else, workers often accept lower wages or poorer working conditions, believing the emotional reward justifies the sacrifice. Furthermore, it implies that if you aren't thrilled by your daily tasks, your career is a failure. Historically, work was viewed primarily as a means to support one's life outside the office, not necessarily the source of one's identity.",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "It encourages workers to tolerate lower pay or bad conditions",
+      "It causes people to view their jobs merely as a financial necessity",
+      "It limits the ability of employees to find occupational happiness",
+      "It prevents career counselors from offering effective advice"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_mcq-27",
+    "taskType": "lst_mcq",
+    "prompt": "Listen to the recording and answer the multiple-choice question.",
+    "text": "We often operate under the assumption that more choice is inherently better—that having thirty varieties of jam to choose from leads to greater freedom. However, psychological research suggests the opposite is frequently true. When faced with an abundance of options, individuals often experience decision paralysis because the cognitive effort required to evaluate every possibility becomes overwhelming. Crucially, even when a decision is finally made, satisfaction with that choice tends to be lower. This is because the individual is haunted by the possibility that a different, unchosen option might have been superior. Essentially, an excess of alternatives raises our expectations and creates a fertile ground for regret rather than happiness.",
+    "transcript": "We often operate under the assumption that more choice is inherently better—that having thirty varieties of jam to choose from leads to greater freedom. However, psychological research suggests the opposite is frequently true. When faced with an abundance of options, individuals often experience decision paralysis because the cognitive effort required to evaluate every possibility becomes overwhelming. Crucially, even when a decision is finally made, satisfaction with that choice tends to be lower. This is because the individual is haunted by the possibility that a different, unchosen option might have been superior. Essentially, an excess of alternatives raises our expectations and creates a fertile ground for regret rather than happiness.",
+    "audio_text": "We often operate under the assumption that more choice is inherently better—that having thirty varieties of jam to choose from leads to greater freedom. However, psychological research suggests the opposite is frequently true. When faced with an abundance of options, individuals often experience decision paralysis because the cognitive effort required to evaluate every possibility becomes overwhelming. Crucially, even when a decision is finally made, satisfaction with that choice tends to be lower. This is because the individual is haunted by the possibility that a different, unchosen option might have been superior. Essentially, an excess of alternatives raises our expectations and creates a fertile ground for regret rather than happiness.",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "They feel a greater sense of freedom and autonomy.",
+      "They enjoy their choice less due to the fear of missing out on something better.",
+      "They are able to make the selection much more quickly.",
+      "They generally believe the quality of the product is higher."
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_mcq-28",
+    "taskType": "lst_mcq",
+    "prompt": "Listen to the recording and answer the multiple-choice question.",
+    "text": "When drafting a literature review, many novice researchers fall into the trap of 'he-said-she-said' reporting, where they simply catalog studies sequentially. They treat the section as a series of isolated summaries, describing one paper after another without establishing relationships between them. However, effective synthesis requires more than just summarization; it demands that you identify thematic connections. You must weave disparate findings into a cohesive narrative that highlights areas of consensus or conflict within the field. Ultimately, the goal is not merely to prove you have read the material, but to position your own voice among these scholars to justify why your specific inquiry is necessary.",
+    "transcript": "When drafting a literature review, many novice researchers fall into the trap of 'he-said-she-said' reporting, where they simply catalog studies sequentially. They treat the section as a series of isolated summaries, describing one paper after another without establishing relationships between them. However, effective synthesis requires more than just summarization; it demands that you identify thematic connections. You must weave disparate findings into a cohesive narrative that highlights areas of consensus or conflict within the field. Ultimately, the goal is not merely to prove you have read the material, but to position your own voice among these scholars to justify why your specific inquiry is necessary.",
+    "audio_text": "When drafting a literature review, many novice researchers fall into the trap of 'he-said-she-said' reporting, where they simply catalog studies sequentially. They treat the section as a series of isolated summaries, describing one paper after another without establishing relationships between them. However, effective synthesis requires more than just summarization; it demands that you identify thematic connections. You must weave disparate findings into a cohesive narrative that highlights areas of consensus or conflict within the field. Ultimately, the goal is not merely to prove you have read the material, but to position your own voice among these scholars to justify why your specific inquiry is necessary.",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "Listing studies chronologically to show the history of the field",
+      "Summarizing each source independently to ensure accuracy",
+      "Demonstrating extensive reading by including every relevant paper",
+      "Connecting findings thematically to build a unified narrative"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_mcq-29",
+    "taskType": "lst_mcq",
+    "prompt": "Listen to the recording and answer the multiple-choice question.",
+    "text": "Many assume that human memory operates like a video camera, faithfully recording events for later playback. However, psychologists argue that memory is actually reconstructive. It is not a fixed biological record but rather a fluid process that can be distorted by subsequent information. This vulnerability is evident when eyewitnesses are questioned. If an interrogator uses leading language, such as asking how fast vehicles were moving when they 'smashed' into each other rather than 'contacted', the witness is likely to recall the event as more severe than it actually was. Consequently, what we remember is often a blend of actual experience and external suggestion.",
+    "transcript": "Many assume that human memory operates like a video camera, faithfully recording events for later playback. However, psychologists argue that memory is actually reconstructive. It is not a fixed biological record but rather a fluid process that can be distorted by subsequent information. This vulnerability is evident when eyewitnesses are questioned. If an interrogator uses leading language, such as asking how fast vehicles were moving when they 'smashed' into each other rather than 'contacted', the witness is likely to recall the event as more severe than it actually was. Consequently, what we remember is often a blend of actual experience and external suggestion.",
+    "audio_text": "Many assume that human memory operates like a video camera, faithfully recording events for later playback. However, psychologists argue that memory is actually reconstructive. It is not a fixed biological record but rather a fluid process that can be distorted by subsequent information. This vulnerability is evident when eyewitnesses are questioned. If an interrogator uses leading language, such as asking how fast vehicles were moving when they 'smashed' into each other rather than 'contacted', the witness is likely to recall the event as more severe than it actually was. Consequently, what we remember is often a blend of actual experience and external suggestion.",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "It helps them distinguish between fact and suggestion",
+      "It can alter their recollection of the event's severity",
+      "It triggers a fixed biological recording of the scene",
+      "It ensures the memory remains accurate over time"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_mcq-30",
+    "taskType": "lst_mcq",
+    "prompt": "Listen to the recording and answer the multiple-choice question.",
+    "text": "Social psychologists investigate how we make sense of the social world, particularly through attribution theory. This framework explains how we assign causes to behavior. A robust finding is the fundamental attribution error, where we overemphasize internal characteristics when judging others. For instance, if a colleague is late, we might label them irresponsible. We generally ignore potential external constraints, like traffic or an emergency. Conversely, when explaining our own identical mistakes, we rarely blame our personality. Instead, we focus on environmental factors. This discrepancy arises largely because our attention is focused outward on the person we are observing, whereas for ourselves, we are acutely aware of the situational context.",
+    "transcript": "Social psychologists investigate how we make sense of the social world, particularly through attribution theory. This framework explains how we assign causes to behavior. A robust finding is the fundamental attribution error, where we overemphasize internal characteristics when judging others. For instance, if a colleague is late, we might label them irresponsible. We generally ignore potential external constraints, like traffic or an emergency. Conversely, when explaining our own identical mistakes, we rarely blame our personality. Instead, we focus on environmental factors. This discrepancy arises largely because our attention is focused outward on the person we are observing, whereas for ourselves, we are acutely aware of the situational context.",
+    "audio_text": "Social psychologists investigate how we make sense of the social world, particularly through attribution theory. This framework explains how we assign causes to behavior. A robust finding is the fundamental attribution error, where we overemphasize internal characteristics when judging others. For instance, if a colleague is late, we might label them irresponsible. We generally ignore potential external constraints, like traffic or an emergency. Conversely, when explaining our own identical mistakes, we rarely blame our personality. Instead, we focus on environmental factors. This discrepancy arises largely because our attention is focused outward on the person we are observing, whereas for ourselves, we are acutely aware of the situational context.",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "They attribute their own actions to situational causes rather than character flaws.",
+      "They judge their own mistakes more harshly to improve future performance.",
+      "They believe they have less information about their own circumstances than about strangers.",
+      "They tend to ignore the external environment when assessing their own failures."
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_mcq-31",
+    "taskType": "lst_mcq",
+    "prompt": "Listen to the recording and answer the multiple-choice question.",
+    "text": "One specific aspect of research capability that has become increasingly vital outside the university setting is information literacy. Historically, when we consumed news or educational content, there was a layer of editorial oversight—publishers and fact-checkers who verified claims before they reached the public. Today, that buffer has largely evaporated with the rise of self-publishing and digital platforms. Consequently, the burden of verification has shifted directly onto the individual. We are now required to apply the same rigorous scrutiny used in academic inquiry—checking citations and identifying bias—simply to navigate our daily media diet. This democratization of information demands that every consumer effectively becomes their own editor.",
+    "transcript": "One specific aspect of research capability that has become increasingly vital outside the university setting is information literacy. Historically, when we consumed news or educational content, there was a layer of editorial oversight—publishers and fact-checkers who verified claims before they reached the public. Today, that buffer has largely evaporated with the rise of self-publishing and digital platforms. Consequently, the burden of verification has shifted directly onto the individual. We are now required to apply the same rigorous scrutiny used in academic inquiry—checking citations and identifying bias—simply to navigate our daily media diet. This democratization of information demands that every consumer effectively becomes their own editor.",
+    "audio_text": "One specific aspect of research capability that has become increasingly vital outside the university setting is information literacy. Historically, when we consumed news or educational content, there was a layer of editorial oversight—publishers and fact-checkers who verified claims before they reached the public. Today, that buffer has largely evaporated with the rise of self-publishing and digital platforms. Consequently, the burden of verification has shifted directly onto the individual. We are now required to apply the same rigorous scrutiny used in academic inquiry—checking citations and identifying bias—simply to navigate our daily media diet. This democratization of information demands that every consumer effectively becomes their own editor.",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "They must now personally validate the reliability of the content they encounter",
+      "They are expected to produce more content than they consume",
+      "They can rely on digital platforms to perform editorial oversight",
+      "They no longer need to check citations due to the democratization of information"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_mcq-32",
+    "taskType": "lst_mcq",
+    "prompt": "Listen to the recording and answer the multiple-choice question.",
+    "text": "In social psychology, there is a well-documented phenomenon where individuals develop a preference for people or objects simply because they are familiar with them. This is known as the mere exposure effect. For instance, you might find yourself liking a song on the radio not because of its musical merit, but merely because you have heard it frequently. Interestingly, this process does not require any deep interaction or logical evaluation of the subject. The research suggests that the more often a person encounters a stimulus, the more likely they are to rate it positively, provided the initial encounter was not negative. This principle is a cornerstone of modern advertising strategies, aiming to build trust through visibility alone.",
+    "transcript": "In social psychology, there is a well-documented phenomenon where individuals develop a preference for people or objects simply because they are familiar with them. This is known as the mere exposure effect. For instance, you might find yourself liking a song on the radio not because of its musical merit, but merely because you have heard it frequently. Interestingly, this process does not require any deep interaction or logical evaluation of the subject. The research suggests that the more often a person encounters a stimulus, the more likely they are to rate it positively, provided the initial encounter was not negative. This principle is a cornerstone of modern advertising strategies, aiming to build trust through visibility alone.",
+    "audio_text": "In social psychology, there is a well-documented phenomenon where individuals develop a preference for people or objects simply because they are familiar with them. This is known as the mere exposure effect. For instance, you might find yourself liking a song on the radio not because of its musical merit, but merely because you have heard it frequently. Interestingly, this process does not require any deep interaction or logical evaluation of the subject. The research suggests that the more often a person encounters a stimulus, the more likely they are to rate it positively, provided the initial encounter was not negative. This principle is a cornerstone of modern advertising strategies, aiming to build trust through visibility alone.",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "It encourages people to critically analyze the quality of a product.",
+      "It leads to a decrease in interest if a stimulus is encountered too often.",
+      "It increases likability through repeated contact with a stimulus.",
+      "It requires a negative initial experience to function effectively."
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_mcq-33",
+    "taskType": "lst_mcq",
+    "prompt": "Listen to the recording and answer the multiple-choice question.",
+    "text": "In the scientific community, there is a pervasive bias towards positive results—experiments that successfully prove a hypothesis are far more likely to be published than those that do not. However, we really need to reconsider the inherent value of negative outcomes. When a rigorous study fails to find an expected effect, it is not a failure of the researcher but rather a crucial piece of data that helps narrow the path for future inquiry. By systematically ignoring these null results, we risk duplicating efforts and wasting significant resources on dead-end avenues. True scientific progress relies on a complete map of the territory, which includes knowing where the answers are not, just as much as knowing where they are.",
+    "transcript": "In the scientific community, there is a pervasive bias towards positive results—experiments that successfully prove a hypothesis are far more likely to be published than those that do not. However, we really need to reconsider the inherent value of negative outcomes. When a rigorous study fails to find an expected effect, it is not a failure of the researcher but rather a crucial piece of data that helps narrow the path for future inquiry. By systematically ignoring these null results, we risk duplicating efforts and wasting significant resources on dead-end avenues. True scientific progress relies on a complete map of the territory, which includes knowing where the answers are not, just as much as knowing where they are.",
+    "audio_text": "In the scientific community, there is a pervasive bias towards positive results—experiments that successfully prove a hypothesis are far more likely to be published than those that do not. However, we really need to reconsider the inherent value of negative outcomes. When a rigorous study fails to find an expected effect, it is not a failure of the researcher but rather a crucial piece of data that helps narrow the path for future inquiry. By systematically ignoring these null results, we risk duplicating efforts and wasting significant resources on dead-end avenues. True scientific progress relies on a complete map of the territory, which includes knowing where the answers are not, just as much as knowing where they are.",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "They ensure that researchers can secure more funding for future projects",
+      "They help prevent the repetition of unsuccessful studies and save resources",
+      "They guarantee that positive results will be found in subsequent trials",
+      "They are more likely to be published than positive findings in major journals"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_mcq-34",
+    "taskType": "lst_mcq",
+    "prompt": "Listen to the recording and answer the multiple-choice question.",
+    "text": "When we analyze the concept of achievement across different cultures, we see a fascinating divergence. In individualistic societies, success is frequently framed as a personal trajectory—climbing a ladder, accumulating wealth, or gaining distinct recognition. It is a solitary journey of distinguishing oneself from the group. However, in many collectivist cultures, this definition shifts fundamentally. Here, success is less about standing out and more about fitting in harmoniously. It is measured by one's contribution to family stability and community cohesion. Consequently, an individual who pursues high-status employment at the expense of family obligations might be viewed not as successful, but as selfish. This suggests that our benchmarks for a 'good life' are not universal truths but culturally constructed narratives.",
+    "transcript": "When we analyze the concept of achievement across different cultures, we see a fascinating divergence. In individualistic societies, success is frequently framed as a personal trajectory—climbing a ladder, accumulating wealth, or gaining distinct recognition. It is a solitary journey of distinguishing oneself from the group. However, in many collectivist cultures, this definition shifts fundamentally. Here, success is less about standing out and more about fitting in harmoniously. It is measured by one's contribution to family stability and community cohesion. Consequently, an individual who pursues high-status employment at the expense of family obligations might be viewed not as successful, but as selfish. This suggests that our benchmarks for a 'good life' are not universal truths but culturally constructed narratives.",
+    "audio_text": "When we analyze the concept of achievement across different cultures, we see a fascinating divergence. In individualistic societies, success is frequently framed as a personal trajectory—climbing a ladder, accumulating wealth, or gaining distinct recognition. It is a solitary journey of distinguishing oneself from the group. However, in many collectivist cultures, this definition shifts fundamentally. Here, success is less about standing out and more about fitting in harmoniously. It is measured by one's contribution to family stability and community cohesion. Consequently, an individual who pursues high-status employment at the expense of family obligations might be viewed not as successful, but as selfish. This suggests that our benchmarks for a 'good life' are not universal truths but culturally constructed narratives.",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "It is universally recognized as the accumulation of wealth and status",
+      "In collectivist cultures, it is defined by adherence to group harmony rather than individual gain",
+      "Individualistic societies prioritize family obligations over professional advancement",
+      "It is viewed as a solitary journey regardless of the cultural context"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_mcq-35",
+    "taskType": "lst_mcq",
+    "prompt": "Listen to the recording and answer the multiple-choice question.",
+    "text": "In the contemporary academic landscape, the central challenge for researchers has transitioned from scarcity to saturation. Historically, the main hurdle was physically accessing archives or securing rare texts. Today, however, with the ubiquity of digital repositories, the essential competency has become rigorous filtration. Researchers are required to navigate a vast expanse of material where the origin of content is frequently obscured. Consequently, the focus has shifted toward cultivating acute evaluative frameworks to ascertain the legitimacy of sources. It is no longer sufficient to merely locate material; scholars must now demonstrate the analytical capability to distinguish authoritative, peer-reviewed evidence from the massive volume of unverified content available online.",
+    "transcript": "In the contemporary academic landscape, the central challenge for researchers has transitioned from scarcity to saturation. Historically, the main hurdle was physically accessing archives or securing rare texts. Today, however, with the ubiquity of digital repositories, the essential competency has become rigorous filtration. Researchers are required to navigate a vast expanse of material where the origin of content is frequently obscured. Consequently, the focus has shifted toward cultivating acute evaluative frameworks to ascertain the legitimacy of sources. It is no longer sufficient to merely locate material; scholars must now demonstrate the analytical capability to distinguish authoritative, peer-reviewed evidence from the massive volume of unverified content available online.",
+    "audio_text": "In the contemporary academic landscape, the central challenge for researchers has transitioned from scarcity to saturation. Historically, the main hurdle was physically accessing archives or securing rare texts. Today, however, with the ubiquity of digital repositories, the essential competency has become rigorous filtration. Researchers are required to navigate a vast expanse of material where the origin of content is frequently obscured. Consequently, the focus has shifted toward cultivating acute evaluative frameworks to ascertain the legitimacy of sources. It is no longer sufficient to merely locate material; scholars must now demonstrate the analytical capability to distinguish authoritative, peer-reviewed evidence from the massive volume of unverified content available online.",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "The ability to physically access rare historical archives",
+      "The capacity to distinguish legitimate sources from unverified content",
+      "The speed at which digital repositories can be navigated",
+      "The technical knowledge required to maintain digital databases"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_mcq-36",
+    "taskType": "lst_mcq",
+    "prompt": "Listen to the recording and answer the multiple-choice question.",
+    "text": "Many students view research primarily as a linear path to a discovery—hypothesis, experiment, conclusion. However, the reality of academic inquiry is often far messier, characterized by dead ends and negative results. Rather than viewing these as failures, seasoned researchers understand that this iterative process builds a crucial professional competency: resilience. When a method fails or data doesn't align with expectations, the researcher must pivot, re-evaluate, and adapt. This capacity to navigate uncertainty and refine one's approach in the face of setbacks is arguably the most valuable asset a graduate takes into the corporate world, far outweighing technical expertise in any specific methodology.",
+    "transcript": "Many students view research primarily as a linear path to a discovery—hypothesis, experiment, conclusion. However, the reality of academic inquiry is often far messier, characterized by dead ends and negative results. Rather than viewing these as failures, seasoned researchers understand that this iterative process builds a crucial professional competency: resilience. When a method fails or data doesn't align with expectations, the researcher must pivot, re-evaluate, and adapt. This capacity to navigate uncertainty and refine one's approach in the face of setbacks is arguably the most valuable asset a graduate takes into the corporate world, far outweighing technical expertise in any specific methodology.",
+    "audio_text": "Many students view research primarily as a linear path to a discovery—hypothesis, experiment, conclusion. However, the reality of academic inquiry is often far messier, characterized by dead ends and negative results. Rather than viewing these as failures, seasoned researchers understand that this iterative process builds a crucial professional competency: resilience. When a method fails or data doesn't align with expectations, the researcher must pivot, re-evaluate, and adapt. This capacity to navigate uncertainty and refine one's approach in the face of setbacks is arguably the most valuable asset a graduate takes into the corporate world, far outweighing technical expertise in any specific methodology.",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "They teach graduates how to maintain a linear workflow.",
+      "They develop the resilience needed to handle uncertainty.",
+      "They prioritize technical skills over general problem solving.",
+      "They ensure that all negative results are discarded quickly."
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_mcq-37",
+    "taskType": "lst_mcq",
+    "prompt": "Listen to the recording and answer the multiple-choice question.",
+    "text": "Many of us operate under the assumption that once we reach a specific milestone—be it a promotion, a new house, or a certain salary bracket—we will finally be happy. Psychologists refer to this phenomenon as the 'hedonic treadmill.' Essentially, we work incredibly hard to improve our circumstances, believing these changes will permanently elevate our well-being. However, research consistently shows that while such achievements provide a temporary spike in satisfaction, humans very quickly adapt to their new reality. Our expectations simply rise in tandem with our success, leaving our baseline level of happiness relatively unchanged. Consequently, the pursuit of external accolades often becomes an endless cycle where the finish line keeps moving further away.",
+    "transcript": "Many of us operate under the assumption that once we reach a specific milestone—be it a promotion, a new house, or a certain salary bracket—we will finally be happy. Psychologists refer to this phenomenon as the 'hedonic treadmill.' Essentially, we work incredibly hard to improve our circumstances, believing these changes will permanently elevate our well-being. However, research consistently shows that while such achievements provide a temporary spike in satisfaction, humans very quickly adapt to their new reality. Our expectations simply rise in tandem with our success, leaving our baseline level of happiness relatively unchanged. Consequently, the pursuit of external accolades often becomes an endless cycle where the finish line keeps moving further away.",
+    "audio_text": "Many of us operate under the assumption that once we reach a specific milestone—be it a promotion, a new house, or a certain salary bracket—we will finally be happy. Psychologists refer to this phenomenon as the 'hedonic treadmill.' Essentially, we work incredibly hard to improve our circumstances, believing these changes will permanently elevate our well-being. However, research consistently shows that while such achievements provide a temporary spike in satisfaction, humans very quickly adapt to their new reality. Our expectations simply rise in tandem with our success, leaving our baseline level of happiness relatively unchanged. Consequently, the pursuit of external accolades often becomes an endless cycle where the finish line keeps moving further away.",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "They experience a permanent increase in their overall well-being",
+      "They adapt to the new situation and return to previous satisfaction levels",
+      "They decide to stop pursuing further external accolades",
+      "Their expectations stabilize, allowing them to fully enjoy the success"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_mcq-38",
+    "taskType": "lst_mcq",
+    "prompt": "Listen to the recording and answer the multiple-choice question.",
+    "text": "Many people view sleep essentially as a period of inactivity, a time when the brain shuts down to recover energy. However, neuroscientific research paints a very different picture. During sleep, particularly the slow-wave stages, the brain is actively engaged in memory consolidation. The hippocampus, which temporarily stores new information, replays neural patterns to the neocortex, where long-term memories are established. This transfer process not only strengthens the memory trace but also integrates new data with existing knowledge. Consequently, pulling an 'all-nighter' to study is often counterproductive because, without sleep, these critical neural pathways aren't reinforced, making the information much harder to recall later.",
+    "transcript": "Many people view sleep essentially as a period of inactivity, a time when the brain shuts down to recover energy. However, neuroscientific research paints a very different picture. During sleep, particularly the slow-wave stages, the brain is actively engaged in memory consolidation. The hippocampus, which temporarily stores new information, replays neural patterns to the neocortex, where long-term memories are established. This transfer process not only strengthens the memory trace but also integrates new data with existing knowledge. Consequently, pulling an 'all-nighter' to study is often counterproductive because, without sleep, these critical neural pathways aren't reinforced, making the information much harder to recall later.",
+    "audio_text": "Many people view sleep essentially as a period of inactivity, a time when the brain shuts down to recover energy. However, neuroscientific research paints a very different picture. During sleep, particularly the slow-wave stages, the brain is actively engaged in memory consolidation. The hippocampus, which temporarily stores new information, replays neural patterns to the neocortex, where long-term memories are established. This transfer process not only strengthens the memory trace but also integrates new data with existing knowledge. Consequently, pulling an 'all-nighter' to study is often counterproductive because, without sleep, these critical neural pathways aren't reinforced, making the information much harder to recall later.",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "The brain shuts down completely to restore metabolic energy",
+      "Information is transferred from the hippocampus to the neocortex",
+      "The neocortex temporarily blocks access to new information",
+      "Neural pathways are pruned to remove irrelevant details"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_mcq-39",
+    "taskType": "lst_mcq",
+    "prompt": "Listen to the recording and answer the multiple-choice question.",
+    "text": "In the realm of social psychology, the mere exposure effect illustrates a rigorous link between familiarity and preference. Essentially, individuals tend to develop a liking for people, objects, or ideas simply because they have encountered them frequently. Early studies demonstrated this by showing participants arbitrary geometric shapes or foreign characters. Despite having no inherent meaning or positive association, the shapes shown most often were rated as the most attractive in subsequent tests. Crucially, this preference occurs even without conscious recognition of the prior exposure. This mechanism suggests that repeated contact breeds a sense of safety and fluency in processing, which the brain interprets as positive. Consequently, advertisers utilize this by ensuring brand imagery appears repeatedly, knowing that familiarity alone can drive consumer choice, often overriding objective product quality.",
+    "transcript": "In the realm of social psychology, the mere exposure effect illustrates a rigorous link between familiarity and preference. Essentially, individuals tend to develop a liking for people, objects, or ideas simply because they have encountered them frequently. Early studies demonstrated this by showing participants arbitrary geometric shapes or foreign characters. Despite having no inherent meaning or positive association, the shapes shown most often were rated as the most attractive in subsequent tests. Crucially, this preference occurs even without conscious recognition of the prior exposure. This mechanism suggests that repeated contact breeds a sense of safety and fluency in processing, which the brain interprets as positive. Consequently, advertisers utilize this by ensuring brand imagery appears repeatedly, knowing that familiarity alone can drive consumer choice, often overriding objective product quality.",
+    "audio_text": "In the realm of social psychology, the mere exposure effect illustrates a rigorous link between familiarity and preference. Essentially, individuals tend to develop a liking for people, objects, or ideas simply because they have encountered them frequently. Early studies demonstrated this by showing participants arbitrary geometric shapes or foreign characters. Despite having no inherent meaning or positive association, the shapes shown most often were rated as the most attractive in subsequent tests. Crucially, this preference occurs even without conscious recognition of the prior exposure. This mechanism suggests that repeated contact breeds a sense of safety and fluency in processing, which the brain interprets as positive. Consequently, advertisers utilize this by ensuring brand imagery appears repeatedly, knowing that familiarity alone can drive consumer choice, often overriding objective product quality.",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "It encourages consumers to critically assess product quality",
+      "It is effective primarily because it builds conscious brand recognition",
+      "It can foster a preference for a brand regardless of its actual quality",
+      "It works best when using abstract symbols rather than real images"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_mcq-40",
+    "taskType": "lst_mcq",
+    "prompt": "Listen to the recording and answer the multiple-choice question.",
+    "text": "When we discuss nonverbal communication, eye contact is perhaps one of the most culturally loaded signals. In many Western societies, maintaining steady eye contact is frequently interpreted as a sign of confidence, honesty, and active listening. If you look away, you might be perceived as untrustworthy or disinterested. However, this rule is far from universal. In various Asian and Latin American cultures, prolonged eye contact, especially with a superior or an elder, can be viewed as aggressive or disrespectful. Consequently, what one person intends as a gesture of respect—lowering their gaze—might be completely misread by someone from a different background as a lack of confidence. This divergence often leads to significant misunderstandings in international business settings.",
+    "transcript": "When we discuss nonverbal communication, eye contact is perhaps one of the most culturally loaded signals. In many Western societies, maintaining steady eye contact is frequently interpreted as a sign of confidence, honesty, and active listening. If you look away, you might be perceived as untrustworthy or disinterested. However, this rule is far from universal. In various Asian and Latin American cultures, prolonged eye contact, especially with a superior or an elder, can be viewed as aggressive or disrespectful. Consequently, what one person intends as a gesture of respect—lowering their gaze—might be completely misread by someone from a different background as a lack of confidence. This divergence often leads to significant misunderstandings in international business settings.",
+    "audio_text": "When we discuss nonverbal communication, eye contact is perhaps one of the most culturally loaded signals. In many Western societies, maintaining steady eye contact is frequently interpreted as a sign of confidence, honesty, and active listening. If you look away, you might be perceived as untrustworthy or disinterested. However, this rule is far from universal. In various Asian and Latin American cultures, prolonged eye contact, especially with a superior or an elder, can be viewed as aggressive or disrespectful. Consequently, what one person intends as a gesture of respect—lowering their gaze—might be completely misread by someone from a different background as a lack of confidence. This divergence often leads to significant misunderstandings in international business settings.",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "It is universally recognized as an indicator of honesty and attention",
+      "It is primarily used to challenge authority in most cultures",
+      "Its interpretation varies significantly depending on cultural context",
+      "It is less important than verbal communication in business settings"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_mcq-41",
+    "taskType": "lst_mcq",
+    "prompt": "Listen to the recording and answer the multiple-choice question.",
+    "text": "In the context of modern academic inquiry, the focus of research training has shifted significantly from simple information retrieval to complex evaluation. It is no longer sufficient to merely locate data; the true difficulty lies in distinguishing credible scholarship from unsubstantiated opinion, particularly given the saturation of digital media. Students today often struggle, not with finding answers, but with assessing the validity and authority of the sources they encounter. Consequently, educators are increasingly prioritizing information literacy over traditional search methodologies. The ultimate goal is to cultivate a critical mindset where questioning the provenance of data is considered just as important as the data itself.",
+    "transcript": "In the context of modern academic inquiry, the focus of research training has shifted significantly from simple information retrieval to complex evaluation. It is no longer sufficient to merely locate data; the true difficulty lies in distinguishing credible scholarship from unsubstantiated opinion, particularly given the saturation of digital media. Students today often struggle, not with finding answers, but with assessing the validity and authority of the sources they encounter. Consequently, educators are increasingly prioritizing information literacy over traditional search methodologies. The ultimate goal is to cultivate a critical mindset where questioning the provenance of data is considered just as important as the data itself.",
+    "audio_text": "In the context of modern academic inquiry, the focus of research training has shifted significantly from simple information retrieval to complex evaluation. It is no longer sufficient to merely locate data; the true difficulty lies in distinguishing credible scholarship from unsubstantiated opinion, particularly given the saturation of digital media. Students today often struggle, not with finding answers, but with assessing the validity and authority of the sources they encounter. Consequently, educators are increasingly prioritizing information literacy over traditional search methodologies. The ultimate goal is to cultivate a critical mindset where questioning the provenance of data is considered just as important as the data itself.",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "Locating sufficient data to answer their questions",
+      "Determining the credibility of the information sources",
+      "Avoiding the use of digital media in their work",
+      "Mastering traditional rote learning techniques"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_mcq-42",
+    "taskType": "lst_mcq",
+    "prompt": "Listen to the recording and answer the multiple-choice question.",
+    "text": "When foot patrols were reintroduced in various urban districts, the primary objective was often assumed to be a direct reduction in crime rates. It seemed logical that visible officers walking the beat would deter criminal activity. However, extensive studies analyzing these initiatives produced unexpected results. The actual frequency of offenses in these neighborhoods did not show a statistically significant decline compared to areas patrolled by cars. Despite this, the programs were deemed highly effective. The research highlighted that residents felt considerably safer and held a more favorable view of the police. Consequently, the justification for foot patrols shifted from crime suppression to the vital role of reducing public fear and building community trust.",
+    "transcript": "When foot patrols were reintroduced in various urban districts, the primary objective was often assumed to be a direct reduction in crime rates. It seemed logical that visible officers walking the beat would deter criminal activity. However, extensive studies analyzing these initiatives produced unexpected results. The actual frequency of offenses in these neighborhoods did not show a statistically significant decline compared to areas patrolled by cars. Despite this, the programs were deemed highly effective. The research highlighted that residents felt considerably safer and held a more favorable view of the police. Consequently, the justification for foot patrols shifted from crime suppression to the vital role of reducing public fear and building community trust.",
+    "audio_text": "When foot patrols were reintroduced in various urban districts, the primary objective was often assumed to be a direct reduction in crime rates. It seemed logical that visible officers walking the beat would deter criminal activity. However, extensive studies analyzing these initiatives produced unexpected results. The actual frequency of offenses in these neighborhoods did not show a statistically significant decline compared to areas patrolled by cars. Despite this, the programs were deemed highly effective. The research highlighted that residents felt considerably safer and held a more favorable view of the police. Consequently, the justification for foot patrols shifted from crime suppression to the vital role of reducing public fear and building community trust.",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "There was a significant decrease in violent crime",
+      "The community's perception of safety improved",
+      "Police officers were able to respond faster to calls",
+      "The cost of patrolling neighborhoods was reduced"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_mcq-43",
+    "taskType": "lst_mcq",
+    "prompt": "Listen to the recording and answer the multiple-choice question.",
+    "text": "One of the most counterintuitive findings in social psychology involves the reluctance of individuals to offer assistance during emergencies when others are present. This phenomenon, known as the bystander effect, is rarely caused by widespread apathy or indifference. Instead, experts attribute it to a diffusion of responsibility. When a person is the sole witness, the pressure to act rests entirely on their shoulders. However, within a group, that sense of obligation is diluted across all observers. Each person subconsciously reasons that someone else—perhaps more qualified—will step forward or has already summoned help. Consequently, the presence of a larger crowd actually decreases the likelihood that any single individual will intervene to resolve the crisis.",
+    "transcript": "One of the most counterintuitive findings in social psychology involves the reluctance of individuals to offer assistance during emergencies when others are present. This phenomenon, known as the bystander effect, is rarely caused by widespread apathy or indifference. Instead, experts attribute it to a diffusion of responsibility. When a person is the sole witness, the pressure to act rests entirely on their shoulders. However, within a group, that sense of obligation is diluted across all observers. Each person subconsciously reasons that someone else—perhaps more qualified—will step forward or has already summoned help. Consequently, the presence of a larger crowd actually decreases the likelihood that any single individual will intervene to resolve the crisis.",
+    "audio_text": "One of the most counterintuitive findings in social psychology involves the reluctance of individuals to offer assistance during emergencies when others are present. This phenomenon, known as the bystander effect, is rarely caused by widespread apathy or indifference. Instead, experts attribute it to a diffusion of responsibility. When a person is the sole witness, the pressure to act rests entirely on their shoulders. However, within a group, that sense of obligation is diluted across all observers. Each person subconsciously reasons that someone else—perhaps more qualified—will step forward or has already summoned help. Consequently, the presence of a larger crowd actually decreases the likelihood that any single individual will intervene to resolve the crisis.",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "They feel less personal obligation because others are there",
+      "They are typically indifferent to the suffering of strangers",
+      "They are waiting for instructions from a qualified professional",
+      "They are too overwhelmed by the emergency to react"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_mcq-44",
+    "taskType": "lst_mcq",
+    "prompt": "Listen to the recording and answer the multiple-choice question.",
+    "text": "It is a common misconception that the ultimate measure of a successful career is the salary attached to it. We tend to prioritize extrinsic rewards, like bonuses or impressive job titles, believing they will lead to fulfillment. However, psychological research consistently points in a different direction. It suggests that once a certain income threshold is reached, the correlation between money and happiness weakens considerably. Instead, sustainable career satisfaction is driven largely by intrinsic factors. Elements such as autonomy—having control over one's work—and the sense of purpose derived from the tasks themselves prove to be much stronger indicators of whether an individual will remain happy and productive in their role over time.",
+    "transcript": "It is a common misconception that the ultimate measure of a successful career is the salary attached to it. We tend to prioritize extrinsic rewards, like bonuses or impressive job titles, believing they will lead to fulfillment. However, psychological research consistently points in a different direction. It suggests that once a certain income threshold is reached, the correlation between money and happiness weakens considerably. Instead, sustainable career satisfaction is driven largely by intrinsic factors. Elements such as autonomy—having control over one's work—and the sense of purpose derived from the tasks themselves prove to be much stronger indicators of whether an individual will remain happy and productive in their role over time.",
+    "audio_text": "It is a common misconception that the ultimate measure of a successful career is the salary attached to it. We tend to prioritize extrinsic rewards, like bonuses or impressive job titles, believing they will lead to fulfillment. However, psychological research consistently points in a different direction. It suggests that once a certain income threshold is reached, the correlation between money and happiness weakens considerably. Instead, sustainable career satisfaction is driven largely by intrinsic factors. Elements such as autonomy—having control over one's work—and the sense of purpose derived from the tasks themselves prove to be much stronger indicators of whether an individual will remain happy and productive in their role over time.",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "Receiving regular financial bonuses",
+      "Experiencing autonomy and purpose",
+      "Securing a prestigious job title",
+      "Exceeding a specific salary threshold"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_mcq-45",
+    "taskType": "lst_mcq",
+    "prompt": "Listen to the recording and answer the multiple-choice question.",
+    "text": "We often assume that our judgments of others are based on a careful analysis of their character, yet social psychology suggests otherwise. Consider the 'halo effect,' a bias where our overall impression of a person is heavily influenced by just one observed trait, usually a positive one like physical attractiveness. If we see someone as good-looking, we tend to subconsciously infer that they are also intelligent, kind, or trustworthy, even without any factual basis. While this mental shortcut helps us process social information quickly, it poses real problems. In hiring scenarios, for example, it can lead to qualified candidates being overlooked in favor of those who simply look the part, effectively undermining objective assessment.",
+    "transcript": "We often assume that our judgments of others are based on a careful analysis of their character, yet social psychology suggests otherwise. Consider the 'halo effect,' a bias where our overall impression of a person is heavily influenced by just one observed trait, usually a positive one like physical attractiveness. If we see someone as good-looking, we tend to subconsciously infer that they are also intelligent, kind, or trustworthy, even without any factual basis. While this mental shortcut helps us process social information quickly, it poses real problems. In hiring scenarios, for example, it can lead to qualified candidates being overlooked in favor of those who simply look the part, effectively undermining objective assessment.",
+    "audio_text": "We often assume that our judgments of others are based on a careful analysis of their character, yet social psychology suggests otherwise. Consider the 'halo effect,' a bias where our overall impression of a person is heavily influenced by just one observed trait, usually a positive one like physical attractiveness. If we see someone as good-looking, we tend to subconsciously infer that they are also intelligent, kind, or trustworthy, even without any factual basis. While this mental shortcut helps us process social information quickly, it poses real problems. In hiring scenarios, for example, it can lead to qualified candidates being overlooked in favor of those who simply look the part, effectively undermining objective assessment.",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "It significantly slows down the process of forming social judgments.",
+      "It compromises the fairness of evaluations in professional settings.",
+      "It causes physical attractiveness to be viewed as a negative trait.",
+      "It forces employers to rely too heavily on detailed factual evidence."
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_mcq-46",
+    "taskType": "lst_mcq",
+    "prompt": "Listen to the recording and answer the multiple-choice question.",
+    "text": "When we think back on past events, such as a holiday or a medical procedure, logic suggests we should evaluate them based on an average of how we felt throughout the entire duration. However, research in behavioral economics reveals a cognitive bias known as the peak-end rule. This heuristic dictates that people judge an experience largely based on how they felt at its most intense point—the peak—and at its end, rather than the total sum of pleasure or pain. Consequently, the actual length of the event is often disregarded within our memory. A long, mildly unpleasant experience might be remembered more fondly than a short one, provided the final moments are positive.",
+    "transcript": "When we think back on past events, such as a holiday or a medical procedure, logic suggests we should evaluate them based on an average of how we felt throughout the entire duration. However, research in behavioral economics reveals a cognitive bias known as the peak-end rule. This heuristic dictates that people judge an experience largely based on how they felt at its most intense point—the peak—and at its end, rather than the total sum of pleasure or pain. Consequently, the actual length of the event is often disregarded within our memory. A long, mildly unpleasant experience might be remembered more fondly than a short one, provided the final moments are positive.",
+    "audio_text": "When we think back on past events, such as a holiday or a medical procedure, logic suggests we should evaluate them based on an average of how we felt throughout the entire duration. However, research in behavioral economics reveals a cognitive bias known as the peak-end rule. This heuristic dictates that people judge an experience largely based on how they felt at its most intense point—the peak—and at its end, rather than the total sum of pleasure or pain. Consequently, the actual length of the event is often disregarded within our memory. A long, mildly unpleasant experience might be remembered more fondly than a short one, provided the final moments are positive.",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "By calculating the average level of satisfaction over the entire duration",
+      "By focusing on the most intense moment and the conclusion of the event",
+      "By comparing the total length of the experience against their expectations",
+      "By recalling the initial feelings they had when the event began"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_mcq-47",
+    "taskType": "lst_mcq",
+    "prompt": "Listen to the recording and answer the multiple-choice question.",
+    "text": "When we interpret a message, we often assume the words themselves are the primary carrier of meaning. However, research in paralinguistics suggests that the tone, pitch, and speed of speech—often called the 'vocal channel'—carry significantly more emotional weight than the actual linguistic content. For instance, sarcasm is almost entirely dependent on vocal inflection; without specific cues like a lower pitch, a listener might interpret a statement literally. Interestingly, studies involving cross-cultural participants show that humans are surprisingly accurate at identifying basic emotions like anger or sadness in foreign languages purely based on these vocal cues, even when they do not understand the vocabulary being spoken.",
+    "transcript": "When we interpret a message, we often assume the words themselves are the primary carrier of meaning. However, research in paralinguistics suggests that the tone, pitch, and speed of speech—often called the 'vocal channel'—carry significantly more emotional weight than the actual linguistic content. For instance, sarcasm is almost entirely dependent on vocal inflection; without specific cues like a lower pitch, a listener might interpret a statement literally. Interestingly, studies involving cross-cultural participants show that humans are surprisingly accurate at identifying basic emotions like anger or sadness in foreign languages purely based on these vocal cues, even when they do not understand the vocabulary being spoken.",
+    "audio_text": "When we interpret a message, we often assume the words themselves are the primary carrier of meaning. However, research in paralinguistics suggests that the tone, pitch, and speed of speech—often called the 'vocal channel'—carry significantly more emotional weight than the actual linguistic content. For instance, sarcasm is almost entirely dependent on vocal inflection; without specific cues like a lower pitch, a listener might interpret a statement literally. Interestingly, studies involving cross-cultural participants show that humans are surprisingly accurate at identifying basic emotions like anger or sadness in foreign languages purely based on these vocal cues, even when they do not understand the vocabulary being spoken.",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "It requires a basic understanding of the vocabulary used",
+      "It relies heavily on facial expressions rather than sound",
+      "It is possible solely through listening to vocal characteristics",
+      "It is often inaccurate due to cultural differences in pitch"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_mcq-48",
+    "taskType": "lst_mcq",
+    "prompt": "Listen to the recording and answer the multiple-choice question.",
+    "text": "When embarking on a new study, many students mistakenly view research as a linear trajectory—starting with a hypothesis and moving directly to a conclusion. In reality, the process is far more iterative. As you delve into the literature or begin initial data collection, you often find that your original research question needs adjustment or that your scope is too broad. This back-and-forth movement—revisiting your premise based on new findings—is not a setback but a hallmark of rigorous scholarship. It ensures that the final argument is grounded in actual evidence rather than simply adhering to a preconceived plan regardless of what the data suggests.",
+    "transcript": "When embarking on a new study, many students mistakenly view research as a linear trajectory—starting with a hypothesis and moving directly to a conclusion. In reality, the process is far more iterative. As you delve into the literature or begin initial data collection, you often find that your original research question needs adjustment or that your scope is too broad. This back-and-forth movement—revisiting your premise based on new findings—is not a setback but a hallmark of rigorous scholarship. It ensures that the final argument is grounded in actual evidence rather than simply adhering to a preconceived plan regardless of what the data suggests.",
+    "audio_text": "When embarking on a new study, many students mistakenly view research as a linear trajectory—starting with a hypothesis and moving directly to a conclusion. In reality, the process is far more iterative. As you delve into the literature or begin initial data collection, you often find that your original research question needs adjustment or that your scope is too broad. This back-and-forth movement—revisiting your premise based on new findings—is not a setback but a hallmark of rigorous scholarship. It ensures that the final argument is grounded in actual evidence rather than simply adhering to a preconceived plan regardless of what the data suggests.",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "It follows a strict, linear path to ensure efficiency",
+      "It involves a recursive process of refining initial assumptions",
+      "It requires defining the scope perfectly before starting",
+      "It depends primarily on interpersonal skills for success"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_mcq-49",
+    "taskType": "lst_mcq",
+    "prompt": "Listen to the recording and answer the multiple-choice question.",
+    "text": "In the context of evolving research methodologies, the digital revolution has inverted the traditional challenges faced by scholars. Previously, the main struggle was scarcity, requiring physical endurance to locate obscure texts in library archives. In contrast, the contemporary issue is an overwhelming surplus of information. This shift means that the defining skill of a modern researcher is no longer the ability to hunt down resources, but rather the capacity to critically filter them. Success today depends on distinguishing high-quality evidence from the vast amounts of irrelevant or misleading data available online, effectively making curation more valuable than mere collection.",
+    "transcript": "In the context of evolving research methodologies, the digital revolution has inverted the traditional challenges faced by scholars. Previously, the main struggle was scarcity, requiring physical endurance to locate obscure texts in library archives. In contrast, the contemporary issue is an overwhelming surplus of information. This shift means that the defining skill of a modern researcher is no longer the ability to hunt down resources, but rather the capacity to critically filter them. Success today depends on distinguishing high-quality evidence from the vast amounts of irrelevant or misleading data available online, effectively making curation more valuable than mere collection.",
+    "audio_text": "In the context of evolving research methodologies, the digital revolution has inverted the traditional challenges faced by scholars. Previously, the main struggle was scarcity, requiring physical endurance to locate obscure texts in library archives. In contrast, the contemporary issue is an overwhelming surplus of information. This shift means that the defining skill of a modern researcher is no longer the ability to hunt down resources, but rather the capacity to critically filter them. Success today depends on distinguishing high-quality evidence from the vast amounts of irrelevant or misleading data available online, effectively making curation more valuable than mere collection.",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "The physical stamina to search through library archives",
+      "The ability to evaluate and select valid information from a surplus of data",
+      "The technical knowledge to digitize obscure physical texts",
+      "The capacity to collect the largest possible amount of online data"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lst_mcq-50",
+    "taskType": "lst_mcq",
+    "prompt": "Listen to the recording and answer the multiple-choice question.",
+    "text": "One often overlooked aspect of research training is the capacity for iterative refinement. In a traditional laboratory setting, a failed experiment isn't merely a dead end; it is a crucial indicator that necessitates a revision of the initial hypothesis. This cyclical process—comprising hypothesis, testing, analysis, and modification—mirrors the dynamic strategies used in modern software development and organizational management. Students who navigate the frustration of inconclusive results are essentially building resilience. They learn that their first solution is rarely the definitive one. Consequently, when these researchers transition into professional roles, they are uniquely equipped to improve efficiency over time, treating operational setbacks as constructive steps in the development cycle rather than as personal failures.",
+    "transcript": "One often overlooked aspect of research training is the capacity for iterative refinement. In a traditional laboratory setting, a failed experiment isn't merely a dead end; it is a crucial indicator that necessitates a revision of the initial hypothesis. This cyclical process—comprising hypothesis, testing, analysis, and modification—mirrors the dynamic strategies used in modern software development and organizational management. Students who navigate the frustration of inconclusive results are essentially building resilience. They learn that their first solution is rarely the definitive one. Consequently, when these researchers transition into professional roles, they are uniquely equipped to improve efficiency over time, treating operational setbacks as constructive steps in the development cycle rather than as personal failures.",
+    "audio_text": "One often overlooked aspect of research training is the capacity for iterative refinement. In a traditional laboratory setting, a failed experiment isn't merely a dead end; it is a crucial indicator that necessitates a revision of the initial hypothesis. This cyclical process—comprising hypothesis, testing, analysis, and modification—mirrors the dynamic strategies used in modern software development and organizational management. Students who navigate the frustration of inconclusive results are essentially building resilience. They learn that their first solution is rarely the definitive one. Consequently, when these researchers transition into professional roles, they are uniquely equipped to improve efficiency over time, treating operational setbacks as constructive steps in the development cycle rather than as personal failures.",
+    "topic": "",
+    "source": "goarno.io",
+    "options": [
+      "It guarantees that their initial solutions will be accurate.",
+      "It teaches them to view setbacks as opportunities for improvement.",
+      "It focuses on mastering specific laboratory management software.",
+      "It encourages them to hide inconclusive results from management."
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "",
+    "trap": ""
+  }
+]

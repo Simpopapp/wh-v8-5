@@ -1,0 +1,90 @@
+{
+  "type": "lst_mcq_multi",
+  "task_type": "Listening MCQ Multiple",
+  "section": "listening",
+  "total": 3,
+  "generated_at": "2026-10-05",
+  "questions": [
+    {
+      "id": "pte-lst_mc-6feffb55",
+      "type": "lst_mcq_multi",
+      "task_type": "lst-mcq-multi",
+      "section": "listening",
+      "prompt": "",
+      "text": "Today I want to focus on what makes peer review work — and what makes it fail. The strengths of peer review are real: it filters out obvious methodological errors, it catches missing citations and overstated claims, and it gives editors a structured signal about which papers deserve scarce journal space. But the system has well-documented weaknesses. Reviewers tend to favour work that confirms their priors, novel or interdisciplinary work gets lower scores than incremental work in established traditions, and the time investment is unrewarded — most reviewers report doing it from a sense of professional duty rather than expectation of any return. Reform proposals tend to cluster around three ideas: paying reviewers, opening reviews to public scrutiny after publication, and using pre-registration to reduce the temptation to evaluate results rather than methods.",
+      "transcript": "Today I want to focus on what makes peer review work — and what makes it fail. The strengths of peer review are real: it filters out obvious methodological errors, it catches missing citations and overstated claims, and it gives editors a structured signal about which papers deserve scarce journal space. But the system has well-documented weaknesses. Reviewers tend to favour work that confirms their priors, novel or interdisciplinary work gets lower scores than incremental work in established traditions, and the time investment is unrewarded — most reviewers report doing it from a sense of professional duty rather than expectation of any return. Reform proposals tend to cluster around three ideas: paying reviewers, opening reviews to public scrutiny after publication, and using pre-registration to reduce the temptation to evaluate results rather than methods.",
+      "audio_text": "Today I want to focus on what makes peer review work — and what makes it fail. The strengths of peer review are real: it filters out obvious methodological errors, it catches missing citations and overstated claims, and it gives editors a structured signal about which papers deserve scarce journal space. But the system has well-documented weaknesses. Reviewers tend to favour work that confirms their priors, novel or interdisciplinary work gets lower scores than incremental work in established traditions, and the time investment is unrewarded — most reviewers report doing it from a sense of professional duty rather than expectation of any return. Reform proposals tend to cluster around three ideas: paying reviewers, opening reviews to public scrutiny after publication, and using pre-registration to reduce the temptation to evaluate results rather than methods.",
+      "content": "Today I want to focus on what makes peer review work — and what makes it fail. The strengths of peer review are real: it filters out obvious methodological errors, it catches missing citations and overstated claims, and it gives editors a structured signal about which papers deserve scarce journal space. But the system has well-documented weaknesses. Reviewers tend to favour work that confirms their priors, novel or interdisciplinary work gets lower scores than incremental work in established traditions, and the time investment is unrewarded — most reviewers report doing it from a sense of professional duty rather than expectation of any return. Reform proposals tend to cluster around three ideas: paying reviewers, opening reviews to public scrutiny after publication, and using pre-registration to reduce the temptation to evaluate results rather than methods.",
+      "answer": [
+        1,
+        3
+      ],
+      "source": "pteracai-seed",
+      "word_count": 133,
+      "options": [
+        "It filters out methodological errors.",
+        "Reviewers tend to favour work that confirms their existing views.",
+        "Reviewers receive substantial financial rewards for the work.",
+        "Novel or interdisciplinary work gets lower scores than incremental work.",
+        "Reviewers always reach the same conclusions about a paper."
+      ],
+      "explanation": "B and D paraphrase 'favour work that confirms their priors' and 'novel or interdisciplinary work gets lower scores'. A is named as a STRENGTH, not a weakness. C contradicts 'the time investment is unrewarded'. E is not in the lecture.",
+      "trap": "A is in the lecture but on the wrong side — it's listed as a strength. Don't pick options just because the words appeared in the audio.",
+      "topic": "academic lecture"
+    },
+    {
+      "id": "pte-lst_mc-e6f20a6a",
+      "type": "lst_mcq_multi",
+      "task_type": "lst-mcq-multi",
+      "section": "listening",
+      "prompt": "",
+      "text": "Memory researchers now distinguish three broad consolidation pathways. The first is synaptic consolidation, which happens within minutes to hours after learning and depends on protein synthesis at specific synapses. The second is systems consolidation, which unfolds over weeks to years and gradually transfers memories from the hippocampus to neocortical storage. The third — and most recently characterised — is reconsolidation, the surprising finding that retrieved memories briefly become labile again and can be modified before being restored. Reconsolidation has opened a clinical window: post-traumatic memories can sometimes be weakened by retrieving them under specific pharmacological conditions, though the technique remains experimental.",
+      "transcript": "Memory researchers now distinguish three broad consolidation pathways. The first is synaptic consolidation, which happens within minutes to hours after learning and depends on protein synthesis at specific synapses. The second is systems consolidation, which unfolds over weeks to years and gradually transfers memories from the hippocampus to neocortical storage. The third — and most recently characterised — is reconsolidation, the surprising finding that retrieved memories briefly become labile again and can be modified before being restored. Reconsolidation has opened a clinical window: post-traumatic memories can sometimes be weakened by retrieving them under specific pharmacological conditions, though the technique remains experimental.",
+      "audio_text": "Memory researchers now distinguish three broad consolidation pathways. The first is synaptic consolidation, which happens within minutes to hours after learning and depends on protein synthesis at specific synapses. The second is systems consolidation, which unfolds over weeks to years and gradually transfers memories from the hippocampus to neocortical storage. The third — and most recently characterised — is reconsolidation, the surprising finding that retrieved memories briefly become labile again and can be modified before being restored. Reconsolidation has opened a clinical window: post-traumatic memories can sometimes be weakened by retrieving them under specific pharmacological conditions, though the technique remains experimental.",
+      "content": "Memory researchers now distinguish three broad consolidation pathways. The first is synaptic consolidation, which happens within minutes to hours after learning and depends on protein synthesis at specific synapses. The second is systems consolidation, which unfolds over weeks to years and gradually transfers memories from the hippocampus to neocortical storage. The third — and most recently characterised — is reconsolidation, the surprising finding that retrieved memories briefly become labile again and can be modified before being restored. Reconsolidation has opened a clinical window: post-traumatic memories can sometimes be weakened by retrieving them under specific pharmacological conditions, though the technique remains experimental.",
+      "answer": [
+        1,
+        2
+      ],
+      "source": "pteracai-seed",
+      "word_count": 101,
+      "options": [
+        "It is the longest of the three consolidation processes.",
+        "Retrieved memories briefly become modifiable before being restored.",
+        "It has potential clinical applications for traumatic memories.",
+        "It replaces systems consolidation entirely.",
+        "It requires protein synthesis at every synapse."
+      ],
+      "explanation": "B paraphrases 'retrieved memories briefly become labile again and can be modified'. C paraphrases 'opened a clinical window ... post-traumatic memories can sometimes be weakened'. A is wrong — systems consolidation is described as the longest. D is not stated; the three processes coexist. E is described for synaptic consolidation, not reconsolidation.",
+      "trap": "E mixes details from a different pathway. The lecturer mentions protein synthesis only in connection with synaptic consolidation. Track which detail attaches to which concept.",
+      "topic": "academic lecture"
+    },
+    {
+      "id": "pte-lst_mc-91423dad",
+      "type": "lst_mcq_multi",
+      "task_type": "lst-mcq-multi",
+      "section": "listening",
+      "prompt": "",
+      "text": "Geothermal energy is often described as a promising baseload renewable, but its real-world deployment has been uneven. The clearest successes are in places with shallow, naturally permeable hot rock: Iceland, parts of New Zealand, and the western United States. Most of the planet doesn't have that geology. Enhanced geothermal systems try to engineer permeability by fracturing deeper rock, but the technique has been linked to small induced earthquakes near several pilot sites. Cost is the other constraint: drilling deep enough to reach useful temperatures often runs above a hundred million dollars per project, and that cost has not fallen the way solar and wind costs have over the last fifteen years.",
+      "transcript": "Geothermal energy is often described as a promising baseload renewable, but its real-world deployment has been uneven. The clearest successes are in places with shallow, naturally permeable hot rock: Iceland, parts of New Zealand, and the western United States. Most of the planet doesn't have that geology. Enhanced geothermal systems try to engineer permeability by fracturing deeper rock, but the technique has been linked to small induced earthquakes near several pilot sites. Cost is the other constraint: drilling deep enough to reach useful temperatures often runs above a hundred million dollars per project, and that cost has not fallen the way solar and wind costs have over the last fifteen years.",
+      "audio_text": "Geothermal energy is often described as a promising baseload renewable, but its real-world deployment has been uneven. The clearest successes are in places with shallow, naturally permeable hot rock: Iceland, parts of New Zealand, and the western United States. Most of the planet doesn't have that geology. Enhanced geothermal systems try to engineer permeability by fracturing deeper rock, but the technique has been linked to small induced earthquakes near several pilot sites. Cost is the other constraint: drilling deep enough to reach useful temperatures often runs above a hundred million dollars per project, and that cost has not fallen the way solar and wind costs have over the last fifteen years.",
+      "content": "Geothermal energy is often described as a promising baseload renewable, but its real-world deployment has been uneven. The clearest successes are in places with shallow, naturally permeable hot rock: Iceland, parts of New Zealand, and the western United States. Most of the planet doesn't have that geology. Enhanced geothermal systems try to engineer permeability by fracturing deeper rock, but the technique has been linked to small induced earthquakes near several pilot sites. Cost is the other constraint: drilling deep enough to reach useful temperatures often runs above a hundred million dollars per project, and that cost has not fallen the way solar and wind costs have over the last fifteen years.",
+      "answer": [
+        0,
+        2
+      ],
+      "source": "pteracai-seed",
+      "word_count": 111,
+      "options": [
+        "Most regions lack the right geology near the surface.",
+        "Geothermal plants emit large amounts of carbon dioxide.",
+        "Enhanced systems have been linked to induced seismic activity.",
+        "The technology requires year-round sunlight.",
+        "Most countries have banned the use of geothermal energy."
+      ],
+      "explanation": "A paraphrases 'Most of the planet doesn't have that geology'. C paraphrases 'linked to small induced earthquakes'. B is not mentioned (the lecture calls it renewable). D is irrelevant to geothermal. E is not stated.",
+      "trap": "B taps a general assumption that all energy sources emit CO2. The lecturer specifically frames geothermal as a clean baseload renewable. Stick to what was said.",
+      "topic": "academic lecture"
+    }
+  ]
+}

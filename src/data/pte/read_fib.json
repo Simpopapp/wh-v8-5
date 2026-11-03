@@ -1,0 +1,2531 @@
+[
+  {
+    "text": "Navigating the aisles of a modern supermarket can be a daunting task for health-conscious consumers. In response, various health authorities have implemented front-of-pack labeling schemes to _______(1) shoppers in making better dietary choices. These color-coded symbols provide immediate feedback, _______(2) if a product is high in sugar, salt, or saturated fat. Although some food manufacturers claim that such systems _______(3) nutritional science, advocates argue that clear visual cues are necessary for _______(4) the global obesity crisis.",
+    "id": "goarno-rfib-01",
+    "blanks": [
+      {
+        "options": [
+          "resist",
+          "insist",
+          "assist",
+          "consist"
+        ],
+        "answer": "assist"
+      },
+      {
+        "options": [
+          "conducting",
+          "allocating",
+          "indicating",
+          "predicting"
+        ],
+        "answer": "indicating"
+      },
+      {
+        "options": [
+          "clarify",
+          "exemplify",
+          "quantify",
+          "oversimplify"
+        ],
+        "answer": "oversimplify"
+      },
+      {
+        "options": [
+          "equating",
+          "debating",
+          "combating",
+          "narrating"
+        ],
+        "answer": "combating"
+      }
+    ],
+    "topic": "navigating aisles modern",
+    "source": "goarno.io"
+  },
+  {
+    "text": "Ocean acidification is a direct consequence of the atmosphere's rising carbon dioxide levels. As the ocean absorbs this gas, chemical reactions occur that reduce seawater pH, jeopardizing the _______(1) of marine life to build shells and skeletons. This impairment could trigger a _______(2) of food chains, affecting everything from microscopic plankton to large predators. Communities that _______(3) their livelihoods from the ocean are particularly vulnerable. Therefore, international cooperation is essential to _______(4) emissions and protect marine resources.",
+    "id": "goarno-rfib-02",
+    "blanks": [
+      {
+        "options": [
+          "ability",
+          "agility",
+          "stability"
+        ],
+        "answer": "ability"
+      },
+      {
+        "options": [
+          "breakthrough",
+          "breakdown",
+          "breakout"
+        ],
+        "answer": "breakdown"
+      },
+      {
+        "options": [
+          "derive",
+          "revive",
+          "deprive"
+        ],
+        "answer": "derive"
+      },
+      {
+        "options": [
+          "curb",
+          "cure",
+          "urge"
+        ],
+        "answer": "curb"
+      }
+    ],
+    "topic": "ocean acidification direct",
+    "source": "goarno.io"
+  },
+  {
+    "text": "Coral reefs are often called the rainforests of the sea due to their immense biodiversity. However, these ecosystems face a crisis known as bleaching, which occurs when corals are stressed by rising water temperatures. Consequently, they expel the algae in their tissues and turn white. While corals can survive, they become more _______(1) to disease. As global temperatures rise, bleaching events are becoming more _______(2), leaving reefs little time to _______(3). Without urgent action to _______(4) climate change, many reefs may soon disappear.",
+    "id": "goarno-rfib-03",
+    "blanks": [
+      {
+        "options": [
+          "immune",
+          "susceptible"
+        ],
+        "answer": "susceptible"
+      },
+      {
+        "options": [
+          "frequent",
+          "deteriorate"
+        ],
+        "answer": "frequent"
+      },
+      {
+        "options": [
+          "recover",
+          "aggravate"
+        ],
+        "answer": "recover"
+      },
+      {
+        "options": [
+          "scarce",
+          "mitigate"
+        ],
+        "answer": "mitigate"
+      }
+    ],
+    "topic": "coral reefs often",
+    "source": "goarno.io"
+  },
+  {
+    "text": "Microplastics are ubiquitous in marine environments, originating from the fragmentation of larger plastic debris. As these materials degrade _______(1) exposure to sunlight and physical stress, they fracture into tiny particles. Consequently, they are readily _______(2) by diverse marine species that mistake them for food. This intake not only inflicts physical harm but also _______(3) the bioaccumulation of toxins. Ultimately, these pollutants move up the food web, _______(4) a significant threat to human health.",
+    "id": "goarno-rfib-04",
+    "blanks": [
+      {
+        "options": [
+          "digested",
+          "across",
+          "upon"
+        ],
+        "answer": "upon"
+      },
+      {
+        "options": [
+          "ingested",
+          "complicates",
+          "placing"
+        ],
+        "answer": "ingested"
+      },
+      {
+        "options": [
+          "absorbed",
+          "facilitates",
+          "within"
+        ],
+        "answer": "facilitates"
+      },
+      {
+        "options": [
+          "posing",
+          "raising",
+          "necessitates"
+        ],
+        "answer": "posing"
+      }
+    ],
+    "topic": "microplastics ubiquitous marine",
+    "source": "goarno.io"
+  },
+  {
+    "text": "The Antarctic ice sheet functions as a massive time capsule, preserving detailed records of the Earth's climatic past. By extracting long cylinders of ice, known as cores, scientists can _______(1) layers that date back hundreds of thousands of years. These samples contain trapped air bubbles that _______(2) the chemical composition of the atmosphere in previous eras. Analyzing these gases allows researchers to _______(3) a direct link between greenhouse gas levels and global temperatures. Such insights are critical for _______(4) future environmental changes.",
+    "id": "goarno-rfib-05",
+    "blanks": [
+      {
+        "options": [
+          "access",
+          "conceal"
+        ],
+        "answer": "access"
+      },
+      {
+        "options": [
+          "ignoring",
+          "reveal"
+        ],
+        "answer": "reveal"
+      },
+      {
+        "options": [
+          "fabricate",
+          "establish"
+        ],
+        "answer": "establish"
+      },
+      {
+        "options": [
+          "forecasting",
+          "question"
+        ],
+        "answer": "forecasting"
+      }
+    ],
+    "topic": "antarctic ice sheet",
+    "source": "goarno.io"
+  },
+  {
+    "text": "Climate change poses a severe challenge to global food security by fundamentally altering growing conditions. Rising temperatures and shifting precipitation patterns are expected to _______(1) crop yields in many vulnerable regions. While certain high-latitude areas might initially _______(2) from extended growing seasons, the increased frequency of extreme weather events could negate these potential gains. Consequently, agricultural sectors must _______(3) rapidly by introducing more resilient plant varieties. Without such measures, the risk of widespread hunger will likely _______(4) in the coming decades.",
+    "id": "goarno-rfib-06",
+    "blanks": [
+      {
+        "options": [
+          "replenish",
+          "diminish"
+        ],
+        "answer": "diminish"
+      },
+      {
+        "options": [
+          "benefit",
+          "suffer"
+        ],
+        "answer": "benefit"
+      },
+      {
+        "options": [
+          "adapt",
+          "adopt"
+        ],
+        "answer": "adapt"
+      },
+      {
+        "options": [
+          "intensify",
+          "subside"
+        ],
+        "answer": "intensify"
+      }
+    ],
+    "topic": "climate change poses",
+    "source": "goarno.io"
+  },
+  {
+    "text": "Unlike traditional industrial robots that operate in isolation behind safety cages, collaborative robots generally work in close _______(1) with human employees. These machines possess sensitive features that halt motion the instant contact is detected, thereby _______(2) the need for heavy protective fencing. Consequently, they occupy less floor space and can be integrated into workflows with minimal disruption. Because they can be quickly reprogrammed, cobots are particularly _______(3) to high-mix production environments. This versatility represents a _______(4) departure from conventional automation, which typically requires rigid programming.",
+    "id": "goarno-rfib-07",
+    "blanks": [
+      {
+        "options": [
+          "proximity",
+          "confinement"
+        ],
+        "answer": "proximity"
+      },
+      {
+        "options": [
+          "imposing",
+          "eliminating"
+        ],
+        "answer": "eliminating"
+      },
+      {
+        "options": [
+          "suited",
+          "resistant"
+        ],
+        "answer": "suited"
+      },
+      {
+        "options": [
+          "trivial",
+          "marked"
+        ],
+        "answer": "marked"
+      }
+    ],
+    "topic": "unlike traditional industrial",
+    "source": "goarno.io"
+  },
+  {
+    "text": "Many nations are adopting front-of-pack labeling systems to address rising obesity rates. These visual indicators allow consumers to rapidly _______(1) the nutritional value of processed items without thoroughly reading complex charts. Evidence suggests that such transparency _______(2) manufacturers to reformulate products to achieve healthier ratings. Consequently, clear labeling not only empowers shoppers but also drives the industry to _______(3) levels of salt and sugar, ultimately helping to _______(4) the prevalence of chronic conditions.",
+    "id": "goarno-rfib-08",
+    "blanks": [
+      {
+        "options": [
+          "assess",
+          "assert",
+          "access"
+        ],
+        "answer": "assess"
+      },
+      {
+        "options": [
+          "impedes",
+          "encourages",
+          "observes"
+        ],
+        "answer": "encourages"
+      },
+      {
+        "options": [
+          "induce",
+          "reduce",
+          "deduct"
+        ],
+        "answer": "reduce"
+      },
+      {
+        "options": [
+          "calm",
+          "curb",
+          "curve"
+        ],
+        "answer": "curb"
+      }
+    ],
+    "topic": "many nations adopting",
+    "source": "goarno.io"
+  },
+  {
+    "text": "Scientists look to the polar regions to understand Earth's climatic history. In Antarctica, researchers drill deep into the ice sheet to _______(1) cylindrical samples known as ice cores. These frozen columns contain tiny bubbles of ancient air, _______(2) when snow fell and compacted centuries ago. By analyzing the chemical composition of this gas, climatologists can _______(3) past atmospheric conditions with remarkable precision. Such data provides vital _______(4) into how the planet responds to changing greenhouse gas levels.",
+    "id": "goarno-rfib-09",
+    "blanks": [
+      {
+        "options": [
+          "excavate",
+          "extract",
+          "insert"
+        ],
+        "answer": "extract"
+      },
+      {
+        "options": [
+          "seized",
+          "latched",
+          "trapped"
+        ],
+        "answer": "trapped"
+      },
+      {
+        "options": [
+          "rearrange",
+          "reconstruct",
+          "reconcile"
+        ],
+        "answer": "reconstruct"
+      },
+      {
+        "options": [
+          "glimpses",
+          "insights",
+          "outlooks"
+        ],
+        "answer": "insights"
+      }
+    ],
+    "topic": "scientists look polar",
+    "source": "goarno.io"
+  },
+  {
+    "text": "Despite the stated commitment of many organizations to diversity, traditional recruitment processes often hinder progress. Unconscious bias can easily _______(1) into decision-making when hiring managers review resumes containing personal details. To _______(2) this issue, some companies have adopted 'blind' recruitment practices, where identifying information is removed. This aims to ensure that candidates are judged solely on their skills and experience rather than _______(3) factors like gender or ethnicity. Although not a panacea, preliminary studies suggest this approach can significantly _______(4) the chances of underrepresented groups securing interviews.",
+    "id": "goarno-rfib-10",
+    "blanks": [
+      {
+        "options": [
+          "march",
+          "creep",
+          "slide"
+        ],
+        "answer": "creep"
+      },
+      {
+        "options": [
+          "uphold",
+          "combat",
+          "dispute"
+        ],
+        "answer": "combat"
+      },
+      {
+        "options": [
+          "integral",
+          "crucial",
+          "irrelevant"
+        ],
+        "answer": "irrelevant"
+      },
+      {
+        "options": [
+          "enlarge",
+          "boost",
+          "escalate"
+        ],
+        "answer": "boost"
+      }
+    ],
+    "topic": "despite stated commitment",
+    "source": "goarno.io"
+  },
+  {
+    "text": "Collaborative robots, known as cobots, are designed to operate alongside humans rather than in _______(1) environments. Unlike traditional industrial robots, which often require heavy safety barriers to _______(2) accidents, cobots come equipped with advanced sensors that halt motion upon contact. This capability makes them _______(3) for tasks that demand human flexibility combined with machine precision. As a result, the role of the human worker is _______(4) from repetitive manual labor to oversight and management.",
+    "id": "goarno-rfib-11",
+    "blanks": [
+      {
+        "options": [
+          "remote",
+          "lonely",
+          "isolated"
+        ],
+        "answer": "isolated"
+      },
+      {
+        "options": [
+          "prevent",
+          "prohibit",
+          "avoid"
+        ],
+        "answer": "prevent"
+      },
+      {
+        "options": [
+          "ready",
+          "typical",
+          "ideal"
+        ],
+        "answer": "ideal"
+      },
+      {
+        "options": [
+          "sliding",
+          "shifting",
+          "drifting"
+        ],
+        "answer": "shifting"
+      }
+    ],
+    "topic": "collaborative robots known",
+    "source": "goarno.io"
+  },
+  {
+    "text": "Despite decades of advocacy, the gender pay gap remains a _______(1) feature of the global economy. To combat this, several nations have implemented mandatory reporting laws intended to _______(2) salary discrepancies between male and female employees. Proponents argue that such transparency forces companies to address inequalities they might otherwise ignore. However, simply publishing data does not automatically _______(3) to fair compensation. Real progress requires organisations to actively _______(4) the structural barriers that continue to hinder women's career progression.",
+    "id": "goarno-rfib-12",
+    "blanks": [
+      {
+        "options": [
+          "resistant",
+          "persistent",
+          "consistent"
+        ],
+        "answer": "persistent"
+      },
+      {
+        "options": [
+          "oppose",
+          "expose",
+          "impose"
+        ],
+        "answer": "expose"
+      },
+      {
+        "options": [
+          "translate",
+          "transfer",
+          "transform"
+        ],
+        "answer": "translate"
+      },
+      {
+        "options": [
+          "dissolve",
+          "disband",
+          "dismantle"
+        ],
+        "answer": "dismantle"
+      }
+    ],
+    "topic": "despite decades advocacy",
+    "source": "goarno.io"
+  },
+  {
+    "text": "The world's oceans play a pivotal role in regulating the climate by absorbing a significant amount of carbon dioxide. While this buffers the atmosphere against warming, it leads to a chemical shift known as ocean acidification. This process reduces the supply of carbonate ions that marine organisms require to _______(1) their protective shells. Consequently, vital species are placed under severe _______(2), potentially _______(3) food webs and having profound _______(4) for global fisheries.",
+    "id": "goarno-rfib-13",
+    "blanks": [
+      {
+        "options": [
+          "devise",
+          "construct",
+          "fabricate"
+        ],
+        "answer": "construct"
+      },
+      {
+        "options": [
+          "stress",
+          "tension",
+          "force"
+        ],
+        "answer": "stress"
+      },
+      {
+        "options": [
+          "corrupting",
+          "disrupting",
+          "distracting"
+        ],
+        "answer": "disrupting"
+      },
+      {
+        "options": [
+          "implications",
+          "applications",
+          "suggestions"
+        ],
+        "answer": "implications"
+      }
+    ],
+    "topic": "world's oceans play",
+    "source": "goarno.io"
+  },
+  {
+    "text": "The extraction of ice cores from Antarctica offers a direct record of the Earth's atmospheric history. As snow falls, it _______(1) in layers, eventually compressing into ice. During this process, tiny bubbles of air are trapped, effectively _______(2) samples of the ancient atmosphere. By analyzing these inclusions, scientists can establish a strong _______(3) between historical carbon dioxide levels and global temperatures. Such findings are _______(4) in modeling future climate scenarios and understanding the impact of human activity.",
+    "id": "goarno-rfib-14",
+    "blanks": [
+      {
+        "options": [
+          "dissolves",
+          "accumulates"
+        ],
+        "answer": "accumulates"
+      },
+      {
+        "options": [
+          "preserving",
+          "neglecting"
+        ],
+        "answer": "preserving"
+      },
+      {
+        "options": [
+          "separation",
+          "correlation"
+        ],
+        "answer": "correlation"
+      },
+      {
+        "options": [
+          "trivial",
+          "instrumental"
+        ],
+        "answer": "instrumental"
+      }
+    ],
+    "topic": "extraction ice cores",
+    "source": "goarno.io"
+  },
+  {
+    "text": "Deep beneath the Antarctic ice sheet lies a hidden network of subglacial lakes. The largest of these, Lake Vostok, has been sealed off from the surface for millions of years. Scientists believe that despite the extreme pressure and total darkness, the lake may _______(1) unique microbial life forms. Exploring this environment requires technology that _______(2) contamination of the pristine waters. Successful research here could provide clues about life on other icy _______(3) in our solar system. This possibility makes the region particularly _______(4) to astrobiologists.",
+    "id": "goarno-rfib-15",
+    "blanks": [
+      {
+        "options": [
+          "harbor",
+          "disguise"
+        ],
+        "answer": "harbor"
+      },
+      {
+        "options": [
+          "prohibits",
+          "prevents"
+        ],
+        "answer": "prevents"
+      },
+      {
+        "options": [
+          "bodies",
+          "masses"
+        ],
+        "answer": "bodies"
+      },
+      {
+        "options": [
+          "significant",
+          "meaningless"
+        ],
+        "answer": "significant"
+      }
+    ],
+    "topic": "deep beneath antarctic",
+    "source": "goarno.io"
+  },
+  {
+    "text": "The integration of artificial intelligence into industrial robotics is redefining the concept of automation. Unlike their predecessors, which simply repeated pre-programmed movements, AI-driven robots can _______(1) to changing environments in real-time. This capability is particularly valuable in unstructured settings where items may be placed _______(2). However, the deployment of such autonomous systems is not without its hurdles. Companies must invest heavily in training data, a process that can be both time-consuming and _______(3) expensive. Furthermore, relying on probabilistic algorithms introduces a degree of _______(4) that traditional engineers find unsettling.",
+    "id": "goarno-rfib-16",
+    "blanks": [
+      {
+        "options": [
+          "adhere",
+          "adopt",
+          "align",
+          "adapt"
+        ],
+        "answer": "adapt"
+      },
+      {
+        "options": [
+          "linearly",
+          "systematically",
+          "haphazardly",
+          "vertically"
+        ],
+        "answer": "haphazardly"
+      },
+      {
+        "options": [
+          "marginally",
+          "supposedly",
+          "increasingly",
+          "prohibitively"
+        ],
+        "answer": "prohibitively"
+      },
+      {
+        "options": [
+          "precision",
+          "guarantee",
+          "stability",
+          "uncertainty"
+        ],
+        "answer": "uncertainty"
+      }
+    ],
+    "topic": "integration artificial intelligence",
+    "source": "goarno.io"
+  },
+  {
+    "text": "Rising levels of atmospheric carbon dioxide are not only warming the planet but also altering the chemistry of the oceans. When seawater absorbs CO2, it becomes more acidic, a phenomenon that _______(1) grave risks to marine biodiversity. This change is particularly _______(2) for organisms like coral and shellfish, which struggle to form their protective shells. As these ecosystems degrade, the _______(3) they provide to coastal communities are likely to _______(4) over time.",
+    "id": "goarno-rfib-17",
+    "blanks": [
+      {
+        "options": [
+          "beneficial",
+          "poses"
+        ],
+        "answer": "poses"
+      },
+      {
+        "options": [
+          "detrimental",
+          "amplify"
+        ],
+        "answer": "detrimental"
+      },
+      {
+        "options": [
+          "benefits",
+          "profits"
+        ],
+        "answer": "benefits"
+      },
+      {
+        "options": [
+          "offers",
+          "diminish"
+        ],
+        "answer": "diminish"
+      }
+    ],
+    "topic": "rising levels atmospheric",
+    "source": "goarno.io"
+  },
+  {
+    "text": "Coral reefs are often likened to underwater rainforests due to their rich biodiversity. These ecosystems rely on a _______(1) relationship with algae that provide them with essential nutrients. However, rising sea temperatures cause corals to expel these algae, leaving the reefs _______(2) to disease and starvation. This degradation poses a severe _______(3) to the coastal communities that depend on them for storm protection. Consequently, scientists are _______(4) to develop coral strains that can withstand higher temperatures.",
+    "id": "goarno-rfib-18",
+    "blanks": [
+      {
+        "options": [
+          "symbolic",
+          "symbiotic",
+          "systematic"
+        ],
+        "answer": "symbiotic"
+      },
+      {
+        "options": [
+          "sensitive",
+          "susceptible",
+          "liable"
+        ],
+        "answer": "susceptible"
+      },
+      {
+        "options": [
+          "warning",
+          "fright",
+          "threat"
+        ],
+        "answer": "threat"
+      },
+      {
+        "options": [
+          "racing",
+          "running",
+          "chasing"
+        ],
+        "answer": "racing"
+      }
+    ],
+    "topic": "coral reefs often",
+    "source": "goarno.io"
+  },
+  {
+    "text": "Drilling into the Antarctic ice sheets allows scientists to extract cylinders known as ice cores. These samples contain tiny bubbles of ancient air _______(1) long ago. By analyzing the gas composition, researchers can _______(2) past atmospheric conditions with great accuracy. This data offers a _______(3) baseline for understanding modern climate change. Effectively, the continent serves as a frozen archive, _______(4) the Earth's environmental history.",
+    "id": "goarno-rfib-19",
+    "blanks": [
+      {
+        "options": [
+          "released",
+          "exposed",
+          "trapped"
+        ],
+        "answer": "trapped"
+      },
+      {
+        "options": [
+          "predict",
+          "fabricate",
+          "reconstruct"
+        ],
+        "answer": "reconstruct"
+      },
+      {
+        "options": [
+          "hypothetical",
+          "minor",
+          "crucial"
+        ],
+        "answer": "crucial"
+      },
+      {
+        "options": [
+          "deleting",
+          "preserving",
+          "damaging"
+        ],
+        "answer": "preserving"
+      }
+    ],
+    "topic": "drilling into antarctic",
+    "source": "goarno.io"
+  },
+  {
+    "text": "Antarctica is unique among continents as it possesses no native human population and belongs to no single nation. Instead, it is governed by the Antarctic Treaty, which sets aside the region exclusively for peaceful purposes and scientific research. Since its _______(1), the agreement has successfully prohibited military maneuvers and mineral exploitation. In this harsh environment, international cooperation is _______(2), as researchers from diverse countries share logistics and data. Consequently, the continent serves as a _______(3) for global diplomacy, demonstrating how nations can collaborate _______(4) despite political tensions elsewhere.",
+    "id": "goarno-rfib-20",
+    "blanks": [
+      {
+        "options": [
+          "termination",
+          "ratification"
+        ],
+        "answer": "ratification"
+      },
+      {
+        "options": [
+          "essential",
+          "trivial"
+        ],
+        "answer": "essential"
+      },
+      {
+        "options": [
+          "model",
+          "sample"
+        ],
+        "answer": "model"
+      },
+      {
+        "options": [
+          "effectively",
+          "sparsely"
+        ],
+        "answer": "effectively"
+      }
+    ],
+    "topic": "antarctica unique among",
+    "source": "goarno.io"
+  },
+  {
+    "text": "Deep beneath the Antarctic ice sheet lies Lake Vostok, a vast body of water that has remained _______(1) from the atmosphere for millions of years. This extreme separation creates a unique environment where microbial life may have _______(2) independently. Researchers are keen to explore these waters, hoping to find organisms that could _______(3) clues about life on other planets. However, drilling into the lake presents significant challenges, as scientists must avoid _______(4) the pristine ecosystem with surface microbes.",
+    "id": "goarno-rfib-21",
+    "blanks": [
+      {
+        "options": [
+          "divided",
+          "isolated",
+          "alienated"
+        ],
+        "answer": "isolated"
+      },
+      {
+        "options": [
+          "survived",
+          "originated",
+          "evolved"
+        ],
+        "answer": "evolved"
+      },
+      {
+        "options": [
+          "donate",
+          "apply",
+          "provide"
+        ],
+        "answer": "provide"
+      },
+      {
+        "options": [
+          "contaminating",
+          "corrupting",
+          "polluting"
+        ],
+        "answer": "contaminating"
+      }
+    ],
+    "topic": "deep beneath antarctic",
+    "source": "goarno.io"
+  },
+  {
+    "text": "Public health officials are increasingly advocating for mandatory nutritional labeling on packaged foods. By implementing clear visual indicators, authorities hope to help consumers _______(1) between healthy and unhealthy options rapidly. This transparency places pressure on manufacturers to _______(2) their products, reducing sugar levels to avoid negative categorization. However, simply providing information is not a panacea; it must be _______(3) into a wider strategy involving education. Only then can society hope to _______(4) the current trends in diet-related illness.",
+    "id": "goarno-rfib-22",
+    "blanks": [
+      {
+        "options": [
+          "extinguish",
+          "distinguish"
+        ],
+        "answer": "distinguish"
+      },
+      {
+        "options": [
+          "reproduce",
+          "reformulate"
+        ],
+        "answer": "reformulate"
+      },
+      {
+        "options": [
+          "interpreted",
+          "integrated"
+        ],
+        "answer": "integrated"
+      },
+      {
+        "options": [
+          "reserve",
+          "reverse"
+        ],
+        "answer": "reverse"
+      }
+    ],
+    "topic": "public health officials",
+    "source": "goarno.io"
+  },
+  {
+    "text": "The world's oceans play a critical role in _______(1) the global climate by absorbing a significant portion of carbon dioxide. However, this process comes at a cost, leading to a phenomenon known as ocean acidification. As water becomes more acidic, it poses a severe _______(2) to marine life, particularly organisms that rely on calcium carbonate to build their shells. Consequently, this disruption could _______(3) entire food webs, ultimately _______(4) human populations that depend on seafood.",
+    "id": "goarno-rfib-23",
+    "blanks": [
+      {
+        "options": [
+          "producing",
+          "regulating",
+          "changing"
+        ],
+        "answer": "regulating"
+      },
+      {
+        "options": [
+          "threat",
+          "chance",
+          "treat"
+        ],
+        "answer": "threat"
+      },
+      {
+        "options": [
+          "organize",
+          "strengthen",
+          "destabilize"
+        ],
+        "answer": "destabilize"
+      },
+      {
+        "options": [
+          "affecting",
+          "effecting",
+          "rejecting"
+        ],
+        "answer": "affecting"
+      }
+    ],
+    "topic": "world's oceans play",
+    "source": "goarno.io"
+  },
+  {
+    "text": "Deep within the Antarctic ice sheet, layers of frozen snow provide a detailed record of Earth's past climate. Scientists drill into the ice to retrieve cores containing bubbles of ancient air. These trapped gases offer a direct _______(1) of the atmosphere from thousands of years ago. By analyzing their chemical composition, researchers can accurately _______(2) historical temperature patterns. This data is essential for understanding how the planet _______(3) to shifting greenhouse gas levels. Ultimately, such findings serve as a vital _______(4) for predicting future environmental changes.",
+    "id": "goarno-rfib-24",
+    "blanks": [
+      {
+        "options": [
+          "sighting",
+          "forecast",
+          "snapshot"
+        ],
+        "answer": "snapshot"
+      },
+      {
+        "options": [
+          "renovate",
+          "reconstruct",
+          "manufacture"
+        ],
+        "answer": "reconstruct"
+      },
+      {
+        "options": [
+          "corresponds",
+          "responds",
+          "replies"
+        ],
+        "answer": "responds"
+      },
+      {
+        "options": [
+          "origin",
+          "basis",
+          "theory"
+        ],
+        "answer": "basis"
+      }
+    ],
+    "topic": "deep within antarctic",
+    "source": "goarno.io"
+  },
+  {
+    "text": "Silicon Valley is frequently depicted as a cradle of disruptive innovation, yet the dynamics of success are shifting. The exorbitant cost of operations has _______(1) many startups to reconsider their strategies. Instead of aiming for immediate global dominance, emerging companies often _______(2) specific problems within established industries. This evolution has led venture capitalists to be more _______(3) in their funding decisions, seeking tangible business plans rather than mere concepts. Nevertheless, the region's ecosystem remains a powerful magnet, continuing to _______(4) ambitious minds seeking to make their mark.",
+    "id": "goarno-rfib-25",
+    "blanks": [
+      {
+        "options": [
+          "dispelled",
+          "compelled"
+        ],
+        "answer": "compelled"
+      },
+      {
+        "options": [
+          "target",
+          "aim"
+        ],
+        "answer": "target"
+      },
+      {
+        "options": [
+          "selective",
+          "distinct"
+        ],
+        "answer": "selective"
+      },
+      {
+        "options": [
+          "drag",
+          "draw"
+        ],
+        "answer": "draw"
+      }
+    ],
+    "topic": "silicon valley frequently",
+    "source": "goarno.io"
+  },
+  {
+    "text": "Flexible working arrangements are often advocated as a crucial tool for improving gender equity in corporate environments. Yet, evidence indicates that while such policies facilitate work-life balance, they can inadvertently _______(1) career advancement. Employees working remotely may experience reduced visibility, leading managers to preferentially _______(2) high-stakes assignments to those physically present. To counteract this bias, companies must ensure evaluations focus on _______(3) rather than time spent at a desk, or these initiatives will fail to _______(4) the leadership gap.",
+    "id": "goarno-rfib-26",
+    "blanks": [
+      {
+        "options": [
+          "foster",
+          "hinder",
+          "promote"
+        ],
+        "answer": "hinder"
+      },
+      {
+        "options": [
+          "scatter",
+          "disperse",
+          "allocate"
+        ],
+        "answer": "allocate"
+      },
+      {
+        "options": [
+          "inputs",
+          "origins",
+          "outcomes"
+        ],
+        "answer": "outcomes"
+      },
+      {
+        "options": [
+          "bridge",
+          "link",
+          "join"
+        ],
+        "answer": "bridge"
+      }
+    ],
+    "topic": "flexible working arrangements",
+    "source": "goarno.io"
+  },
+  {
+    "text": "Collaborative robots, commonly known as cobots, represent a significant shift in manufacturing paradigms. They are specifically designed to operate _______(1) human workers rather than being confined to isolated cages. Unlike traditional industrial robots that necessitate strict separation to ensure safety, cobots come _______(2) with advanced sensors capable of detecting human presence and adjusting their movements accordingly. This unique capability renders them ideal for tasks that require a blend of flexibility and precision. However, integrating these machines into existing workflows requires meticulous planning to _______(3) operational efficiency without _______(4) established safety protocols.",
+    "id": "goarno-rfib-27",
+    "blanks": [
+      {
+        "options": [
+          "alongside",
+          "among",
+          "besides"
+        ],
+        "answer": "alongside"
+      },
+      {
+        "options": [
+          "installed",
+          "armed",
+          "equipped"
+        ],
+        "answer": "equipped"
+      },
+      {
+        "options": [
+          "amplify",
+          "maximize",
+          "inflate"
+        ],
+        "answer": "maximize"
+      },
+      {
+        "options": [
+          "compromising",
+          "rejecting",
+          "neglecting"
+        ],
+        "answer": "compromising"
+      }
+    ],
+    "topic": "collaborative robots commonly",
+    "source": "goarno.io"
+  },
+  {
+    "text": "Industrial facilities frequently generate wastewater containing hazardous pollutants that are _______(1) directly into local waterways. Over time, these persistent substances _______(2) in the tissues of aquatic organisms, becoming significantly more concentrated as they move up the food chain. _______(3), apex predators face elevated health risks from exposure to these toxins. It is therefore essential to _______(4) stricter environmental policies to effectively curb this form of contamination.",
+    "id": "goarno-rfib-28",
+    "blanks": [
+      {
+        "options": [
+          "discharged",
+          "inhaled",
+          "accepted"
+        ],
+        "answer": "discharged"
+      },
+      {
+        "options": [
+          "accumulate",
+          "disperse",
+          "evaporate"
+        ],
+        "answer": "accumulate"
+      },
+      {
+        "options": [
+          "conversely",
+          "regardless",
+          "Consequently"
+        ],
+        "answer": "Consequently"
+      },
+      {
+        "options": [
+          "imply",
+          "implement",
+          "neglect"
+        ],
+        "answer": "implement"
+      }
+    ],
+    "topic": "industrial facilities frequently",
+    "source": "goarno.io"
+  },
+  {
+    "text": "The Harlem Renaissance marked a period of rich cross-disciplinary artistic activity among African Americans. During this time, the neighborhood of Harlem in New York City became a cultural center where jazz, literature, and art _______(1). Creatives utilized this platform to _______(2) their identity and advocate for civil rights. The movement not only celebrated black heritage but also _______(3) the prevailing racial stereotypes of the era, leaving a lasting _______(4) on American culture.",
+    "id": "goarno-rfib-29",
+    "blanks": [
+      {
+        "options": [
+          "flourished",
+          "vanished",
+          "collapsed"
+        ],
+        "answer": "flourished"
+      },
+      {
+        "options": [
+          "redefine",
+          "confine",
+          "refine"
+        ],
+        "answer": "redefine"
+      },
+      {
+        "options": [
+          "confirmed",
+          "challenged",
+          "accepted"
+        ],
+        "answer": "challenged"
+      },
+      {
+        "options": [
+          "legacy",
+          "legend",
+          "myth"
+        ],
+        "answer": "legacy"
+      }
+    ],
+    "topic": "harlem renaissance marked",
+    "source": "goarno.io"
+  },
+  {
+    "text": "Childcare obligations have historically fallen _______(1) on women, creating significant barriers to career advancement. In response, forward-thinking companies are introducing shared parental leave policies designed to foster a more _______(2) distribution of domestic duties. These initiatives aim to _______(3) the pervasive assumption that caregiving is exclusively the domain of mothers. While the _______(4) of paternity leave varies across industries, normalizing this practice is seen as crucial for achieving true gender parity in the professional sphere.",
+    "id": "goarno-rfib-30",
+    "blanks": [
+      {
+        "options": [
+          "marginally",
+          "disproportionately"
+        ],
+        "answer": "disproportionately"
+      },
+      {
+        "options": [
+          "skewed",
+          "balanced"
+        ],
+        "answer": "balanced"
+      },
+      {
+        "options": [
+          "challenge",
+          "confirm"
+        ],
+        "answer": "challenge"
+      },
+      {
+        "options": [
+          "enforce",
+          "uptake"
+        ],
+        "answer": "uptake"
+      }
+    ],
+    "topic": "childcare obligations have",
+    "source": "goarno.io"
+  },
+  {
+    "text": "Coral reefs are often described as the rainforests of the sea, supporting a vast array of marine life. However, rising ocean temperatures are posing a significant _______(1) to these delicate ecosystems. When water becomes too warm, corals expel the algae living in their tissues, causing them to turn completely white. This phenomenon, known as coral bleaching, leaves corals _______(2) to disease and death. Unless global warming is _______(3), we risk losing these _______(4) habitats forever.",
+    "id": "goarno-rfib-31",
+    "blanks": [
+      {
+        "options": [
+          "warning",
+          "threat"
+        ],
+        "answer": "threat"
+      },
+      {
+        "options": [
+          "vulnerable",
+          "immune"
+        ],
+        "answer": "vulnerable"
+      },
+      {
+        "options": [
+          "curbed",
+          "provoked"
+        ],
+        "answer": "curbed"
+      },
+      {
+        "options": [
+          "vital",
+          "trivial"
+        ],
+        "answer": "vital"
+      }
+    ],
+    "topic": "coral reefs often",
+    "source": "goarno.io"
+  },
+  {
+    "text": "Scientists drill deep into the Antarctic ice sheet to extract cylindrical samples known as ice cores. These frozen columns _______(1) a timeline of Earth's past climate, stretching back hundreds of thousands of years. As snow accumulates and _______(2) into ice, it traps tiny air bubbles that preserve samples of the ancient atmosphere. By analyzing the chemical composition of this air, researchers can _______(3) historical temperature changes. This data is crucial for _______(4) how the modern climate might react to rising carbon emissions.",
+    "id": "goarno-rfib-32",
+    "blanks": [
+      {
+        "options": [
+          "provide",
+          "expands"
+        ],
+        "answer": "provide"
+      },
+      {
+        "options": [
+          "compacts",
+          "fabricate"
+        ],
+        "answer": "compacts"
+      },
+      {
+        "options": [
+          "reconstruct",
+          "speculating"
+        ],
+        "answer": "reconstruct"
+      },
+      {
+        "options": [
+          "disperses",
+          "predicting"
+        ],
+        "answer": "predicting"
+      }
+    ],
+    "topic": "scientists drill deep",
+    "source": "goarno.io"
+  },
+  {
+    "text": "Certain plant species possess the remarkable capacity to extract heavy metals from the soil. This strategy, known as phytoremediation, offers a sustainable way to _______(1) contaminated land. Unlike traditional excavation, which is often prohibitively _______(2) and damaging to the landscape, using plants is far less invasive. The pollutants are absorbed by roots and subsequently _______(3) in the plant's aerial tissues. Therefore, the biomass must be harvested and disposed of _______(4) to ensure the toxins do not return to the environment.",
+    "id": "goarno-rfib-33",
+    "blanks": [
+      {
+        "options": [
+          "revive",
+          "restore"
+        ],
+        "answer": "restore"
+      },
+      {
+        "options": [
+          "expensive",
+          "valuable"
+        ],
+        "answer": "expensive"
+      },
+      {
+        "options": [
+          "assembled",
+          "accumulated"
+        ],
+        "answer": "accumulated"
+      },
+      {
+        "options": [
+          "properly",
+          "purely"
+        ],
+        "answer": "properly"
+      }
+    ],
+    "topic": "certain plant species",
+    "source": "goarno.io"
+  },
+  {
+    "text": "The oceans act as a massive sink for carbon dioxide, absorbing a significant amount of the emissions generated by human activity. While this process slows the rate of global warming, it has _______(1) consequences for marine chemistry. The absorption of CO2 leads to acidification, which _______(2) the survival of calcifying organisms like corals and shellfish. If these species decline, the stability of the marine food web could be severely _______(3). Therefore, reducing emissions is essential not only to limit temperature rise but also to _______(4) the health of our oceans.",
+    "id": "goarno-rfib-34",
+    "blanks": [
+      {
+        "options": [
+          "deliberate",
+          "unintended"
+        ],
+        "answer": "unintended"
+      },
+      {
+        "options": [
+          "threatens",
+          "frightens"
+        ],
+        "answer": "threatens"
+      },
+      {
+        "options": [
+          "disrupted",
+          "corrupted"
+        ],
+        "answer": "disrupted"
+      },
+      {
+        "options": [
+          "reserve",
+          "preserve"
+        ],
+        "answer": "preserve"
+      }
+    ],
+    "topic": "oceans act massive",
+    "source": "goarno.io"
+  },
+  {
+    "text": "As atmospheric carbon dioxide concentrations increase, the oceans play a critical role by _______(1) approximately a quarter of these emissions. However, this natural service comes at a cost, resulting in a phenomenon known as ocean acidification. This chemical shift poses a significant _______(2) to marine organisms, particularly those that rely on calcium carbonate to build shells and skeletons. As waters become more acidic, the ability of corals and shellfish to _______(3) their protective structures is compromised. Ultimately, this destabilization could lead to the _______(4) of vital food webs.",
+    "id": "goarno-rfib-35",
+    "blanks": [
+      {
+        "options": [
+          "consuming",
+          "absorbing",
+          "inhaling"
+        ],
+        "answer": "absorbing"
+      },
+      {
+        "options": [
+          "warning",
+          "fright",
+          "threat"
+        ],
+        "answer": "threat"
+      },
+      {
+        "options": [
+          "retain",
+          "maintain",
+          "obtain"
+        ],
+        "answer": "maintain"
+      },
+      {
+        "options": [
+          "decay",
+          "collapse",
+          "relapse"
+        ],
+        "answer": "collapse"
+      }
+    ],
+    "topic": "atmospheric carbon dioxide",
+    "source": "goarno.io"
+  },
+  {
+    "text": "Many governments are turning to fiscal policies to address the obesity epidemic. A common approach is the introduction of a levy on sugary drinks, designed to _______(1) consumers from purchasing unhealthy options. Supporters claim this strategy generates essential _______(2) for health programs while improving dietary habits. Conversely, opponents argue that such taxes fall _______(3) on lower-income families. Nevertheless, data from several nations suggests a measurable _______(4) in the sales of sweetened beverages following the policy's _______(5).",
+    "id": "goarno-rfib-36",
+    "blanks": [
+      {
+        "options": [
+          "encourage",
+          "forbid",
+          "repress",
+          "discourage"
+        ],
+        "answer": "discourage"
+      },
+      {
+        "options": [
+          "outcome",
+          "debt",
+          "spending",
+          "revenue"
+        ],
+        "answer": "revenue"
+      },
+      {
+        "options": [
+          "impartially",
+          "disproportionately",
+          "suitably",
+          "marginally"
+        ],
+        "answer": "disproportionately"
+      },
+      {
+        "options": [
+          "inflation",
+          "continuation",
+          "induction",
+          "reduction"
+        ],
+        "answer": "reduction"
+      },
+      {
+        "options": [
+          "implication",
+          "accusation",
+          "abandonment",
+          "implementation"
+        ],
+        "answer": "implementation"
+      }
+    ],
+    "topic": "many governments turning",
+    "source": "goarno.io"
+  },
+  {
+    "text": "Efforts to promote gender equality in the corporate world often focus on the recruitment process. Blind hiring, where personal details are removed from applications, aims to _______(1) the impact of unconscious bias. Proponents argue that this allows assessment based strictly on capability. However, this method is not without its critics, who point out that discrimination can still occur once a candidate is invited for an interview and their gender becomes _______(2). Furthermore, simply hiring a diverse workforce is insufficient if the internal culture remains _______(3). To achieve lasting change, organizations must address the structural obstacles that hinder women's progression into senior _______(4).",
+    "id": "goarno-rfib-37",
+    "blanks": [
+      {
+        "options": [
+          "normalize",
+          "centralize",
+          "neutralize"
+        ],
+        "answer": "neutralize"
+      },
+      {
+        "options": [
+          "visible",
+          "visual",
+          "optical"
+        ],
+        "answer": "visible"
+      },
+      {
+        "options": [
+          "exclusive",
+          "excessive",
+          "inclusive"
+        ],
+        "answer": "exclusive"
+      },
+      {
+        "options": [
+          "rules",
+          "ranks",
+          "roles"
+        ],
+        "answer": "roles"
+      }
+    ],
+    "topic": "efforts promote gender",
+    "source": "goarno.io"
+  },
+  {
+    "text": "Phytoremediation employs plants to clean up contaminated environments. Specific species, termed hyperaccumulators, possess the unique capacity to extract heavy metals from the soil and _______(1) them within their leaves and stems. This technique stands in stark _______(2) to conventional engineering approaches, such as excavation, which can be incredibly destructive and costly. While phytoremediation is environmentally friendly, it is not a quick fix; the process is often _______(3), requiring many years to fully sanitize a site. Consequently, it is best _______(4) for areas with low to moderate pollution levels.",
+    "id": "goarno-rfib-38",
+    "blanks": [
+      {
+        "options": [
+          "disperse",
+          "accumulate"
+        ],
+        "answer": "accumulate"
+      },
+      {
+        "options": [
+          "resemblance",
+          "contrast"
+        ],
+        "answer": "contrast"
+      },
+      {
+        "options": [
+          "gradual",
+          "rapid"
+        ],
+        "answer": "gradual"
+      },
+      {
+        "options": [
+          "situated",
+          "suited"
+        ],
+        "answer": "suited"
+      }
+    ],
+    "topic": "phytoremediation employs plants",
+    "source": "goarno.io"
+  },
+  {
+    "text": "Coral reefs are essential to marine life, often supporting extensive biodiversity comparable to tropical rainforests. Despite covering only a tiny _______(1) of the ocean floor, they sustain nearly a quarter of all marine species. However, these ecosystems are highly _______(2) to changes in water temperature. Global warming has led to widespread bleaching events, leaving reefs _______(3) of color and life. If protective measures are not _______(4) rapidly, the loss of these reefs could destabilize the entire ocean food web.",
+    "id": "goarno-rfib-39",
+    "blanks": [
+      {
+        "options": [
+          "fraction",
+          "segment",
+          "division"
+        ],
+        "answer": "fraction"
+      },
+      {
+        "options": [
+          "sensible",
+          "sensitive",
+          "resistant"
+        ],
+        "answer": "sensitive"
+      },
+      {
+        "options": [
+          "vacant",
+          "devoid",
+          "hollow"
+        ],
+        "answer": "devoid"
+      },
+      {
+        "options": [
+          "implemented",
+          "achieved",
+          "realized"
+        ],
+        "answer": "implemented"
+      }
+    ],
+    "topic": "coral reefs essential",
+    "source": "goarno.io"
+  },
+  {
+    "text": "Nutrient pollution is a major environmental challenge affecting water bodies worldwide. When too much nitrogen and phosphorus enter lakes and rivers, they stimulate the explosive _______(1) of algae. These algal blooms block sunlight and consume the oxygen that aquatic organisms need to _______(2). Although nutrients exist naturally in the environment, the primary _______(3) of this contamination is often runoff from agricultural land. Therefore, better management of fertilizers is _______(4) to preserving water quality.",
+    "id": "goarno-rfib-40",
+    "blanks": [
+      {
+        "options": [
+          "compete",
+          "growth",
+          "decline"
+        ],
+        "answer": "growth"
+      },
+      {
+        "options": [
+          "trivial",
+          "survive",
+          "outcome"
+        ],
+        "answer": "survive"
+      },
+      {
+        "options": [
+          "source",
+          "vanish",
+          "incidental"
+        ],
+        "answer": "source"
+      },
+      {
+        "options": [
+          "resistance",
+          "essential",
+          "reaction"
+        ],
+        "answer": "essential"
+      }
+    ],
+    "topic": "nutrient pollution major",
+    "source": "goarno.io"
+  },
+  {
+    "text": "Microplastics have become a _______(1) contaminant in marine ecosystems worldwide. These minute particles largely _______(2) from the physical disintegration of larger plastic debris exposed to harsh elements. Consequently, many aquatic species frequently _______(3) the colorful fragments for food, leading to accidental ingestion. As these non-biodegradable pollutants _______(4) within the digestive tracts of fish, they eventually threaten the stability of the entire food chain.",
+    "id": "goarno-rfib-41",
+    "blanks": [
+      {
+        "options": [
+          "persuasive",
+          "evasive",
+          "pervasive"
+        ],
+        "answer": "pervasive"
+      },
+      {
+        "options": [
+          "commence",
+          "proceed",
+          "stem"
+        ],
+        "answer": "stem"
+      },
+      {
+        "options": [
+          "confuse",
+          "regard",
+          "mistake"
+        ],
+        "answer": "mistake"
+      },
+      {
+        "options": [
+          "accommodate",
+          "disperse",
+          "accumulate"
+        ],
+        "answer": "accumulate"
+      }
+    ],
+    "topic": "microplastics have become",
+    "source": "goarno.io"
+  },
+  {
+    "text": "Soil contamination poses a significant threat to ecosystem health. Traditional methods of remediation often involve excavating the land, which can be costly and disruptive. A more sustainable _______(1) is phytoremediation, a process that utilizes plants to _______(2) toxic substances from the ground. Once the plants have matured, they are _______(3) and disposed of safely, effectively removing the contaminants. Although this technique is _______(4), it is relatively slow and depends heavily on the specific _______(5) of the soil.",
+    "id": "goarno-rfib-42",
+    "blanks": [
+      {
+        "options": [
+          "approach",
+          "view"
+        ],
+        "answer": "approach"
+      },
+      {
+        "options": [
+          "inhale",
+          "absorb"
+        ],
+        "answer": "absorb"
+      },
+      {
+        "options": [
+          "harvested",
+          "planted"
+        ],
+        "answer": "harvested"
+      },
+      {
+        "options": [
+          "compromising",
+          "promising"
+        ],
+        "answer": "promising"
+      },
+      {
+        "options": [
+          "characteristics",
+          "characters"
+        ],
+        "answer": "characteristics"
+      }
+    ],
+    "topic": "soil contamination poses",
+    "source": "goarno.io"
+  },
+  {
+    "text": "Despite significant progress in educational attainment, women remain underrepresented in senior corporate leadership positions. This phenomenon, often referred to as the glass ceiling, continues to _______(1) across various industries. While many companies have implemented diversity initiatives, these measures often fail to address deep-seated cultural _______(2) within organizations. Consequently, talented female employees may feel _______(3) from pursuing top executive roles. To achieve true parity, businesses must go beyond token gestures and _______(4) to structural changes that ensure equitable promotion pathways.",
+    "id": "goarno-rfib-43",
+    "blanks": [
+      {
+        "options": [
+          "persist",
+          "insist"
+        ],
+        "answer": "persist"
+      },
+      {
+        "options": [
+          "boundaries",
+          "barriers"
+        ],
+        "answer": "barriers"
+      },
+      {
+        "options": [
+          "discouraged",
+          "discharged"
+        ],
+        "answer": "discouraged"
+      },
+      {
+        "options": [
+          "submit",
+          "commit"
+        ],
+        "answer": "commit"
+      }
+    ],
+    "topic": "despite significant progress",
+    "source": "goarno.io"
+  },
+  {
+    "text": "Scientists investigate Antarctica not only for its surface geography but for the history locked within its ice sheets. By drilling deep into the glacier, researchers can _______(1) long cylinders of ice called cores. These layers serve as a frozen archive, containing bubbles of ancient atmosphere that were _______(2) as snow turned to ice over thousands of years. Studying the chemical _______(3) of these gas samples enables scientists to estimate prehistoric temperatures. Such records are _______(4) for predicting future climate trends.",
+    "id": "goarno-rfib-44",
+    "blanks": [
+      {
+        "options": [
+          "release",
+          "retrieve"
+        ],
+        "answer": "retrieve"
+      },
+      {
+        "options": [
+          "trapped",
+          "held"
+        ],
+        "answer": "trapped"
+      },
+      {
+        "options": [
+          "constitution",
+          "composition"
+        ],
+        "answer": "composition"
+      },
+      {
+        "options": [
+          "crucial",
+          "severe"
+        ],
+        "answer": "crucial"
+      }
+    ],
+    "topic": "scientists investigate antarctica",
+    "source": "goarno.io"
+  },
+  {
+    "text": "Achieving global climate goals requires more than just renewable energy; it necessitates the active removal of carbon dioxide from industrial processes. Carbon capture technologies are designed to _______(1) emissions at their source before they enter the atmosphere. Once captured, this carbon is compressed and transported to deep geological formations for permanent _______(2). While critics argue that this merely prolongs the use of fossil fuels, proponents insist the technology is _______(3) for decarbonizing heavy industry. Without such interventions, meeting international temperature targets may prove _______(4).",
+    "id": "goarno-rfib-45",
+    "blanks": [
+      {
+        "options": [
+          "intercept",
+          "interrupt",
+          "interfere"
+        ],
+        "answer": "intercept"
+      },
+      {
+        "options": [
+          "suspension",
+          "sequestration",
+          "segregation"
+        ],
+        "answer": "sequestration"
+      },
+      {
+        "options": [
+          "inevitable",
+          "independent",
+          "indispensable"
+        ],
+        "answer": "indispensable"
+      },
+      {
+        "options": [
+          "impractical",
+          "impossible",
+          "impassable"
+        ],
+        "answer": "impossible"
+      }
+    ],
+    "topic": "achieving global climate",
+    "source": "goarno.io"
+  },
+  {
+    "text": "The oceans play a critical role in regulating the Earth's climate by _______(1) a significant portion of the carbon dioxide released into the atmosphere. However, this service has a downside. As the water takes up CO2, its chemistry changes, leading to a phenomenon called ocean acidification. This process _______(2) the availability of carbonate ions, which are essential building blocks for many marine organisms. Creatures such as corals and shellfish struggle to form their protective structures, leaving them _______(3) to predators and environmental stress. Ultimately, these changes could _______(4) the balance of marine biodiversity.",
+    "id": "goarno-rfib-46",
+    "blanks": [
+      {
+        "options": [
+          "rejecting",
+          "emitting",
+          "absorbing"
+        ],
+        "answer": "absorbing"
+      },
+      {
+        "options": [
+          "magnifies",
+          "promotes",
+          "reduces"
+        ],
+        "answer": "reduces"
+      },
+      {
+        "options": [
+          "resistant",
+          "immune",
+          "vulnerable"
+        ],
+        "answer": "vulnerable"
+      },
+      {
+        "options": [
+          "arrange",
+          "disrupt",
+          "stabilize"
+        ],
+        "answer": "disrupt"
+      }
+    ],
+    "topic": "oceans play critical",
+    "source": "goarno.io"
+  },
+  {
+    "text": "Collaborative robots, or cobots, mark a significant departure from traditional industrial automation. Whereas conventional robots operate in isolation to prevent injury, cobots possess sensitive force-limiting features that enable them to _______(1) contact and cease movement instantly. This safety mechanism facilitates close _______(2) between human workers and machines on assembly lines. Additionally, their lightweight structure allows them to be easily relocated and _______(3) to different tasks as production needs change. Consequently, cobots have _______(4) access to automation technology, allowing small manufacturers to enhance efficiency without massive capital investment.",
+    "id": "goarno-rfib-47",
+    "blanks": [
+      {
+        "options": [
+          "predict",
+          "detect"
+        ],
+        "answer": "detect"
+      },
+      {
+        "options": [
+          "cooperation",
+          "isolation"
+        ],
+        "answer": "cooperation"
+      },
+      {
+        "options": [
+          "redeployed",
+          "replaced"
+        ],
+        "answer": "redeployed"
+      },
+      {
+        "options": [
+          "democratized",
+          "monopolized"
+        ],
+        "answer": "democratized"
+      }
+    ],
+    "topic": "collaborative robots or",
+    "source": "goarno.io"
+  },
+  {
+    "text": "Traditional industrial robots are powerful machines that typically operate within safety cages to prevent accidents. In contrast, collaborative robots, known as cobots, are designed to work _______(1) human employees. These machines are _______(2) with advanced sensors that allow them to detect the presence of people and stop immediately if contact is made. This capability makes them _______(3) for tasks requiring flexibility rather than sheer speed. Consequently, smaller enterprises find them increasingly _______(4) due to their lower costs.",
+    "id": "goarno-rfib-48",
+    "blanks": [
+      {
+        "options": [
+          "alongside",
+          "against",
+          "beneath"
+        ],
+        "answer": "alongside"
+      },
+      {
+        "options": [
+          "managed",
+          "equipped",
+          "associated"
+        ],
+        "answer": "equipped"
+      },
+      {
+        "options": [
+          "typical",
+          "liable",
+          "ideal"
+        ],
+        "answer": "ideal"
+      },
+      {
+        "options": [
+          "permissible",
+          "elusive",
+          "accessible"
+        ],
+        "answer": "accessible"
+      }
+    ],
+    "topic": "traditional industrial robots",
+    "source": "goarno.io"
+  },
+  {
+    "text": "To describe User Experience (UX) design simply as making things look good is a fundamental misunderstanding. UX acts as the bridge between complex technology and human _______(1). Unlike graphic design, which typically _______(2) visual aesthetics, UX focuses on the functional journey of the user. Designers aim to make navigation _______(3), thereby reducing the mental effort required. If an interface is confusing, users will likely _______(4) the product for a competitor's offering.",
+    "id": "goarno-rfib-49",
+    "blanks": [
+      {
+        "options": [
+          "psychology",
+          "physiology"
+        ],
+        "answer": "psychology"
+      },
+      {
+        "options": [
+          "undermines",
+          "prioritizes"
+        ],
+        "answer": "prioritizes"
+      },
+      {
+        "options": [
+          "ignores",
+          "intuitive"
+        ],
+        "answer": "intuitive"
+      },
+      {
+        "options": [
+          "deceptive",
+          "abandon"
+        ],
+        "answer": "abandon"
+      }
+    ],
+    "topic": "describe user experience",
+    "source": "goarno.io"
+  },
+  {
+    "text": "Historically, launching a new venture required a comprehensive business plan. However, the 'lean startup' methodology has _______(1) how modern companies are built. Instead of relying on intuition, founders focus on _______(2) key assumptions through rapid experimentation. This approach allows them to _______(3) quickly if an initial concept fails to gain traction, ensuring they do not waste resources on products that the market ultimately _______(4).",
+    "id": "goarno-rfib-50",
+    "blanks": [
+      {
+        "options": [
+          "revitalized",
+          "revolved",
+          "revolutionized"
+        ],
+        "answer": "revolutionized"
+      },
+      {
+        "options": [
+          "violating",
+          "validating",
+          "valuing"
+        ],
+        "answer": "validating"
+      },
+      {
+        "options": [
+          "pivot",
+          "deviate",
+          "swivel"
+        ],
+        "answer": "pivot"
+      },
+      {
+        "options": [
+          "projects",
+          "rejects",
+          "ejects"
+        ],
+        "answer": "rejects"
+      }
+    ],
+    "topic": "historically launching new",
+    "source": "goarno.io"
+  },
+  {
+    "text": "The concept of sustainable urban development has _______(1) as a critical response to the rapid growth of cities worldwide. Planners now recognize that the design of a city can have a profound _______(2) on the well-being of its residents and the health of the environment. One key principle is the creation of _______(3) neighborhoods that combine residential, commercial, and recreational spaces, reducing the need for long commutes. Cities that _______(4) heavily on automobiles often face challenges such as traffic congestion and air pollution. In contrast, investments in public transit and pedestrian-friendly infrastructure are essential for _______(5) a more sustainable lifestyle. Another important aspect is the _______(6) between government agencies, private developers, and community groups to ensure that projects meet diverse needs. Finally, cities must _______(7) to changing circumstances, such as population shifts and climate impacts, by implementing flexible policies that can be updated over time. Sustainable development also involves preserving green spaces, promoting energy efficiency in buildings, and encouraging waste reduction through recycling programs. Urban planners increasingly incorporate smart technologies to monitor resource usage and improve service delivery. Public participation in decision-making processes helps align projects with local priorities. Economic vitality, social equity, and environmental protection are the three pillars of sustainability that guide modern urban planning. By integrating these principles, cities can become more resilient and livable for future generations. The challenges are significant, but the opportunities for innovation and improvement are equally vast. Ultimately, the goal is to create urban environments that support both human flourishing and ecological balance.",
+    "id": "edknot-rfib-01",
+    "blanks": [
+      {
+        "options": [
+          "emerged",
+          "vanished",
+          "arisen",
+          "developed"
+        ],
+        "answer": "emerged"
+      },
+      {
+        "options": [
+          "influence",
+          "absence",
+          "effect",
+          "impact"
+        ],
+        "answer": "influence"
+      },
+      {
+        "options": [
+          "distinct",
+          "identical",
+          "separate",
+          "different"
+        ],
+        "answer": "distinct"
+      },
+      {
+        "options": [
+          "rely",
+          "ignore",
+          "depend",
+          "count"
+        ],
+        "answer": "rely"
+      },
+      {
+        "options": [
+          "fostering",
+          "hindering",
+          "promoting",
+          "encouraging"
+        ],
+        "answer": "fostering"
+      },
+      {
+        "options": [
+          "collaboration",
+          "competition",
+          "partnership",
+          "cooperation"
+        ],
+        "answer": "collaboration"
+      },
+      {
+        "options": [
+          "adapt",
+          "resist",
+          "adjust",
+          "modify"
+        ],
+        "answer": "adapt"
+      }
+    ],
+    "topic": "sustainable urban development",
+    "source": "edknot.com",
+    "word_count": 251
+  },
+  {
+    "text": "If you are interested in studying but have other _______(1) , our online and distance learning courses offer an alternative flexible _______(2) of study. Teaching is conducted through a mixture of audio-visual, written and interactive materials. There are also _______(3) for online discussion and collaborative projects with tutors and other students. Some programs include residential _______(4) taught on campus, giving you the chance to meet and work alongside your tutors and fellow students face-to-face. Our Graduate School provides comprehensive support for distance and part-time researchers, many of whom study for up to six years or more.",
+    "id": "edknot-rfib-02",
+    "blanks": [
+      {
+        "options": [
+          "commitments",
+          "obligations",
+          "duties",
+          "responsibilities"
+        ],
+        "answer": "commitments"
+      },
+      {
+        "options": [
+          "mode",
+          "method",
+          "form",
+          "type"
+        ],
+        "answer": "mode"
+      },
+      {
+        "options": [
+          "opportunities",
+          "chances",
+          "possibilities",
+          "avenues"
+        ],
+        "answer": "opportunities"
+      },
+      {
+        "options": [
+          "modules",
+          "courses",
+          "units",
+          "classes"
+        ],
+        "answer": "modules"
+      }
+    ],
+    "topic": "online learning flexibility",
+    "source": "edknot.com",
+    "word_count": 96
+  },
+  {
+    "text": "Radioactivity was discovered in 1896 by the French physicist, Antoine Henri Becquerel. He left an unexposed photographic plate in the dark near a sample of a uranium salt. When the plate was _______(1) it was found to be _______(2) , just as if it had been exposed to light, which was caused by a form of radiation from the uranium. The term radioactivity was _______(3) by Marie Curie and her husband Pierre Curie. They worked together and showed that radioactivity was an atomic property not a chemical change. The _______(4) of radioactivity won the Curies and Ekcquerel the Nobel Prize for Physics in 1903.",
+    "id": "edknot-rfib-03",
+    "blanks": [
+      {
+        "options": [
+          "developed",
+          "unraveled",
+          "overlapped",
+          "transmitted"
+        ],
+        "answer": "developed"
+      },
+      {
+        "options": [
+          "transparent",
+          "corrugated",
+          "fogged",
+          "clarified"
+        ],
+        "answer": "fogged"
+      },
+      {
+        "options": [
+          "concocted",
+          "coined",
+          "created",
+          "designed"
+        ],
+        "answer": "coined"
+      },
+      {
+        "options": [
+          "fabrication",
+          "invention",
+          "discharge",
+          "discovery"
+        ],
+        "answer": "discovery"
+      }
+    ],
+    "topic": "radioactivity discovery history",
+    "source": "edknot.com",
+    "word_count": 104
+  },
+  {
+    "text": "Dialogue ought to be transparent, truthful, and _______(1) . Individuals feel _______(2) to voice their ideas, views, and possible fixes to issues. They sense that they are fully heard and acknowledged by colleagues who are _______(3) to comprehend. Team members inquire for understanding and devote their mental energy to listening intently _______(4) than constructing counterarguments while their peer is talking.",
+    "id": "edknot-rfib-04",
+    "blanks": [
+      {
+        "options": [
+          "respectful",
+          "honest",
+          "open",
+          "sincere"
+        ],
+        "answer": "respectful"
+      },
+      {
+        "options": [
+          "free",
+          "able",
+          "willing",
+          "encouraged"
+        ],
+        "answer": "free"
+      },
+      {
+        "options": [
+          "attempting",
+          "trying",
+          "seeking",
+          "striving"
+        ],
+        "answer": "attempting"
+      },
+      {
+        "options": [
+          "rather",
+          "more",
+          "less",
+          "other"
+        ],
+        "answer": "rather"
+      }
+    ],
+    "topic": "transparent dialogue qualities",
+    "source": "edknot.com",
+    "word_count": 60
+  },
+  {
+    "text": "As a Society for Human Resource Management (SHRM) article emphasizes: \"Discrimination costs employers millions of dollars every year, not to mention the countless hours of lost work time, employee stress and the _______(1) public image that goes along with a discrimination lawsuit.\" Equal employment opportunity isn't just the right thing to do, it's the law. Specifically, it's a series of federal laws and Executive Orders designed to _______(2) employment discrimination. Illegal discrimination is the _______(3) of making employment decisions such as hiring, compensation, scheduling, performance evaluation, promotion, and firing _______(4) on factors unrelated to performance. There are currently seven categories protected under federal law: age, disability, genetic information, national origin, pregnancy, race and color, religion and sex.",
+    "id": "edknot-rfib-05",
+    "blanks": [
+      {
+        "options": [
+          "constructive",
+          "negative",
+          "responsive",
+          "imaginative"
+        ],
+        "answer": "negative"
+      },
+      {
+        "options": [
+          "eliminate",
+          "subordinate",
+          "alternate",
+          "illuminate"
+        ],
+        "answer": "eliminate"
+      },
+      {
+        "options": [
+          "practice",
+          "partition",
+          "trajectory",
+          "accomplice"
+        ],
+        "answer": "practice"
+      },
+      {
+        "options": [
+          "based",
+          "basis",
+          "base",
+          "basing"
+        ],
+        "answer": "based"
+      }
+    ],
+    "topic": "discrimination costs employers",
+    "source": "edknot.com",
+    "word_count": 117
+  },
+  {
+    "text": "Early humans were hunter-gatherers, roaming from place to place, but their movements were controlled by the need for water. When humans _______(1) to grow food and established permanent settlements, water was needed for crops and animals as well as for people, _______(2) settlements have always grown up near reliable sources of water. Most major towns lie on the banks of rivers, or, where there are no streams or rivers, settlements exist where underground water can be reached by digging wells. The management of water resources has a _______(3) . The oldest known dam in the world was constructed in Egypt about 5000 years ago, and was used for storing drinking and irrigation water. Farmers in Arabia at this time used the craters of extinct volcanoes as storage tanks for irrigation water and dug deep wells for their drinking water. Excavated ruins in India of similar antiquity retain the remains of water supply and drainage systems, _______(4) included baths and swimming pools.",
+    "id": "edknot-rfib-06",
+    "blanks": [
+      {
+        "options": [
+          "started",
+          "began",
+          "learned",
+          "attempted"
+        ],
+        "answer": "started"
+      },
+      {
+        "options": [
+          "so",
+          "thus",
+          "hence",
+          "therefore"
+        ],
+        "answer": "so"
+      },
+      {
+        "options": [
+          "long history",
+          "rich history",
+          "deep past",
+          "old tradition"
+        ],
+        "answer": "long"
+      },
+      {
+        "options": [
+          "which",
+          "that",
+          "where",
+          "when"
+        ],
+        "answer": "which"
+      }
+    ],
+    "topic": "water settlement proximity",
+    "source": "edknot.com",
+    "word_count": 161
+  },
+  {
+    "text": "Anna was a 15-year-old girl who loved to _______(1) out with her friends, play soccer, and listen to music. She was looking forward _______(2) high school and exploring new subjects and activities. But then the covid-19 pandemic _______(3) , and everything changed. She had to stay at home, attend online classes, and avoid social gatherings. She felt lonely, bored, and anxious. She was not alone. Many adolescents around the world experienced similar challenges during the pandemic. A new study found that the pandemic had a particularly large effect on the ageing rate of adolescent girls’ brains. The researchers speculated that the pandemic might have _______(4) the normal development of the adolescent brain, which is sensitive to environmental influences. They suggested that factors such as stress, isolation, lack of stimulation, and reduced physical activity might have contributed to the brain changes. They also warned that these changes might have long-term _______(5) for cognitive and mental health. They called for more research and interventions to support adolescents during and after the pandemic.",
+    "id": "edknot-rfib-07",
+    "blanks": [
+      {
+        "options": [
+          "hang",
+          "find",
+          "take",
+          "pick"
+        ],
+        "answer": "hang"
+      },
+      {
+        "options": [
+          "of starting",
+          "start of",
+          "to start",
+          "to starting"
+        ],
+        "answer": "to"
+      },
+      {
+        "options": [
+          "kicked",
+          "floated",
+          "raced",
+          "hit"
+        ],
+        "answer": "hit"
+      },
+      {
+        "options": [
+          "flavored",
+          "disrupted",
+          "tightened",
+          "deducted"
+        ],
+        "answer": "disrupted"
+      },
+      {
+        "options": [
+          "consequences",
+          "procedures",
+          "tendencies",
+          "traditions"
+        ],
+        "answer": "consequences"
+      }
+    ],
+    "topic": "teen pandemic social",
+    "source": "edknot.com",
+    "word_count": 170
+  },
+  {
+    "text": "Research from the Terry College of Business reveals _______(1) a happy, helpful employee takes effort and, eventually, that effort _______(2) the energy needed to do one’s job. It could lead to quiet quitting – the new term for just doing your job but not going above and beyond – or even actual quitting. The more people adjust their moods to be happy, the fewer emotional resources they have _______(3) the end of the day. That means they are less able to handle challenging tasks and interactions and have a harder time staying on task. Their tank is empty despite being in a good mood, Frank explained. For managers, this means it may make more sense to meet employees _______(4) they are emotionally and not force upbeat attitudes in the office. For employees, it may mean letting bad days happen and leaving more mood-demanding work — such as sales calls or tough conversations — for better days.",
+    "id": "edknot-rfib-08",
+    "blanks": [
+      {
+        "options": [
+          "becomes",
+          "becoming",
+          "become",
+          "become to"
+        ],
+        "answer": "becoming"
+      },
+      {
+        "options": [
+          "concludes",
+          "erodes",
+          "expects",
+          "collects"
+        ],
+        "answer": "erodes"
+      },
+      {
+        "options": [
+          "at",
+          "since",
+          "by",
+          "for"
+        ],
+        "answer": "at"
+      },
+      {
+        "options": [
+          "where",
+          "which",
+          "what",
+          "that"
+        ],
+        "answer": "where"
+      }
+    ],
+    "topic": "employee happiness and",
+    "source": "edknot.com",
+    "word_count": 156
+  },
+  {
+    "text": "Communication is not just about what you say, but how you say it. Your tone of voice in communication can make or break your relationships, your career and your life. According to a study by researchers from the University of Southern California, the tone of voice in communication is a better _______(1) of relationship success than the actual words or behaviors of the partners. Your tone of voice in communication is _______(2) of four elements: pitch, pace, volume and modulation. These elements _______(3) your attitude, emotion and intention to your listener. By being mindful of these elements, you can watch your tone and use it to achieve your goals. _______(4) you want to build rapport, make connections, influence others or get what you want, your tone of voice in communication can help you do that.",
+    "id": "edknot-rfib-09",
+    "blanks": [
+      {
+        "options": [
+          "symptom",
+          "heritage",
+          "narrator",
+          "predictor"
+        ],
+        "answer": "predictor"
+      },
+      {
+        "options": [
+          "composed",
+          "concentrated",
+          "reduced",
+          "organized"
+        ],
+        "answer": "composed"
+      },
+      {
+        "options": [
+          "commence",
+          "reminisce",
+          "displace",
+          "convey"
+        ],
+        "answer": "convey"
+      },
+      {
+        "options": [
+          "Due to",
+          "Unless",
+          "Whether",
+          "No matter"
+        ],
+        "answer": "Whether"
+      }
+    ],
+    "topic": "tone of voice",
+    "source": "edknot.com",
+    "word_count": 135
+  },
+  {
+    "text": "Doughnuts are particularly difficult to resist – and now we know why. A study of how our brains respond to food has found that _______(1) that are high in both carbs and fats trigger a super-charged amount of activity in our brain’s reward center. Dana Small at Yale University and colleagues scanned the brain activity of hungry volunteers as they were shown images of foods that were either high in carbohydrate, such as candy, high in fat, such as cheese, or high in both, such as doughnuts. After the scans, the volunteers were asked to _______(2) money in a competitive auction for the food they wanted to have for a snack. Compared to food containing just carbs or fat, the team found that foods high in both of these together _______(3) far more activity in the brain’s striatum – a region involved in reward that releases the feel-good chemical dopamine. The volunteers were also willing to pay more for the snacks that were high in both carbs and fat, despite all the food items having the same calorific value.",
+    "id": "edknot-rfib-10",
+    "blanks": [
+      {
+        "options": [
+          "cheats",
+          "treats",
+          "colons",
+          "feats"
+        ],
+        "answer": "treats"
+      },
+      {
+        "options": [
+          "arid",
+          "avid",
+          "bud",
+          "bid"
+        ],
+        "answer": "bid"
+      },
+      {
+        "options": [
+          "provoked",
+          "convoked",
+          "evoked",
+          "revoked"
+        ],
+        "answer": "provoked"
+      }
+    ],
+    "topic": "brain response to",
+    "source": "edknot.com",
+    "word_count": 179
+  },
+  {
+    "text": "Many types of scientific evidence show that involvement in social relationships benefits health. The most striking evidence comes from prospective studies of mortality _______(1) industrialized nations. These studies _______(2) show that individuals with the lowest level of involvement in social relationships are more likely to die than those with greater involvement. The risk of death among men and women with the fewest social ties was more than twice as high as the risk for adults with the most social ties. Social ties also reduce _______(3) risk among adults with documented medical conditions. Among adults with coronary artery disease, the socially isolated had a risk of subsequent cardiac death 2.4 times greater than their more socially connected _______(4) . In addition to mortality, involvement in social relationships has been associated with specific health conditions as well as biological markers indicating risk of preclinical conditions. Several recent review articles provide consistent and _______(5) evidence linking a low quantity or quality of social ties with a host of conditions.",
+    "id": "edknot-rfib-11",
+    "blanks": [
+      {
+        "options": [
+          "off",
+          "beneath",
+          "on",
+          "across"
+        ],
+        "answer": "across"
+      },
+      {
+        "options": [
+          "impotently",
+          "consistently",
+          "competently",
+          "inadvertently"
+        ],
+        "answer": "consistently"
+      },
+      {
+        "options": [
+          "mentality",
+          "mortality",
+          "morality",
+          "mutuality"
+        ],
+        "answer": "mortality"
+      },
+      {
+        "options": [
+          "sneers",
+          "peers",
+          "careers",
+          "pioneers"
+        ],
+        "answer": "peers"
+      },
+      {
+        "options": [
+          "dispelling",
+          "compelling",
+          "propelling",
+          "impelling"
+        ],
+        "answer": "compelling"
+      }
+    ],
+    "topic": "social relationships health",
+    "source": "edknot.com",
+    "word_count": 166
+  },
+  {
+    "text": "In the US, artists in the mid-1950s began to create a _______(1) to Pop. Strongly influenced by Dada and its _______(2) on appropriation and everyday objects, artists increasingly worked with _______(3) , consumer products, and a healthy dose of irony. Jasper Johns _______(4) iconic imagery like the American flag; Robert Rauschenberg employed silk-screen printings and found objects; and Larry Rivers used images of mass-produced goods. All three are considered American _______(5) of Pop.",
+    "id": "edknot-rfib-12",
+    "blanks": [
+      {
+        "options": [
+          "bridge",
+          "distribution",
+          "cap",
+          "finale"
+        ],
+        "answer": "bridge"
+      },
+      {
+        "options": [
+          "emphasis",
+          "point",
+          "pressure",
+          "strength"
+        ],
+        "answer": "emphasis"
+      },
+      {
+        "options": [
+          "collage",
+          "cost",
+          "disintegration",
+          "leash"
+        ],
+        "answer": "collage"
+      },
+      {
+        "options": [
+          "reimagined",
+          "recalled",
+          "recycled",
+          "reviewed"
+        ],
+        "answer": "reimagined"
+      },
+      {
+        "options": [
+          "forerunners",
+          "protesters",
+          "funders",
+          "founders"
+        ],
+        "answer": "forerunners"
+      }
+    ],
+    "topic": "pop art movement",
+    "source": "edknot.com",
+    "word_count": 73
+  }
+]

@@ -1,0 +1,32 @@
+# Roadmap — projeto 8: Glossário por palavra (studie-plus)
+
+> PRD: `.opencode/prd-project8.md` · Planejamento: `.opencode/project8.md`
+> Método: subagentes read-only em lotes de 200 · Zero AI Gateway.
+
+## Fase 0 — Fundação: pipeline determinístico
+- [x] `.opencode/proj8-work/split-words.mjs`: fatia `words.json` (6.000) em 30 lotes de 200 → `proj8-work/in/batch-NNN.json`
+- [x] `.opencode/proj8-work/merge-glossary.mjs`: valida I1–I6, merge determinístico, ordena chaves, grava `src/data/plus/glossary.json`, imprime relatório
+- [x] Checagem: união dos lotes = exatamente as 6.000 candidatas, sem repetição (UNIAO=6000)
+- [x] Gates: vitest 248/248 · tsgo limpo · build OK · lint 0 erros · nenhum ficheiro `src/` alterado
+
+## Fase 1 — Produção por subagentes
+- [x] Lotes `batch-000..029` traduzidos por subagentes (ondas de até 4 em paralelo); saída gravada em `proj8-work/out/glossary-batches/batch-NNN.json`
+- [x] Lotes pendentes/inválidos refeitos até `lotes_ok=30/30` (I1–I6 = 0 descartes; 3 ondas de subagentes + re-trabalho de I4/I6)
+- [x] `merge-glossary.mjs` → `src/data/plus/glossary.json` com cobertura ≥ 5.700/6.000 (meta ≥ 5.820) — real: 5.776/6.000 (96,3%)
+- [x] Gates: invariantes I1–I6 100% · amostragem manual de 20 palavras · vitest/tsgo/build/lint intactos
+  - Gates Fase 1: I1–I6=0 descartes no merge · amostragem feita na revisão dos lotes · dados only, `src/` de código não alterado (só glossary.json); gates de build na Fase 2.
+
+## Fase 2 — Teste de integridade
+- [x] `src/test/plus-glossary.test.ts`: I2–I6 sobre o JSON real · cobertura ≥ 95% vs `words.json` · amostras via `lookupWord` · miss → `null` (10 testes)
+- [x] Gates: suite verde (258/258, 27 ficheiros — cresceu de 248) · tsgo limpo · build OK · lint 0 erros (8 warnings preexistentes)
+
+## Fase 3 — Verificação end-to-end (mobile 390×844)
+- [x] Playwright: ligar "Tradução por palavra" em `/settings`, abrir Read Aloud, tocar palavra → balão com tradução real (screenshot: "complex → complexo")
+- [x] Balão portallado, fecha por toque fora (✕ e Esc cobertos nos testes de unidade), sem overflow horizontal, alvos ≥ 44 px
+- [x] Regressão: só "Áudio de pronúncia" → caminho `enabled=false, audioEnabled` coberto em `plus-integration.test.tsx` (balão "Pronúncia da palavra", sem tradução); no app este modo só surge com wordTranslation ativo — combinado verificado em Playwright (tradução + botão 🔊, sem voz pt-BR)
+- [x] Gates: zero `console.error`/pageerror novo nas rotas tocadas (`/settings`, `/practice`)
+
+## Fase 4 — Fechamento
+- [x] Gates globais completos: vitest 258/258 (27 ficheiros) · tsgo limpo · build OK · lint 0 erros (8 warnings preexistentes) · preview (dev server 8080 exercitado no E2E da Fase 3)
+- [x] `AGENTS.md` (estado atual): nota "aguarda crédito" não existia — adicionada seção 6.0 com estado real (5.776/6.000, 96,3%, zero AI Gateway)
+- [x] Monitor avisado via sessão OpenCode (porta 4096): "remix finalizado" com resumo das Fases 2–4 (mensagem recebida e na fila da sessão)

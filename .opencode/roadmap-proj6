@@ -1,0 +1,85 @@
+# Roadmap — projeto 6 (pack "studie-plus": tradução + áudio + mobile-first)
+
+Fonte: `.opencode/prd-project6.md` (← `.opencode/project6`). Gates por fase: vitest
+verde · tsgo limpo · build OK · lint 0 erros · preview :8080 (Playwright). Pack 100%
+off por padrão; dados em `src/data/plus/`; zero deps de runtime; app 100% local.
+
+- [x] Fase 0 (P0) — Fundação: Settings v5 + switches do pack ✅ (feita em 2026-10-10)
+  - [x] storage.ts: `plus: { wordTranslation, phraseTranslation, plusAudio }` (off),
+        normalização, migração v4→v5, backup v5 (import aceita 2/3/4)
+  - [x] /settings: seção "Studie Plus" com 3 toggles + texto de descorrelação
+  - [x] src/lib/plus/settings.ts (puro) + testes (src/test/plus-settings.test.ts, 6 testes)
+  - Gates ✅: vitest 201/201 · tsgo limpo · build OK · lint 0 erros (8 warnings preexistentes) ·
+    preview pendente de verificação Playwright (fecha na Fase 4/5 junto com o pack)
+- [x] Fase 1 (P0) — Tradução por palavra (tipo 1) ✅ (feita em 2026-10-10; geração de
+      dados bloqueada por saldo 0,00 do AI Gateway — integrada com estado vazio honesto)
+  - [x] Pipeline: extract-words.mjs (12.060 únicas → 6.000 candidatas por frequência);
+        generate-glossary.mjs pronto e resumível (--start/--batches, 402/403 → halt);
+        src/data/plus/glossary.json = {} placeholder até crédito disponível
+        MÉTODO REVISADO (próximo remix): gerar via subagentes em lotes pequenos, sem AI Gateway — ver "Método de geração revisado" no prd-project6.md
+  - [x] src/lib/plus/glossary.ts + words.ts (puros, testados em src/test/plus-words.test.ts)
+  - [x] src/components/plus/PlusWordText.tsx (tap → balão fixo literal+contextual, fecha
+        por toque fora/✕/Esc; sem abrir em scroll/hover; import dinâmico do glossário;
+        modo inline para trechos dentro de bloco; estado vazio honesto)
+  - [x] Integração nos motores: Read Aloud (só quando modo manual desligado e sem
+        resultado; prioridade do modo manual preservada), Re-order (itens), MCQ
+        (mcq/mcq_multi/lst_mcq; lst_smw fica plain por ter lacuna), Read FIB (trechos de
+        texto entre lacunas, inline), Write Essay (enunciado), SWT (texto-fonte),
+        SST/lst_summary (transcrição no resultado). Motores só-áudio (repeat, retell,
+        answer_short, wfd, lst_fib, lst_hiw, lst_hcs) ficam de fora por design — a
+        transcrição é gabarito e não pode vazar tradução antes da resposta
+  - Gates ✅: vitest 210/210 · tsgo limpo · build/lint/preview pendentes de fechamento
+    (Fase 5, junto com o pack)
+- [x] Fase 2 (P1) — Tradução por frase (tipo 2) ✅ (feita em 2026-10-10)
+  - [x] src/lib/plus/sentences.ts + phrases.ts (puros, testados em src/test/plus-phrases.test.ts)
+  - [x] Pipeline: extract-sentences.mjs (39 lotes in-NNN de 80) + tradução por subagentes
+        read-only (MÉTODO REVISADO, sem AI Gateway) + merge-phrases.mjs → src/data/plus/phrases/
+        (cobertura: read_aloud 195, reorder_paragraphs 57, mcq_single 106, mcq_multi 18,
+        read_fib 62, wfd 934 = 1.372 frases, 3.098 traduzidas, cobertura 100%)
+  - [x] src/components/plus/PlusPhraseCard.tsx (expande só por tap; estado vazio honesto)
+        integrado em Read Aloud, MCQ (mcq/mcq_multi/lst_mcq), Re-order, Read FIB, WFD
+  - Gates ✅: vitest 223/223 · tsgo limpo · build OK · lint 0 erros (8 warnings preexistentes) ·
+        preview ✅ (cards verificados: Read Aloud, MCQ single, Read FIB, WFD pós-correção;
+        localStorage vazio até o 1º clique, /practice aceita só ?q=, card WFD só no resultado)
+  - Correção de dados (2026-10-10): out-025↔026 trocados e ciclo 031→033→037→034→035→032
+        entre os out-*.json reescritos; out-029 regerado (traduções perdidas); merge refeito
+        com alinhamento verificado (3098/3098; edknot-rfib-01 agora com tradução correta).
+- [x] Fase 3 (P1) — Áudio do pack (pronúncia) ✅ (feita em 2026-10-10)
+  - [x] src/lib/plus/plusAudio.ts (matriz campo × tipo; nunca duplica áudio nativo;
+        `transcript` sempre false — gabarito falado não vaza)
+  - [x] src/components/plus/PlusSpeakButton.tsx (Web Speech, rate = modelRate,
+        cancela ao trocar de questão/unmount; 🔊 pt-BR opcional no card de frase,
+        oculto sem voz pt-BR disponível — fallback seguro)
+  - [x] useSpeechSynthesis estendido: `speak(text, rate, langOverride?)`; pickVoice
+        casa por prefixo de idioma (não só "en")
+  - [x] Integração em 11 motores: WriteEssay (prompt + sample), Swt (text + sample),
+        Mcq (passage gateada, opções, explicação no resultado), Reorder (itens),
+        FibDropdown (passage sem lacunas), Wfd (explicação; answer excluído — campo
+        de ditado nativo), Sst (sample), RepeatSentence (referência no resultado),
+        AnswerShort (answer no resultado), Hiw (explicação), Fib (explicação)
+  - Gates ✅: vitest 231/231 (25 arquivos) · tsgo limpo · build OK · lint 0 erros
+    (8 warnings preexistentes) · preview ✅ (Playwright: WriteEssay "ouvir enunciado",
+    MCQ "ouvir opções"/"ouvir texto"/"ouvir explicação" no resultado, Reorder
+    "ouvir trechos", WFD "ouvir dica", card de frase com 🔊 pt-BR "ouvir tradução"
+    falando em pt-BR com voz disponível; oculto sem voz — fallback verificado)
+- [x] Fase 4 (P1) — Mobile-first + cobertura residual ✅ (feita em 2026-10-10)
+  - [x] Auditoria Playwright mobile (390×844) nos 16 motores + home: zero overflow,
+        zero pageerrors; correções (TopNav, PracticeShell, Hiw/Reorder/Fib/FibDropdown/
+        ReadAloud, button.tsx ≥ 44 px; PlusWordText com balão portallado em
+        document.body — eliminou 4 warnings de HTML nesting inválido no Read FIB;
+        rodapé do Read Aloud com wrap real — "Iniciar preparação" não extrapola mais)
+  - [x] Cobertura residual registrada: +743 frases SWT + 92 Write Essay = 835 novas
+        (11 lotes in/out 000–010 em out/phrases-batches-fase4/, todos validados);
+        merge final: 3.933/3.933 frases traduzidas (100%), 0 sem casamento;
+        tipos só-áudio continuam de fora por design (gabarito falado)
+  - [x] src/test/plus-integration.test.tsx: integração dos 3 recursos + regressão do
+        balão portallado + integridade dos 8 tipos de frases
+  - Gates ✅: vitest 241/241 (26 arquivos) · tsgo limpo · build OK · lint 0 erros
+    (8 warnings preexistentes) · preview mobile ✅ (390×844, screenshots)
+- [x] Fase 5 (P0) — Fechamento ✅ (2026-10-10)
+  - [x] Gates globais completos; suite cresceu de 195 → 241
+  - [x] AGENTS.md: estado atual preenchido
+  - [x] Monitor avisado ("remix finalizado (+5 fases do roadmap-proj6)") e usuário informado
+
+Regras: tradução NUNCA se mistura ao banco nativo; geração de dados só dev-time;
+integrações só por tap explícito; app 100% local (localStorage).

@@ -1,0 +1,56 @@
+# Projeto 5 — PTE Master Hub: Consistência de Métricas, SEO Dinâmico e Fechamento
+
+## Estado de partida (auditado em 2026-10-10)
+- Banco: 5.072 questões nos JSONs; manifest.json = 2.536 (speaking 1.003, writing 122, reading 243, listening 1.168).
+- Projeto 4 concluído: Fases 0–4 do roadmap marcadas; 181/181 testes verdes; tsgo e build limpos.
+- O Projeto 4 foi data-only (nenhum motor/rota/componente alterado), então a UI e os textos
+  estáticos continuam anunciando os números antigos — daí este projeto.
+
+## Problemas a resolver (o QUÊ e o POR QUÊ)
+1. **Números desatualizados na UI.** O rodapé do hero da Home (src/routes/index.tsx, fim do
+   arquivo) diz literalmente "2.164 questões" enquanto os cards logo acima já somam 2.536
+   (linha do TOTAL_ALL_QUESTIONS). Inconsistência visível na primeira tela.
+2. **SEO desatualizado.** head() da Home fala em "16 tipos de questão" e "mais de 2.000
+   questões"; o real é 19 task types e 2.500+.
+3. **SEO da seção Listening desatualizado.** src/routes/listening.tsx anuncia "1.165
+   questões"; o real é 1.168 (+350 adicionados nas Fases 1 e 3 do Projeto 4).
+4. **Regra de prevenção ausente.** Nenhum teste impede que um texto com número fixo
+   reapareça quando o banco crescer. Criar src/test/metrics-sync.test.ts: (a)
+   TOTAL_ALL_QUESTIONS === allMeta.length; (b) soma de sectionCounts ===
+   TOTAL_ALL_QUESTIONS; (c) nenhuma rota pública contém strings desatualizadas
+   ("2.164", "16 tipos", "1.165").
+5. **Offline E2E herdado do Projeto 3.** Validação Playwright do PWA: carga normal →
+   context.set_offline(True) → navegar Home, /listening e /practice?type=wfd
+   confirmando carregamento via cache do sw.js sem falhas.
+6. **Describe Image.** Único task type sem motor de prática; manter o aviso
+   "aguardando fontes com imagens acessíveis" até existir fonte aprovada pelo gate
+   do Projeto 4 (HTTP 200, sem login/paywall, com imagens acessíveis).
+
+## Regras de governança
+- Proibição de números fixos na UI onde uma constante do manifest (@/lib/pte/manifest)
+  possa ser usada: rodapés e metas devem consumir TOTAL_ALL_QUESTIONS e sectionCounts.
+- Nenhum texto novo deve hardcodar contagens; sempre derivar do manifesto.
+
+## Alterações de arquivos (o COMO fica no PRD; aqui só o mapa)
+- src/routes/index.tsx — head() atualizado (19 tipos, 2.500+) + rodapé do hero dinâmico
+  via TOTAL_ALL_QUESTIONS.toLocaleString("pt-BR").
+- src/routes/listening.tsx — head() com sectionCounts.listening em vez de "1.165".
+- src/test/metrics-sync.test.ts — novo teste de sincronização (item 4).
+- /tmp/browser/test_offline.py — novo script Playwright offline (item 5).
+- .opencode/roadmap-proj4 — registrar que o offline E2E foi transferido para o Projeto 5.
+
+## Escopo negativo (NÃO fazer)
+- Nenhuma mudança em motores de prática, flows, correção, SRS ou dados do banco.
+- Não integrar novas questões nem novas fontes.
+- Não ativar Lovable Cloud; o app continua 100% local (localStorage).
+
+## Ordem lógica
+1. Sincronizar textos/metas (itens 1–3) → 2. Teste de sincronização (item 4) →
+3. Offline E2E (item 5) → 4. Fechamento: rodar gates, atualizar roadmaps e relatar.
+
+## Gates de aceitação
+- bunx vitest run 100% verde (incluindo metrics-sync).
+- tsgo e bun run build sem erros.
+- Playwright: nenhuma discrepância de números entre cabeçalho e cards da Home;
+  navegação offline sem falhas.
+- Ao concluir: avisar o monitor ("remix finalizado (+N da etapa do roadmap)").

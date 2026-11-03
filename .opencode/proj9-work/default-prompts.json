@@ -1,0 +1,14 @@
+{
+  "read_aloud": "Look at the text below. In 40 seconds, you must read this text aloud as naturally and clearly as possible.",
+  "repeat_sentence": "Listen to the sentence and repeat it exactly.",
+  "retell_lecture": "Listen to the lecture and retell it in your own words in 40 seconds.",
+  "answer_short": "One word or short phrase. Don't elaborate.",
+  "swt": "ONE sentence, 5-75 words. Capture the main claim and the key supporting detail. Use a complex structure (although/while/despite).",
+  "reorder_paragraphs": "Reordene os trechos para formar um parágrafo coerente.",
+  "read_fib": "Escolha a palavra correta para cada lacuna.",
+  "mcq_single": "Read the text and answer the multiple-choice question by selecting one correct response.",
+  "mcq_multi": "Read the text and answer the question by selecting all correct responses. More than one is correct.",
+  "wfd": "You will hear a sentence. Type the sentence in the box below exactly as you hear it.",
+  "lst_fib": "You will hear a recording. Type the missing words in the gaps.",
+  "summarize_spoken_text": "Listen to the lecture and write a summary of 50-70 words."
+}

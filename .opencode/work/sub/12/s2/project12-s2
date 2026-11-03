@@ -1,0 +1,15 @@
+# project12-s2 — Home (S2)
+
+## Recorte (do PRD central §7.1)
+Home `/` (index.tsx): hero editorial, cartões de seção com identidade, vocabulário vivo, rodapé.
+
+## O quê
+- Hero editorial: selo de identidade, kicker, título Fraunces grande, sub curto, CTAs hierarquizados (primário "Começar a treinar", secundário "Simulado"), bg-glow.
+- Faixa de estimativa como score-card (número tabular grande + rótulo) quando houver treino.
+- Grid de seções com identidade própria: ícone Lucide por seção, cor da seção, contagem, meta; cartão INTEIRO clicável.
+- Cartão de vocabulário vivo: anel/contagem de revisões do dia; segundo cartão ao lado (Sessão rápida ou Simulado — decisão registrada).
+- Rodapé institucional mais discreto.
+
+## Como (restrição)
+- Nenhuma lib de dados muda (estimate, vocabCounts, catalog intactos — D5). Só apresentação.
+- Zero regressão: gates completos; 390×844 sem overflow; axe 0; console limpo.

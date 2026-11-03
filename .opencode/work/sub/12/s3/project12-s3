@@ -1,0 +1,13 @@
+# project12-s3 — Sessão + Simulado (S3)
+
+## Recorte (do PRD central §7.3/§7.4)
+Session `/session` (3 estados) e Exam `/exam`.
+
+## O quê
+- Sessão: configuração agrupada (menos wrap em 390px); execução com superfície de questão elevada e ProgressRing compartilhado (substituir barra ad-hoc session.tsx:190-195); conclusão com número-herói + próximo passo.
+- Cards de tradução da sessão usam o TranslationSheet (integração S1×S3 — nada a implementar no fluxo, só garantir que as superfícies não conflitam com o sheet).
+- Simulado: seletor de modalidade em cartões Button reais (exame.tsx:81-98) com ícone e duração; stepper visual no runner; cronômetro/pausa/abandono claros e acessíveis.
+
+## Como (restrição)
+- Nenhuma lógica de sessão/exame/estimativa muda (D5). Só apresentação.
+- Zero regressão: gates completos; Playwright em /session e /exam (axe, 390×844, console).

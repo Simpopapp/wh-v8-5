@@ -1,0 +1,957 @@
+[
+  {
+    "id": "goarno-lfib-01",
+    "taskType": "lst_fib",
+    "prompt": "You will hear a recording. Type the missing words in the gaps.",
+    "text": "The study of volcanic eruptions has evolved rapidly with the  _  of modern technology. Researchers deploy networks of seismometers to monitor tremors that often  _  volcanic activity. Additionally, they measure the  _  of gases released from the crater, as rising magma typically alters these chemical signatures. Despite these sophisticated tools, accurate forecasting is not  _  forcing authorities to rely on statistical models when issuing safety alerts. This uncertainty makes the management of active zones particularly difficult, as decision-makers must balance the safety of residents against the economic  _  caused by unnecessary evacuations.",
+    "transcript": "The study of volcanic eruptions has evolved rapidly with the _ integration of modern technology. Researchers deploy networks of seismometers to monitor tremors that often _ precede volcanic activity. Additionally, they measure the _ composition of gases released from the crater, as rising magma typically alters these chemical signatures. Despite these sophisticated tools, accurate forecasting is not _ guaranteed forcing authorities to rely on statistical models when issuing safety alerts. This uncertainty makes the management of active zones particularly difficult, as decision-makers must balance the safety of residents against the economic _ disruption caused by unnecessary evacuations.",
+    "audio_text": "The study of volcanic eruptions has evolved rapidly with the _ integration of modern technology. Researchers deploy networks of seismometers to monitor tremors that often _ precede volcanic activity. Additionally, they measure the _ composition of gases released from the crater, as rising magma typically alters these chemical signatures. Despite these sophisticated tools, accurate forecasting is not _ guaranteed forcing authorities to rely on statistical models when issuing safety alerts. This uncertainty makes the management of active zones particularly difficult, as decision-makers must balance the safety of residents against the economic _ disruption caused by unnecessary evacuations.",
+    "topic": "",
+    "source": "goarno.io",
+    "answer": [
+      "integration",
+      "precede",
+      "composition",
+      "guaranteed",
+      "disruption"
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lfib-02",
+    "taskType": "lst_fib",
+    "prompt": "You will hear a recording. Type the missing words in the gaps.",
+    "text": "The emerging field of nutrigenomics explores the complex  _  between nutrition and the human genome. Unlike traditional nutrition science, which focuses on satisfying hunger and preventing  _ , this discipline investigates how specific food compounds  _  with our genes at a molecular level. Researchers have discovered that certain dietary components can actually switch genes on or off, thereby altering individual  _  to diseases. Consequently, the ultimate goal is to develop personalized dietary  _  based on a person's unique genetic makeup, moving away from the generic one-size-fits-all approach to health.",
+    "transcript": "The emerging field of nutrigenomics explores the complex _ relationship between nutrition and the human genome. Unlike traditional nutrition science, which focuses on satisfying hunger and preventing _ deficiency, this discipline investigates how specific food compounds _ interact with our genes at a molecular level. Researchers have discovered that certain dietary components can actually switch genes on or off, thereby altering individual _ susceptibility to diseases. Consequently, the ultimate goal is to develop personalized dietary _ recommendations based on a person's unique genetic makeup, moving away from the generic one-size-fits-all approach to health.",
+    "audio_text": "The emerging field of nutrigenomics explores the complex _ relationship between nutrition and the human genome. Unlike traditional nutrition science, which focuses on satisfying hunger and preventing _ deficiency, this discipline investigates how specific food compounds _ interact with our genes at a molecular level. Researchers have discovered that certain dietary components can actually switch genes on or off, thereby altering individual _ susceptibility to diseases. Consequently, the ultimate goal is to develop personalized dietary _ recommendations based on a person's unique genetic makeup, moving away from the generic one-size-fits-all approach to health.",
+    "topic": "",
+    "source": "goarno.io",
+    "answer": [
+      "relationship",
+      "deficiency",
+      "interact",
+      "susceptibility",
+      "recommendations"
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lfib-03",
+    "taskType": "lst_fib",
+    "prompt": "You will hear a recording. Type the missing words in the gaps.",
+    "text": "The emergence of Sumerian city-states was fundamentally linked to the successful  _  of water resources. Since the regional climate was extremely  _  with very little rainfall, farmers were forced to rely on complex artificial irrigation systems to  _  their crops. Constructing and maintaining these networks required a level of cooperation and labor that went beyond individual families, leading to the development of centralized  _  These early administrative bodies were tasked with the critical role of maintaining canals and ensuring the equitable  _  of water. Consequently, the ability to control river flows became a primary source of political power and social stability in the region.",
+    "transcript": "The emergence of Sumerian city-states was fundamentally linked to the successful _ management of water resources. Since the regional climate was extremely _ arid with very little rainfall, farmers were forced to rely on complex artificial irrigation systems to _ cultivate their crops. Constructing and maintaining these networks required a level of cooperation and labor that went beyond individual families, leading to the development of centralized _ authorities These early administrative bodies were tasked with the critical role of maintaining canals and ensuring the equitable _ distribution of water. Consequently, the ability to control river flows became a primary source of political power and social stability in the region.",
+    "audio_text": "The emergence of Sumerian city-states was fundamentally linked to the successful _ management of water resources. Since the regional climate was extremely _ arid with very little rainfall, farmers were forced to rely on complex artificial irrigation systems to _ cultivate their crops. Constructing and maintaining these networks required a level of cooperation and labor that went beyond individual families, leading to the development of centralized _ authorities These early administrative bodies were tasked with the critical role of maintaining canals and ensuring the equitable _ distribution of water. Consequently, the ability to control river flows became a primary source of political power and social stability in the region.",
+    "topic": "",
+    "source": "goarno.io",
+    "answer": [
+      "management",
+      "arid",
+      "cultivate",
+      "authorities",
+      "distribution"
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lfib-04",
+    "taskType": "lst_fib",
+    "prompt": "You will hear a recording. Type the missing words in the gaps.",
+    "text": "When examining the monumental architecture of this region, specifically the towering ziggurats, we notice a distinct absence of stone. Unlike neighboring empires that possessed access to vast  _  these builders had to rely on what was  _  available: earth and mud. They consequently developed  _  techniques to create durable bricks, often kiln-fired to withstand the  _  These massive structures served as religious centers and physically dominated the flat landscape, and their survival is remarkable given the  _  of the primary construction material.",
+    "transcript": "When examining the monumental architecture of this region, specifically the towering ziggurats, we notice a distinct absence of stone. Unlike neighboring empires that possessed access to vast _ quarries these builders had to rely on what was _ readily available: earth and mud. They consequently developed _ sophisticated techniques to create durable bricks, often kiln-fired to withstand the _ elements These massive structures served as religious centers and physically dominated the flat landscape, and their survival is remarkable given the _ vulnerability of the primary construction material.",
+    "audio_text": "When examining the monumental architecture of this region, specifically the towering ziggurats, we notice a distinct absence of stone. Unlike neighboring empires that possessed access to vast _ quarries these builders had to rely on what was _ readily available: earth and mud. They consequently developed _ sophisticated techniques to create durable bricks, often kiln-fired to withstand the _ elements These massive structures served as religious centers and physically dominated the flat landscape, and their survival is remarkable given the _ vulnerability of the primary construction material.",
+    "topic": "",
+    "source": "goarno.io",
+    "answer": [
+      "quarries",
+      "readily",
+      "sophisticated",
+      "elements",
+      "vulnerability"
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lfib-05",
+    "taskType": "lst_fib",
+    "prompt": "You will hear a recording. Type the missing words in the gaps.",
+    "text": "Volcanic eruptions represent one of nature's most destructive forces, yet accurate forecasting remains a significant scientific  _  Recently, geologists have placed greater  _  on analyzing gas emissions to identify potential threats. By measuring changes in the chemical  _  of fumes escaping from craters, researchers can often detect pressure build-up long before the ground begins to shake. This data is crucial for authorities who need to issue evacuation  _  to vulnerable populations. Despite these advances, sudden geological shifts can still occur without warning, implying that current monitoring systems are not entirely  _ ",
+    "transcript": "Volcanic eruptions represent one of nature's most destructive forces, yet accurate forecasting remains a significant scientific _ challenge Recently, geologists have placed greater _ emphasis on analyzing gas emissions to identify potential threats. By measuring changes in the chemical _ composition of fumes escaping from craters, researchers can often detect pressure build-up long before the ground begins to shake. This data is crucial for authorities who need to issue evacuation _ alerts to vulnerable populations. Despite these advances, sudden geological shifts can still occur without warning, implying that current monitoring systems are not entirely _ reliable",
+    "audio_text": "Volcanic eruptions represent one of nature's most destructive forces, yet accurate forecasting remains a significant scientific _ challenge Recently, geologists have placed greater _ emphasis on analyzing gas emissions to identify potential threats. By measuring changes in the chemical _ composition of fumes escaping from craters, researchers can often detect pressure build-up long before the ground begins to shake. This data is crucial for authorities who need to issue evacuation _ alerts to vulnerable populations. Despite these advances, sudden geological shifts can still occur without warning, implying that current monitoring systems are not entirely _ reliable",
+    "topic": "",
+    "source": "goarno.io",
+    "answer": [
+      "challenge",
+      "emphasis",
+      "composition",
+      "alerts",
+      "reliable"
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lfib-06",
+    "taskType": "lst_fib",
+    "prompt": "You will hear a recording. Type the missing words in the gaps.",
+    "text": "When we examine ancient Mesopotamian records, the sheer durability of the writing medium is striking. Unlike the perishable papyrus utilized by later civilizations, the people of this region relied on the clay found in  _  along their riverbanks. Scribes would  _  distinct wedge-shaped marks onto wet clay tablets using a reed stylus. Once these tablets were baked in a kiln, they became incredibly  _ , effectively turning the documents into stone. This accidental  _  allows thousands of administrative texts to survive, providing a unique  _  into their complex society.",
+    "transcript": "When we examine ancient Mesopotamian records, the sheer durability of the writing medium is striking. Unlike the perishable papyrus utilized by later civilizations, the people of this region relied on the clay found in _ abundance along their riverbanks. Scribes would _ impress distinct wedge-shaped marks onto wet clay tablets using a reed stylus. Once these tablets were baked in a kiln, they became incredibly _ resilient, effectively turning the documents into stone. This accidental _ preservation allows thousands of administrative texts to survive, providing a unique _ window into their complex society.",
+    "audio_text": "When we examine ancient Mesopotamian records, the sheer durability of the writing medium is striking. Unlike the perishable papyrus utilized by later civilizations, the people of this region relied on the clay found in _ abundance along their riverbanks. Scribes would _ impress distinct wedge-shaped marks onto wet clay tablets using a reed stylus. Once these tablets were baked in a kiln, they became incredibly _ resilient, effectively turning the documents into stone. This accidental _ preservation allows thousands of administrative texts to survive, providing a unique _ window into their complex society.",
+    "topic": "",
+    "source": "goarno.io",
+    "answer": [
+      "abundance",
+      "impress",
+      "resilient",
+      "preservation",
+      "window"
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lfib-07",
+    "taskType": "lst_fib",
+    "prompt": "You will hear a recording. Type the missing words in the gaps.",
+    "text": "In ancient Mesopotamia, literacy was far from universal, which made the profession of the scribe essential for the effective  _  of the state. These individuals underwent  _  training in dedicated schools, where they were required to master thousands of  _  cuneiform signs. Their expertise allowed them to document everything from agricultural yields to legal disputes. Due to these specialized skills, scribes held a privileged status within the social  _  and were often exempt from manual labor. Consequently, this career path was highly desired by elite families looking to secure  _  for their children.",
+    "transcript": "In ancient Mesopotamia, literacy was far from universal, which made the profession of the scribe essential for the effective _ administration of the state. These individuals underwent _ rigorous training in dedicated schools, where they were required to master thousands of _ complex cuneiform signs. Their expertise allowed them to document everything from agricultural yields to legal disputes. Due to these specialized skills, scribes held a privileged status within the social _ hierarchy and were often exempt from manual labor. Consequently, this career path was highly desired by elite families looking to secure _ influence for their children.",
+    "audio_text": "In ancient Mesopotamia, literacy was far from universal, which made the profession of the scribe essential for the effective _ administration of the state. These individuals underwent _ rigorous training in dedicated schools, where they were required to master thousands of _ complex cuneiform signs. Their expertise allowed them to document everything from agricultural yields to legal disputes. Due to these specialized skills, scribes held a privileged status within the social _ hierarchy and were often exempt from manual labor. Consequently, this career path was highly desired by elite families looking to secure _ influence for their children.",
+    "topic": "",
+    "source": "goarno.io",
+    "answer": [
+      "administration",
+      "rigorous",
+      "complex",
+      "hierarchy",
+      "influence"
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lfib-08",
+    "taskType": "lst_fib",
+    "prompt": "You will hear a recording. Type the missing words in the gaps.",
+    "text": "In ancient Mesopotamia, the ability to read and write was generally  _  for a specific professional class known as scribes. To enter this profession, individuals had to complete a  _  education at institutions often attached to temples. The training involved memorizing thousands of cuneiform signs, which was a significant intellectual challenge. Once qualified, these scribes became  _  to the state administration, managing everything from tax collections to diplomatic  _ . Their unique skills granted them a high social standing, allowing them to rise above the ordinary  _ .",
+    "transcript": "In ancient Mesopotamia, the ability to read and write was generally _ reserved for a specific professional class known as scribes. To enter this profession, individuals had to complete a _ rigorous education at institutions often attached to temples. The training involved memorizing thousands of cuneiform signs, which was a significant intellectual challenge. Once qualified, these scribes became _ indispensable to the state administration, managing everything from tax collections to diplomatic _ correspondence. Their unique skills granted them a high social standing, allowing them to rise above the ordinary _ population.",
+    "audio_text": "In ancient Mesopotamia, the ability to read and write was generally _ reserved for a specific professional class known as scribes. To enter this profession, individuals had to complete a _ rigorous education at institutions often attached to temples. The training involved memorizing thousands of cuneiform signs, which was a significant intellectual challenge. Once qualified, these scribes became _ indispensable to the state administration, managing everything from tax collections to diplomatic _ correspondence. Their unique skills granted them a high social standing, allowing them to rise above the ordinary _ population.",
+    "topic": "",
+    "source": "goarno.io",
+    "answer": [
+      "reserved",
+      "rigorous",
+      "indispensable",
+      "correspondence",
+      "population"
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lfib-09",
+    "taskType": "lst_fib",
+    "prompt": "You will hear a recording. Type the missing words in the gaps.",
+    "text": "Monitoring volcanic activity is a critical task for geologists aiming to  _  the risks associated with eruptions. By analyzing seismic data and gas  _  scientists can effectively detect changes in a volcano's  _  pressure. Recent advancements in satellite imagery allow researchers to  _  ground deformation from a safe distance, providing early warning signs to local communities. While predicting the exact moment of an eruption remains a challenge, these technological tools have significantly improved our ability to prepare for potential disasters and  _  threatened areas in time.",
+    "transcript": "Monitoring volcanic activity is a critical task for geologists aiming to _ mitigate the risks associated with eruptions. By analyzing seismic data and gas _ emissions scientists can effectively detect changes in a volcano's _ internal pressure. Recent advancements in satellite imagery allow researchers to _ observe ground deformation from a safe distance, providing early warning signs to local communities. While predicting the exact moment of an eruption remains a challenge, these technological tools have significantly improved our ability to prepare for potential disasters and _ evacuate threatened areas in time.",
+    "audio_text": "Monitoring volcanic activity is a critical task for geologists aiming to _ mitigate the risks associated with eruptions. By analyzing seismic data and gas _ emissions scientists can effectively detect changes in a volcano's _ internal pressure. Recent advancements in satellite imagery allow researchers to _ observe ground deformation from a safe distance, providing early warning signs to local communities. While predicting the exact moment of an eruption remains a challenge, these technological tools have significantly improved our ability to prepare for potential disasters and _ evacuate threatened areas in time.",
+    "topic": "",
+    "source": "goarno.io",
+    "answer": [
+      "mitigate",
+      "emissions",
+      "internal",
+      "observe",
+      "evacuate"
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lfib-10",
+    "taskType": "lst_fib",
+    "prompt": "You will hear a recording. Type the missing words in the gaps.",
+    "text": "Volcanic eruptions are among the most powerful and  _  forces in nature, yet they surprisingly play a crucial role in generating  _  land for agriculture. Scientists closely  _  seismic activity and gas emissions to determine when a volcano might become active. By analyzing these warning signs, experts can issue timely alerts to  _  and protect local communities. However, despite rapid advancements in monitoring technology, predicting the exact timing of an event remains a significant challenge. The sheer  _  of magma movement underground means that researchers are constantly refining their models to improve forecast accuracy.",
+    "transcript": "Volcanic eruptions are among the most powerful and _ destructive forces in nature, yet they surprisingly play a crucial role in generating _ fertile land for agriculture. Scientists closely _ monitor seismic activity and gas emissions to determine when a volcano might become active. By analyzing these warning signs, experts can issue timely alerts to _ evacuate and protect local communities. However, despite rapid advancements in monitoring technology, predicting the exact timing of an event remains a significant challenge. The sheer _ complexity of magma movement underground means that researchers are constantly refining their models to improve forecast accuracy.",
+    "audio_text": "Volcanic eruptions are among the most powerful and _ destructive forces in nature, yet they surprisingly play a crucial role in generating _ fertile land for agriculture. Scientists closely _ monitor seismic activity and gas emissions to determine when a volcano might become active. By analyzing these warning signs, experts can issue timely alerts to _ evacuate and protect local communities. However, despite rapid advancements in monitoring technology, predicting the exact timing of an event remains a significant challenge. The sheer _ complexity of magma movement underground means that researchers are constantly refining their models to improve forecast accuracy.",
+    "topic": "",
+    "source": "goarno.io",
+    "answer": [
+      "destructive",
+      "fertile",
+      "monitor",
+      "evacuate",
+      "complexity"
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lfib-11",
+    "taskType": "lst_fib",
+    "prompt": "You will hear a recording. Type the missing words in the gaps.",
+    "text": "Wildfires have emerged as a significant  _  in numerous regions, exacerbated by rising global temperatures and shifts in land management. Scientists are currently investigating how different vegetation types function as fuel, which directly impacts the  _  and spread of the flames. Historically, the dominant strategy was total fire  _  yet this approach often resulted in a dangerous  _  of dry debris on the forest floor. Consequently, this buildup increased the likelihood of uncontrollable mega-fires. Nowadays, experts recommend controlled burns to safely decrease this combustible material. Recognizing the ecological function of fire is essential for creating effective forestry  _  that safeguard both communities and ecosystems.",
+    "transcript": "Wildfires have emerged as a significant _ threat in numerous regions, exacerbated by rising global temperatures and shifts in land management. Scientists are currently investigating how different vegetation types function as fuel, which directly impacts the _ intensity and spread of the flames. Historically, the dominant strategy was total fire _ suppression yet this approach often resulted in a dangerous _ accumulation of dry debris on the forest floor. Consequently, this buildup increased the likelihood of uncontrollable mega-fires. Nowadays, experts recommend controlled burns to safely decrease this combustible material. Recognizing the ecological function of fire is essential for creating effective forestry _ policies that safeguard both communities and ecosystems.",
+    "audio_text": "Wildfires have emerged as a significant _ threat in numerous regions, exacerbated by rising global temperatures and shifts in land management. Scientists are currently investigating how different vegetation types function as fuel, which directly impacts the _ intensity and spread of the flames. Historically, the dominant strategy was total fire _ suppression yet this approach often resulted in a dangerous _ accumulation of dry debris on the forest floor. Consequently, this buildup increased the likelihood of uncontrollable mega-fires. Nowadays, experts recommend controlled burns to safely decrease this combustible material. Recognizing the ecological function of fire is essential for creating effective forestry _ policies that safeguard both communities and ecosystems.",
+    "topic": "",
+    "source": "goarno.io",
+    "answer": [
+      "threat",
+      "intensity",
+      "suppression",
+      "accumulation",
+      "policies"
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lfib-12",
+    "taskType": "lst_fib",
+    "prompt": "You will hear a recording. Type the missing words in the gaps.",
+    "text": "Salmon are famous for their grueling migration from the ocean back to freshwater streams to  _  This journey relies heavily on olfactory memory, a sense of smell that is  _  during their juvenile stages. As the fish approach coastal waters, they detect specific chemical cues that  _  their home river from others. This chemical signature guides them through complex river systems with incredible  _  Although visual landmarks play a minor role, experiments show that if their nostrils are blocked, the salmon become  _  and cannot locate their original breeding grounds.",
+    "transcript": "Salmon are famous for their grueling migration from the ocean back to freshwater streams to _ spawn This journey relies heavily on olfactory memory, a sense of smell that is _ imprinted during their juvenile stages. As the fish approach coastal waters, they detect specific chemical cues that _ distinguish their home river from others. This chemical signature guides them through complex river systems with incredible _ precision Although visual landmarks play a minor role, experiments show that if their nostrils are blocked, the salmon become _ disoriented and cannot locate their original breeding grounds.",
+    "audio_text": "Salmon are famous for their grueling migration from the ocean back to freshwater streams to _ spawn This journey relies heavily on olfactory memory, a sense of smell that is _ imprinted during their juvenile stages. As the fish approach coastal waters, they detect specific chemical cues that _ distinguish their home river from others. This chemical signature guides them through complex river systems with incredible _ precision Although visual landmarks play a minor role, experiments show that if their nostrils are blocked, the salmon become _ disoriented and cannot locate their original breeding grounds.",
+    "topic": "",
+    "source": "goarno.io",
+    "answer": [
+      "spawn",
+      "imprinted",
+      "distinguish",
+      "precision",
+      "disoriented"
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lfib-13",
+    "taskType": "lst_fib",
+    "prompt": "You will hear a recording. Type the missing words in the gaps.",
+    "text": "Volcanic eruptions are among the most powerful  _  events on Earth, yet predicting them remains a complex challenge. Scientists rely on delicate instruments to detect the tiny tremors that often  _  an explosion, indicating magma movement beneath the surface. Recent technological advances allow researchers to monitor gas  _  which can change dramatically before an eruption occurs. These monitoring techniques are vital for public safety, as they provide authorities with crucial time to  _  threatened areas. However, despite these improvements, the exact timing and  _  of volcanic activity are still difficult to forecast with absolute certainty.",
+    "transcript": "Volcanic eruptions are among the most powerful _ geological events on Earth, yet predicting them remains a complex challenge. Scientists rely on delicate instruments to detect the tiny tremors that often _ precede an explosion, indicating magma movement beneath the surface. Recent technological advances allow researchers to monitor gas _ emissions which can change dramatically before an eruption occurs. These monitoring techniques are vital for public safety, as they provide authorities with crucial time to _ evacuate threatened areas. However, despite these improvements, the exact timing and _ magnitude of volcanic activity are still difficult to forecast with absolute certainty.",
+    "audio_text": "Volcanic eruptions are among the most powerful _ geological events on Earth, yet predicting them remains a complex challenge. Scientists rely on delicate instruments to detect the tiny tremors that often _ precede an explosion, indicating magma movement beneath the surface. Recent technological advances allow researchers to monitor gas _ emissions which can change dramatically before an eruption occurs. These monitoring techniques are vital for public safety, as they provide authorities with crucial time to _ evacuate threatened areas. However, despite these improvements, the exact timing and _ magnitude of volcanic activity are still difficult to forecast with absolute certainty.",
+    "topic": "",
+    "source": "goarno.io",
+    "answer": [
+      "geological",
+      "precede",
+      "emissions",
+      "evacuate",
+      "magnitude"
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lfib-14",
+    "taskType": "lst_fib",
+    "prompt": "You will hear a recording. Type the missing words in the gaps.",
+    "text": "While the magnetic compass is crucial for many avian species, recent research suggests that homing pigeons rely heavily on an olfactory map to navigate. Essentially, these birds learn the spatial  _  of atmospheric odours in their  _  When released from an unfamiliar location, they determine their position by smelling the air and associating specific scents with the direction of home. Experiments where the birds' sense of smell was temporarily  _  showed they were unable to orient themselves correctly, whereas those with blocked magnetic receptors could still  _  successfully. This indicates that for local homing, the chemical  _  is just as vital as magnetic cues.",
+    "transcript": "While the magnetic compass is crucial for many avian species, recent research suggests that homing pigeons rely heavily on an olfactory map to navigate. Essentially, these birds learn the spatial _ distribution of atmospheric odours in their _ surroundings When released from an unfamiliar location, they determine their position by smelling the air and associating specific scents with the direction of home. Experiments where the birds' sense of smell was temporarily _ impaired showed they were unable to orient themselves correctly, whereas those with blocked magnetic receptors could still _ navigate successfully. This indicates that for local homing, the chemical _ landscape is just as vital as magnetic cues.",
+    "audio_text": "While the magnetic compass is crucial for many avian species, recent research suggests that homing pigeons rely heavily on an olfactory map to navigate. Essentially, these birds learn the spatial _ distribution of atmospheric odours in their _ surroundings When released from an unfamiliar location, they determine their position by smelling the air and associating specific scents with the direction of home. Experiments where the birds' sense of smell was temporarily _ impaired showed they were unable to orient themselves correctly, whereas those with blocked magnetic receptors could still _ navigate successfully. This indicates that for local homing, the chemical _ landscape is just as vital as magnetic cues.",
+    "topic": "",
+    "source": "goarno.io",
+    "answer": [
+      "distribution",
+      "surroundings",
+      "impaired",
+      "navigate",
+      "landscape"
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lfib-15",
+    "taskType": "lst_fib",
+    "prompt": "You will hear a recording. Type the missing words in the gaps.",
+    "text": "One of the most significant factors in our understanding of Mesopotamian history is the durability of their writing surface. While many ancient cultures used  _  materials like papyrus or leather, the Mesopotamians wrote on wet clay. In ancient times, if a library was caught in a fire during  _  organic scrolls would simply burn away. In contrast, clay tablets were baked hard by the heat, becoming  _  records. Because of this accidental preservation, we have access to thousands of administrative  _  covering everything from trade deals to legal  _ ",
+    "transcript": "One of the most significant factors in our understanding of Mesopotamian history is the durability of their writing surface. While many ancient cultures used _ perishable materials like papyrus or leather, the Mesopotamians wrote on wet clay. In ancient times, if a library was caught in a fire during _ warfare organic scrolls would simply burn away. In contrast, clay tablets were baked hard by the heat, becoming _ permanent records. Because of this accidental preservation, we have access to thousands of administrative _ documents covering everything from trade deals to legal _ disputes",
+    "audio_text": "One of the most significant factors in our understanding of Mesopotamian history is the durability of their writing surface. While many ancient cultures used _ perishable materials like papyrus or leather, the Mesopotamians wrote on wet clay. In ancient times, if a library was caught in a fire during _ warfare organic scrolls would simply burn away. In contrast, clay tablets were baked hard by the heat, becoming _ permanent records. Because of this accidental preservation, we have access to thousands of administrative _ documents covering everything from trade deals to legal _ disputes",
+    "topic": "",
+    "source": "goarno.io",
+    "answer": [
+      "perishable",
+      "warfare",
+      "permanent",
+      "documents",
+      "disputes"
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lfib-16",
+    "taskType": "lst_fib",
+    "prompt": "You will hear a recording. Type the missing words in the gaps.",
+    "text": "The sheer scale of the Roman Empire required an advanced infrastructure to maintain control over its  _  Central to this was the road network, which was initially designed for military purposes. These roads allowed legions to  _  quickly to suppress rebellions or expand borders. However, their utility extended far beyond warfare. They facilitated the efficient  _  of resources and fostered economic integration across the empire. Interestingly, the construction techniques were so  _  that many of these routes remain visible today, serving as a testament to Roman engineering  _ ",
+    "transcript": "The sheer scale of the Roman Empire required an advanced infrastructure to maintain control over its _ territories Central to this was the road network, which was initially designed for military purposes. These roads allowed legions to _ mobilize quickly to suppress rebellions or expand borders. However, their utility extended far beyond warfare. They facilitated the efficient _ transport of resources and fostered economic integration across the empire. Interestingly, the construction techniques were so _ robust that many of these routes remain visible today, serving as a testament to Roman engineering _ prowess",
+    "audio_text": "The sheer scale of the Roman Empire required an advanced infrastructure to maintain control over its _ territories Central to this was the road network, which was initially designed for military purposes. These roads allowed legions to _ mobilize quickly to suppress rebellions or expand borders. However, their utility extended far beyond warfare. They facilitated the efficient _ transport of resources and fostered economic integration across the empire. Interestingly, the construction techniques were so _ robust that many of these routes remain visible today, serving as a testament to Roman engineering _ prowess",
+    "topic": "",
+    "source": "goarno.io",
+    "answer": [
+      "territories",
+      "mobilize",
+      "transport",
+      "robust",
+      "prowess"
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lfib-17",
+    "taskType": "lst_fib",
+    "prompt": "You will hear a recording. Type the missing words in the gaps.",
+    "text": "The emerging field of nutrigenomics explores the complex relationship between our diet and our genome. It suggests that food acts as more than just a source of  _  it functions as a molecular signal that  _  directly with our biology. Specific nutrients can actually trigger switches within our cells, potentially reducing the risk of developing  _  diseases. Unlike  _  nutrition, which typically offers general advice for the population, this discipline aims to provide  _  dietary recommendations based on an individual's unique makeup. Consequently, understanding these interactions could revolutionize healthcare by tailoring food intake to match specific physiological needs.",
+    "transcript": "The emerging field of nutrigenomics explores the complex relationship between our diet and our genome. It suggests that food acts as more than just a source of _ energy it functions as a molecular signal that _ interacts directly with our biology. Specific nutrients can actually trigger switches within our cells, potentially reducing the risk of developing _ chronic diseases. Unlike _ traditional nutrition, which typically offers general advice for the population, this discipline aims to provide _ personalized dietary recommendations based on an individual's unique makeup. Consequently, understanding these interactions could revolutionize healthcare by tailoring food intake to match specific physiological needs.",
+    "audio_text": "The emerging field of nutrigenomics explores the complex relationship between our diet and our genome. It suggests that food acts as more than just a source of _ energy it functions as a molecular signal that _ interacts directly with our biology. Specific nutrients can actually trigger switches within our cells, potentially reducing the risk of developing _ chronic diseases. Unlike _ traditional nutrition, which typically offers general advice for the population, this discipline aims to provide _ personalized dietary recommendations based on an individual's unique makeup. Consequently, understanding these interactions could revolutionize healthcare by tailoring food intake to match specific physiological needs.",
+    "topic": "",
+    "source": "goarno.io",
+    "answer": [
+      "energy",
+      "interacts",
+      "chronic",
+      "traditional",
+      "personalized"
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lfib-18",
+    "taskType": "lst_fib",
+    "prompt": "You will hear a recording. Type the missing words in the gaps.",
+    "text": "Researchers have long investigated how severe dietary  _  affect future generations. A pivotal study focused on a historical period of  _  revealing that individuals exposed to starvation while in the womb experienced distinct  _  differences later in life. Their bodies were effectively programmed to conserve energy, anticipating a world of  _  that never materialized. This  _  between prenatal prediction and postnatal reality resulted in higher rates of obesity. It suggests that our biological systems possess a form of memory, adapting to early signals to ensure survival, even if those adaptations prove  _  in modern contexts.",
+    "transcript": "Researchers have long investigated how severe dietary _ restrictions affect future generations. A pivotal study focused on a historical period of _ famine revealing that individuals exposed to starvation while in the womb experienced distinct _ metabolic differences later in life. Their bodies were effectively programmed to conserve energy, anticipating a world of _ scarcity that never materialized. This _ mismatch between prenatal prediction and postnatal reality resulted in higher rates of obesity. It suggests that our biological systems possess a form of memory, adapting to early signals to ensure survival, even if those adaptations prove _ detrimental in modern contexts.",
+    "audio_text": "Researchers have long investigated how severe dietary _ restrictions affect future generations. A pivotal study focused on a historical period of _ famine revealing that individuals exposed to starvation while in the womb experienced distinct _ metabolic differences later in life. Their bodies were effectively programmed to conserve energy, anticipating a world of _ scarcity that never materialized. This _ mismatch between prenatal prediction and postnatal reality resulted in higher rates of obesity. It suggests that our biological systems possess a form of memory, adapting to early signals to ensure survival, even if those adaptations prove _ detrimental in modern contexts.",
+    "topic": "",
+    "source": "goarno.io",
+    "answer": [
+      "restrictions",
+      "famine",
+      "metabolic",
+      "scarcity",
+      "mismatch",
+      "detrimental"
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lfib-19",
+    "taskType": "lst_fib",
+    "prompt": "You will hear a recording. Type the missing words in the gaps.",
+    "text": "Sea turtles undertake one of the most remarkable migrations in the marine world. Immediately after hatching, these tiny creatures must navigate across vast oceans to find specific feeding grounds. For years, biologists wondered how they managed such accurate navigation without parental  _  Recent studies suggest that turtles possess a  _  internal map based on the Earth's magnetic field. They can detect subtle  _  in magnetic intensity, allowing them to determine their precise location. This magnetic sense acts as a biological GPS, keeping them within warm currents and  _  them from straying into  _  colder waters.",
+    "transcript": "Sea turtles undertake one of the most remarkable migrations in the marine world. Immediately after hatching, these tiny creatures must navigate across vast oceans to find specific feeding grounds. For years, biologists wondered how they managed such accurate navigation without parental _ guidance Recent studies suggest that turtles possess a _ sophisticated internal map based on the Earth's magnetic field. They can detect subtle _ variations in magnetic intensity, allowing them to determine their precise location. This magnetic sense acts as a biological GPS, keeping them within warm currents and _ preventing them from straying into _ fatal colder waters.",
+    "audio_text": "Sea turtles undertake one of the most remarkable migrations in the marine world. Immediately after hatching, these tiny creatures must navigate across vast oceans to find specific feeding grounds. For years, biologists wondered how they managed such accurate navigation without parental _ guidance Recent studies suggest that turtles possess a _ sophisticated internal map based on the Earth's magnetic field. They can detect subtle _ variations in magnetic intensity, allowing them to determine their precise location. This magnetic sense acts as a biological GPS, keeping them within warm currents and _ preventing them from straying into _ fatal colder waters.",
+    "topic": "",
+    "source": "goarno.io",
+    "answer": [
+      "guidance",
+      "sophisticated",
+      "variations",
+      "preventing",
+      "fatal"
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lfib-20",
+    "taskType": "lst_fib",
+    "prompt": "You will hear a recording. Type the missing words in the gaps.",
+    "text": "The emerging field of nutrigenomics investigates the complex  _  between nutrition and the human genome. It proposes that food serves as more than just fuel; it acts as a set of biological  _  that can alter gene expression. Researchers have identified specific compounds in plant-based foods that might  _  protective mechanisms within our cells. This variability means that people often  _  differently to identical diets depending on their genetic profile. As a result, the future of healthcare may involve personalized dietary recommendations designed to maximize health and aid in disease  _ .",
+    "transcript": "The emerging field of nutrigenomics investigates the complex _ relationship between nutrition and the human genome. It proposes that food serves as more than just fuel; it acts as a set of biological _ signals that can alter gene expression. Researchers have identified specific compounds in plant-based foods that might _ trigger protective mechanisms within our cells. This variability means that people often _ respond differently to identical diets depending on their genetic profile. As a result, the future of healthcare may involve personalized dietary recommendations designed to maximize health and aid in disease _ prevention.",
+    "audio_text": "The emerging field of nutrigenomics investigates the complex _ relationship between nutrition and the human genome. It proposes that food serves as more than just fuel; it acts as a set of biological _ signals that can alter gene expression. Researchers have identified specific compounds in plant-based foods that might _ trigger protective mechanisms within our cells. This variability means that people often _ respond differently to identical diets depending on their genetic profile. As a result, the future of healthcare may involve personalized dietary recommendations designed to maximize health and aid in disease _ prevention.",
+    "topic": "",
+    "source": "goarno.io",
+    "answer": [
+      "relationship",
+      "signals",
+      "trigger",
+      "respond",
+      "prevention"
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lfib-21",
+    "taskType": "lst_fib",
+    "prompt": "You will hear a recording. Type the missing words in the gaps.",
+    "text": "Volcanology has transformed significantly in recent decades, shifting from direct visual  _  to sophisticated data analysis. Nowadays, scientists deploy a range of instruments to  _  active volcanoes, looking for subtle ground deformations that typically  _  an eruption. Furthermore, satellite imagery enables researchers to track thermal changes from space, offering  _  warning signals without placing personnel at risk. Despite these technological strides, predicting the  _  timing of a volcanic event remains a formidable challenge. Therefore, authorities prioritize evacuation drills and community education to  _  the potential impact on local populations.",
+    "transcript": "Volcanology has transformed significantly in recent decades, shifting from direct visual _ observation to sophisticated data analysis. Nowadays, scientists deploy a range of instruments to _ monitor active volcanoes, looking for subtle ground deformations that typically _ precede an eruption. Furthermore, satellite imagery enables researchers to track thermal changes from space, offering _ vital warning signals without placing personnel at risk. Despite these technological strides, predicting the _ precise timing of a volcanic event remains a formidable challenge. Therefore, authorities prioritize evacuation drills and community education to _ mitigate the potential impact on local populations.",
+    "audio_text": "Volcanology has transformed significantly in recent decades, shifting from direct visual _ observation to sophisticated data analysis. Nowadays, scientists deploy a range of instruments to _ monitor active volcanoes, looking for subtle ground deformations that typically _ precede an eruption. Furthermore, satellite imagery enables researchers to track thermal changes from space, offering _ vital warning signals without placing personnel at risk. Despite these technological strides, predicting the _ precise timing of a volcanic event remains a formidable challenge. Therefore, authorities prioritize evacuation drills and community education to _ mitigate the potential impact on local populations.",
+    "topic": "",
+    "source": "goarno.io",
+    "answer": [
+      "observation",
+      "monitor",
+      "precede",
+      "vital",
+      "precise",
+      "mitigate"
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lfib-22",
+    "taskType": "lst_fib",
+    "prompt": "You will hear a recording. Type the missing words in the gaps.",
+    "text": "The Phoenician alphabet stands as a monumental  _  in the history of written language. Emerging around 1050 BC, it offered a stark contrast to the intricate scripts  _  in neighboring regions. Rather than relying on hundreds of complex symbols, this system utilized a minimal set of characters to form words. This efficiency democratized literacy, ensuring that skills were not exclusively  _  to a professional elite. As maritime traders, the Phoenicians  _  this adaptable script across the Mediterranean, where it became the  _  for the Greek and Roman alphabets.",
+    "transcript": "The Phoenician alphabet stands as a monumental _ innovation in the history of written language. Emerging around 1050 BC, it offered a stark contrast to the intricate scripts _ prevalent in neighboring regions. Rather than relying on hundreds of complex symbols, this system utilized a minimal set of characters to form words. This efficiency democratized literacy, ensuring that skills were not exclusively _ confined to a professional elite. As maritime traders, the Phoenicians _ disseminated this adaptable script across the Mediterranean, where it became the _ foundation for the Greek and Roman alphabets.",
+    "audio_text": "The Phoenician alphabet stands as a monumental _ innovation in the history of written language. Emerging around 1050 BC, it offered a stark contrast to the intricate scripts _ prevalent in neighboring regions. Rather than relying on hundreds of complex symbols, this system utilized a minimal set of characters to form words. This efficiency democratized literacy, ensuring that skills were not exclusively _ confined to a professional elite. As maritime traders, the Phoenicians _ disseminated this adaptable script across the Mediterranean, where it became the _ foundation for the Greek and Roman alphabets.",
+    "topic": "",
+    "source": "goarno.io",
+    "answer": [
+      "innovation",
+      "prevalent",
+      "confined",
+      "disseminated",
+      "foundation"
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lfib-23",
+    "taskType": "lst_fib",
+    "prompt": "You will hear a recording. Type the missing words in the gaps.",
+    "text": "In ancient Mesopotamia, literacy was a highly  _  skill reserved for a select few. Young students, mostly boys from wealthy families, attended schools known as tablet houses to become professional scribes. Their training was  _  involving the memorization of thousands of complex signs and learning how to prepare the clay tablets used for writing. Once qualified, these individuals held prestigious positions in government and  _  recording everything from agricultural yields to legal contracts. Their work was essential for maintaining the  _  of the early city-states, and without their meticulous records, much of this civilization's history would remain a  _  to us today.",
+    "transcript": "In ancient Mesopotamia, literacy was a highly _ specialized skill reserved for a select few. Young students, mostly boys from wealthy families, attended schools known as tablet houses to become professional scribes. Their training was _ rigorous involving the memorization of thousands of complex signs and learning how to prepare the clay tablets used for writing. Once qualified, these individuals held prestigious positions in government and _ administration recording everything from agricultural yields to legal contracts. Their work was essential for maintaining the _ bureaucracy of the early city-states, and without their meticulous records, much of this civilization's history would remain a _ mystery to us today.",
+    "audio_text": "In ancient Mesopotamia, literacy was a highly _ specialized skill reserved for a select few. Young students, mostly boys from wealthy families, attended schools known as tablet houses to become professional scribes. Their training was _ rigorous involving the memorization of thousands of complex signs and learning how to prepare the clay tablets used for writing. Once qualified, these individuals held prestigious positions in government and _ administration recording everything from agricultural yields to legal contracts. Their work was essential for maintaining the _ bureaucracy of the early city-states, and without their meticulous records, much of this civilization's history would remain a _ mystery to us today.",
+    "topic": "",
+    "source": "goarno.io",
+    "answer": [
+      "specialized",
+      "rigorous",
+      "administration",
+      "bureaucracy",
+      "mystery"
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lfib-24",
+    "taskType": "lst_fib",
+    "prompt": "You will hear a recording. Type the missing words in the gaps.",
+    "text": "One of the distinct innovations associated with the Uruk period is the cylinder seal. Unlike earlier stamp seals, which simply pressed a single image, these small stone cylinders were rolled across wet surfaces to create a  _  band of imagery. This technique allowed for complex narratives and intricate  _  to be repeated indefinitely. Functionally, they served as a mark of ownership or administrative  _  securing jars and doors against  _  opening. The craftsmanship required to carve these miniature scenes in hard stone was immense, indicating the high social  _  of the owners who commissioned them.",
+    "transcript": "One of the distinct innovations associated with the Uruk period is the cylinder seal. Unlike earlier stamp seals, which simply pressed a single image, these small stone cylinders were rolled across wet surfaces to create a _ continuous band of imagery. This technique allowed for complex narratives and intricate _ motifs to be repeated indefinitely. Functionally, they served as a mark of ownership or administrative _ authority securing jars and doors against _ unauthorized opening. The craftsmanship required to carve these miniature scenes in hard stone was immense, indicating the high social _ status of the owners who commissioned them.",
+    "audio_text": "One of the distinct innovations associated with the Uruk period is the cylinder seal. Unlike earlier stamp seals, which simply pressed a single image, these small stone cylinders were rolled across wet surfaces to create a _ continuous band of imagery. This technique allowed for complex narratives and intricate _ motifs to be repeated indefinitely. Functionally, they served as a mark of ownership or administrative _ authority securing jars and doors against _ unauthorized opening. The craftsmanship required to carve these miniature scenes in hard stone was immense, indicating the high social _ status of the owners who commissioned them.",
+    "topic": "",
+    "source": "goarno.io",
+    "answer": [
+      "continuous",
+      "motifs",
+      "authority",
+      "unauthorized",
+      "status"
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lfib-25",
+    "taskType": "lst_fib",
+    "prompt": "You will hear a recording. Type the missing words in the gaps.",
+    "text": "In ancient Mesopotamia, becoming a scribe was a  _  process that opened the door to a privileged existence. Students attended schools known as 'tablet houses' where the  _  was incredibly demanding. They were required to master thousands of complex signs and learn to prepare their own clay tablets from river mud.  _  was notoriously strict, and mistakes were frequently punished with physical beatings. However, successful graduates could look forward to high-status careers in the palace or temple  _  often  _  from the manual labor that burdened the rest of the population.",
+    "transcript": "In ancient Mesopotamia, becoming a scribe was a _ rigorous process that opened the door to a privileged existence. Students attended schools known as 'tablet houses' where the _ curriculum was incredibly demanding. They were required to master thousands of complex signs and learn to prepare their own clay tablets from river mud. _ Discipline was notoriously strict, and mistakes were frequently punished with physical beatings. However, successful graduates could look forward to high-status careers in the palace or temple _ administration often _ exempt from the manual labor that burdened the rest of the population.",
+    "audio_text": "In ancient Mesopotamia, becoming a scribe was a _ rigorous process that opened the door to a privileged existence. Students attended schools known as 'tablet houses' where the _ curriculum was incredibly demanding. They were required to master thousands of complex signs and learn to prepare their own clay tablets from river mud. _ Discipline was notoriously strict, and mistakes were frequently punished with physical beatings. However, successful graduates could look forward to high-status careers in the palace or temple _ administration often _ exempt from the manual labor that burdened the rest of the population.",
+    "topic": "",
+    "source": "goarno.io",
+    "answer": [
+      "rigorous",
+      "curriculum",
+      "Discipline",
+      "administration",
+      "exempt"
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lfib-26",
+    "taskType": "lst_fib",
+    "prompt": "You will hear a recording. Type the missing words in the gaps.",
+    "text": "Volcanologists rely on a sophisticated array of  _  to monitor the behavior of active mountains. One critical area of study involves analyzing gas  _  particularly changes in the volume of sulfur dioxide released into the atmosphere. A sudden increase often indicates that fresh magma is rising near the  _  potentially pressurizing the system. By tracking these chemical shifts alongside seismic data, authorities can issue timely  _  This integrated approach allows communities living in the shadow of these geological giants to prepare for potential  _  significantly reducing the risk to human life during an eruption.",
+    "transcript": "Volcanologists rely on a sophisticated array of _ instruments to monitor the behavior of active mountains. One critical area of study involves analyzing gas _ emissions particularly changes in the volume of sulfur dioxide released into the atmosphere. A sudden increase often indicates that fresh magma is rising near the _ surface potentially pressurizing the system. By tracking these chemical shifts alongside seismic data, authorities can issue timely _ warnings This integrated approach allows communities living in the shadow of these geological giants to prepare for potential _ evacuation significantly reducing the risk to human life during an eruption.",
+    "audio_text": "Volcanologists rely on a sophisticated array of _ instruments to monitor the behavior of active mountains. One critical area of study involves analyzing gas _ emissions particularly changes in the volume of sulfur dioxide released into the atmosphere. A sudden increase often indicates that fresh magma is rising near the _ surface potentially pressurizing the system. By tracking these chemical shifts alongside seismic data, authorities can issue timely _ warnings This integrated approach allows communities living in the shadow of these geological giants to prepare for potential _ evacuation significantly reducing the risk to human life during an eruption.",
+    "topic": "",
+    "source": "goarno.io",
+    "answer": [
+      "instruments",
+      "emissions",
+      "surface",
+      "warnings",
+      "evacuation"
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lfib-27",
+    "taskType": "lst_fib",
+    "prompt": "You will hear a recording. Type the missing words in the gaps.",
+    "text": "While many animals rely on the sun or magnetic fields to find their way, the humble dung beetle employs a rather  _  method of navigation. Scientific studies have confirmed that these insects can actually  _  themselves using the faint light of the Milky Way. This capability is particularly crucial because they frequently operate at night to avoid  _  for limited resources. By maintaining a straight path, they can rapidly roll their ball away from the  _  of the source pile. However, if the night sky is cloudy and the stars are  _  the beetles tend to wander aimlessly, often circling back towards their rivals. This behavior  _  just how vital celestial cues are for their efficient movement.",
+    "transcript": "While many animals rely on the sun or magnetic fields to find their way, the humble dung beetle employs a rather _ unique method of navigation. Scientific studies have confirmed that these insects can actually _ orient themselves using the faint light of the Milky Way. This capability is particularly crucial because they frequently operate at night to avoid _ competition for limited resources. By maintaining a straight path, they can rapidly roll their ball away from the _ chaos of the source pile. However, if the night sky is cloudy and the stars are _ obscured the beetles tend to wander aimlessly, often circling back towards their rivals. This behavior _ demonstrates just how vital celestial cues are for their efficient movement.",
+    "audio_text": "While many animals rely on the sun or magnetic fields to find their way, the humble dung beetle employs a rather _ unique method of navigation. Scientific studies have confirmed that these insects can actually _ orient themselves using the faint light of the Milky Way. This capability is particularly crucial because they frequently operate at night to avoid _ competition for limited resources. By maintaining a straight path, they can rapidly roll their ball away from the _ chaos of the source pile. However, if the night sky is cloudy and the stars are _ obscured the beetles tend to wander aimlessly, often circling back towards their rivals. This behavior _ demonstrates just how vital celestial cues are for their efficient movement.",
+    "topic": "",
+    "source": "goarno.io",
+    "answer": [
+      "unique",
+      "orient",
+      "competition",
+      "chaos",
+      "obscured",
+      "demonstrates"
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lfib-28",
+    "taskType": "lst_fib",
+    "prompt": "You will hear a recording. Type the missing words in the gaps.",
+    "text": "Recent research has emphasized the pervasive nature of microplastics within the marine environment. Unlike substantial plastic waste, these minute fragments are nearly impossible to  _  out of the ocean efficiently. Consequently, a wide variety of marine species  _  these particles for natural prey. When organisms  _  the plastic, it can cause significant physical harm, such as digestive obstructions or false sensations of fullness. Perhaps most concerning is the way these contaminants  _  as they move up the food chain, raising serious questions about the long-term  _  for both wildlife and human populations.",
+    "transcript": "Recent research has emphasized the pervasive nature of microplastics within the marine environment. Unlike substantial plastic waste, these minute fragments are nearly impossible to _ filter out of the ocean efficiently. Consequently, a wide variety of marine species _ mistake these particles for natural prey. When organisms _ consume the plastic, it can cause significant physical harm, such as digestive obstructions or false sensations of fullness. Perhaps most concerning is the way these contaminants _ accumulate as they move up the food chain, raising serious questions about the long-term _ consequences for both wildlife and human populations.",
+    "audio_text": "Recent research has emphasized the pervasive nature of microplastics within the marine environment. Unlike substantial plastic waste, these minute fragments are nearly impossible to _ filter out of the ocean efficiently. Consequently, a wide variety of marine species _ mistake these particles for natural prey. When organisms _ consume the plastic, it can cause significant physical harm, such as digestive obstructions or false sensations of fullness. Perhaps most concerning is the way these contaminants _ accumulate as they move up the food chain, raising serious questions about the long-term _ consequences for both wildlife and human populations.",
+    "topic": "",
+    "source": "goarno.io",
+    "answer": [
+      "filter",
+      "mistake",
+      "consume",
+      "accumulate",
+      "consequences"
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lfib-29",
+    "taskType": "lst_fib",
+    "prompt": "You will hear a recording. Type the missing words in the gaps.",
+    "text": "One of the most profound applications of early writing systems was the codification of law, famously exemplified by the Code of Hammurabi. Before such codes, legal judgments were frequently  _  relying heavily on the immediate discretion of local leaders. By inscribing statutes onto durable stone monuments, the state created a  _  standard that was immune to sudden changes. This visibility served as a powerful  _  to potential offenders and strengthened the  _  of the monarch. The laws outlined specific punishments, often based on the principle of retaliation, where the  _  of the penalty was determined by the social class of the victim.",
+    "transcript": "One of the most profound applications of early writing systems was the codification of law, famously exemplified by the Code of Hammurabi. Before such codes, legal judgments were frequently _ arbitrary relying heavily on the immediate discretion of local leaders. By inscribing statutes onto durable stone monuments, the state created a _ permanent standard that was immune to sudden changes. This visibility served as a powerful _ deterrent to potential offenders and strengthened the _ legitimacy of the monarch. The laws outlined specific punishments, often based on the principle of retaliation, where the _ severity of the penalty was determined by the social class of the victim.",
+    "audio_text": "One of the most profound applications of early writing systems was the codification of law, famously exemplified by the Code of Hammurabi. Before such codes, legal judgments were frequently _ arbitrary relying heavily on the immediate discretion of local leaders. By inscribing statutes onto durable stone monuments, the state created a _ permanent standard that was immune to sudden changes. This visibility served as a powerful _ deterrent to potential offenders and strengthened the _ legitimacy of the monarch. The laws outlined specific punishments, often based on the principle of retaliation, where the _ severity of the penalty was determined by the social class of the victim.",
+    "topic": "",
+    "source": "goarno.io",
+    "answer": [
+      "arbitrary",
+      "permanent",
+      "deterrent",
+      "legitimacy",
+      "severity"
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lfib-30",
+    "taskType": "lst_fib",
+    "prompt": "You will hear a recording. Type the missing words in the gaps.",
+    "text": "Volcanic eruptions are among nature's most destructive forces, yet  _  them remains a complex scientific undertaking. While modern instruments can detect the subtle tremors that often  _  a blast, these signals are not always reliable indicators of an  _  disaster. Consequently, researchers are now analyzing gas  _  to identify changes in the chemical composition of magma rising to the surface. This multi-faceted approach provides a more comprehensive picture of volcanic activity. By integrating seismic data with gas monitoring, experts hope to deliver more timely warnings to  _  populations residing near active zones.",
+    "transcript": "Volcanic eruptions are among nature's most destructive forces, yet _ forecasting them remains a complex scientific undertaking. While modern instruments can detect the subtle tremors that often _ precede a blast, these signals are not always reliable indicators of an _ imminent disaster. Consequently, researchers are now analyzing gas _ emissions to identify changes in the chemical composition of magma rising to the surface. This multi-faceted approach provides a more comprehensive picture of volcanic activity. By integrating seismic data with gas monitoring, experts hope to deliver more timely warnings to _ vulnerable populations residing near active zones.",
+    "audio_text": "Volcanic eruptions are among nature's most destructive forces, yet _ forecasting them remains a complex scientific undertaking. While modern instruments can detect the subtle tremors that often _ precede a blast, these signals are not always reliable indicators of an _ imminent disaster. Consequently, researchers are now analyzing gas _ emissions to identify changes in the chemical composition of magma rising to the surface. This multi-faceted approach provides a more comprehensive picture of volcanic activity. By integrating seismic data with gas monitoring, experts hope to deliver more timely warnings to _ vulnerable populations residing near active zones.",
+    "topic": "",
+    "source": "goarno.io",
+    "answer": [
+      "forecasting",
+      "precede",
+      "imminent",
+      "emissions",
+      "vulnerable"
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lfib-31",
+    "taskType": "lst_fib",
+    "prompt": "You will hear a recording. Type the missing words in the gaps.",
+    "text": "When we analyze ancient records, the medium chosen by scribes often dictated the  _  of the text. In Mesopotamia, writers  _  symbols into wet clay, which was then left to harden. This method offered a unique benefit in terms of survival. While  _  materials like papyrus decompose easily in damp environments, clay tablets become incredibly  _  once baked. In fact, many royal  _  survived only because invading armies set fire to the palaces. The intense heat accidentally fired the raw clay, turning temporary administrative records into  _  artifacts that archaeologists can recover today.",
+    "transcript": "When we analyze ancient records, the medium chosen by scribes often dictated the _ longevity of the text. In Mesopotamia, writers _ impressed symbols into wet clay, which was then left to harden. This method offered a unique benefit in terms of survival. While _ organic materials like papyrus decompose easily in damp environments, clay tablets become incredibly _ durable once baked. In fact, many royal _ archives survived only because invading armies set fire to the palaces. The intense heat accidentally fired the raw clay, turning temporary administrative records into _ permanent artifacts that archaeologists can recover today.",
+    "audio_text": "When we analyze ancient records, the medium chosen by scribes often dictated the _ longevity of the text. In Mesopotamia, writers _ impressed symbols into wet clay, which was then left to harden. This method offered a unique benefit in terms of survival. While _ organic materials like papyrus decompose easily in damp environments, clay tablets become incredibly _ durable once baked. In fact, many royal _ archives survived only because invading armies set fire to the palaces. The intense heat accidentally fired the raw clay, turning temporary administrative records into _ permanent artifacts that archaeologists can recover today.",
+    "topic": "",
+    "source": "goarno.io",
+    "answer": [
+      "longevity",
+      "impressed",
+      "organic",
+      "durable",
+      "archives",
+      "permanent"
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lfib-32",
+    "taskType": "lst_fib",
+    "prompt": "You will hear a recording. Type the missing words in the gaps.",
+    "text": "While traditional plastics persist in the environment for centuries, there is growing interest in bioplastics derived from  _  sources like corn starch. However, the term bioplastic can be  _  for consumers. Many assume these materials will harmlessly degrade in nature, but most require specific  _  conditions to break down effectively. If tossed into a home compost bin or landfill, they often remain  _  just like conventional synthetic materials. Therefore, clearer labeling  _  are essential to ensure these alternatives actually reduce our environmental footprint rather than adding to the waste problem.",
+    "transcript": "While traditional plastics persist in the environment for centuries, there is growing interest in bioplastics derived from _ renewable sources like corn starch. However, the term bioplastic can be _ misleading for consumers. Many assume these materials will harmlessly degrade in nature, but most require specific _ industrial conditions to break down effectively. If tossed into a home compost bin or landfill, they often remain _ intact just like conventional synthetic materials. Therefore, clearer labeling _ standards are essential to ensure these alternatives actually reduce our environmental footprint rather than adding to the waste problem.",
+    "audio_text": "While traditional plastics persist in the environment for centuries, there is growing interest in bioplastics derived from _ renewable sources like corn starch. However, the term bioplastic can be _ misleading for consumers. Many assume these materials will harmlessly degrade in nature, but most require specific _ industrial conditions to break down effectively. If tossed into a home compost bin or landfill, they often remain _ intact just like conventional synthetic materials. Therefore, clearer labeling _ standards are essential to ensure these alternatives actually reduce our environmental footprint rather than adding to the waste problem.",
+    "topic": "",
+    "source": "goarno.io",
+    "answer": [
+      "renewable",
+      "misleading",
+      "industrial",
+      "intact",
+      "standards"
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lfib-33",
+    "taskType": "lst_fib",
+    "prompt": "You will hear a recording. Type the missing words in the gaps.",
+    "text": "Tsunamis are among the most devastating natural events, often  _  by underwater earthquakes or volcanic eruptions. Unlike normal ocean waves generated by wind, tsunamis involve the movement of the entire water  _  This unique characteristic allows them to travel across ocean basins at jet-like speeds with  _  energy loss. Modern detection strategies rely heavily on a network of deep-ocean pressure sensors. These devices can  _  subtle changes in sea level and transmit data instantaneously to monitoring centers. While technology has  _  significantly, the short warning window remains a critical challenge.",
+    "transcript": "Tsunamis are among the most devastating natural events, often _ triggered by underwater earthquakes or volcanic eruptions. Unlike normal ocean waves generated by wind, tsunamis involve the movement of the entire water _ column This unique characteristic allows them to travel across ocean basins at jet-like speeds with _ minimal energy loss. Modern detection strategies rely heavily on a network of deep-ocean pressure sensors. These devices can _ identify subtle changes in sea level and transmit data instantaneously to monitoring centers. While technology has _ advanced significantly, the short warning window remains a critical challenge.",
+    "audio_text": "Tsunamis are among the most devastating natural events, often _ triggered by underwater earthquakes or volcanic eruptions. Unlike normal ocean waves generated by wind, tsunamis involve the movement of the entire water _ column This unique characteristic allows them to travel across ocean basins at jet-like speeds with _ minimal energy loss. Modern detection strategies rely heavily on a network of deep-ocean pressure sensors. These devices can _ identify subtle changes in sea level and transmit data instantaneously to monitoring centers. While technology has _ advanced significantly, the short warning window remains a critical challenge.",
+    "topic": "",
+    "source": "goarno.io",
+    "answer": [
+      "triggered",
+      "column",
+      "minimal",
+      "identify",
+      "advanced"
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lfib-34",
+    "taskType": "lst_fib",
+    "prompt": "You will hear a recording. Type the missing words in the gaps.",
+    "text": "When we consider ancient record-keeping, the material used is crucial. Unlike organic media like papyrus that  _  over time, Mesopotamian clay tablets possessed exceptional  _  A scribe would use a stylus to press symbols into soft clay, which was then dried. Interestingly, catastrophic fires often aided  _  When palaces were burned during  _  the clay archives inside were baked hard rather than destroyed. This accidental firing transformed temporary administrative notes into  _  artifacts, allowing modern archaeologists to recover thousands of texts that would otherwise have vanished.",
+    "transcript": "When we consider ancient record-keeping, the material used is crucial. Unlike organic media like papyrus that _ decompose over time, Mesopotamian clay tablets possessed exceptional _ longevity A scribe would use a stylus to press symbols into soft clay, which was then dried. Interestingly, catastrophic fires often aided _ preservation When palaces were burned during _ warfare the clay archives inside were baked hard rather than destroyed. This accidental firing transformed temporary administrative notes into _ indestructible artifacts, allowing modern archaeologists to recover thousands of texts that would otherwise have vanished.",
+    "audio_text": "When we consider ancient record-keeping, the material used is crucial. Unlike organic media like papyrus that _ decompose over time, Mesopotamian clay tablets possessed exceptional _ longevity A scribe would use a stylus to press symbols into soft clay, which was then dried. Interestingly, catastrophic fires often aided _ preservation When palaces were burned during _ warfare the clay archives inside were baked hard rather than destroyed. This accidental firing transformed temporary administrative notes into _ indestructible artifacts, allowing modern archaeologists to recover thousands of texts that would otherwise have vanished.",
+    "topic": "",
+    "source": "goarno.io",
+    "answer": [
+      "decompose",
+      "longevity",
+      "preservation",
+      "warfare",
+      "indestructible"
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lfib-35",
+    "taskType": "lst_fib",
+    "prompt": "You will hear a recording. Type the missing words in the gaps.",
+    "text": "Identical twins provide a unique window into the mechanics of epigenetics. Despite starting life with a matching genetic  _  twins can develop significant differences in health and personality as they age. Scientists  _  these discrepancies to epigenetic drift, where environmental factors like diet and stress influence the genome. These external experiences leave chemical tags that  _  how genes are expressed without altering the underlying DNA. Consequently, one twin may develop a hereditary condition while the other remains healthy, demonstrating that our biological destiny is not solely defined by  _ ",
+    "transcript": "Identical twins provide a unique window into the mechanics of epigenetics. Despite starting life with a matching genetic _ sequence twins can develop significant differences in health and personality as they age. Scientists _ attribute these discrepancies to epigenetic drift, where environmental factors like diet and stress influence the genome. These external experiences leave chemical tags that _ regulate how genes are expressed without altering the underlying DNA. Consequently, one twin may develop a hereditary condition while the other remains healthy, demonstrating that our biological destiny is not solely defined by _ inheritance",
+    "audio_text": "Identical twins provide a unique window into the mechanics of epigenetics. Despite starting life with a matching genetic _ sequence twins can develop significant differences in health and personality as they age. Scientists _ attribute these discrepancies to epigenetic drift, where environmental factors like diet and stress influence the genome. These external experiences leave chemical tags that _ regulate how genes are expressed without altering the underlying DNA. Consequently, one twin may develop a hereditary condition while the other remains healthy, demonstrating that our biological destiny is not solely defined by _ inheritance",
+    "topic": "",
+    "source": "goarno.io",
+    "answer": [
+      "sequence",
+      "attribute",
+      "regulate",
+      "inheritance"
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lfib-36",
+    "taskType": "lst_fib",
+    "prompt": "You will hear a recording. Type the missing words in the gaps.",
+    "text": "One of the most fascinating puzzles in biology is how a single fertilized egg transforms into a complex organism. Despite every cell containing the exact same DNA  _  manual, they somehow develop into  _  types, such as muscle, nerve, or skin cells. This process relies on a complex  _  system that acts like a series of switches, turning specific sections of the code on or off. Essentially, the  _  of a cell is determined not by the library of information it holds, but by which books it chooses to read. Understanding this mechanism is  _  for future advancements in regenerative medicine.",
+    "transcript": "One of the most fascinating puzzles in biology is how a single fertilized egg transforms into a complex organism. Despite every cell containing the exact same DNA _ instruction manual, they somehow develop into _ distinct types, such as muscle, nerve, or skin cells. This process relies on a complex _ regulatory system that acts like a series of switches, turning specific sections of the code on or off. Essentially, the _ identity of a cell is determined not by the library of information it holds, but by which books it chooses to read. Understanding this mechanism is _ crucial for future advancements in regenerative medicine.",
+    "audio_text": "One of the most fascinating puzzles in biology is how a single fertilized egg transforms into a complex organism. Despite every cell containing the exact same DNA _ instruction manual, they somehow develop into _ distinct types, such as muscle, nerve, or skin cells. This process relies on a complex _ regulatory system that acts like a series of switches, turning specific sections of the code on or off. Essentially, the _ identity of a cell is determined not by the library of information it holds, but by which books it chooses to read. Understanding this mechanism is _ crucial for future advancements in regenerative medicine.",
+    "topic": "",
+    "source": "goarno.io",
+    "answer": [
+      "instruction",
+      "distinct",
+      "regulatory",
+      "identity",
+      "crucial"
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lfib-37",
+    "taskType": "lst_fib",
+    "prompt": "You will hear a recording. Type the missing words in the gaps.",
+    "text": "Identical twins enter the world with virtually the same genetic material. However, as they age, they often become increasingly  _  in terms of their health profiles and personalities. This divergence is largely  _  to epigenetics. While their underlying DNA sequence remains  _ , the chemical markers attached to their genes evolve based on lifestyle choices and environmental  _ . Factors such as diet, stress levels, and physical activity can  _  these markers, effectively switching certain genes on or off. Consequently, one twin might develop a specific condition while the other remains healthy, proving that genetics is not the sole  _  of our biological destiny.",
+    "transcript": "Identical twins enter the world with virtually the same genetic material. However, as they age, they often become increasingly _ distinct in terms of their health profiles and personalities. This divergence is largely _ attributed to epigenetics. While their underlying DNA sequence remains _ static, the chemical markers attached to their genes evolve based on lifestyle choices and environmental _ exposures. Factors such as diet, stress levels, and physical activity can _ modify these markers, effectively switching certain genes on or off. Consequently, one twin might develop a specific condition while the other remains healthy, proving that genetics is not the sole _ determinant of our biological destiny.",
+    "audio_text": "Identical twins enter the world with virtually the same genetic material. However, as they age, they often become increasingly _ distinct in terms of their health profiles and personalities. This divergence is largely _ attributed to epigenetics. While their underlying DNA sequence remains _ static, the chemical markers attached to their genes evolve based on lifestyle choices and environmental _ exposures. Factors such as diet, stress levels, and physical activity can _ modify these markers, effectively switching certain genes on or off. Consequently, one twin might develop a specific condition while the other remains healthy, proving that genetics is not the sole _ determinant of our biological destiny.",
+    "topic": "",
+    "source": "goarno.io",
+    "answer": [
+      "distinct",
+      "attributed",
+      "static",
+      "exposures",
+      "modify",
+      "determinant"
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lfib-38",
+    "taskType": "lst_fib",
+    "prompt": "You will hear a recording. Type the missing words in the gaps.",
+    "text": "The emerging field of nutrigenomics explores the complex  _  between our diet and our genome. Unlike traditional nutrition, which typically offers general advice for the entire  _ , this discipline aims to provide tailored dietary recommendations based on an individual's genetic makeup. Scientists are investigating how specific genetic variations influence the  _  of nutrients and how diet can impact the risk of developing chronic diseases. While the potential for  _  nutrition is exciting, experts warn that the science is still evolving. Therefore, implementing these findings into public health guidelines requires careful  _  of various biological factors.",
+    "transcript": "The emerging field of nutrigenomics explores the complex _ interaction between our diet and our genome. Unlike traditional nutrition, which typically offers general advice for the entire _ population, this discipline aims to provide tailored dietary recommendations based on an individual's genetic makeup. Scientists are investigating how specific genetic variations influence the _ metabolism of nutrients and how diet can impact the risk of developing chronic diseases. While the potential for _ personalized nutrition is exciting, experts warn that the science is still evolving. Therefore, implementing these findings into public health guidelines requires careful _ consideration of various biological factors.",
+    "audio_text": "The emerging field of nutrigenomics explores the complex _ interaction between our diet and our genome. Unlike traditional nutrition, which typically offers general advice for the entire _ population, this discipline aims to provide tailored dietary recommendations based on an individual's genetic makeup. Scientists are investigating how specific genetic variations influence the _ metabolism of nutrients and how diet can impact the risk of developing chronic diseases. While the potential for _ personalized nutrition is exciting, experts warn that the science is still evolving. Therefore, implementing these findings into public health guidelines requires careful _ consideration of various biological factors.",
+    "topic": "",
+    "source": "goarno.io",
+    "answer": [
+      "interaction",
+      "population",
+      "metabolism",
+      "personalized",
+      "consideration"
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lfib-39",
+    "taskType": "lst_fib",
+    "prompt": "You will hear a recording. Type the missing words in the gaps.",
+    "text": "The human gut microbiome is a vast ecosystem of bacteria that plays a crucial role in our physical health. Recent studies have  _  how the composition of these microorganisms can  _  everything from digestion to our immune system. When this delicate equilibrium is  _  frequently by antibiotics or a poor diet, it may lead to various chronic conditions. Researchers are currently exploring how nutritional changes can  _  this balance. Furthermore, the connection known as the gut-brain axis suggests that stomach bacteria might actually  _  with our nervous system, influencing our mood and behavior.",
+    "transcript": "The human gut microbiome is a vast ecosystem of bacteria that plays a crucial role in our physical health. Recent studies have _ highlighted how the composition of these microorganisms can _ impact everything from digestion to our immune system. When this delicate equilibrium is _ disturbed frequently by antibiotics or a poor diet, it may lead to various chronic conditions. Researchers are currently exploring how nutritional changes can _ restore this balance. Furthermore, the connection known as the gut-brain axis suggests that stomach bacteria might actually _ communicate with our nervous system, influencing our mood and behavior.",
+    "audio_text": "The human gut microbiome is a vast ecosystem of bacteria that plays a crucial role in our physical health. Recent studies have _ highlighted how the composition of these microorganisms can _ impact everything from digestion to our immune system. When this delicate equilibrium is _ disturbed frequently by antibiotics or a poor diet, it may lead to various chronic conditions. Researchers are currently exploring how nutritional changes can _ restore this balance. Furthermore, the connection known as the gut-brain axis suggests that stomach bacteria might actually _ communicate with our nervous system, influencing our mood and behavior.",
+    "topic": "",
+    "source": "goarno.io",
+    "answer": [
+      "highlighted",
+      "impact",
+      "disturbed",
+      "restore",
+      "communicate"
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lfib-40",
+    "taskType": "lst_fib",
+    "prompt": "You will hear a recording. Type the missing words in the gaps.",
+    "text": "Electronic waste, often referred to as e-waste, is becoming a significant  _  challenge as technology advances rapidly. While many people  _  old devices, they often forget that these items contain valuable materials like gold and copper. Recycling these components is  _  because mining new metals consumes vast amounts of energy and damages the environment. Unfortunately, a large percentage of e-waste ends up in landfills, where  _  substances can leak into the soil and water supply. Governments are now implementing stricter  _  to ensure that manufacturers take responsibility for the entire lifecycle of their products.",
+    "transcript": "Electronic waste, often referred to as e-waste, is becoming a significant _ global challenge as technology advances rapidly. While many people _ discard old devices, they often forget that these items contain valuable materials like gold and copper. Recycling these components is _ crucial because mining new metals consumes vast amounts of energy and damages the environment. Unfortunately, a large percentage of e-waste ends up in landfills, where _ hazardous substances can leak into the soil and water supply. Governments are now implementing stricter _ regulations to ensure that manufacturers take responsibility for the entire lifecycle of their products.",
+    "audio_text": "Electronic waste, often referred to as e-waste, is becoming a significant _ global challenge as technology advances rapidly. While many people _ discard old devices, they often forget that these items contain valuable materials like gold and copper. Recycling these components is _ crucial because mining new metals consumes vast amounts of energy and damages the environment. Unfortunately, a large percentage of e-waste ends up in landfills, where _ hazardous substances can leak into the soil and water supply. Governments are now implementing stricter _ regulations to ensure that manufacturers take responsibility for the entire lifecycle of their products.",
+    "topic": "",
+    "source": "goarno.io",
+    "answer": [
+      "global",
+      "discard",
+      "crucial",
+      "hazardous",
+      "regulations"
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lfib-41",
+    "taskType": "lst_fib",
+    "prompt": "You will hear a recording. Type the missing words in the gaps.",
+    "text": "One of the most defining features of Mesopotamian culture was the extensive use of clay as a writing surface. While other civilizations relied on  _  materials, the inhabitants of the Tigris and Euphrates valley utilized the  _  mud found on riverbanks. Scribes would impress symbols into wet clay using a stylus, a  _  that eventually evolved into cuneiform. The resulting tablets were often baked, rendering them extremely  _  Consequently, archaeologists have  _  vast quantities of these ancient documents, revealing intricate details about everything from trade agreements to legal disputes.",
+    "transcript": "One of the most defining features of Mesopotamian culture was the extensive use of clay as a writing surface. While other civilizations relied on _ perishable materials, the inhabitants of the Tigris and Euphrates valley utilized the _ abundant mud found on riverbanks. Scribes would impress symbols into wet clay using a stylus, a _ technique that eventually evolved into cuneiform. The resulting tablets were often baked, rendering them extremely _ durable Consequently, archaeologists have _ recovered vast quantities of these ancient documents, revealing intricate details about everything from trade agreements to legal disputes.",
+    "audio_text": "One of the most defining features of Mesopotamian culture was the extensive use of clay as a writing surface. While other civilizations relied on _ perishable materials, the inhabitants of the Tigris and Euphrates valley utilized the _ abundant mud found on riverbanks. Scribes would impress symbols into wet clay using a stylus, a _ technique that eventually evolved into cuneiform. The resulting tablets were often baked, rendering them extremely _ durable Consequently, archaeologists have _ recovered vast quantities of these ancient documents, revealing intricate details about everything from trade agreements to legal disputes.",
+    "topic": "",
+    "source": "goarno.io",
+    "answer": [
+      "perishable",
+      "abundant",
+      "technique",
+      "durable",
+      "recovered"
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lfib-42",
+    "taskType": "lst_fib",
+    "prompt": "You will hear a recording. Type the missing words in the gaps.",
+    "text": "Identical twins offer a unique opportunity for researchers to examine the interaction between our DNA and the environment. Since these siblings share the exact same genetic material, any differences that develop can usually be  _  to epigenetic factors. As twins age, their lifestyles often  _  in terms of diet, exercise, and stress exposure. These distinct experiences trigger chemical  _  that attach to their genes, effectively turning them on or off. Consequently, even though their genetic sequence remains  _  throughout their lives, the way their bodies function can become increasingly  _ ",
+    "transcript": "Identical twins offer a unique opportunity for researchers to examine the interaction between our DNA and the environment. Since these siblings share the exact same genetic material, any differences that develop can usually be _ attributed to epigenetic factors. As twins age, their lifestyles often _ diverge in terms of diet, exercise, and stress exposure. These distinct experiences trigger chemical _ modifications that attach to their genes, effectively turning them on or off. Consequently, even though their genetic sequence remains _ constant throughout their lives, the way their bodies function can become increasingly _ distinct",
+    "audio_text": "Identical twins offer a unique opportunity for researchers to examine the interaction between our DNA and the environment. Since these siblings share the exact same genetic material, any differences that develop can usually be _ attributed to epigenetic factors. As twins age, their lifestyles often _ diverge in terms of diet, exercise, and stress exposure. These distinct experiences trigger chemical _ modifications that attach to their genes, effectively turning them on or off. Consequently, even though their genetic sequence remains _ constant throughout their lives, the way their bodies function can become increasingly _ distinct",
+    "topic": "",
+    "source": "goarno.io",
+    "answer": [
+      "attributed",
+      "diverge",
+      "modifications",
+      "constant",
+      "distinct"
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lfib-43",
+    "taskType": "lst_fib",
+    "prompt": "You will hear a recording. Type the missing words in the gaps.",
+    "text": "One distinct feature of early Near Eastern society was the  _  of the cylinder seal. These small, carved stone objects were rolled across wet surfaces to create a  _  impression. Unlike a simple stamp, the rolling motion allowed for complex, narrative designs to be  _  indefinitely. Their primary function was to serve as a personal signature or mark of  _  securing doors, jars, and bundles of goods. As trade networks expanded, the intricate imagery on these seals became increasingly  _  acting almost like a visual identification card.",
+    "transcript": "One distinct feature of early Near Eastern society was the _ invention of the cylinder seal. These small, carved stone objects were rolled across wet surfaces to create a _ continuous impression. Unlike a simple stamp, the rolling motion allowed for complex, narrative designs to be _ repeated indefinitely. Their primary function was to serve as a personal signature or mark of _ ownership securing doors, jars, and bundles of goods. As trade networks expanded, the intricate imagery on these seals became increasingly _ sophisticated acting almost like a visual identification card.",
+    "audio_text": "One distinct feature of early Near Eastern society was the _ invention of the cylinder seal. These small, carved stone objects were rolled across wet surfaces to create a _ continuous impression. Unlike a simple stamp, the rolling motion allowed for complex, narrative designs to be _ repeated indefinitely. Their primary function was to serve as a personal signature or mark of _ ownership securing doors, jars, and bundles of goods. As trade networks expanded, the intricate imagery on these seals became increasingly _ sophisticated acting almost like a visual identification card.",
+    "topic": "",
+    "source": "goarno.io",
+    "answer": [
+      "invention",
+      "continuous",
+      "repeated",
+      "ownership",
+      "sophisticated"
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lfib-44",
+    "taskType": "lst_fib",
+    "prompt": "You will hear a recording. Type the missing words in the gaps.",
+    "text": "One of the most remarkable aspects of Mesopotamian civilization is the sheer volume of written records that have  _  to the present day. Unlike papyrus, which degrades relatively quickly in damp climates, the clay tablets used by Sumerian scribes were incredibly  _  especially when baked. This accidental preservation often occurred when libraries were burned down during  _  hardening the clay rather than destroying it. Consequently, archaeologists have  _  hundreds of thousands of documents ranging from administrative receipts to epic poetry. These artifacts provide an unparalleled window into the  _  and social complexities of the ancient world.",
+    "transcript": "One of the most remarkable aspects of Mesopotamian civilization is the sheer volume of written records that have _ survived to the present day. Unlike papyrus, which degrades relatively quickly in damp climates, the clay tablets used by Sumerian scribes were incredibly _ durable especially when baked. This accidental preservation often occurred when libraries were burned down during _ conflicts hardening the clay rather than destroying it. Consequently, archaeologists have _ recovered hundreds of thousands of documents ranging from administrative receipts to epic poetry. These artifacts provide an unparalleled window into the _ economic and social complexities of the ancient world.",
+    "audio_text": "One of the most remarkable aspects of Mesopotamian civilization is the sheer volume of written records that have _ survived to the present day. Unlike papyrus, which degrades relatively quickly in damp climates, the clay tablets used by Sumerian scribes were incredibly _ durable especially when baked. This accidental preservation often occurred when libraries were burned down during _ conflicts hardening the clay rather than destroying it. Consequently, archaeologists have _ recovered hundreds of thousands of documents ranging from administrative receipts to epic poetry. These artifacts provide an unparalleled window into the _ economic and social complexities of the ancient world.",
+    "topic": "",
+    "source": "goarno.io",
+    "answer": [
+      "survived",
+      "durable",
+      "conflicts",
+      "recovered",
+      "economic"
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lfib-45",
+    "taskType": "lst_fib",
+    "prompt": "You will hear a recording. Type the missing words in the gaps.",
+    "text": "In ancient Mesopotamia, the availability of specific resources dictated the evolution of their writing system. Scribes  _  the thick clay found along the riverbanks to fashion tablets, which served as their primary surface. Unlike the  _  materials used in other cultures, clay was remarkably durable once dried or baked. However, it required a specific approach; signs had to be  _  into the wet surface rather than sketched. By using a reed stylus with a triangular tip, writers created characteristic wedge shapes. This  _  eventually led to the stylized script known as Cuneiform, which became the  _  medium of communication for thousands of years.",
+    "transcript": "In ancient Mesopotamia, the availability of specific resources dictated the evolution of their writing system. Scribes _ utilized the thick clay found along the riverbanks to fashion tablets, which served as their primary surface. Unlike the _ perishable materials used in other cultures, clay was remarkably durable once dried or baked. However, it required a specific approach; signs had to be _ pressed into the wet surface rather than sketched. By using a reed stylus with a triangular tip, writers created characteristic wedge shapes. This _ constraint eventually led to the stylized script known as Cuneiform, which became the _ standard medium of communication for thousands of years.",
+    "audio_text": "In ancient Mesopotamia, the availability of specific resources dictated the evolution of their writing system. Scribes _ utilized the thick clay found along the riverbanks to fashion tablets, which served as their primary surface. Unlike the _ perishable materials used in other cultures, clay was remarkably durable once dried or baked. However, it required a specific approach; signs had to be _ pressed into the wet surface rather than sketched. By using a reed stylus with a triangular tip, writers created characteristic wedge shapes. This _ constraint eventually led to the stylized script known as Cuneiform, which became the _ standard medium of communication for thousands of years.",
+    "topic": "",
+    "source": "goarno.io",
+    "answer": [
+      "utilized",
+      "perishable",
+      "pressed",
+      "constraint",
+      "standard"
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lfib-46",
+    "taskType": "lst_fib",
+    "prompt": "You will hear a recording. Type the missing words in the gaps.",
+    "text": "The Silk Road was not a single thoroughfare but a complex  _  of trade routes connecting East and West. While silk was certainly the major  _  exchanged, the routes also facilitated the  _  of ideas, religions, and technologies. Merchants traveled in caravans for safety, often stopping at oasis cities that  _  due to this constant flow of travelers. Interestingly, few people traversed the entire length; instead, goods were handled in a  _  system, passing through many hands before reaching their final destination. This extensive interaction profoundly shaped the cultural  _  of the civilizations involved.",
+    "transcript": "The Silk Road was not a single thoroughfare but a complex _ network of trade routes connecting East and West. While silk was certainly the major _ commodity exchanged, the routes also facilitated the _ transmission of ideas, religions, and technologies. Merchants traveled in caravans for safety, often stopping at oasis cities that _ flourished due to this constant flow of travelers. Interestingly, few people traversed the entire length; instead, goods were handled in a _ relay system, passing through many hands before reaching their final destination. This extensive interaction profoundly shaped the cultural _ landscapes of the civilizations involved.",
+    "audio_text": "The Silk Road was not a single thoroughfare but a complex _ network of trade routes connecting East and West. While silk was certainly the major _ commodity exchanged, the routes also facilitated the _ transmission of ideas, religions, and technologies. Merchants traveled in caravans for safety, often stopping at oasis cities that _ flourished due to this constant flow of travelers. Interestingly, few people traversed the entire length; instead, goods were handled in a _ relay system, passing through many hands before reaching their final destination. This extensive interaction profoundly shaped the cultural _ landscapes of the civilizations involved.",
+    "topic": "",
+    "source": "goarno.io",
+    "answer": [
+      "network",
+      "commodity",
+      "transmission",
+      "flourished",
+      "relay",
+      "landscapes"
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lfib-47",
+    "taskType": "lst_fib",
+    "prompt": "You will hear a recording. Type the missing words in the gaps.",
+    "text": "One of the defining features of Mesopotamian culture is the medium used for record-keeping. While other civilizations relied on  _  materials like papyrus, the Mesopotamians  _  their signs onto wet clay. This choice has proven incredibly  _  over millennia. Ironically, many ancient  _  survive today precisely because they were subjected to fires that destroyed the cities around them. The heat baked the clay into a permanent ceramic form, preserving everything from royal decrees to ordinary business  _  for modern archaeologists to study.",
+    "transcript": "One of the defining features of Mesopotamian culture is the medium used for record-keeping. While other civilizations relied on _ perishable materials like papyrus, the Mesopotamians _ inscribed their signs onto wet clay. This choice has proven incredibly _ durable over millennia. Ironically, many ancient _ archives survive today precisely because they were subjected to fires that destroyed the cities around them. The heat baked the clay into a permanent ceramic form, preserving everything from royal decrees to ordinary business _ transactions for modern archaeologists to study.",
+    "audio_text": "One of the defining features of Mesopotamian culture is the medium used for record-keeping. While other civilizations relied on _ perishable materials like papyrus, the Mesopotamians _ inscribed their signs onto wet clay. This choice has proven incredibly _ durable over millennia. Ironically, many ancient _ archives survive today precisely because they were subjected to fires that destroyed the cities around them. The heat baked the clay into a permanent ceramic form, preserving everything from royal decrees to ordinary business _ transactions for modern archaeologists to study.",
+    "topic": "",
+    "source": "goarno.io",
+    "answer": [
+      "perishable",
+      "inscribed",
+      "durable",
+      "archives",
+      "transactions"
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lfib-48",
+    "taskType": "lst_fib",
+    "prompt": "You will hear a recording. Type the missing words in the gaps.",
+    "text": "Volcanic eruptions are often viewed as localized disasters, yet their atmospheric consequences can be global. A critical issue is the  _  of volcanic ash, which consists of tiny, jagged particles of rock and glass. This material represents a substantial hazard to aviation, as the  _  dust can damage flight control systems and cause engine  _  Beyond immediate safety risks, suspended ash reflects solar radiation, potentially  _  global weather patterns. Researchers utilize satellite data to predict the movement of these clouds, ensuring that air traffic can be diverted in time to avoid  _  encounters.",
+    "transcript": "Volcanic eruptions are often viewed as localized disasters, yet their atmospheric consequences can be global. A critical issue is the _ dispersion of volcanic ash, which consists of tiny, jagged particles of rock and glass. This material represents a substantial hazard to aviation, as the _ abrasive dust can damage flight control systems and cause engine _ failure Beyond immediate safety risks, suspended ash reflects solar radiation, potentially _ altering global weather patterns. Researchers utilize satellite data to predict the movement of these clouds, ensuring that air traffic can be diverted in time to avoid _ catastrophic encounters.",
+    "audio_text": "Volcanic eruptions are often viewed as localized disasters, yet their atmospheric consequences can be global. A critical issue is the _ dispersion of volcanic ash, which consists of tiny, jagged particles of rock and glass. This material represents a substantial hazard to aviation, as the _ abrasive dust can damage flight control systems and cause engine _ failure Beyond immediate safety risks, suspended ash reflects solar radiation, potentially _ altering global weather patterns. Researchers utilize satellite data to predict the movement of these clouds, ensuring that air traffic can be diverted in time to avoid _ catastrophic encounters.",
+    "topic": "",
+    "source": "goarno.io",
+    "answer": [
+      "dispersion",
+      "abrasive",
+      "failure",
+      "altering",
+      "catastrophic"
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lfib-49",
+    "taskType": "lst_fib",
+    "prompt": "You will hear a recording. Type the missing words in the gaps.",
+    "text": "The emerging field of nutrigenomics explores the complex relationship between our diet and our genome. It suggests that food is not merely a source of caloric energy but acts as a biological  _  that can influence our long-term health. Unlike traditional views where food simply fuels the body, this science posits that specific nutrients have the capacity to  _  switches in our DNA. This mechanism could be pivotal in reducing the risk of  _  diseases such as diabetes. Consequently, understanding this connection allows for  _  dietary recommendations, effectively moving away from a generic, one-size-fits-all approach to modern  _ .",
+    "transcript": "The emerging field of nutrigenomics explores the complex relationship between our diet and our genome. It suggests that food is not merely a source of caloric energy but acts as a biological _ signal that can influence our long-term health. Unlike traditional views where food simply fuels the body, this science posits that specific nutrients have the capacity to _ trigger switches in our DNA. This mechanism could be pivotal in reducing the risk of _ chronic diseases such as diabetes. Consequently, understanding this connection allows for _ personalized dietary recommendations, effectively moving away from a generic, one-size-fits-all approach to modern _ nutrition.",
+    "audio_text": "The emerging field of nutrigenomics explores the complex relationship between our diet and our genome. It suggests that food is not merely a source of caloric energy but acts as a biological _ signal that can influence our long-term health. Unlike traditional views where food simply fuels the body, this science posits that specific nutrients have the capacity to _ trigger switches in our DNA. This mechanism could be pivotal in reducing the risk of _ chronic diseases such as diabetes. Consequently, understanding this connection allows for _ personalized dietary recommendations, effectively moving away from a generic, one-size-fits-all approach to modern _ nutrition.",
+    "topic": "",
+    "source": "goarno.io",
+    "answer": [
+      "signal",
+      "trigger",
+      "chronic",
+      "personalized",
+      "nutrition"
+    ],
+    "explanation": "",
+    "trap": ""
+  },
+  {
+    "id": "goarno-lfib-50",
+    "taskType": "lst_fib",
+    "prompt": "You will hear a recording. Type the missing words in the gaps.",
+    "text": "Honeybees  _  remarkable navigational skills when foraging for nectar. Upon returning to the hive, a scout bee performs a  _  series of movements known as the waggle dance. This behavior  _  both the distance and the direction of a food source to the rest of the colony. The angle of the dance  _  with the position of the sun, providing precise coordinates for other bees to follow. However, recent studies indicate that pesticides may impair their cognitive functions, making it difficult for them to  _  these instructions effectively.",
+    "transcript": "Honeybees _ demonstrate remarkable navigational skills when foraging for nectar. Upon returning to the hive, a scout bee performs a _ complex series of movements known as the waggle dance. This behavior _ communicates both the distance and the direction of a food source to the rest of the colony. The angle of the dance _ correlates with the position of the sun, providing precise coordinates for other bees to follow. However, recent studies indicate that pesticides may impair their cognitive functions, making it difficult for them to _ interpret these instructions effectively.",
+    "audio_text": "Honeybees _ demonstrate remarkable navigational skills when foraging for nectar. Upon returning to the hive, a scout bee performs a _ complex series of movements known as the waggle dance. This behavior _ communicates both the distance and the direction of a food source to the rest of the colony. The angle of the dance _ correlates with the position of the sun, providing precise coordinates for other bees to follow. However, recent studies indicate that pesticides may impair their cognitive functions, making it difficult for them to _ interpret these instructions effectively.",
+    "topic": "",
+    "source": "goarno.io",
+    "answer": [
+      "demonstrate",
+      "complex",
+      "communicates",
+      "correlates",
+      "interpret"
+    ],
+    "explanation": "",
+    "trap": ""
+  }
+]

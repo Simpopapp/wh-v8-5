@@ -1,0 +1,4 @@
+# Roadmap — S3 Sessão + Simulado
+
+Fase A — Auditoria: mapear session.tsx (3 estados, barra ad-hoc, ScorePanel), exam.tsx (modalidade, runner, cronômetro), ProgressRing. Gates: relatório com arquivo:linha.
+Fase B — Especificação: redesign dos 3 estados da sessão + seletor/stepper do simulado. Gates: spec por estado, riscos de teste (D9) listados.

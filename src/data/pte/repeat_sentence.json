@@ -1,0 +1,4221 @@
+{
+  "type": "repeat_sentence",
+  "task_type": "Repeat Sentence",
+  "section": "speaking",
+  "total": 586,
+  "generated_at": "2026-10-05",
+  "questions": [
+    {
+      "id": "pte-rs-255d8c3e",
+      "answer": "We are changing classroom because this one is too small.",
+      "source": "pte2-prediction",
+      "word_count": 10,
+      "exam_frequency": 3
+    },
+    {
+      "id": "pte-rs-8e2616d7",
+      "answer": "The lecture \"management in Japan\" will take place in week 7.",
+      "source": "pte2-prediction",
+      "word_count": 11,
+      "exam_frequency": 3
+    },
+    {
+      "id": "pte-rs-daf596cb",
+      "answer": "We have been doing research in that area for probably over 25 years.",
+      "source": "pte2-prediction",
+      "word_count": 13,
+      "exam_frequency": 3
+    },
+    {
+      "id": "pte-rs-5aafa7c0",
+      "answer": "Student loans are now available for international students.",
+      "source": "pte2-prediction",
+      "word_count": 8,
+      "exam_frequency": 3
+    },
+    {
+      "id": "pte-rs-9153643a",
+      "answer": "Students are not allowed to take the journey out of the library.",
+      "source": "pte2-prediction",
+      "word_count": 12,
+      "exam_frequency": 3
+    },
+    {
+      "id": "pte-rs-4a284cc8",
+      "answer": "The English word \"Typhoon\" comes from the Chinese for big wind.",
+      "source": "pte2-prediction",
+      "word_count": 11,
+      "exam_frequency": 3
+    },
+    {
+      "id": "pte-rs-6cb3df0b",
+      "answer": "We know quite a bit about stress and susceptibility to infection.",
+      "source": "pte2-prediction",
+      "word_count": 11,
+      "difficulty": "hard",
+      "exam_frequency": 3
+    },
+    {
+      "id": "pte-rs-c26c5de3",
+      "answer": "Whether this submission was deliberate and inadvertent was impossible to know.",
+      "source": "pte2-prediction",
+      "word_count": 11,
+      "difficulty": "hard",
+      "exam_frequency": 3
+    },
+    {
+      "id": "pte-rs-1bc69479",
+      "answer": "We are aware of that Global business demand ever-growing skill sets.",
+      "source": "pte2-prediction",
+      "word_count": 11,
+      "difficulty": "medium",
+      "exam_frequency": 3
+    },
+    {
+      "id": "pte-rs-5f43cb2d",
+      "answer": "You need to finish reading the chapter before you go on the field trip.",
+      "source": "pte2-prediction",
+      "word_count": 14,
+      "exam_frequency": 3
+    },
+    {
+      "id": "pte-rs-384e2080",
+      "answer": "Interpreters are not readily available in this department.",
+      "source": "pte2-prediction",
+      "word_count": 8,
+      "exam_frequency": 3
+    },
+    {
+      "id": "pte-rs-e4df211d",
+      "answer": "Scientist is getting hard to get access to this question.",
+      "source": "pte2-prediction",
+      "word_count": 10,
+      "difficulty": "medium",
+      "exam_frequency": 3
+    },
+    {
+      "id": "pte-rs-f86c5f32",
+      "answer": "Despite the temperature the sky is clear and blue.",
+      "source": "pte2-prediction",
+      "word_count": 9,
+      "exam_frequency": 3
+    },
+    {
+      "id": "pte-rs-11d54588",
+      "answer": "Your tutor is very helpful, please do ask if you don't understand the question.",
+      "source": "pte2-prediction",
+      "word_count": 14,
+      "exam_frequency": 3
+    },
+    {
+      "id": "pte-rs-65c9d3dd",
+      "answer": "I need time to get the answer from this textbook.",
+      "source": "pte2-prediction",
+      "word_count": 10,
+      "exam_frequency": 3
+    },
+    {
+      "id": "pte-rs-41f209ab",
+      "answer": "Many health workers think that patients are to old to learn and understand.",
+      "source": "pte2-prediction",
+      "word_count": 13,
+      "difficulty": "medium",
+      "exam_frequency": 3
+    },
+    {
+      "id": "pte-rs-fd0b5001",
+      "answer": "Several copies must be supplies to the university to fulfill the degree's requirement.",
+      "source": "pte2-prediction",
+      "word_count": 13,
+      "difficulty": "medium",
+      "exam_frequency": 3
+    },
+    {
+      "id": "pte-rs-b759edaa",
+      "answer": "Environment friendliness is a new category in which the campuses are competing.",
+      "source": "pte2-prediction",
+      "word_count": 12,
+      "difficulty": "hard",
+      "exam_frequency": 3
+    },
+    {
+      "id": "pte-rs-d69ce601",
+      "answer": "It is my first try i hope it goes well.",
+      "source": "pte2-prediction",
+      "word_count": 10,
+      "exam_frequency": 3
+    },
+    {
+      "id": "pte-rs-2a5ea973",
+      "answer": "The first person to spaces was from the Soviet Union.",
+      "source": "pte2-prediction",
+      "word_count": 10,
+      "exam_frequency": 3
+    },
+    {
+      "id": "pte-rs-b9d548e3",
+      "answer": "The deadline for any essays is tomorrow.",
+      "source": "pte2-prediction",
+      "word_count": 7,
+      "exam_frequency": 3
+    },
+    {
+      "id": "pte-rs-7e39d8cc",
+      "answer": "In the past, people ate very different foods.",
+      "source": "pte2-prediction",
+      "word_count": 8,
+      "exam_frequency": 3
+    },
+    {
+      "id": "pte-rs-be28c667",
+      "answer": "The university charges fine for overdue books but you can renew over the phone.",
+      "source": "pte2-prediction",
+      "word_count": 14,
+      "difficulty": "hard",
+      "exam_frequency": 3
+    },
+    {
+      "id": "pte-rs-1eaf192f",
+      "answer": "I can give you a hand if you need some help in finding a flat.",
+      "source": "pte2-prediction",
+      "word_count": 15,
+      "exam_frequency": 3
+    },
+    {
+      "id": "pte-rs-f823bfea",
+      "answer": "It is not necessary to elaborate the conversion in the lab material.",
+      "source": "pte2-prediction",
+      "word_count": 12,
+      "difficulty": "medium",
+      "exam_frequency": 3
+    },
+    {
+      "id": "pte-rs-cf4748d6",
+      "answer": "The agriculture sector in the country is heavily subsidized.",
+      "source": "pte2-prediction",
+      "word_count": 9,
+      "exam_frequency": 3
+    },
+    {
+      "id": "pte-rs-6d5390e8",
+      "answer": "The United Kingdoms is constitutional monarchy and parliamentary democracy.",
+      "source": "pte2-prediction",
+      "word_count": 9,
+      "difficulty": "hard",
+      "exam_frequency": 3
+    },
+    {
+      "id": "pte-rs-b6dbfb6a",
+      "answer": "I wasn't able to attention the tutorial because I have a doctor's appointment.",
+      "source": "pte2-prediction",
+      "word_count": 13,
+      "difficulty": "medium",
+      "exam_frequency": 3
+    },
+    {
+      "id": "pte-rs-a0450fab",
+      "answer": "It now acknowledge that his work was ground-breaking.",
+      "source": "pte2-prediction",
+      "word_count": 8,
+      "difficulty": "hard",
+      "exam_frequency": 3
+    },
+    {
+      "id": "pte-rs-8cfcfd07",
+      "answer": "I'll be in my office every day from eleven twelve.",
+      "source": "pte2-prediction",
+      "word_count": 10,
+      "difficulty": "hard",
+      "exam_frequency": 3
+    },
+    {
+      "id": "pte-rs-1cec190b",
+      "answer": "Students might drop or add courses online during registration week.",
+      "source": "pte2-prediction",
+      "word_count": 10,
+      "difficulty": "hard",
+      "exam_frequency": 3
+    },
+    {
+      "id": "pte-rs-c4f5f276",
+      "answer": "The key to doing well on the exam is to study hard and well.",
+      "source": "pte2-prediction",
+      "word_count": 14,
+      "exam_frequency": 3
+    },
+    {
+      "id": "pte-rs-6a3e5a9f",
+      "answer": "The full bibliography is needed at the end of all assignments.",
+      "source": "pte2-prediction",
+      "word_count": 11,
+      "difficulty": "hard",
+      "exam_frequency": 3
+    },
+    {
+      "id": "pte-rs-3c5ff347",
+      "answer": "City living in the 21st century is increasingly stressful.",
+      "source": "pte2-prediction",
+      "word_count": 9,
+      "difficulty": "medium",
+      "exam_frequency": 3
+    },
+    {
+      "id": "pte-rs-5432224e",
+      "answer": "The professor has promised to put his notes online.",
+      "source": "pte2-prediction",
+      "word_count": 9,
+      "exam_frequency": 3
+    },
+    {
+      "id": "pte-rs-c0f11416",
+      "answer": "Student will be able to enrol for courses staring this week.",
+      "source": "pte2-prediction",
+      "word_count": 11,
+      "exam_frequency": 3
+    },
+    {
+      "id": "pte-rs-a9dd85d2",
+      "answer": "Much of the evidence used has only recently become available.",
+      "source": "pte2-prediction",
+      "word_count": 10,
+      "difficulty": "hard",
+      "exam_frequency": 3
+    },
+    {
+      "id": "pte-rs-33554d79",
+      "answer": "The three central species of evidence seem to correlate significantly.",
+      "source": "pte2-prediction",
+      "word_count": 10,
+      "difficulty": "hard",
+      "exam_frequency": 3
+    },
+    {
+      "id": "pte-rs-b188aa60",
+      "answer": "Today no rigorous evaluations of demerits of the approach have been undertaken.",
+      "source": "pte2-prediction",
+      "word_count": 12,
+      "difficulty": "hard",
+      "exam_frequency": 3
+    },
+    {
+      "id": "pte-rs-5e123a16",
+      "answer": "By logging into the website, you read all terms and condition regarding your enrolment.",
+      "source": "pte2-prediction",
+      "word_count": 14,
+      "difficulty": "medium",
+      "exam_frequency": 3
+    },
+    {
+      "id": "pte-rs-29924f96",
+      "answer": "The head of department isn't available till Thursday.",
+      "source": "pte2-prediction",
+      "word_count": 8,
+      "difficulty": "medium",
+      "exam_frequency": 3
+    },
+    {
+      "id": "pte-rs-64061a81",
+      "answer": "Usually a sound essay covers three to five main points.",
+      "source": "pte2-prediction",
+      "word_count": 10,
+      "exam_frequency": 3
+    },
+    {
+      "id": "pte-rs-7c3a886b",
+      "answer": "To be effective, all students must participate in the exercise.",
+      "source": "pte2-prediction",
+      "word_count": 10,
+      "difficulty": "medium",
+      "exam_frequency": 3
+    },
+    {
+      "id": "pte-rs-dab21b5b",
+      "answer": "To measure a distance, it can easily take as much as three weeks.",
+      "source": "pte2-prediction",
+      "word_count": 13,
+      "difficulty": "medium",
+      "exam_frequency": 3
+    },
+    {
+      "id": "pte-rs-73cd6070",
+      "answer": "Organic food is produced without chemicals and process without additives.",
+      "source": "pte2-prediction",
+      "word_count": 10,
+      "difficulty": "medium",
+      "exam_frequency": 3
+    },
+    {
+      "id": "pte-rs-e40e624f",
+      "answer": "Higher fees cause student look more critically of what university offer.",
+      "source": "pte2-prediction",
+      "word_count": 11,
+      "difficulty": "hard",
+      "exam_frequency": 3
+    },
+    {
+      "id": "pte-rs-6fcafce9",
+      "answer": "Music department staff are available to assist with scholarship applications.",
+      "source": "pte2-prediction",
+      "word_count": 10,
+      "difficulty": "medium",
+      "exam_frequency": 3
+    },
+    {
+      "id": "pte-rs-ebc6eff3",
+      "answer": "Student will not be given credit for work handed in after the due day.",
+      "source": "pte2-prediction",
+      "word_count": 14,
+      "difficulty": "hard",
+      "exam_frequency": 3
+    },
+    {
+      "id": "pte-rs-c462d854",
+      "answer": "The topic of next week's colloquium will be nuclear disarmament.",
+      "source": "pte2-prediction",
+      "word_count": 10,
+      "difficulty": "hard",
+      "exam_frequency": 3
+    },
+    {
+      "id": "pte-rs-14b22fc3",
+      "answer": "Application for all campus housing are due in the office on Monday.",
+      "source": "pte2-prediction",
+      "word_count": 12,
+      "difficulty": "hard",
+      "exam_frequency": 3
+    },
+    {
+      "id": "pte-rs-bc3ff9dd",
+      "answer": "Application forms must be completed by the end of term.",
+      "source": "pte2-prediction",
+      "word_count": 10,
+      "exam_frequency": 3
+    },
+    {
+      "id": "pte-rs-5cabecd6",
+      "answer": "Their program depends entirely on private funding.",
+      "source": "pte2-prediction",
+      "word_count": 7,
+      "exam_frequency": 3
+    },
+    {
+      "id": "pte-rs-161459ca",
+      "answer": "You can download all lecture handouts from the course website.",
+      "source": "pte2-prediction",
+      "word_count": 10,
+      "exam_frequency": 3
+    },
+    {
+      "id": "pte-rs-a2719097",
+      "answer": "Collective research contributed to confirm the most important hypothesis.",
+      "source": "pte2-prediction",
+      "word_count": 9,
+      "difficulty": "medium",
+      "exam_frequency": 3
+    },
+    {
+      "id": "pte-rs-eaf3c1ef",
+      "answer": "The psychology department is looking for volunteers to be involved in research projects.",
+      "source": "pte2-prediction",
+      "word_count": 13,
+      "difficulty": "medium",
+      "exam_frequency": 3
+    },
+    {
+      "id": "pte-rs-f94c4a89",
+      "answer": "A clear synopsis can concisely cover the key arguments of an essay.",
+      "source": "pte2-prediction",
+      "word_count": 12,
+      "difficulty": "hard",
+      "exam_frequency": 3
+    },
+    {
+      "id": "pte-rs-c40ad44e",
+      "answer": "Most of copy machines may be used by the teaching assistant.",
+      "source": "pte2-prediction",
+      "word_count": 11,
+      "difficulty": "hard",
+      "exam_frequency": 3
+    },
+    {
+      "id": "pte-rs-7ccf9c05",
+      "answer": "We are delighted to have Professor Robert join our faculty.",
+      "source": "pte2-prediction",
+      "word_count": 10,
+      "exam_frequency": 3
+    },
+    {
+      "id": "pte-rs-022b91f5",
+      "answer": "Most students have the opportunity to share a common lunch break around noon.",
+      "source": "pte2-prediction",
+      "word_count": 13,
+      "difficulty": "hard",
+      "exam_frequency": 3
+    },
+    {
+      "id": "pte-rs-c954f7dc",
+      "answer": "Evidence is necessary to prove that an experiment have been susceptible.",
+      "source": "pte2-prediction",
+      "word_count": 11,
+      "difficulty": "medium",
+      "exam_frequency": 3
+    },
+    {
+      "id": "pte-rs-776ae7fc",
+      "answer": "The hypothesis needs to be tested in more rigorous way.",
+      "source": "pte2-prediction",
+      "word_count": 10,
+      "difficulty": "medium",
+      "exam_frequency": 2
+    },
+    {
+      "id": "pte-rs-4ff15127",
+      "answer": "Developments in information technology have greatly changed the way people work.",
+      "source": "pte2-prediction",
+      "word_count": 11,
+      "exam_frequency": 2
+    },
+    {
+      "id": "pte-rs-c94f7076",
+      "answer": "Wireless internet has revolutionized the way business communications occur.",
+      "source": "pte2-prediction",
+      "word_count": 9,
+      "difficulty": "medium",
+      "exam_frequency": 2
+    },
+    {
+      "id": "pte-rs-0abc40f3",
+      "answer": "The chancellor send invitations to the founders' reception.",
+      "source": "pte2-prediction",
+      "word_count": 8,
+      "difficulty": "medium",
+      "exam_frequency": 2
+    },
+    {
+      "id": "pte-rs-39922e0b",
+      "answer": "This is not a complete list of institutions that grant post-secondary-degree.",
+      "source": "pte2-prediction",
+      "word_count": 11,
+      "difficulty": "hard",
+      "exam_frequency": 2
+    },
+    {
+      "id": "pte-rs-1060926c",
+      "answer": "You can find the student service center on level 1 of home building.",
+      "source": "pte2-prediction",
+      "word_count": 13,
+      "exam_frequency": 2
+    },
+    {
+      "id": "pte-rs-588902ce",
+      "answer": "Basketball was created in 1891 by a physician and a physical instructor.",
+      "source": "pte2-prediction",
+      "word_count": 12,
+      "difficulty": "hard",
+      "exam_frequency": 2
+    },
+    {
+      "id": "pte-rs-371b92b8",
+      "answer": "History is not a simple collection of dates and events.",
+      "source": "pte2-prediction",
+      "word_count": 10,
+      "exam_frequency": 2
+    },
+    {
+      "id": "pte-rs-39695186",
+      "answer": "The new timetable will be posted on the website before classes start.",
+      "source": "pte2-prediction",
+      "word_count": 12,
+      "exam_frequency": 2
+    },
+    {
+      "id": "pte-rs-98f18235",
+      "answer": "It is not necessary to elaborate on the exact composition of the material.",
+      "source": "pte2-prediction",
+      "word_count": 13,
+      "difficulty": "medium",
+      "exam_frequency": 2
+    },
+    {
+      "id": "pte-rs-387e2483",
+      "answer": "Registration of mechanical engineering module start in the next semester.",
+      "source": "pte2-prediction",
+      "word_count": 10,
+      "difficulty": "hard",
+      "exam_frequency": 2
+    },
+    {
+      "id": "pte-rs-cb0afeac",
+      "answer": "Application for internship opportunities are available in the office.",
+      "source": "pte2-prediction",
+      "word_count": 9,
+      "exam_frequency": 2
+    },
+    {
+      "id": "pte-rs-38c6e6de",
+      "answer": "This presents an opportunity to collaborate with scholars from different disciplines.",
+      "source": "pte2-prediction",
+      "word_count": 11,
+      "difficulty": "hard",
+      "exam_frequency": 2
+    },
+    {
+      "id": "pte-rs-804869ef",
+      "answer": "The result will be available in the main quad and online.",
+      "source": "pte2-prediction",
+      "word_count": 11,
+      "difficulty": "medium",
+      "exam_frequency": 2
+    },
+    {
+      "id": "pte-rs-ba394e23",
+      "answer": "I'm so glad you got here safely.",
+      "source": "pte2-prediction",
+      "word_count": 7,
+      "exam_frequency": 2
+    },
+    {
+      "id": "pte-rs-d68c252c",
+      "answer": "You need to be careful when quoting internet sources.",
+      "source": "pte2-prediction",
+      "word_count": 9,
+      "exam_frequency": 2
+    },
+    {
+      "id": "pte-rs-c45eca05",
+      "answer": "We must hand in our assignments by the end of the week.",
+      "source": "pte2-prediction",
+      "word_count": 12,
+      "difficulty": "medium",
+      "exam_frequency": 2
+    },
+    {
+      "id": "pte-rs-12511c5b",
+      "answer": "But the evidence supporting this theory is largely anecdotal.",
+      "source": "pte2-prediction",
+      "word_count": 9,
+      "difficulty": "hard",
+      "exam_frequency": 2
+    },
+    {
+      "id": "pte-rs-ba77a2e9",
+      "answer": "I need more quotations to back up my argument.",
+      "source": "pte2-prediction",
+      "word_count": 9,
+      "exam_frequency": 2
+    },
+    {
+      "id": "pte-rs-ff41a6cd",
+      "answer": "You will need a Bunsen burner and tissue.",
+      "source": "pte2-prediction",
+      "word_count": 8,
+      "difficulty": "hard",
+      "exam_frequency": 2
+    },
+    {
+      "id": "pte-rs-5120f5af",
+      "answer": "The examples of the theory of social capital were challenged to grasp.",
+      "source": "pte2-prediction",
+      "word_count": 12,
+      "difficulty": "hard",
+      "exam_frequency": 2
+    },
+    {
+      "id": "pte-rs-0bb2df31",
+      "answer": "I usually have milk and sugar with my coffee.",
+      "source": "pte2-prediction",
+      "word_count": 9,
+      "exam_frequency": 2
+    },
+    {
+      "id": "pte-rs-ee0daf1a",
+      "answer": "Graphs representing northern and southern industrial production show significant differences.",
+      "source": "pte2-prediction",
+      "word_count": 10,
+      "difficulty": "hard",
+      "exam_frequency": 2
+    },
+    {
+      "id": "pte-rs-3b4817e3",
+      "answer": "In English the months of the year are always capitalised.",
+      "source": "pte2-prediction",
+      "word_count": 10,
+      "exam_frequency": 2
+    },
+    {
+      "id": "pte-rs-59aad73e",
+      "answer": "The preliminary bibliography will be due in the week before Spring break.",
+      "source": "pte2-prediction",
+      "word_count": 12,
+      "difficulty": "hard",
+      "exam_frequency": 2
+    },
+    {
+      "id": "pte-rs-8dc4aeb1",
+      "answer": "Please be careful when using online translating programs.",
+      "source": "pte2-prediction",
+      "word_count": 8,
+      "exam_frequency": 2
+    },
+    {
+      "id": "pte-rs-ecd3b833",
+      "answer": "The old equipment is around the back of the building.",
+      "source": "pte2-prediction",
+      "word_count": 10,
+      "difficulty": "medium",
+      "exam_frequency": 2
+    },
+    {
+      "id": "pte-rs-2bc2b213",
+      "answer": "There will be no classes schedule during exam week.",
+      "source": "pte2-prediction",
+      "word_count": 9,
+      "difficulty": "hard",
+      "exam_frequency": 2
+    },
+    {
+      "id": "pte-rs-8dd8d5dc",
+      "answer": "She told me that faculty has been very supportive.",
+      "source": "pte2-prediction",
+      "word_count": 9,
+      "difficulty": "medium",
+      "exam_frequency": 2
+    },
+    {
+      "id": "pte-rs-e04d9b96",
+      "answer": "To contact the education faculty, call the secretary on extension 401.",
+      "source": "pte2-prediction",
+      "word_count": 11,
+      "difficulty": "hard",
+      "exam_frequency": 2
+    },
+    {
+      "id": "pte-rs-6d1eea4d",
+      "answer": "A census is an aggregation of demographics.",
+      "source": "pte2-prediction",
+      "word_count": 7,
+      "difficulty": "hard",
+      "exam_frequency": 2
+    },
+    {
+      "id": "pte-rs-a4fe57db",
+      "answer": "Contemporary critics dismissed his ideas as eccentric.",
+      "source": "pte2-prediction",
+      "word_count": 7,
+      "difficulty": "hard",
+      "exam_frequency": 2
+    },
+    {
+      "id": "pte-rs-4f8fd97d",
+      "answer": "We can discuss your essay in our tutorial next week.",
+      "source": "pte2-prediction",
+      "word_count": 10,
+      "exam_frequency": 2
+    },
+    {
+      "id": "pte-rs-411c47b5",
+      "answer": "She's a specialist in 18th-century French literature.",
+      "source": "pte2-prediction",
+      "word_count": 7,
+      "difficulty": "hard",
+      "exam_frequency": 2
+    },
+    {
+      "id": "pte-rs-0f043e17",
+      "answer": "I was overwhelmed with too much irrelevant information.",
+      "source": "pte2-prediction",
+      "word_count": 8,
+      "difficulty": "medium",
+      "exam_frequency": 2
+    },
+    {
+      "id": "pte-rs-e662259e",
+      "answer": "He is almost never in his office.",
+      "source": "pte2-prediction",
+      "word_count": 7,
+      "exam_frequency": 2
+    },
+    {
+      "id": "pte-rs-640cf0f0",
+      "answer": "You should inquire about direct deposit.",
+      "source": "pte2-prediction",
+      "word_count": 6,
+      "exam_frequency": 2
+    },
+    {
+      "id": "pte-rs-7073e2cd",
+      "answer": "It can be quite difficult to tease these things apart.",
+      "source": "pte2-prediction",
+      "word_count": 10,
+      "difficulty": "hard",
+      "exam_frequency": 2
+    },
+    {
+      "id": "pte-rs-8866c84a",
+      "answer": "The counselling search and work conflict with prime personal commitment.",
+      "source": "pte2-prediction",
+      "word_count": 10,
+      "difficulty": "hard",
+      "exam_frequency": 2
+    },
+    {
+      "id": "pte-rs-b40a70ec",
+      "answer": "Art is influenced by political events and ideas and its time period.",
+      "source": "pte2-prediction",
+      "word_count": 12,
+      "difficulty": "hard",
+      "exam_frequency": 2
+    },
+    {
+      "id": "pte-rs-fe326c68",
+      "answer": "General biology tech is located in the north wing of a library stack.",
+      "source": "pte2-prediction",
+      "word_count": 13,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-2f937861",
+      "answer": "The wheelchair lift has been upgraded in this month.",
+      "source": "pte2-prediction",
+      "word_count": 9,
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-6dfe677b",
+      "answer": "You should raise your concerns with the head of school.",
+      "source": "pte2-prediction",
+      "word_count": 10,
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-11a2e336",
+      "answer": "When I study, I underline all the main points in my notes.",
+      "source": "pte2-prediction",
+      "word_count": 12,
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-29cdc7e0",
+      "answer": "Our school of art and technology accepts applications at all points during the year.",
+      "source": "pte2-prediction",
+      "word_count": 14,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-4655549d",
+      "answer": "Before we finish the topic, I need your help.",
+      "source": "pte2-prediction",
+      "word_count": 9,
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-71302c89",
+      "answer": "The university health center is in the West End.",
+      "source": "pte2-prediction",
+      "word_count": 9,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-b419e93e",
+      "answer": "I have received the essay topic for the second year students.",
+      "source": "pte2-prediction",
+      "word_count": 11,
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-a264e8f1",
+      "answer": "The mock trail aims to increase interest in the law and the judicial process.",
+      "source": "pte2-prediction",
+      "word_count": 14,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-4501a2b2",
+      "answer": "There won't be enough space for me in the car.",
+      "source": "pte2-prediction",
+      "word_count": 10,
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-158e89e5",
+      "answer": "The university will celebrate the Earth Day by planting trees.",
+      "source": "pte2-prediction",
+      "word_count": 10,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-1e2448fa",
+      "answer": "Please take these up to Mr. Mitchell in the chemistry lab.",
+      "source": "pte2-prediction",
+      "word_count": 11,
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-2d1180f6",
+      "answer": "Don't forget to hand in your assignments by the end of next week.",
+      "source": "pte2-prediction",
+      "word_count": 13,
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-853ca80e",
+      "answer": "They both have enough work to keep them going.",
+      "source": "pte2-prediction",
+      "word_count": 9,
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-36ad1983",
+      "answer": "Let's move on to look at the reactions to this research.",
+      "source": "pte2-prediction",
+      "word_count": 11,
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-01681453",
+      "answer": "Resident hall is closed prior to academic building closing at the end of this semester.",
+      "source": "pte2-prediction",
+      "word_count": 15,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-7715a776",
+      "answer": "Critical literary theory seeks to broaden understanding through interpretation.",
+      "source": "pte2-prediction",
+      "word_count": 9,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-2a368cc8",
+      "answer": "There are a range of healthy options at the university.",
+      "source": "pte2-prediction",
+      "word_count": 10,
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-de2bc638",
+      "answer": "Companies exist to make money not to change society.",
+      "source": "pte2-prediction",
+      "word_count": 9,
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-fb6d8d9e",
+      "answer": "If you forgot the student number, make contact Jenny Price.",
+      "source": "pte2-prediction",
+      "word_count": 10,
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-ed5ec59b",
+      "answer": "He does not care about anything, but when is onus the child.",
+      "source": "pte2-prediction",
+      "word_count": 12,
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-6bb8df09",
+      "answer": "Our study investigated the die of selective species of butterflies.",
+      "source": "pte2-prediction",
+      "word_count": 10,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-9c7ed29b",
+      "answer": "The database provides a vast array of materials to supplement the reading list.",
+      "source": "pte2-prediction",
+      "word_count": 13,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-0804df51",
+      "answer": "College welcomes postgraduate students from all over the world.",
+      "source": "pte2-prediction",
+      "word_count": 9,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-29805ccc",
+      "answer": "In the seminar, I want you to give a summary of the topic.",
+      "source": "pte2-prediction",
+      "word_count": 13,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-35b9b1a9",
+      "answer": "More women than men graduated from the university last year.",
+      "source": "pte2-prediction",
+      "word_count": 10,
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-260e5bee",
+      "answer": "Despite worries of security, banking online's become more and more popular.",
+      "source": "pte2-prediction",
+      "word_count": 11,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-245e05f7",
+      "answer": "The first few sentences of an essay should capture the reader's attention.",
+      "source": "pte2-prediction",
+      "word_count": 12,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-7e4b99db",
+      "answer": "The finish of the goal differences is assigned: they warrant people to the final plan.",
+      "source": "pte2-prediction",
+      "word_count": 15,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-d72a7918",
+      "answer": "Would you pass me the textbook on that table.",
+      "source": "pte2-prediction",
+      "word_count": 9,
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-6446073e",
+      "answer": "I think that you raised the issue and to talk about it is great.",
+      "source": "pte2-prediction",
+      "word_count": 14,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-6dafd48a",
+      "answer": "The real reason for the world hunger problem is not lack of food but poverty.",
+      "source": "pte2-prediction",
+      "word_count": 15,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-c286e539",
+      "answer": "Newspapers across the countries reported a story about the president.",
+      "source": "pte2-prediction",
+      "word_count": 10,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-f6072605",
+      "answer": "The limited amount of department of funding is available for qualified students.",
+      "source": "pte2-prediction",
+      "word_count": 12,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-31719963",
+      "answer": "It's time to finalize the section before Wednesday seminar.",
+      "source": "pte2-prediction",
+      "word_count": 9,
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-86b7887b",
+      "answer": "Make sure that the finance director has the full detail of the pay agreement.",
+      "source": "pte2-prediction",
+      "word_count": 14,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-5b9cae98",
+      "answer": "You should be in good shape if you kept up with a lot of readings.",
+      "source": "pte2-prediction",
+      "word_count": 15,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-78c45523",
+      "answer": "Please sort and order the slides for the presentation according to topic and speech time.",
+      "source": "pte2-prediction",
+      "word_count": 15,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-f28696c7",
+      "answer": "Students are expected to observe the honor code in academic pursuit and the university representatives.",
+      "source": "pte2-prediction",
+      "word_count": 15,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-a4195889",
+      "answer": "The computer crashed and I has not saved my work.",
+      "source": "pte2-prediction",
+      "word_count": 10,
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-4a43de92",
+      "answer": "Logic is the systematic study of valid inference.",
+      "source": "pte2-prediction",
+      "word_count": 8,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-0b02d675",
+      "answer": "In your introduction, show you understood the question in no more than four sentences.",
+      "source": "pte2-prediction",
+      "word_count": 14,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-937f845c",
+      "answer": "The timetables are available in the department's notice board and the university's website.",
+      "source": "pte2-prediction",
+      "word_count": 13,
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-ffd0eb01",
+      "answer": "Half of the languages spoken in the world today will be dead by the year 2100.",
+      "source": "pte2-prediction",
+      "word_count": 16,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-8680cffb",
+      "answer": "Scientists are getting close to finding the answer to this question.",
+      "source": "pte2-prediction",
+      "word_count": 11,
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-e52cdf12",
+      "answer": "The author's rejection of scientific evidence has brought him a lot of criticism.",
+      "source": "pte2-prediction",
+      "word_count": 13,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-45bf9750",
+      "answer": "They saw a coalition government as acceptable only in times of national emergency.",
+      "source": "pte2-prediction",
+      "word_count": 13,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-d56bda06",
+      "answer": "I need to make an appointment with the business school.",
+      "source": "pte2-prediction",
+      "word_count": 10,
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-ccd0d1dc",
+      "answer": "The program is designed for engineering and science graduates.",
+      "source": "pte2-prediction",
+      "word_count": 9,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-41b3454a",
+      "answer": "The United States has become a coffee culture in recent years.",
+      "source": "pte2-prediction",
+      "word_count": 11,
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-451a3055",
+      "answer": "The important information for students was left at the faculty office.",
+      "source": "pte2-prediction",
+      "word_count": 11,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-025e4155",
+      "answer": "There are six applicants who will be place on the computer.",
+      "source": "pte2-prediction",
+      "word_count": 11,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-55598907",
+      "answer": "Professor Gordon just called a few minutes ago.",
+      "source": "pte2-prediction",
+      "word_count": 8,
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-01db6c95",
+      "answer": "We'll study the following two pictures for the next lecture.",
+      "source": "pte2-prediction",
+      "word_count": 10,
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-123dee13",
+      "answer": "The renowned economist is selected has a speech tonight at eight.",
+      "source": "pte2-prediction",
+      "word_count": 11,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-75751f3a",
+      "answer": "We must always take great care when analyzing the data.",
+      "source": "pte2-prediction",
+      "word_count": 10,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-736db821",
+      "answer": "Tomorrow evening, there's a panel discussion on sustainable development.",
+      "source": "pte2-prediction",
+      "word_count": 9,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-e81b9161",
+      "answer": "The first right out in front will take you to the station.",
+      "source": "pte2-prediction",
+      "word_count": 12,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-b8a2934b",
+      "answer": "Acupuncture is one technique involved in traditional Chinese medicine.",
+      "source": "pte2-prediction",
+      "word_count": 9,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-58ce8251",
+      "answer": "No more than four people can be in the lab at once.",
+      "source": "pte2-prediction",
+      "word_count": 12,
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-a28e3dce",
+      "answer": "There is a fitness center next to the student union.",
+      "source": "pte2-prediction",
+      "word_count": 10,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-901d9019",
+      "answer": "The media have had a great influence on people's beliefs and attitudes.",
+      "source": "pte2-prediction",
+      "word_count": 12,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-b2766389",
+      "answer": "The investigation aimed to establishing the statements of the problem.",
+      "source": "pte2-prediction",
+      "word_count": 10,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-b6164c5f",
+      "answer": "We have to read the first five chapters in preparation for the next Monday's tutorial.",
+      "source": "pte2-prediction",
+      "word_count": 15,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-0204ef18",
+      "answer": "Tutoring sessions will last approximately two hours.",
+      "source": "pte2-prediction",
+      "word_count": 7,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-b49593bc",
+      "answer": "We don't have enough evidence to draw conclusions.",
+      "source": "pte2-prediction",
+      "word_count": 8,
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-7cc9b3f9",
+      "answer": "It really depends on somebody's personal situation.",
+      "source": "pte2-prediction",
+      "word_count": 7,
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-bb6555b1",
+      "answer": "On each of visual, do illustrate the presentation.",
+      "source": "pte2-prediction",
+      "word_count": 8,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-e10a9cb8",
+      "answer": "Let's see if the technology is going to cooperate for this presentation.",
+      "source": "pte2-prediction",
+      "word_count": 12,
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-b0728cb1",
+      "answer": "More muscles are used in swimming compared to other sports.",
+      "source": "pte2-prediction",
+      "word_count": 10,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-0ac90b47",
+      "answer": "Public relations create public interest in someone or somethings.",
+      "source": "pte2-prediction",
+      "word_count": 9,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-b27889db",
+      "answer": "I don't understand what this comment on my essay means at all.",
+      "source": "pte2-prediction",
+      "word_count": 12,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-52f3308d",
+      "answer": "Postgraduate students should complete the course evaluation by the end of term.",
+      "source": "pte2-prediction",
+      "word_count": 12,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-caca03c7",
+      "answer": "Being a vegan means not consuming any animal products.",
+      "source": "pte2-prediction",
+      "word_count": 9,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-b22ae9ad",
+      "answer": "Portfolios are due to the internal office no later than Tuesday.",
+      "source": "pte2-prediction",
+      "word_count": 11,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-78e5b875",
+      "answer": "Leading scientists speculate that numerous planets could support life forms.",
+      "source": "pte2-prediction",
+      "word_count": 10,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-4d21cd54",
+      "answer": "Globalization has been overwhelmingly in urban and urbanising phenomena.",
+      "source": "pte2-prediction",
+      "word_count": 9,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-511cba1d",
+      "answer": "But they haven't come into widespread use yet.",
+      "source": "pte2-prediction",
+      "word_count": 8,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-287a3037",
+      "answer": "Glass is not a true solid because it doesn't have a crystal structure.",
+      "source": "pte2-prediction",
+      "word_count": 13,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-b65bcb52",
+      "answer": "Try to get through this quickly as possible.",
+      "source": "pte2-prediction",
+      "word_count": 8,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-19d952e4",
+      "answer": "Write another account in the event using the original documents.",
+      "source": "pte2-prediction",
+      "word_count": 10,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-a4b77574",
+      "answer": "Expertise in a particular area can distinguish you from the other graduates .",
+      "source": "pte2-prediction",
+      "word_count": 13,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-4d6da6e5",
+      "answer": "Sports is the cause of many traumatic brain injuries in the United States.",
+      "source": "pte2-prediction",
+      "word_count": 13,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-0cabdd8f",
+      "answer": "Not all countries have permanently renounced the practice of whale hunting.",
+      "source": "pte2-prediction",
+      "word_count": 11,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-bbf42c60",
+      "answer": "It can be argued that students can learn more from doing collaborative rather than individual tasks.",
+      "source": "pte2-prediction",
+      "word_count": 16,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-870b53d2",
+      "answer": "It's important to keep this medicine in the fridge.",
+      "source": "pte2-prediction",
+      "word_count": 9,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-9a0608e7",
+      "answer": "The tutorial is being held in the East Wing of the building.",
+      "source": "pte2-prediction",
+      "word_count": 12,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-e1f6801a",
+      "answer": "The deadline for handing in the essay is tomorrow.",
+      "source": "pte2-prediction",
+      "word_count": 9,
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-e31fb19a",
+      "answer": "When you write a bibliography, book titles must put in the italics.",
+      "source": "pte2-prediction",
+      "word_count": 12,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-244a3c77",
+      "answer": "I would imagine it would be very difficult and challenging to sustain this over the long term.",
+      "source": "pte2-prediction",
+      "word_count": 17,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-15e80552",
+      "answer": "Meteorology is the detail study of the Earth's atmosphere.",
+      "source": "pte2-prediction",
+      "word_count": 9,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-cb3b578a",
+      "answer": "I need some guidance on how to present the material.",
+      "source": "pte2-prediction",
+      "word_count": 10,
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-d1bcb872",
+      "answer": "On behalf of our department, thank you for your participation.",
+      "source": "pte2-prediction",
+      "word_count": 10,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-111805f5",
+      "answer": "We are now so dependent on the computers that we cannot live without them.",
+      "source": "pte2-prediction",
+      "word_count": 14,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-b2b49816",
+      "answer": "Five of them looked everywhere for the transcript.",
+      "source": "pte2-prediction",
+      "word_count": 8,
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-d642c0db",
+      "answer": "All necessary information was included in the assignment.",
+      "source": "pte2-prediction",
+      "word_count": 8,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-94ecae06",
+      "answer": "This, in my opinion, is so far the best book on the subject.",
+      "source": "pte2-prediction",
+      "word_count": 13,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-a1461572",
+      "answer": "The number of bankruptcies skyrocketed in the first quarter.",
+      "source": "pte2-prediction",
+      "word_count": 9,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-78de8100",
+      "answer": "The university community is firmly dedicated to recycling.",
+      "source": "pte2-prediction",
+      "word_count": 8,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-46595bea",
+      "answer": "Recent studies have thrown down on the validity of the argument.",
+      "source": "pte2-prediction",
+      "word_count": 11,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-86eaf4d3",
+      "answer": "Her lectures are always helpful and stimulating.",
+      "source": "pte2-prediction",
+      "word_count": 7,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-17e55b4e",
+      "answer": "She has to be everywhere but today she's missed.",
+      "source": "pte2-prediction",
+      "word_count": 9,
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-8d5bd1ea",
+      "answer": "Accomodation office is open until 7pm every weekday.",
+      "source": "pte2-prediction",
+      "word_count": 8,
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-902e65fb",
+      "answer": "Inflation rose by 2% of this time last year.",
+      "source": "pte2-prediction",
+      "word_count": 9,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-2b50bd48",
+      "answer": "Try to explain how your ideas are linked, so there's a logical flow.",
+      "source": "pte2-prediction",
+      "word_count": 13,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-17ed2fa6",
+      "answer": "The distinction is somewhat arbitrary, but remains useful nonetheless.",
+      "source": "pte2-prediction",
+      "word_count": 9,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-22e12e72",
+      "answer": "If the journal is paginated by issue, include the issue number in parentheses.",
+      "source": "pte2-prediction",
+      "word_count": 13,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-ebd4ec4d",
+      "answer": "I didn't agree with all his arguments, but his presentation was good.",
+      "source": "pte2-prediction",
+      "word_count": 12,
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-3f47128e",
+      "answer": "The United States has the largest chocolate manufacturing industry.",
+      "source": "pte2-prediction",
+      "word_count": 9,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-1c267a3f",
+      "answer": "Most of student advisors are extremely helpful.",
+      "source": "pte2-prediction",
+      "word_count": 7,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-59543143",
+      "answer": "His conflict with the church was more to do with politics than religion.",
+      "source": "pte2-prediction",
+      "word_count": 13,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-05a905d2",
+      "answer": "Make sure you check the website for up to date information of the course.",
+      "source": "pte2-prediction",
+      "word_count": 14,
+      "difficulty": "easy",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-508e1e72",
+      "answer": "The internet provides an unusual opportunity to examine current events from a global perspective.",
+      "source": "pte2-prediction",
+      "word_count": 14,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-52b32f0d",
+      "answer": "You can pay using cash or a credit card.",
+      "source": "pte2-prediction",
+      "word_count": 9,
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-81a79fd7",
+      "answer": "There are more about the topic on the university website.",
+      "source": "pte2-prediction",
+      "word_count": 10,
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-20f830c3",
+      "answer": "All our accommodation is within easy walking distinct of the teaching block.",
+      "source": "pte2-prediction",
+      "word_count": 12,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-4408a39f",
+      "answer": "There is no entrance fee for tonight's lecture.",
+      "source": "pte2-prediction",
+      "word_count": 8,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-87d38433",
+      "answer": "Lecture theatre 1 is located on the ground floor of the back of building.",
+      "source": "pte2-prediction",
+      "word_count": 14,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-f09084b0",
+      "answer": "Our capacity to response to national needs will determine our ability to flourish.",
+      "source": "pte2-prediction",
+      "word_count": 13,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-844fe9b7",
+      "answer": "Many of the university's original buildings are still in use.",
+      "source": "pte2-prediction",
+      "word_count": 10,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-bcdb2af3",
+      "answer": "Chocolate is used for making beverages and confectionary.",
+      "source": "pte2-prediction",
+      "word_count": 8,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-a518ffe3",
+      "answer": "There's almost to much information on this topic.",
+      "source": "pte2-prediction",
+      "word_count": 8,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-fff8d1f3",
+      "answer": "There should be a resource person that they lay on you to turn to.",
+      "source": "pte2-prediction",
+      "word_count": 14,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-4f7606bb",
+      "answer": "This paper is the best one to look at first.",
+      "source": "pte2-prediction",
+      "word_count": 10,
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-44323541",
+      "answer": "We offer a broad range of undergraduate and graduate courses.",
+      "source": "pte2-prediction",
+      "word_count": 10,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-c908d2ee",
+      "answer": "The US ranks 22nd in foreign aid, given as a percentage of GDP.",
+      "source": "pte2-prediction",
+      "word_count": 13,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-8c3c1f4a",
+      "answer": "Monday's seminar on essay writing skills has been cancelled.",
+      "source": "pte2-prediction",
+      "word_count": 9,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-59faaf2f",
+      "answer": "These developments are discussed in more depth in chapter 9.",
+      "source": "pte2-prediction",
+      "word_count": 10,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-8fb71316",
+      "answer": "Politics consists of social relations involving authority of power.",
+      "source": "pte2-prediction",
+      "word_count": 9,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-d24019f1",
+      "answer": "The atmosphere is a very dynamic system.",
+      "source": "pte2-prediction",
+      "word_count": 7,
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-b43a4672",
+      "answer": "Make sure you book a library tour during the first week of semester.",
+      "source": "pte2-prediction",
+      "word_count": 13,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-9d394ebb",
+      "answer": "The problem with this is that it fails to answer the basic question.",
+      "source": "pte2-prediction",
+      "word_count": 13,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-15092586",
+      "answer": "The inference that is withdrawn by researchers that is unsustainable.",
+      "source": "pte2-prediction",
+      "word_count": 10,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-927db68a",
+      "answer": "Many students are scared of writing essays but then they never learn how.",
+      "source": "pte2-prediction",
+      "word_count": 13,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-4c96e01a",
+      "answer": "Meeting with mentors can be scheduled for students who require additional support.",
+      "source": "pte2-prediction",
+      "word_count": 12,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-03e81b01",
+      "answer": "Several students raised different examples.",
+      "source": "pte2-prediction",
+      "word_count": 5,
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-93ea174c",
+      "answer": "I still don't know what the last sentence means.",
+      "source": "pte2-prediction",
+      "word_count": 9,
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-2febb852",
+      "answer": "I know several of the examples are out of date.",
+      "source": "pte2-prediction",
+      "word_count": 10,
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-2d742d8e",
+      "answer": "The main issue is \"Decide how we want to launch the new product\".",
+      "source": "pte2-prediction",
+      "word_count": 13,
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-b3bb19a0",
+      "answer": "What distinguishes him from others is his dramatic use of black and white photography.",
+      "source": "pte2-prediction",
+      "word_count": 14,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-fc09fcf6",
+      "answer": "Business organisations need to satisfy their customers if they want to be successful.",
+      "source": "pte2-prediction",
+      "word_count": 13,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-498adbe2",
+      "answer": "The department runs the compulsory statistic course for all first-year students.",
+      "source": "pte2-prediction",
+      "word_count": 11,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-22db48df",
+      "answer": "Current statistical evidence indicates that further research is required.",
+      "source": "pte2-prediction",
+      "word_count": 9,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-f04238c6",
+      "answer": "The small Indian state is a land of forested valleys and snowy highlands.",
+      "source": "pte2-prediction",
+      "word_count": 13,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-1c829040",
+      "answer": "Our geography assignments must be submitted by midday on Friday.",
+      "source": "pte2-prediction",
+      "word_count": 10,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-07613c37",
+      "answer": "Physics is the study of matter and energy.",
+      "source": "pte2-prediction",
+      "word_count": 8,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-1e2658fe",
+      "answer": "I can't find my way to the bus stop.",
+      "source": "pte2-prediction",
+      "word_count": 9,
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-2c5d5b8b",
+      "answer": "Rules about breaks and punch hours will vary from company to the next.",
+      "source": "pte2-prediction",
+      "word_count": 13,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-0e89a043",
+      "answer": "In my free time, I read books on current affairs, as well as the newspaper.",
+      "source": "pte2-prediction",
+      "word_count": 15,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-88caddab",
+      "answer": "In consultation with your supervisor, your thesis is approved by faculty committee.",
+      "source": "pte2-prediction",
+      "word_count": 12,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-83a36843",
+      "answer": "Try use visual aids and all your laptops to help the audience stay focus.",
+      "source": "pte2-prediction",
+      "word_count": 14,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-d65f1ebe",
+      "answer": "Please don't forget to check your email for update of the weekend.",
+      "source": "pte2-prediction",
+      "word_count": 12,
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-1b8db770",
+      "answer": "It's time to finalize the section before the Wednesday seminar.",
+      "source": "pte2-prediction",
+      "word_count": 10,
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-86e8d466",
+      "answer": "The elephant is the largest living land mammal.",
+      "source": "pte2-prediction",
+      "word_count": 8,
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-320c9359",
+      "answer": "Graduate students in the department are encouraged to participate in these seminars.",
+      "source": "pte2-prediction",
+      "word_count": 12,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-6a6c187f",
+      "answer": "We weren't able to agree on the appropriate independent variables.",
+      "source": "pte2-prediction",
+      "word_count": 10,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-4a3f31ed",
+      "answer": "His study demonstrates his need for more research in this area.",
+      "source": "pte2-prediction",
+      "word_count": 11,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-7c3b06ff",
+      "answer": "Basketball was created in 1891 by physical education instructor.",
+      "source": "pte2-prediction",
+      "word_count": 9,
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-9a0edecf",
+      "answer": "Just way a minute, I'll be with you shortly.",
+      "source": "pte2-prediction",
+      "word_count": 9,
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-872a2f43",
+      "answer": "The results of the study will be published next month.",
+      "source": "pte2-prediction",
+      "word_count": 10,
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-8df34335",
+      "answer": "Politicians make much better decisions when they listen to public opinion.",
+      "source": "pte2-prediction",
+      "word_count": 11,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-3523c536",
+      "answer": "The college welcomes postgraduate students from all over the world.",
+      "source": "pte2-prediction",
+      "word_count": 10,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-dafd4b9d",
+      "answer": "Biographical information should be remove prior to publication of the results.",
+      "source": "pte2-prediction",
+      "word_count": 11,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-d490217d",
+      "answer": "He was constantly looking for ways to bring industry and agriculture closer together.",
+      "source": "pte2-prediction",
+      "word_count": 13,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-18931cc5",
+      "answer": "His hypothesis on black holes is rendered moot as the explanation is for nations.",
+      "source": "pte2-prediction",
+      "word_count": 14,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-2ee8745a",
+      "answer": "The qualities needed by successful business managers are similar to those needed in school.",
+      "source": "pte2-prediction",
+      "word_count": 14,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-fe268d9e",
+      "answer": "The problems facing us today are global therefore need global solutions.",
+      "source": "pte2-prediction",
+      "word_count": 11,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-c5c29b26",
+      "answer": "Undergraduates expand their horizons by participating in enrichment programmes.",
+      "source": "pte2-prediction",
+      "word_count": 9,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-48f59456",
+      "answer": "Once more under the pressure of economic necessity, practice outstrip theory.",
+      "source": "pte2-prediction",
+      "word_count": 11,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-222af92b",
+      "answer": "It is utmost important that you don't rely on translation online.",
+      "source": "pte2-prediction",
+      "word_count": 11,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-a0ac1070",
+      "answer": "Please pass the handouts along to rest of the people in your row.",
+      "source": "pte2-prediction",
+      "word_count": 13,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-20811842",
+      "answer": "Even with the permit, finding the parking spot on campus is almost impossible.",
+      "source": "pte2-prediction",
+      "word_count": 13,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-6fa3ce6f",
+      "answer": "I missed yesterday's lecture, can I borrow your notes?.",
+      "source": "pte2-prediction",
+      "word_count": 9,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-476103ae",
+      "answer": "In Europe, the political pressure is similar regarding globalization.",
+      "source": "pte2-prediction",
+      "word_count": 9,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-66b539ae",
+      "answer": "Make sure you correctly cite all your sources.",
+      "source": "pte2-prediction",
+      "word_count": 8,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-6ea7638c",
+      "answer": "On this project, you will be asked to work as a group of three.",
+      "source": "pte2-prediction",
+      "word_count": 14,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-06f9394c",
+      "answer": "Put the knife and fork next to the spoon near of the edge of the table.",
+      "source": "pte2-prediction",
+      "word_count": 16,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-a25df867",
+      "answer": "In this library, the reserve collection of books can be borrow for up to three hours.",
+      "source": "pte2-prediction",
+      "word_count": 16,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-79af1dc4",
+      "answer": "Clear evidence, between brain events and behaviour events is always fascinating.",
+      "source": "pte2-prediction",
+      "word_count": 11,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-00e88235",
+      "answer": "The contest includes both land-living history and human history.",
+      "source": "pte2-prediction",
+      "word_count": 9,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-9732667a",
+      "answer": "The minimum mark for Distintion grade is no less than 75%.",
+      "source": "pte2-prediction",
+      "word_count": 11,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-7e019b97",
+      "answer": "The office opens on Mondays and Thursdays directly following the freshman seminar.",
+      "source": "pte2-prediction",
+      "word_count": 12,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-f2c7a878",
+      "answer": "The original Olympic game were celebrated as religious festivals.",
+      "source": "pte2-prediction",
+      "word_count": 9,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-4e0efe8f",
+      "answer": "To answer such a complex question with a simple yes or no is absolutely impossible.",
+      "source": "pte2-prediction",
+      "word_count": 15,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-7b773209",
+      "answer": "It is good for the environment, also good for your electricity bill.",
+      "source": "pte2-prediction",
+      "word_count": 12,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-46811184",
+      "answer": "It seems that language appeared from nowhere.",
+      "source": "pte2-prediction",
+      "word_count": 7,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-1b65d6f6",
+      "answer": "As a student union member, we can influence the change of the university.",
+      "source": "pte2-prediction",
+      "word_count": 13,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-7bc8d41e",
+      "answer": "The sports team members often practice on weekdays and play game on weekends.",
+      "source": "pte2-prediction",
+      "word_count": 13,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-b07be010",
+      "answer": "We would like the videotape for the lecture.",
+      "source": "pte2-prediction",
+      "word_count": 8,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-99717e3c",
+      "answer": "We didn't have any noticeable variance between the two or three tasks .",
+      "source": "pte2-prediction",
+      "word_count": 13,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-62681b6d",
+      "answer": "Ateries carry oxygenated bloods form the heart to the other parts of the body.",
+      "source": "pte2-prediction",
+      "word_count": 14,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-c7aa302e",
+      "answer": "Today we will be discussing the role of the government in preventing injustice.",
+      "source": "pte2-prediction",
+      "word_count": 13,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-bc76ec1f",
+      "answer": "The cafeteria closes soon, but the snack machine is accessible throughout the night.",
+      "source": "pte2-prediction",
+      "word_count": 13,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-7c735908",
+      "answer": "The politics combine both the legislative and the political authorities.",
+      "source": "pte2-prediction",
+      "word_count": 10,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-9c796f2b",
+      "answer": "Most of the lectures began promptly, so do not be late.",
+      "source": "pte2-prediction",
+      "word_count": 11,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-c1e82dc4",
+      "answer": "Many undergraduate students go back home and stay with their parents after graduation.",
+      "source": "pte2-prediction",
+      "word_count": 13,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-dc5222c4",
+      "answer": "Hypothetically, insufficient mastery in these areas slows future progress.",
+      "source": "pte2-prediction",
+      "word_count": 9,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-035a058a",
+      "answer": "If she doesn't speak the language, she's not going to sit around and wait for a translator.",
+      "source": "pte2-prediction",
+      "word_count": 17,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-c10a29a3",
+      "answer": "I didn't understand the author's point of view on immigration.",
+      "source": "pte2-prediction",
+      "word_count": 10,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-7d2f9ce4",
+      "answer": "The key theme of the course will be synthesized in the final lecture.",
+      "source": "pte2-prediction",
+      "word_count": 13,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-114b03e5",
+      "answer": "In the 1880, cycling became a major phenomenon in Europe.",
+      "source": "pte2-prediction",
+      "word_count": 10,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-f7619fe8",
+      "answer": "It's within that framework that we make our survey.",
+      "source": "pte2-prediction",
+      "word_count": 9,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-c99af7ca",
+      "answer": "The final exam will test material from all chapters covered in class this term.",
+      "source": "pte2-prediction",
+      "word_count": 14,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-d3adab40",
+      "answer": "Every year, students pass the biology course easily.",
+      "source": "pte2-prediction",
+      "word_count": 8,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-3e0e0d4e",
+      "answer": "Our log-books make up 5% of our total marks.",
+      "source": "pte2-prediction",
+      "word_count": 9,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-d8100bad",
+      "answer": "You will need to provide contact details for email and post.",
+      "source": "pte2-prediction",
+      "word_count": 11,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-8cc9ffb4",
+      "answer": "Researchers are closer to identify the underlying causes of the problem.",
+      "source": "pte2-prediction",
+      "word_count": 11,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-622deeda",
+      "answer": "We did not think there is any notable variance between two of the three tests.",
+      "source": "pte2-prediction",
+      "word_count": 15,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-6afe1945",
+      "answer": "An essay with few or no citations will be a cause of concern for lecturers.",
+      "source": "pte2-prediction",
+      "word_count": 15,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-cef6aa37",
+      "answer": "All students and staff have access to the printers and scanners.",
+      "source": "pte2-prediction",
+      "word_count": 11,
+      "difficulty": "easy",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-f691aded",
+      "answer": "Conferences are always scheduled on the third Wednesday of the month.",
+      "source": "pte2-prediction",
+      "word_count": 11,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-97f6f808",
+      "answer": "It is important to take gender into account when discussing the figures.",
+      "source": "pte2-prediction",
+      "word_count": 12,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-713cbb52",
+      "answer": "Journalism is the collection and periodic publication or transmission of news.",
+      "source": "pte2-prediction",
+      "word_count": 11,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-9d7beb78",
+      "answer": "Eating too much can lead to many health problems.",
+      "source": "pte2-prediction",
+      "word_count": 9,
+      "difficulty": "easy",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-85db1dae",
+      "answer": "On behalf of our department, I would like to thank you for your participation.",
+      "source": "pte2-prediction",
+      "word_count": 14,
+      "difficulty": "easy",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-a9bd52d3",
+      "answer": "She has been in the library for the long time.",
+      "source": "pte2-prediction",
+      "word_count": 10,
+      "difficulty": "easy",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-6c2806a1",
+      "answer": "The author expressed an idea that modern readers invariably cannot accept.",
+      "source": "pte2-prediction",
+      "word_count": 11,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-4ccb4fb0",
+      "answer": "Fishing is a sport and a means for surviving.",
+      "source": "pte2-prediction",
+      "word_count": 9,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-4a1f3b07",
+      "answer": "Students should take advantage of the online internet before attending the lecture.",
+      "source": "pte2-prediction",
+      "word_count": 12,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-2f3880c2",
+      "answer": "You should go to the reception to get your student card.",
+      "source": "pte2-prediction",
+      "word_count": 11,
+      "difficulty": "easy",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-8370cfe5",
+      "answer": "I would like an egg and tomatoes on white sandwich and orange juice..",
+      "source": "pte2-prediction",
+      "word_count": 13,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-d6029c50",
+      "answer": "Half of the marks in mathematics are allocated to the correct working.",
+      "source": "pte2-prediction",
+      "word_count": 12,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-267dba5f",
+      "answer": "To receive the reimbursement, you must keep the original receipts.",
+      "source": "pte2-prediction",
+      "word_count": 10,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-432f6281",
+      "answer": "Whether you are searching for opinions or have specific questions, we want you to consider this approach.",
+      "source": "pte2-prediction",
+      "word_count": 17,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-d258b9e6",
+      "answer": "We would like a first draft of the assignment by Monday.",
+      "source": "pte2-prediction",
+      "word_count": 11,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-107d149e",
+      "answer": "Number the beakers and put them away until tomorrow.",
+      "source": "pte2-prediction",
+      "word_count": 9,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-8028d13b",
+      "answer": "In 1830, periodicals appeared in large numbers in America.",
+      "source": "pte2-prediction",
+      "word_count": 9,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-407229f3",
+      "answer": "It is clear that there is little accurate documentation in support of this claim.",
+      "source": "pte2-prediction",
+      "word_count": 14,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-2e5fe145",
+      "answer": "Most of printers in library are out of ink.",
+      "source": "pte2-prediction",
+      "word_count": 9,
+      "difficulty": "easy",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-4b3eceb8",
+      "answer": "A demonstrated ability to write clear, correct and concise English is bigotry.",
+      "source": "pte2-prediction",
+      "word_count": 12,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-ba5bef5e",
+      "answer": "By clicking this button, you agree with the terms and conditions of this website.",
+      "source": "pte2-prediction",
+      "word_count": 14,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-d647d7af",
+      "answer": "The verdict depends on which side was more convincing to the jury.",
+      "source": "pte2-prediction",
+      "word_count": 12,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-5ceffe1b",
+      "answer": "Unfortunately, the two most interesting economic electives clash on my time table.",
+      "source": "pte2-prediction",
+      "word_count": 12,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-ca78b06b",
+      "answer": "You should include your name and identification number on the registration form.",
+      "source": "pte2-prediction",
+      "word_count": 12,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-b9f1fea1",
+      "answer": "Would you prepare some PowerPoint slides with appropriate graphs?",
+      "source": "pte2-prediction",
+      "word_count": 9,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-13b3b687",
+      "answer": "Nearly half of television outputs are giving away for educational programs.",
+      "source": "pte2-prediction",
+      "word_count": 11,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-0b4a3d4b",
+      "answer": "The bookstore is located on the main campus behind the library.",
+      "source": "pte2-prediction",
+      "word_count": 11,
+      "difficulty": "easy",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-c8099a4b",
+      "answer": "The professor will be the last speaker this evening.",
+      "source": "pte2-prediction",
+      "word_count": 9,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-e38ac36d",
+      "answer": "The gap between rich and poor is not decreasing as rapidly as expected.",
+      "source": "pte2-prediction",
+      "word_count": 13,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-810c5377",
+      "answer": "The technician left the new microscope in the biology lab.",
+      "source": "pte2-prediction",
+      "word_count": 10,
+      "difficulty": "easy",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-c60f6708",
+      "answer": "There will be an open book exam on Monday, the twenty-eighth.",
+      "source": "pte2-prediction",
+      "word_count": 11,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-6d98597c",
+      "answer": "The student welfare officer can help students with different issues.",
+      "source": "pte2-prediction",
+      "word_count": 10,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-7e9e6d10",
+      "answer": "We are required to submit the assignment before Friday.",
+      "source": "pte2-prediction",
+      "word_count": 9,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-9fa5720c",
+      "answer": "I expect a long and stagnant debate for a week or two on this issue.",
+      "source": "pte2-prediction",
+      "word_count": 15,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-aa5fd61d",
+      "answer": "All students on engineering courses spent one year working on war experience.",
+      "source": "pte2-prediction",
+      "word_count": 12,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-837ee7cd",
+      "answer": "Ideally, free trade is beneficial for trading with two partners.",
+      "source": "pte2-prediction",
+      "word_count": 10,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-879fe0a6",
+      "answer": "Our university has strong partnerships with industry as well as collaborative relationships with government bodies.",
+      "source": "pte2-prediction",
+      "word_count": 15,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-2081464e",
+      "answer": "Anatomy is the study of internal and external structures.",
+      "source": "pte2-prediction",
+      "word_count": 9,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-5ce8b248",
+      "answer": "Those reference books are too old, while the others are OK.",
+      "source": "pte2-prediction",
+      "word_count": 11,
+      "difficulty": "easy",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-7d80f710",
+      "answer": "Only one subject can be selected from History and Media Studies.",
+      "source": "pte2-prediction",
+      "word_count": 11,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-ddd960c3",
+      "answer": "If you want to sell your book, it must have bibliography.",
+      "source": "pte2-prediction",
+      "word_count": 11,
+      "difficulty": "easy",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-18e50998",
+      "answer": "The new English class will start next Monday morning.",
+      "source": "pte2-prediction",
+      "word_count": 9,
+      "difficulty": "easy",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-1bab7083",
+      "answer": "There are a range of housing options near the university.",
+      "source": "pte2-prediction",
+      "word_count": 10,
+      "difficulty": "easy",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-b0aa19ec",
+      "answer": "Negative discourse continues to be predominate in discussion about genders.",
+      "source": "pte2-prediction",
+      "word_count": 10,
+      "difficulty": "easy",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-572d61c9",
+      "answer": "Only those who are over 18 years of age are eligible to open a bank account in our bank.",
+      "source": "pte2-prediction",
+      "word_count": 19,
+      "difficulty": "easy",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-5792add8",
+      "answer": "The country's economy primarily is based on tourism.",
+      "source": "pte2-prediction",
+      "word_count": 8,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-43cb54ed",
+      "answer": "Students who wish to apply for an extension should approach their tutors.",
+      "source": "pte2-prediction",
+      "word_count": 12,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-2a96f0ef",
+      "answer": "The generic biology technology lab is located at the North Wing of the library.",
+      "source": "pte2-prediction",
+      "word_count": 14,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-fc4adce2",
+      "answer": "The older equipment has been put at the back of the building.",
+      "source": "pte2-prediction",
+      "word_count": 12,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-412d35b2",
+      "answer": "We want to attract the very best students regardless of their financial circumstances.",
+      "source": "pte2-prediction",
+      "word_count": 13,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-6a294764",
+      "answer": "This is how we deliver health care to millions of people all over the world.",
+      "source": "pte2-prediction",
+      "word_count": 15,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-3ab1b09b",
+      "answer": "We will need to make sure the school principle knows about the changes.",
+      "source": "pte2-prediction",
+      "word_count": 13,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-226c6e7e",
+      "answer": "We didn't mean to ask him to do it because he cannot manage it.",
+      "source": "pte2-prediction",
+      "word_count": 14,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-05ca7b7b",
+      "answer": "Your enrolment information, results and fees will be available online.",
+      "source": "pte2-prediction",
+      "word_count": 10,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-69b7d53c",
+      "answer": "Please prepare a PowerPoint presentation for tomorrow's meeting.",
+      "source": "pte2-prediction",
+      "word_count": 8,
+      "difficulty": "easy",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-16b2dbd0",
+      "answer": "It is interesting to observe the development of the language skills of toddlers.",
+      "source": "pte2-prediction",
+      "word_count": 13,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-2ff9e189",
+      "answer": "Please explain what the author means by \"sustainability\".",
+      "source": "pte2-prediction",
+      "word_count": 8,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-1c3840ba",
+      "answer": "Would you please put the materials on the table?",
+      "source": "pte2-prediction",
+      "word_count": 9,
+      "difficulty": "easy",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-162b922f",
+      "answer": "The trip for professional training will start soon, so pack the items before we leave.",
+      "source": "pte2-prediction",
+      "word_count": 15,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-9b706d0c",
+      "answer": "One feature of academic writing is the tendency to use more formal words.",
+      "source": "pte2-prediction",
+      "word_count": 13,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-0f57ce40",
+      "answer": "Lots of students have their money and passports stolen especially at night.",
+      "source": "pte2-prediction",
+      "word_count": 12,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-2ae37ac4",
+      "answer": "Nearly half of their television output is given over to educational programming.",
+      "source": "pte2-prediction",
+      "word_count": 12,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-e5b8c1e7",
+      "answer": "Computers are available for student use in the media centre.",
+      "source": "pte2-prediction",
+      "word_count": 10,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-b94d6b53",
+      "answer": "It's really hard to combine all materials in the assignment.",
+      "source": "pte2-prediction",
+      "word_count": 10,
+      "difficulty": "easy",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-c5b83d64",
+      "answer": "Numerous courses devoted to life scientists are listed in a perspective.",
+      "source": "pte2-prediction",
+      "word_count": 11,
+      "difficulty": "easy",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-dd010d3e",
+      "answer": "You should always ensure that you don't include a lot of irrelevant information.",
+      "source": "pte2-prediction",
+      "word_count": 13,
+      "difficulty": "hard",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-eee2367d",
+      "answer": "You have to provide more evidence to back up your claims and always give references.",
+      "source": "pte2-prediction",
+      "word_count": 15,
+      "difficulty": "medium",
+      "exam_frequency": 1
+    },
+    {
+      "id": "pte-rs-766c14c8",
+      "prompt": "Listen to the sentence and repeat it exactly. Match the rhythm and intonation, not just the words.",
+      "answer": "The professor's lecture on quantum mechanics was unexpectedly accessible to first-year students.",
+      "grading_notes": "Dual-scored on LISTENING and SPEAKING. Components: content (% of words matched), oral fluency, pronunciation. Transcript matching here scores content; live exam adds fluency and pronunciation.",
+      "topic": "academic sentence",
+      "source": "pteracai-seed",
+      "word_count": 12
+    },
+    {
+      "id": "pte-rs-cdb78780",
+      "prompt": "Listen to the sentence and repeat it exactly. Match the rhythm and intonation, not just the words.",
+      "answer": "Most undergraduate programs require students to complete a substantial research project before graduation.",
+      "grading_notes": "Dual-scored on LISTENING and SPEAKING. Components: content (% of words matched), oral fluency, pronunciation. Transcript matching here scores content; live exam adds fluency and pronunciation.",
+      "topic": "academic sentence",
+      "source": "pteracai-seed",
+      "word_count": 13
+    },
+    {
+      "id": "pte-rs-1f12756e",
+      "prompt": "Listen to the sentence and repeat it exactly. Match the rhythm and intonation, not just the words.",
+      "answer": "The library will remain closed throughout the winter break for essential maintenance work.",
+      "grading_notes": "Dual-scored on LISTENING and SPEAKING. Components: content (% of words matched), oral fluency, pronunciation. Transcript matching here scores content; live exam adds fluency and pronunciation.",
+      "topic": "academic sentence",
+      "source": "pteracai-seed",
+      "word_count": 13
+    },
+    {
+      "id": "pte-rs-e609cb27",
+      "prompt": "Listen to the sentence and repeat it exactly. Match the rhythm and intonation, not just the words.",
+      "answer": "Climate scientists agree that global temperatures will continue to rise without intervention.",
+      "grading_notes": "Dual-scored on LISTENING and SPEAKING. Components: content (% of words matched), oral fluency, pronunciation. Transcript matching here scores content; live exam adds fluency and pronunciation.",
+      "topic": "academic sentence",
+      "source": "pteracai-seed",
+      "word_count": 12
+    },
+    {
+      "id": "pte-rs-3f39fbca",
+      "prompt": "Listen to the sentence and repeat it exactly. Match the rhythm and intonation, not just the words.",
+      "answer": "Successful entrepreneurs often credit their teams more than their own individual contributions.",
+      "grading_notes": "Dual-scored on LISTENING and SPEAKING. Components: content (% of words matched), oral fluency, pronunciation. Transcript matching here scores content; live exam adds fluency and pronunciation.",
+      "topic": "academic sentence",
+      "source": "pteracai-seed",
+      "word_count": 12
+    },
+    {
+      "id": "pte-rs-5b9cff76",
+      "prompt": "Listen to the sentence and repeat it exactly. Match the rhythm and intonation, not just the words.",
+      "answer": "Modern medicine has dramatically extended life expectancy in most parts of the world.",
+      "grading_notes": "Dual-scored on LISTENING and SPEAKING. Components: content (% of words matched), oral fluency, pronunciation. Transcript matching here scores content; live exam adds fluency and pronunciation.",
+      "topic": "academic sentence",
+      "source": "pteracai-seed",
+      "word_count": 13
+    },
+    {
+      "id": "pte-rs-ab8e3d2c",
+      "prompt": "Listen to the sentence and repeat it exactly. Match the rhythm and intonation, not just the words.",
+      "answer": "The university recently received a substantial grant to expand its research facilities.",
+      "grading_notes": "Dual-scored on LISTENING and SPEAKING. Components: content (% of words matched), oral fluency, pronunciation. Transcript matching here scores content; live exam adds fluency and pronunciation.",
+      "topic": "academic sentence",
+      "source": "pteracai-seed",
+      "word_count": 12
+    },
+    {
+      "id": "pte-rs-cd1602cc",
+      "prompt": "Listen to the sentence and repeat it exactly. Match the rhythm and intonation, not just the words.",
+      "answer": "Students should consult their academic advisor before changing their declared major.",
+      "grading_notes": "Dual-scored on LISTENING and SPEAKING. Components: content (% of words matched), oral fluency, pronunciation. Transcript matching here scores content; live exam adds fluency and pronunciation.",
+      "topic": "academic sentence",
+      "source": "pteracai-seed",
+      "word_count": 11
+    },
+    {
+      "id": "pte-rs-63e3eba4",
+      "prompt": "Listen to the sentence and repeat it exactly. Match the rhythm and intonation, not just the words.",
+      "answer": "Research suggests that regular exercise can significantly improve cognitive performance.",
+      "grading_notes": "Dual-scored on LISTENING and SPEAKING. Components: content (% of words matched), oral fluency, pronunciation. Transcript matching here scores content; live exam adds fluency and pronunciation.",
+      "topic": "academic sentence",
+      "source": "pteracai-seed",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-2abe4a4b",
+      "prompt": "Listen to the sentence and repeat it exactly. Match the rhythm and intonation, not just the words.",
+      "answer": "Public transportation systems require sustained investment to remain efficient and reliable.",
+      "grading_notes": "Dual-scored on LISTENING and SPEAKING. Components: content (% of words matched), oral fluency, pronunciation. Transcript matching here scores content; live exam adds fluency and pronunciation.",
+      "topic": "academic sentence",
+      "source": "pteracai-seed",
+      "word_count": 11
+    },
+    {
+      "id": "pte-rs-eb790be1",
+      "answer": "The lecture will be conducted in the main hall this afternoon",
+      "source": "ai-generated-prediction",
+      "word_count": 11
+    },
+    {
+      "id": "pte-rs-e7d5c13b",
+      "answer": "Please ensure all laboratory equipment is cleaned before you leave today",
+      "source": "ai-generated-prediction",
+      "word_count": 11
+    },
+    {
+      "id": "pte-rs-09b58cc4",
+      "answer": "The project deadline has been extended by one full week",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-32540313",
+      "answer": "Students must submit their assignments through the online portal by Friday",
+      "source": "ai-generated-prediction",
+      "word_count": 11
+    },
+    {
+      "id": "pte-rs-49ca3a99",
+      "answer": "The library will remain open until midnight during the exam period",
+      "source": "ai-generated-prediction",
+      "word_count": 11
+    },
+    {
+      "id": "pte-rs-716b4913",
+      "answer": "Several new courses are being introduced in the next academic semester",
+      "source": "ai-generated-prediction",
+      "word_count": 11
+    },
+    {
+      "id": "pte-rs-02b677e1",
+      "answer": "Please remember to bring your student ID card to the exam",
+      "source": "ai-generated-prediction",
+      "word_count": 11
+    },
+    {
+      "id": "pte-rs-b7a66efd",
+      "answer": "The professor will discuss the research methodology in tomorrow morning session",
+      "source": "ai-generated-prediction",
+      "word_count": 11
+    },
+    {
+      "id": "pte-rs-bd1e18f2",
+      "answer": "You should consult the course syllabus for more detailed reading requirements",
+      "source": "ai-generated-prediction",
+      "word_count": 11
+    },
+    {
+      "id": "pte-rs-0e20cda7",
+      "answer": "Attendance is mandatory for all students participating in the field trip",
+      "source": "ai-generated-prediction",
+      "word_count": 11
+    },
+    {
+      "id": "pte-rs-02636dfc",
+      "answer": "The cafeteria is serving healthy meal options throughout the entire day",
+      "source": "ai-generated-prediction",
+      "word_count": 11
+    },
+    {
+      "id": "pte-rs-92ddc2f4",
+      "answer": "The registration desk is located on the first floor of building",
+      "source": "ai-generated-prediction",
+      "word_count": 11
+    },
+    {
+      "id": "pte-rs-6d534a70",
+      "answer": "Students are expected to attend all lectures throughout the current term",
+      "source": "ai-generated-prediction",
+      "word_count": 11
+    },
+    {
+      "id": "pte-rs-d8071ee9",
+      "answer": "Please mute your microphones during the virtual meeting to avoid feedback",
+      "source": "ai-generated-prediction",
+      "word_count": 11
+    },
+    {
+      "id": "pte-rs-e444f062",
+      "answer": "The computer lab will be closed for maintenance until next Tuesday",
+      "source": "ai-generated-prediction",
+      "word_count": 11
+    },
+    {
+      "id": "pte-rs-9524e336",
+      "answer": "Our research findings indicate a significant increase in student participation rates",
+      "source": "ai-generated-prediction",
+      "word_count": 11
+    },
+    {
+      "id": "pte-rs-18330c4a",
+      "answer": "The history department is hosting a guest lecture on climate change",
+      "source": "ai-generated-prediction",
+      "word_count": 11
+    },
+    {
+      "id": "pte-rs-57f95aa5",
+      "answer": "You need to finish the literature review before starting your thesis",
+      "source": "ai-generated-prediction",
+      "word_count": 11
+    },
+    {
+      "id": "pte-rs-5b3e4ddb",
+      "answer": "The university bookstore offers a discount on textbooks for enrolled students",
+      "source": "ai-generated-prediction",
+      "word_count": 11
+    },
+    {
+      "id": "pte-rs-8146eee5",
+      "answer": "Please provide your feedback using the online survey link provided below",
+      "source": "ai-generated-prediction",
+      "word_count": 11
+    },
+    {
+      "id": "pte-rs-bf5a34a0",
+      "answer": "The sociology exam will cover chapters five through ten inclusive",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-ecdcd7de",
+      "answer": "All applicants must submit their portfolios by the end of the month",
+      "source": "ai-generated-prediction",
+      "word_count": 12
+    },
+    {
+      "id": "pte-rs-5df52d91",
+      "answer": "The seminar room has been double booked for this afternoon session",
+      "source": "ai-generated-prediction",
+      "word_count": 11
+    },
+    {
+      "id": "pte-rs-7a599054",
+      "answer": "Please make sure to sign the attendance sheet before exiting class",
+      "source": "ai-generated-prediction",
+      "word_count": 11
+    },
+    {
+      "id": "pte-rs-e76a2578",
+      "answer": "The weather forecast predicts heavy rain throughout the entire weekend",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-260166e9",
+      "answer": "You should prepare your presentation slides at least two days early",
+      "source": "ai-generated-prediction",
+      "word_count": 11
+    },
+    {
+      "id": "pte-rs-880ae323",
+      "answer": "The study group plans to meet in the library common room",
+      "source": "ai-generated-prediction",
+      "word_count": 11
+    },
+    {
+      "id": "pte-rs-4bd061b2",
+      "answer": "Please contact the academic office if you have any questions today",
+      "source": "ai-generated-prediction",
+      "word_count": 11
+    },
+    {
+      "id": "pte-rs-1670fa86",
+      "answer": "The new laboratory facility is equipped with state of the art technology",
+      "source": "ai-generated-prediction",
+      "word_count": 12
+    },
+    {
+      "id": "pte-rs-6d609b27",
+      "answer": "The annual awards ceremony will take place in the auditorium tomorrow",
+      "source": "ai-generated-prediction",
+      "word_count": 11
+    },
+    {
+      "id": "pte-rs-68bcd438",
+      "answer": "Students can borrow up to ten books from the library simultaneously",
+      "source": "ai-generated-prediction",
+      "word_count": 11
+    },
+    {
+      "id": "pte-rs-979844f5",
+      "answer": "The final assessment is worth forty percent of your total grade",
+      "source": "ai-generated-prediction",
+      "word_count": 11
+    },
+    {
+      "id": "pte-rs-e7b5f33d",
+      "answer": "Please review the safety guidelines before starting your chemistry experiment",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-10bfdab8",
+      "answer": "The guest speaker will talk about international relations and global politics",
+      "source": "ai-generated-prediction",
+      "word_count": 11
+    },
+    {
+      "id": "pte-rs-b8f27985",
+      "answer": "The main office is closed for lunch between twelve and one",
+      "source": "ai-generated-prediction",
+      "word_count": 11
+    },
+    {
+      "id": "pte-rs-eb67487a",
+      "answer": "All essays must be written in formal academic style and tone",
+      "source": "ai-generated-prediction",
+      "word_count": 11
+    },
+    {
+      "id": "pte-rs-e530bf88",
+      "answer": "The engineering department is hosting a workshop on sustainable energy systems",
+      "source": "ai-generated-prediction",
+      "word_count": 11
+    },
+    {
+      "id": "pte-rs-2ae09bf7",
+      "answer": "You are encouraged to participate in the extracurricular activity program",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-252a1f09",
+      "answer": "The tutorial group meets every Wednesday in room three zero four",
+      "source": "ai-generated-prediction",
+      "word_count": 11
+    },
+    {
+      "id": "pte-rs-a17529eb",
+      "answer": "Please double check your essay for any grammatical or spelling errors",
+      "source": "ai-generated-prediction",
+      "word_count": 11
+    },
+    {
+      "id": "pte-rs-23cc89a9",
+      "answer": "The lecture hall is currently being renovated for the fall intake",
+      "source": "ai-generated-prediction",
+      "word_count": 11
+    },
+    {
+      "id": "pte-rs-0f94dc66",
+      "answer": "Participants are requested to arrive ten minutes before the session starts",
+      "source": "ai-generated-prediction",
+      "word_count": 11
+    },
+    {
+      "id": "pte-rs-56d23e3f",
+      "answer": "The research paper must be formatted according to university guidelines",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-6f4abe7c",
+      "answer": "You should use the citation software for your bibliography and references",
+      "source": "ai-generated-prediction",
+      "word_count": 11
+    },
+    {
+      "id": "pte-rs-456910f4",
+      "answer": "The university sports center offers memberships to all registered students",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-fbf40280",
+      "answer": "Please leave your bags in the lockers located near the entrance",
+      "source": "ai-generated-prediction",
+      "word_count": 11
+    },
+    {
+      "id": "pte-rs-57641a0d",
+      "answer": "The business faculty is organizing a networking event for graduating students",
+      "source": "ai-generated-prediction",
+      "word_count": 11
+    },
+    {
+      "id": "pte-rs-cc7330e2",
+      "answer": "You need to obtain permission from your advisor to change courses",
+      "source": "ai-generated-prediction",
+      "word_count": 11
+    },
+    {
+      "id": "pte-rs-3ae6cd7f",
+      "answer": "The physics department is conducting research on renewable energy sources",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-756f6b21",
+      "answer": "Please refer to the lecture notes for a summary of topics",
+      "source": "ai-generated-prediction",
+      "word_count": 11
+    },
+    {
+      "id": "pte-rs-7659ff55",
+      "answer": "The campus shuttle bus runs every thirty minutes during peak hours",
+      "source": "ai-generated-prediction",
+      "word_count": 11
+    },
+    {
+      "id": "pte-rs-3c31b881",
+      "answer": "Students are reminded to keep noise levels down in the library",
+      "source": "ai-generated-prediction",
+      "word_count": 11
+    },
+    {
+      "id": "pte-rs-4c8b4810",
+      "answer": "The primary objective of the study is to analyze economic growth",
+      "source": "ai-generated-prediction",
+      "word_count": 11
+    },
+    {
+      "id": "pte-rs-482b7305",
+      "answer": "Please upload your project files to the shared folder by midnight",
+      "source": "ai-generated-prediction",
+      "word_count": 11
+    },
+    {
+      "id": "pte-rs-b7ba955c",
+      "answer": "The art gallery is open to the public during normal hours",
+      "source": "ai-generated-prediction",
+      "word_count": 11
+    },
+    {
+      "id": "pte-rs-02619315",
+      "answer": "You must register for your elective courses by the deadline date",
+      "source": "ai-generated-prediction",
+      "word_count": 11
+    },
+    {
+      "id": "pte-rs-9b52b483",
+      "answer": "The biology lab requires students to wear protective gear at all times",
+      "source": "ai-generated-prediction",
+      "word_count": 12
+    },
+    {
+      "id": "pte-rs-7e0216f2",
+      "answer": "The university climate change report will be published later this year",
+      "source": "ai-generated-prediction",
+      "word_count": 11
+    },
+    {
+      "id": "pte-rs-c398c4ce",
+      "answer": "Please arrive early to ensure you get a good seat",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-f6a6e5da",
+      "answer": "The academic calendar provides dates for holidays and examination periods",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-51d60bf4",
+      "answer": "You can find more information on the official university website homepage",
+      "source": "ai-generated-prediction",
+      "word_count": 11
+    },
+    {
+      "id": "pte-rs-5596579b",
+      "answer": "The architecture students are designing a sustainable model for the city",
+      "source": "ai-generated-prediction",
+      "word_count": 11
+    },
+    {
+      "id": "pte-rs-6d1fee2d",
+      "answer": "Please note that the deadline for the application is final",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-ea68fd48",
+      "answer": "The literature exam will focus on twentieth century British authors",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-972b8cc6",
+      "answer": "All computers in the lab have been updated with new software",
+      "source": "ai-generated-prediction",
+      "word_count": 11
+    },
+    {
+      "id": "pte-rs-95d183dc",
+      "answer": "The professor provides office hours for students seeking academic help",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-d8092163",
+      "answer": "You are required to wear a lab coat during this experiment",
+      "source": "ai-generated-prediction",
+      "word_count": 11
+    },
+    {
+      "id": "pte-rs-7b42733d",
+      "answer": "The conference room is located on the second floor of building",
+      "source": "ai-generated-prediction",
+      "word_count": 11
+    },
+    {
+      "id": "pte-rs-95d8e294",
+      "answer": "Please submit your homework directly to the professor via email",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-336fe2fb",
+      "answer": "The campus medical center provides free health services to all students",
+      "source": "ai-generated-prediction",
+      "word_count": 11
+    },
+    {
+      "id": "pte-rs-350c6b34",
+      "answer": "The research team presented their findings at the international conference",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-4e4c81dd",
+      "answer": "You should focus on the main arguments presented in the article",
+      "source": "ai-generated-prediction",
+      "word_count": 11
+    },
+    {
+      "id": "pte-rs-c9e9b81a",
+      "answer": "The student union meeting will discuss future plans for the semester",
+      "source": "ai-generated-prediction",
+      "word_count": 11
+    },
+    {
+      "id": "pte-rs-03fe732a",
+      "answer": "Please ensure your name is written clearly on the front page",
+      "source": "ai-generated-prediction",
+      "word_count": 11
+    },
+    {
+      "id": "pte-rs-7471c615",
+      "answer": "The faculty is dedicated to providing high quality education for all",
+      "source": "ai-generated-prediction",
+      "word_count": 11
+    },
+    {
+      "id": "pte-rs-05c730df",
+      "answer": "The orientation program for new students starts on Monday morning",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-5cb978bf",
+      "answer": "You need to bring your own materials to the workshop session",
+      "source": "ai-generated-prediction",
+      "word_count": 11
+    },
+    {
+      "id": "pte-rs-7818044b",
+      "answer": "The chemistry professor explained the reaction in detail during class",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-ffcf82b3",
+      "answer": "Please contact the department secretary to schedule an appointment today",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-40bb88a0",
+      "answer": "The library has an extensive collection of rare historical documents",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-f734abd1",
+      "answer": "You should attend the career fair to learn about job opportunities",
+      "source": "ai-generated-prediction",
+      "word_count": 11
+    },
+    {
+      "id": "pte-rs-517d82a9",
+      "answer": "The main entrance will be closed due to scheduled structural repairs",
+      "source": "ai-generated-prediction",
+      "word_count": 11
+    },
+    {
+      "id": "pte-rs-91f7dad4",
+      "answer": "Students are prohibited from using mobile phones during the final exam",
+      "source": "ai-generated-prediction",
+      "word_count": 11
+    },
+    {
+      "id": "pte-rs-089ca490",
+      "answer": "The history lecture will examine the causes of the revolution",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-9a3130fc",
+      "answer": "Please follow the instructions provided in the printed lab manual",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-7e889d90",
+      "answer": "The university administration is reviewing the new campus security policy",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-9d558efb",
+      "answer": "You must present your research proposal to the committee for approval",
+      "source": "ai-generated-prediction",
+      "word_count": 11
+    },
+    {
+      "id": "pte-rs-3d1d1da4",
+      "answer": "The local museum is offering free tours for university students",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-9d0eaff1",
+      "answer": "Please provide a valid reason if you need an extension",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-9cde6044",
+      "answer": "The computer programming course is very popular among science students",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-dae12e14",
+      "answer": "You should read the assigned chapters before the next seminar",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-44fe2b09",
+      "answer": "The annual research symposium is open to all postgraduate students",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-0fbe1184",
+      "answer": "Please keep your desk clean and organized throughout the term",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-0b107951",
+      "answer": "The university offers a variety of support services for students",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-ac997a46",
+      "answer": "You can reserve a study room through the online booking system",
+      "source": "ai-generated-prediction",
+      "word_count": 11
+    },
+    {
+      "id": "pte-rs-4bc7a486",
+      "answer": "The dean of students will deliver an address to the graduates",
+      "source": "ai-generated-prediction",
+      "word_count": 11
+    },
+    {
+      "id": "pte-rs-0e51c72a",
+      "answer": "Please collect your graded assignments from the department office today",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-17b83658",
+      "answer": "The economics department is hosting a debate on global trade",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-44f78720",
+      "answer": "You must complete the pre course reading list by Friday",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-d17820d9",
+      "answer": "The auditorium is located at the center of the campus",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-6ba70a11",
+      "answer": "Please maintain silence while the exam is currently in progress",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-344e27f9",
+      "answer": "The language center offers courses in French German and Spanish",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-1be6e3cf",
+      "answer": "You are encouraged to use the library resources for research",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-cab8fc96",
+      "answer": "The science faculty is conducting studies on environmental pollution issues",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-18dccba2",
+      "answer": "Please arrive at the interview room at least five minutes early",
+      "source": "ai-generated-prediction",
+      "word_count": 11
+    },
+    {
+      "id": "pte-rs-e92fd44b",
+      "answer": "The university council meets once a month to discuss policies",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-cae7c466",
+      "answer": "You can borrow laptops from the library for up to four",
+      "source": "ai-generated-prediction",
+      "word_count": 11
+    },
+    {
+      "id": "pte-rs-908980a2",
+      "answer": "The student government elections are scheduled to take place next week",
+      "source": "ai-generated-prediction",
+      "word_count": 11
+    },
+    {
+      "id": "pte-rs-85d65d21",
+      "answer": "Please report any technical problems to the computer support team",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-1c3fa6ba",
+      "answer": "The psychology department is seeking volunteers for a research study",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-0e90f77b",
+      "answer": "You should highlight the key points during your oral presentation",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-de92cc3a",
+      "answer": "The campus pharmacy is open from nine until five daily",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-f096b418",
+      "answer": "Please print your document before you enter the examination hall",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-256e90c1",
+      "answer": "The sociology professor focuses on community development and social change",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-3b9430d2",
+      "answer": "You need to show your passport for international travel identification",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-49d6ec01",
+      "answer": "The cafeteria menu changes every day to offer more variety",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-51496dff",
+      "answer": "Please return your library books before the end of the term",
+      "source": "ai-generated-prediction",
+      "word_count": 11
+    },
+    {
+      "id": "pte-rs-788345b5",
+      "answer": "The theater department is putting on a play next month",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-df13c295",
+      "answer": "You are expected to participate actively in all class discussions",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-b169018c",
+      "answer": "The university library provides access to many online academic journals",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-0a6ce4c7",
+      "answer": "Please make an appointment if you want to speak privately",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-e2e583f1",
+      "answer": "The mathematics department is offering free tutoring for all students",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-a3984657",
+      "answer": "You should bring a calculator to the statistics lecture today",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-f0a7aaa4",
+      "answer": "The registration fee covers all course materials and textbooks provided",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-eaea3355",
+      "answer": "Please fill out the form using only a black pen",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-7cce82a4",
+      "answer": "The international student office provides assistance with visa related queries",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-ce0b81dc",
+      "answer": "You must provide citations for all sources used in essays",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-b8ad2ca1",
+      "answer": "The architecture competition is open to students from all faculties",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-2563bab8",
+      "answer": "Please store your personal belongings in the designated storage area",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-de7eb91b",
+      "answer": "The university botanical garden is open to the public daily",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-734dacdf",
+      "answer": "You should check the notice board for updates on events",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-2f468883",
+      "answer": "The professor expects students to take notes during the lecture",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-db07e02c",
+      "answer": "Please follow the dress code when attending the formal ceremony",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-931b0b98",
+      "answer": "The music department is hosting a concert in the chapel",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-6f81bbad",
+      "answer": "You must attend the safety briefing before using the equipment",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-8ce8cff6",
+      "answer": "The research grant covers travel expenses for the field study",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-01b0a785",
+      "answer": "Please ask the librarian if you need help finding books",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-a5c3e2dd",
+      "answer": "The environmental science course includes a mandatory field trip study",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-7f8154db",
+      "answer": "You should start your research early to meet the deadline",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-76282929",
+      "answer": "The history of art course covers different movements in painting",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-e62f824d",
+      "answer": "Please include your student number on all submitted written work",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-17b82a61",
+      "answer": "The university health clinic offers vaccinations for all registered students",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-de417828",
+      "answer": "You must complete the online form to request a transcript",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-1336ffe3",
+      "answer": "The sports department is organizing a tournament for the weekend",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-03c07f14",
+      "answer": "Please ensure your essay meets the word count requirements specified",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-41100dbc",
+      "answer": "The philosophy professor will lead the discussion on ethics today",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-96dba441",
+      "answer": "You should utilize the online resources available on the portal",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-c88d3907",
+      "answer": "The main library building will be closed for renovation work",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-2fe40d78",
+      "answer": "Please submit your application by the fifth of the month",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-4776b2a4",
+      "answer": "The university provides parking permits for students and academic staff",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-3c03f099",
+      "answer": "You must attend the seminar to receive credit for attendance",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-a8e52d97",
+      "answer": "The creative writing class meets in the studio every Thursday",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-291cb9da",
+      "answer": "Please check your university email for important announcements every day",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-79f1980e",
+      "answer": "The physics lab is located on the ground floor wing",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-148376e4",
+      "answer": "You should prepare for the exam by reviewing your notes",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-092b02c5",
+      "answer": "The law faculty is hosting a seminar on legal rights",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-5c5370cf",
+      "answer": "Please return the borrowed items to the front desk reception",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-8c14d7fd",
+      "answer": "The university newsletter features articles on research and student life",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-33a26463",
+      "answer": "You must wear your student badge while on university grounds",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-fa7a23bd",
+      "answer": "The political science professor is an expert in global governance",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-f5eb783c",
+      "answer": "Please use the provided template for your laboratory report submission",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-796ed9dc",
+      "answer": "The library has printers available for all students to use",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-dfffddf1",
+      "answer": "You should visit the career office for resume writing advice",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-8f9bde2f",
+      "answer": "The school of engineering is collaborating with several technology companies",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-65c59d47",
+      "answer": "Please make sure to cite all sources in your bibliography",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-eefb2aea",
+      "answer": "The campus map can be downloaded from the university website",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-fe2de566",
+      "answer": "You must present your project slides at the next meeting",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-7b748fd4",
+      "answer": "The history department office is situated next to the bookstore",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-94c2a152",
+      "answer": "Please update your contact details in the student database system",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-19a1c454",
+      "answer": "The annual music festival will be held in the quad",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-66341ca6",
+      "answer": "You should aim to participate in the upcoming research seminar",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-c78fdde9",
+      "answer": "The chemistry lab is restricted to students in the program",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-94af8909",
+      "answer": "Please indicate your preference for the group project topic today",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-75f44151",
+      "answer": "The department chairperson will lead the meeting this afternoon session",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-1be5afd8",
+      "answer": "You must clear all your library fines before graduation day",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-e5137792",
+      "answer": "The education faculty is preparing a seminar on teaching methods",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-ef7c79eb",
+      "answer": "Please leave a message if the office is currently unattended",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-a6aa0538",
+      "answer": "The science lecture will be held in the auditorium instead",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-43e4172e",
+      "answer": "You should bring your own stationary for the writing test",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-8160e107",
+      "answer": "The university bookstore sells a range of academic and stationery",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-84e19ac6",
+      "answer": "Please confirm your attendance at the ceremony by tomorrow afternoon",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-64326ca3",
+      "answer": "The economics tutorial covers basic concepts of market supply demand",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-837d2759",
+      "answer": "You must complete the online questionnaire for the course feedback",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-6ab4c215",
+      "answer": "The biology department is conducting a survey on local flora",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-e19a255f",
+      "answer": "Please ensure your work is original and properly referenced correctly",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-6d63b5fa",
+      "answer": "The professor will post the exam results on the board",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-95683f2a",
+      "answer": "You should speak to the tutor if you need support",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-bd0f92b8",
+      "answer": "The campus cafeteria serves a range of vegetarian meal options",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-aca31977",
+      "answer": "Please review the lecture slides before attending the following session",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-e27bb909",
+      "answer": "The administration office is open from Monday through to Friday",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-73249500",
+      "answer": "You must register for the workshop to secure a spot",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-cb62a2a0",
+      "answer": "The geography field trip is scheduled for the mid semester",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-812aa23b",
+      "answer": "Please submit your research project through the internal portal system",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-57ed2882",
+      "answer": "The university offers a range of clubs for all students",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-7853e980",
+      "answer": "You should focus on the evidence provided in the text",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-d1f85435",
+      "answer": "The engineering students are working on a bridge design project",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-d502721c",
+      "answer": "Please keep your student ID card with you at all times",
+      "source": "ai-generated-prediction",
+      "word_count": 11
+    },
+    {
+      "id": "pte-rs-ba1ac18c",
+      "answer": "The guest speaker will share insights from their professional career",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    },
+    {
+      "id": "pte-rs-b6ccb9db",
+      "answer": "You must follow the instructions carefully during the practical exam",
+      "source": "ai-generated-prediction",
+      "word_count": 10
+    }
+  ]
+}

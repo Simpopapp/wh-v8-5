@@ -1,0 +1,53 @@
+# Projeto 2 — PTE Master Hub: agenda, diagnóstico e modo simulado
+
+> Estado de partida: projeto 1 concluído (roadmap-proj1 100% — 16 task types, 2.032 questões,
+> 4 motores, sessões híbridas, dashboard, backup v2; gates verificados: vitest 97/97,
+> tsc limpo, build OK, preview :8080).
+
+## Problemas observados (levantamento no código, out/2026)
+
+1. **SRS só vive em /session.** O motor Leitner (`box`, `dueAt` em `QuestionStat`,
+   intervalos [0,1,3,7,14,30]) só é aplicado quando o usuário entra por /session.
+   Em /practice (acesso direto) a tentativa não alimenta a agenda de revisão, e
+   nem a home nem as seções mostram "vencidas hoje".
+2. **Não há modo simulado.** O exame real cronometra cada tipo e mistura as seções.
+   O app treina por tipo, mas não mede preparo sob pressão de prova.
+3. **Diagnóstico de erro raso.** `ERROR_SCORE=70` é um corte único; não há categorização
+   por tipo de erro (conteúdo vs. fluência vs. pronúncia, omissões/extras no ditado,
+   trap caindo em MCQ) nem padrões de palavras mais erradas.
+4. **Sessão não persiste.** O estado da sessão fica em memória — reload perde a fila
+   e o resumo; não há histórico de sessões concluídas (só attempts individuais).
+5. **PWA de fachada.** `public/sw.js` cacheia só shell/assets; os JSONs de dados
+   (`src/data/pte/*.json`, grandes) não são pré-cacheados — offline real é limitado.
+6. **Eficiência de fluxo.** Sem atalhos de teclado no loop de prática (gravar/parar,
+   prev/next, favoritar), sem notas de texto livre por questão (só `bookmarks`),
+   e o gráfico do /progress é um SVG manual de 14 dias — sem evolução por task type
+   nem comparação período a período.
+
+## Direção
+
+Transformar o hub de "treino por tipo" em **plataforma de preparo com agenda e
+diagnóstico**: o usuário sabe O QUÊ revisar (SRS em toda a app), QUANDO (fila do dia),
+e POR QUÊ (padrões de erro), e mede preparo real (simulado cronometrado).
+
+## Ordem lógica (fases candidatas para PRD/roadmap)
+
+1. **Persistência de sessão + histórico** — fundação: salvar fila/índice/resultados,
+   retomar após reload, registrar sessões concluídas.
+2. **SRS em toda a app** — /practice alimenta `dueAt`/box; badges "vencida hoje" na
+   home e nas listas de seção; entry "Fila do dia" (revisões vencidas primeiro).
+3. **Diagnóstico de erros** — categorização por métrica já presente em `Attempt.metrics`
+   (alinhamento, omissões/extras, WPM, saldo líquido) + top palavras/traps erradas.
+4. **Notas/tags por questão + atalhos de teclado** — notas de texto livre junto de
+   `bookmarks`; atalhos no loop de prática (gravar/parar, navegação, favoritar).
+5. **Modo simulado** — por seção e integral, com tempos reais do exame por tipo,
+   resumo comparativo ao fim.
+6. **PWA offline real + gráficos de evolução** — precache/cache-on-read dos JSONs de
+   dados no sw.js; histórico por task type e comparação semanal no /progress.
+
+## Restrições permanentes (herdadas)
+
+- Sem auth, sem nuvem, 100% localStorage; backup JSON versionado continua sendo o envelope
+  (novos campos — notas, sessões — entram no mesmo envelope).
+- TTS via Web Speech API; nada de biblioteca paga.
+- Gates por fase: vitest + tsc --noEmit + build + preview :8080.

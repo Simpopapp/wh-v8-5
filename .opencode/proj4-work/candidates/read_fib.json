@@ -1,0 +1,647 @@
+[
+ {
+  "id": "edknot-rfib-01",
+  "taskType": "read_fib",
+  "prompt": "Escolha a palavra correta para cada lacuna.",
+  "text": "The concept of sustainable urban development has _______(1) as a critical response to the rapid growth of cities worldwide. Planners now recognize that the design of a city can have a profound _______(2) on the well-being of its residents and the health of the environment. One key principle is the creation of _______(3) neighborhoods that combine residential, commercial, and recreational spaces, reducing the need for long commutes. Cities that _______(4) heavily on automobiles often face challenges such as traffic congestion and air pollution. In contrast, investments in public transit and pedestrian-friendly infrastructure are essential for _______(5) a more sustainable lifestyle. Another important aspect is the _______(6) between government agencies, private developers, and community groups to ensure that projects meet diverse needs. Finally, cities must _______(7) to changing circumstances, such as population shifts and climate impacts, by implementing flexible policies that can be updated over time. Sustainable development also involves preserving green spaces, promoting energy efficiency in buildings, and encouraging waste reduction through recycling programs. Urban planners increasingly incorporate smart technologies to monitor resource usage and improve service delivery. Public participation in decision-making processes helps align projects with local priorities. Economic vitality, social equity, and environmental protection are the three pillars of sustainability that guide modern urban planning. By integrating these principles, cities can become more resilient and livable for future generations. The challenges are significant, but the opportunities for innovation and improvement are equally vast. Ultimately, the goal is to create urban environments that support both human flourishing and ecological balance.",
+  "transcript": "",
+  "audio_text": "",
+  "content": "The concept of sustainable urban development has _______(1) as a critical response to the rapid growth of cities worldwide. Planners now recognize that the design of a city can have a profound _______(2) on the well-being of its residents and the health of the environment. One key principle is the creation of _______(3) neighborhoods that combine residential, commercial, and recreational spaces, reducing the need for long commutes. Cities that _______(4) heavily on automobiles often face challenges such as traffic congestion and air pollution. In contrast, investments in public transit and pedestrian-friendly infrastructure are essential for _______(5) a more sustainable lifestyle. Another important aspect is the _______(6) between government agencies, private developers, and community groups to ensure that projects meet diverse needs. Finally, cities must _______(7) to changing circumstances, such as population shifts and climate impacts, by implementing flexible policies that can be updated over time. Sustainable development also involves preserving green spaces, promoting energy efficiency in buildings, and encouraging waste reduction through recycling programs. Urban planners increasingly incorporate smart technologies to monitor resource usage and improve service delivery. Public participation in decision-making processes helps align projects with local priorities. Economic vitality, social equity, and environmental protection are the three pillars of sustainability that guide modern urban planning. By integrating these principles, cities can become more resilient and livable for future generations. The challenges are significant, but the opportunities for innovation and improvement are equally vast. Ultimately, the goal is to create urban environments that support both human flourishing and ecological balance.",
+  "blanks": [
+   {
+    "options": [
+     "emerged",
+     "vanished",
+     "arisen",
+     "developed"
+    ],
+    "answer": "emerged"
+   },
+   {
+    "options": [
+     "influence",
+     "absence",
+     "effect",
+     "impact"
+    ],
+    "answer": "influence"
+   },
+   {
+    "options": [
+     "distinct",
+     "identical",
+     "separate",
+     "different"
+    ],
+    "answer": "distinct"
+   },
+   {
+    "options": [
+     "rely",
+     "ignore",
+     "depend",
+     "count"
+    ],
+    "answer": "rely"
+   },
+   {
+    "options": [
+     "fostering",
+     "hindering",
+     "promoting",
+     "encouraging"
+    ],
+    "answer": "fostering"
+   },
+   {
+    "options": [
+     "collaboration",
+     "competition",
+     "partnership",
+     "cooperation"
+    ],
+    "answer": "collaboration"
+   },
+   {
+    "options": [
+     "adapt",
+     "resist",
+     "adjust",
+     "modify"
+    ],
+    "answer": "adapt"
+   }
+  ],
+  "source": "edknot.com",
+  "word_count": 251,
+  "topic": "sustainable urban development"
+ },
+ {
+  "id": "edknot-rfib-02",
+  "taskType": "read_fib",
+  "prompt": "Escolha a palavra correta para cada lacuna.",
+  "text": "If you are interested in studying but have other _______(1) , our online and distance learning courses offer an alternative flexible _______(2) of study. Teaching is conducted through a mixture of audio-visual, written and interactive materials. There are also _______(3) for online discussion and collaborative projects with tutors and other students. Some programs include residential _______(4) taught on campus, giving you the chance to meet and work alongside your tutors and fellow students face-to-face. Our Graduate School provides comprehensive support for distance and part-time researchers, many of whom study for up to six years or more.",
+  "transcript": "",
+  "audio_text": "",
+  "content": "If you are interested in studying but have other _______(1) , our online and distance learning courses offer an alternative flexible _______(2) of study. Teaching is conducted through a mixture of audio-visual, written and interactive materials. There are also _______(3) for online discussion and collaborative projects with tutors and other students. Some programs include residential _______(4) taught on campus, giving you the chance to meet and work alongside your tutors and fellow students face-to-face. Our Graduate School provides comprehensive support for distance and part-time researchers, many of whom study for up to six years or more.",
+  "blanks": [
+   {
+    "options": [
+     "commitments",
+     "obligations",
+     "duties",
+     "responsibilities"
+    ],
+    "answer": "commitments"
+   },
+   {
+    "options": [
+     "mode",
+     "method",
+     "form",
+     "type"
+    ],
+    "answer": "mode"
+   },
+   {
+    "options": [
+     "opportunities",
+     "chances",
+     "possibilities",
+     "avenues"
+    ],
+    "answer": "opportunities"
+   },
+   {
+    "options": [
+     "modules",
+     "courses",
+     "units",
+     "classes"
+    ],
+    "answer": "modules"
+   }
+  ],
+  "source": "edknot.com",
+  "word_count": 96,
+  "topic": "online learning flexibility"
+ },
+ {
+  "id": "edknot-rfib-03",
+  "taskType": "read_fib",
+  "prompt": "Escolha a palavra correta para cada lacuna.",
+  "text": "Radioactivity was discovered in 1896 by the French physicist, Antoine Henri Becquerel. He left an unexposed photographic plate in the dark near a sample of a uranium salt. When the plate was _______(1) it was found to be _______(2) , just as if it had been exposed to light, which was caused by a form of radiation from the uranium. The term radioactivity was _______(3) by Marie Curie and her husband Pierre Curie. They worked together and showed that radioactivity was an atomic property not a chemical change. The _______(4) of radioactivity won the Curies and Ekcquerel the Nobel Prize for Physics in 1903.",
+  "transcript": "",
+  "audio_text": "",
+  "content": "Radioactivity was discovered in 1896 by the French physicist, Antoine Henri Becquerel. He left an unexposed photographic plate in the dark near a sample of a uranium salt. When the plate was _______(1) it was found to be _______(2) , just as if it had been exposed to light, which was caused by a form of radiation from the uranium. The term radioactivity was _______(3) by Marie Curie and her husband Pierre Curie. They worked together and showed that radioactivity was an atomic property not a chemical change. The _______(4) of radioactivity won the Curies and Ekcquerel the Nobel Prize for Physics in 1903.",
+  "blanks": [
+   {
+    "options": [
+     "developed",
+     "unraveled",
+     "overlapped",
+     "transmitted"
+    ],
+    "answer": "developed"
+   },
+   {
+    "options": [
+     "transparent",
+     "corrugated",
+     "fogged",
+     "clarified"
+    ],
+    "answer": "fogged"
+   },
+   {
+    "options": [
+     "concocted",
+     "coined",
+     "created",
+     "designed"
+    ],
+    "answer": "coined"
+   },
+   {
+    "options": [
+     "fabrication",
+     "invention",
+     "discharge",
+     "discovery"
+    ],
+    "answer": "discovery"
+   }
+  ],
+  "source": "edknot.com",
+  "word_count": 104,
+  "topic": "radioactivity discovery history"
+ },
+ {
+  "id": "edknot-rfib-04",
+  "taskType": "read_fib",
+  "prompt": "Escolha a palavra correta para cada lacuna.",
+  "text": "Dialogue ought to be transparent, truthful, and _______(1) . Individuals feel _______(2) to voice their ideas, views, and possible fixes to issues. They sense that they are fully heard and acknowledged by colleagues who are _______(3) to comprehend. Team members inquire for understanding and devote their mental energy to listening intently _______(4) than constructing counterarguments while their peer is talking.",
+  "transcript": "",
+  "audio_text": "",
+  "content": "Dialogue ought to be transparent, truthful, and _______(1) . Individuals feel _______(2) to voice their ideas, views, and possible fixes to issues. They sense that they are fully heard and acknowledged by colleagues who are _______(3) to comprehend. Team members inquire for understanding and devote their mental energy to listening intently _______(4) than constructing counterarguments while their peer is talking.",
+  "blanks": [
+   {
+    "options": [
+     "respectful",
+     "honest",
+     "open",
+     "sincere"
+    ],
+    "answer": "respectful"
+   },
+   {
+    "options": [
+     "free",
+     "able",
+     "willing",
+     "encouraged"
+    ],
+    "answer": "free"
+   },
+   {
+    "options": [
+     "attempting",
+     "trying",
+     "seeking",
+     "striving"
+    ],
+    "answer": "attempting"
+   },
+   {
+    "options": [
+     "rather",
+     "more",
+     "less",
+     "other"
+    ],
+    "answer": "rather"
+   }
+  ],
+  "source": "edknot.com",
+  "word_count": 60,
+  "topic": "transparent dialogue qualities"
+ },
+ {
+  "id": "edknot-rfib-05",
+  "taskType": "read_fib",
+  "prompt": "Escolha a palavra correta para cada lacuna.",
+  "text": "As a Society for Human Resource Management (SHRM) article emphasizes: \"Discrimination costs employers millions of dollars every year, not to mention the countless hours of lost work time, employee stress and the _______(1) public image that goes along with a discrimination lawsuit.\" Equal employment opportunity isn't just the right thing to do, it's the law. Specifically, it's a series of federal laws and Executive Orders designed to _______(2) employment discrimination. Illegal discrimination is the _______(3) of making employment decisions such as hiring, compensation, scheduling, performance evaluation, promotion, and firing _______(4) on factors unrelated to performance. There are currently seven categories protected under federal law: age, disability, genetic information, national origin, pregnancy, race and color, religion and sex.",
+  "transcript": "",
+  "audio_text": "",
+  "content": "As a Society for Human Resource Management (SHRM) article emphasizes: \"Discrimination costs employers millions of dollars every year, not to mention the countless hours of lost work time, employee stress and the _______(1) public image that goes along with a discrimination lawsuit.\" Equal employment opportunity isn't just the right thing to do, it's the law. Specifically, it's a series of federal laws and Executive Orders designed to _______(2) employment discrimination. Illegal discrimination is the _______(3) of making employment decisions such as hiring, compensation, scheduling, performance evaluation, promotion, and firing _______(4) on factors unrelated to performance. There are currently seven categories protected under federal law: age, disability, genetic information, national origin, pregnancy, race and color, religion and sex.",
+  "blanks": [
+   {
+    "options": [
+     "constructive",
+     "negative",
+     "responsive",
+     "imaginative"
+    ],
+    "answer": "negative"
+   },
+   {
+    "options": [
+     "eliminate",
+     "subordinate",
+     "alternate",
+     "illuminate"
+    ],
+    "answer": "eliminate"
+   },
+   {
+    "options": [
+     "practice",
+     "partition",
+     "trajectory",
+     "accomplice"
+    ],
+    "answer": "practice"
+   },
+   {
+    "options": [
+     "based",
+     "basis",
+     "base",
+     "basing"
+    ],
+    "answer": "based"
+   }
+  ],
+  "source": "edknot.com",
+  "word_count": 117,
+  "topic": "discrimination costs employers"
+ },
+ {
+  "id": "edknot-rfib-06",
+  "taskType": "read_fib",
+  "prompt": "Escolha a palavra correta para cada lacuna.",
+  "text": "Early humans were hunter-gatherers, roaming from place to place, but their movements were controlled by the need for water. When humans _______(1) to grow food and established permanent settlements, water was needed for crops and animals as well as for people, _______(2) settlements have always grown up near reliable sources of water. Most major towns lie on the banks of rivers, or, where there are no streams or rivers, settlements exist where underground water can be reached by digging wells. The management of water resources has a _______(3) . The oldest known dam in the world was constructed in Egypt about 5000 years ago, and was used for storing drinking and irrigation water. Farmers in Arabia at this time used the craters of extinct volcanoes as storage tanks for irrigation water and dug deep wells for their drinking water. Excavated ruins in India of similar antiquity retain the remains of water supply and drainage systems, _______(4) included baths and swimming pools.",
+  "transcript": "",
+  "audio_text": "",
+  "content": "Early humans were hunter-gatherers, roaming from place to place, but their movements were controlled by the need for water. When humans _______(1) to grow food and established permanent settlements, water was needed for crops and animals as well as for people, _______(2) settlements have always grown up near reliable sources of water. Most major towns lie on the banks of rivers, or, where there are no streams or rivers, settlements exist where underground water can be reached by digging wells. The management of water resources has a _______(3) . The oldest known dam in the world was constructed in Egypt about 5000 years ago, and was used for storing drinking and irrigation water. Farmers in Arabia at this time used the craters of extinct volcanoes as storage tanks for irrigation water and dug deep wells for their drinking water. Excavated ruins in India of similar antiquity retain the remains of water supply and drainage systems, _______(4) included baths and swimming pools.",
+  "blanks": [
+   {
+    "options": [
+     "started",
+     "began",
+     "learned",
+     "attempted"
+    ],
+    "answer": "started"
+   },
+   {
+    "options": [
+     "so",
+     "thus",
+     "hence",
+     "therefore"
+    ],
+    "answer": "so"
+   },
+   {
+    "options": [
+     "long history",
+     "rich history",
+     "deep past",
+     "old tradition"
+    ],
+    "answer": "long"
+   },
+   {
+    "options": [
+     "which",
+     "that",
+     "where",
+     "when"
+    ],
+    "answer": "which"
+   }
+  ],
+  "source": "edknot.com",
+  "word_count": 161,
+  "topic": "water settlement proximity"
+ },
+ {
+  "id": "edknot-rfib-07",
+  "taskType": "read_fib",
+  "prompt": "Escolha a palavra correta para cada lacuna.",
+  "text": "Anna was a 15-year-old girl who loved to _______(1) out with her friends, play soccer, and listen to music. She was looking forward _______(2) high school and exploring new subjects and activities. But then the covid-19 pandemic _______(3) , and everything changed. She had to stay at home, attend online classes, and avoid social gatherings. She felt lonely, bored, and anxious. She was not alone. Many adolescents around the world experienced similar challenges during the pandemic. A new study found that the pandemic had a particularly large effect on the ageing rate of adolescent girls’ brains. The researchers speculated that the pandemic might have _______(4) the normal development of the adolescent brain, which is sensitive to environmental influences. They suggested that factors such as stress, isolation, lack of stimulation, and reduced physical activity might have contributed to the brain changes. They also warned that these changes might have long-term _______(5) for cognitive and mental health. They called for more research and interventions to support adolescents during and after the pandemic.",
+  "transcript": "",
+  "audio_text": "",
+  "content": "Anna was a 15-year-old girl who loved to _______(1) out with her friends, play soccer, and listen to music. She was looking forward _______(2) high school and exploring new subjects and activities. But then the covid-19 pandemic _______(3) , and everything changed. She had to stay at home, attend online classes, and avoid social gatherings. She felt lonely, bored, and anxious. She was not alone. Many adolescents around the world experienced similar challenges during the pandemic. A new study found that the pandemic had a particularly large effect on the ageing rate of adolescent girls’ brains. The researchers speculated that the pandemic might have _______(4) the normal development of the adolescent brain, which is sensitive to environmental influences. They suggested that factors such as stress, isolation, lack of stimulation, and reduced physical activity might have contributed to the brain changes. They also warned that these changes might have long-term _______(5) for cognitive and mental health. They called for more research and interventions to support adolescents during and after the pandemic.",
+  "blanks": [
+   {
+    "options": [
+     "hang",
+     "find",
+     "take",
+     "pick"
+    ],
+    "answer": "hang"
+   },
+   {
+    "options": [
+     "of starting",
+     "start of",
+     "to start",
+     "to starting"
+    ],
+    "answer": "to"
+   },
+   {
+    "options": [
+     "kicked",
+     "floated",
+     "raced",
+     "hit"
+    ],
+    "answer": "hit"
+   },
+   {
+    "options": [
+     "flavored",
+     "disrupted",
+     "tightened",
+     "deducted"
+    ],
+    "answer": "disrupted"
+   },
+   {
+    "options": [
+     "consequences",
+     "procedures",
+     "tendencies",
+     "traditions"
+    ],
+    "answer": "consequences"
+   }
+  ],
+  "source": "edknot.com",
+  "word_count": 170,
+  "topic": "teen pandemic social"
+ },
+ {
+  "id": "edknot-rfib-08",
+  "taskType": "read_fib",
+  "prompt": "Escolha a palavra correta para cada lacuna.",
+  "text": "Research from the Terry College of Business reveals _______(1) a happy, helpful employee takes effort and, eventually, that effort _______(2) the energy needed to do one’s job. It could lead to quiet quitting – the new term for just doing your job but not going above and beyond – or even actual quitting. The more people adjust their moods to be happy, the fewer emotional resources they have _______(3) the end of the day. That means they are less able to handle challenging tasks and interactions and have a harder time staying on task. Their tank is empty despite being in a good mood, Frank explained. For managers, this means it may make more sense to meet employees _______(4) they are emotionally and not force upbeat attitudes in the office. For employees, it may mean letting bad days happen and leaving more mood-demanding work — such as sales calls or tough conversations — for better days.",
+  "transcript": "",
+  "audio_text": "",
+  "content": "Research from the Terry College of Business reveals _______(1) a happy, helpful employee takes effort and, eventually, that effort _______(2) the energy needed to do one’s job. It could lead to quiet quitting – the new term for just doing your job but not going above and beyond – or even actual quitting. The more people adjust their moods to be happy, the fewer emotional resources they have _______(3) the end of the day. That means they are less able to handle challenging tasks and interactions and have a harder time staying on task. Their tank is empty despite being in a good mood, Frank explained. For managers, this means it may make more sense to meet employees _______(4) they are emotionally and not force upbeat attitudes in the office. For employees, it may mean letting bad days happen and leaving more mood-demanding work — such as sales calls or tough conversations — for better days.",
+  "blanks": [
+   {
+    "options": [
+     "becomes",
+     "becoming",
+     "become",
+     "become to"
+    ],
+    "answer": "becoming"
+   },
+   {
+    "options": [
+     "concludes",
+     "erodes",
+     "expects",
+     "collects"
+    ],
+    "answer": "erodes"
+   },
+   {
+    "options": [
+     "at",
+     "since",
+     "by",
+     "for"
+    ],
+    "answer": "at"
+   },
+   {
+    "options": [
+     "where",
+     "which",
+     "what",
+     "that"
+    ],
+    "answer": "where"
+   }
+  ],
+  "source": "edknot.com",
+  "word_count": 156,
+  "topic": "employee happiness and"
+ },
+ {
+  "id": "edknot-rfib-09",
+  "taskType": "read_fib",
+  "prompt": "Escolha a palavra correta para cada lacuna.",
+  "text": "Communication is not just about what you say, but how you say it. Your tone of voice in communication can make or break your relationships, your career and your life. According to a study by researchers from the University of Southern California, the tone of voice in communication is a better _______(1) of relationship success than the actual words or behaviors of the partners. Your tone of voice in communication is _______(2) of four elements: pitch, pace, volume and modulation. These elements _______(3) your attitude, emotion and intention to your listener. By being mindful of these elements, you can watch your tone and use it to achieve your goals. _______(4) you want to build rapport, make connections, influence others or get what you want, your tone of voice in communication can help you do that.",
+  "transcript": "",
+  "audio_text": "",
+  "content": "Communication is not just about what you say, but how you say it. Your tone of voice in communication can make or break your relationships, your career and your life. According to a study by researchers from the University of Southern California, the tone of voice in communication is a better _______(1) of relationship success than the actual words or behaviors of the partners. Your tone of voice in communication is _______(2) of four elements: pitch, pace, volume and modulation. These elements _______(3) your attitude, emotion and intention to your listener. By being mindful of these elements, you can watch your tone and use it to achieve your goals. _______(4) you want to build rapport, make connections, influence others or get what you want, your tone of voice in communication can help you do that.",
+  "blanks": [
+   {
+    "options": [
+     "symptom",
+     "heritage",
+     "narrator",
+     "predictor"
+    ],
+    "answer": "predictor"
+   },
+   {
+    "options": [
+     "composed",
+     "concentrated",
+     "reduced",
+     "organized"
+    ],
+    "answer": "composed"
+   },
+   {
+    "options": [
+     "commence",
+     "reminisce",
+     "displace",
+     "convey"
+    ],
+    "answer": "convey"
+   },
+   {
+    "options": [
+     "Due to",
+     "Unless",
+     "Whether",
+     "No matter"
+    ],
+    "answer": "Whether"
+   }
+  ],
+  "source": "edknot.com",
+  "word_count": 135,
+  "topic": "tone of voice"
+ },
+ {
+  "id": "edknot-rfib-10",
+  "taskType": "read_fib",
+  "prompt": "Escolha a palavra correta para cada lacuna.",
+  "text": "Doughnuts are particularly difficult to resist – and now we know why. A study of how our brains respond to food has found that _______(1) that are high in both carbs and fats trigger a super-charged amount of activity in our brain’s reward center. Dana Small at Yale University and colleagues scanned the brain activity of hungry volunteers as they were shown images of foods that were either high in carbohydrate, such as candy, high in fat, such as cheese, or high in both, such as doughnuts. After the scans, the volunteers were asked to _______(2) money in a competitive auction for the food they wanted to have for a snack. Compared to food containing just carbs or fat, the team found that foods high in both of these together _______(3) far more activity in the brain’s striatum – a region involved in reward that releases the feel-good chemical dopamine. The volunteers were also willing to pay more for the snacks that were high in both carbs and fat, despite all the food items having the same calorific value.",
+  "transcript": "",
+  "audio_text": "",
+  "content": "Doughnuts are particularly difficult to resist – and now we know why. A study of how our brains respond to food has found that _______(1) that are high in both carbs and fats trigger a super-charged amount of activity in our brain’s reward center. Dana Small at Yale University and colleagues scanned the brain activity of hungry volunteers as they were shown images of foods that were either high in carbohydrate, such as candy, high in fat, such as cheese, or high in both, such as doughnuts. After the scans, the volunteers were asked to _______(2) money in a competitive auction for the food they wanted to have for a snack. Compared to food containing just carbs or fat, the team found that foods high in both of these together _______(3) far more activity in the brain’s striatum – a region involved in reward that releases the feel-good chemical dopamine. The volunteers were also willing to pay more for the snacks that were high in both carbs and fat, despite all the food items having the same calorific value.",
+  "blanks": [
+   {
+    "options": [
+     "cheats",
+     "treats",
+     "colons",
+     "feats"
+    ],
+    "answer": "treats"
+   },
+   {
+    "options": [
+     "arid",
+     "avid",
+     "bud",
+     "bid"
+    ],
+    "answer": "bid"
+   },
+   {
+    "options": [
+     "provoked",
+     "convoked",
+     "evoked",
+     "revoked"
+    ],
+    "answer": "provoked"
+   }
+  ],
+  "source": "edknot.com",
+  "word_count": 179,
+  "topic": "brain response to"
+ },
+ {
+  "id": "edknot-rfib-11",
+  "taskType": "read_fib",
+  "prompt": "Escolha a palavra correta para cada lacuna.",
+  "text": "Many types of scientific evidence show that involvement in social relationships benefits health. The most striking evidence comes from prospective studies of mortality _______(1) industrialized nations. These studies _______(2) show that individuals with the lowest level of involvement in social relationships are more likely to die than those with greater involvement. The risk of death among men and women with the fewest social ties was more than twice as high as the risk for adults with the most social ties. Social ties also reduce _______(3) risk among adults with documented medical conditions. Among adults with coronary artery disease, the socially isolated had a risk of subsequent cardiac death 2.4 times greater than their more socially connected _______(4) . In addition to mortality, involvement in social relationships has been associated with specific health conditions as well as biological markers indicating risk of preclinical conditions. Several recent review articles provide consistent and _______(5) evidence linking a low quantity or quality of social ties with a host of conditions.",
+  "transcript": "",
+  "audio_text": "",
+  "content": "Many types of scientific evidence show that involvement in social relationships benefits health. The most striking evidence comes from prospective studies of mortality _______(1) industrialized nations. These studies _______(2) show that individuals with the lowest level of involvement in social relationships are more likely to die than those with greater involvement. The risk of death among men and women with the fewest social ties was more than twice as high as the risk for adults with the most social ties. Social ties also reduce _______(3) risk among adults with documented medical conditions. Among adults with coronary artery disease, the socially isolated had a risk of subsequent cardiac death 2.4 times greater than their more socially connected _______(4) . In addition to mortality, involvement in social relationships has been associated with specific health conditions as well as biological markers indicating risk of preclinical conditions. Several recent review articles provide consistent and _______(5) evidence linking a low quantity or quality of social ties with a host of conditions.",
+  "blanks": [
+   {
+    "options": [
+     "off",
+     "beneath",
+     "on",
+     "across"
+    ],
+    "answer": "across"
+   },
+   {
+    "options": [
+     "impotently",
+     "consistently",
+     "competently",
+     "inadvertently"
+    ],
+    "answer": "consistently"
+   },
+   {
+    "options": [
+     "mentality",
+     "mortality",
+     "morality",
+     "mutuality"
+    ],
+    "answer": "mortality"
+   },
+   {
+    "options": [
+     "sneers",
+     "peers",
+     "careers",
+     "pioneers"
+    ],
+    "answer": "peers"
+   },
+   {
+    "options": [
+     "dispelling",
+     "compelling",
+     "propelling",
+     "impelling"
+    ],
+    "answer": "compelling"
+   }
+  ],
+  "source": "edknot.com",
+  "word_count": 166,
+  "topic": "social relationships health"
+ },
+ {
+  "id": "edknot-rfib-12",
+  "taskType": "read_fib",
+  "prompt": "Escolha a palavra correta para cada lacuna.",
+  "text": "In the US, artists in the mid-1950s began to create a _______(1) to Pop. Strongly influenced by Dada and its _______(2) on appropriation and everyday objects, artists increasingly worked with _______(3) , consumer products, and a healthy dose of irony. Jasper Johns _______(4) iconic imagery like the American flag; Robert Rauschenberg employed silk-screen printings and found objects; and Larry Rivers used images of mass-produced goods. All three are considered American _______(5) of Pop.",
+  "transcript": "",
+  "audio_text": "",
+  "content": "In the US, artists in the mid-1950s began to create a _______(1) to Pop. Strongly influenced by Dada and its _______(2) on appropriation and everyday objects, artists increasingly worked with _______(3) , consumer products, and a healthy dose of irony. Jasper Johns _______(4) iconic imagery like the American flag; Robert Rauschenberg employed silk-screen printings and found objects; and Larry Rivers used images of mass-produced goods. All three are considered American _______(5) of Pop.",
+  "blanks": [
+   {
+    "options": [
+     "bridge",
+     "distribution",
+     "cap",
+     "finale"
+    ],
+    "answer": "bridge"
+   },
+   {
+    "options": [
+     "emphasis",
+     "point",
+     "pressure",
+     "strength"
+    ],
+    "answer": "emphasis"
+   },
+   {
+    "options": [
+     "collage",
+     "cost",
+     "disintegration",
+     "leash"
+    ],
+    "answer": "collage"
+   },
+   {
+    "options": [
+     "reimagined",
+     "recalled",
+     "recycled",
+     "reviewed"
+    ],
+    "answer": "reimagined"
+   },
+   {
+    "options": [
+     "forerunners",
+     "protesters",
+     "funders",
+     "founders"
+    ],
+    "answer": "forerunners"
+   }
+  ],
+  "source": "edknot.com",
+  "word_count": 73,
+  "topic": "pop art movement"
+ }
+]

@@ -1,0 +1,170 @@
+[
+ {
+  "id": "edknot-ro-01",
+  "taskType": "reorder_paragraphs",
+  "prompt": "Reordene os trechos para formar um parágrafo coerente.",
+  "text": "This period, however, also sees the emergence of a Cold War that divides the continent for more than 40 years.\nWith the aim of ending the frequent and bloody conflicts that culminated in the Second World War, European politicians begin the process of building what we know today as the European Union.\nThe European Coal and Steel Community, founded in 1951, is the first step in securing a lasting peace.\nIn 1957, the Treaty of Rome establishes the European Economic Community (EEC) and a new era of ever-closer cooperation in Europe.",
+  "transcript": "",
+  "audio_text": "",
+  "content": "This period, however, also sees the emergence of a Cold War that divides the continent for more than 40 years.\nWith the aim of ending the frequent and bloody conflicts that culminated in the Second World War, European politicians begin the process of building what we know today as the European Union.\nThe European Coal and Steel Community, founded in 1951, is the first step in securing a lasting peace.\nIn 1957, the Treaty of Rome establishes the European Economic Community (EEC) and a new era of ever-closer cooperation in Europe.",
+  "items": [
+   "This period, however, also sees the emergence of a Cold War that divides the continent for more than 40 years.",
+   "With the aim of ending the frequent and bloody conflicts that culminated in the Second World War, European politicians begin the process of building what we know today as the European Union.",
+   "The European Coal and Steel Community, founded in 1951, is the first step in securing a lasting peace.",
+   "In 1957, the Treaty of Rome establishes the European Economic Community (EEC) and a new era of ever-closer cooperation in Europe."
+  ],
+  "correct_order": [
+   1,
+   2,
+   3,
+   0
+  ],
+  "source": "edknot.com",
+  "word_count": 91,
+  "topic": "with the aim"
+ },
+ {
+  "id": "edknot-ro-02",
+  "taskType": "reorder_paragraphs",
+  "prompt": "Reordene os trechos para formar um parágrafo coerente.",
+  "text": "The internet has also opened up new opportunities for businesses to reach global markets and for individuals to connect with people from around the world.\nIt has transformed industries, from retail and entertainment to education and healthcare.\nThis innovation has revolutionized the way we communicate, work, and access information.\nIn just a few decades, the internet has become an integral part of our daily lives.",
+  "transcript": "",
+  "audio_text": "",
+  "content": "The internet has also opened up new opportunities for businesses to reach global markets and for individuals to connect with people from around the world.\nIt has transformed industries, from retail and entertainment to education and healthcare.\nThis innovation has revolutionized the way we communicate, work, and access information.\nIn just a few decades, the internet has become an integral part of our daily lives.",
+  "items": [
+   "The internet has also opened up new opportunities for businesses to reach global markets and for individuals to connect with people from around the world.",
+   "It has transformed industries, from retail and entertainment to education and healthcare.",
+   "This innovation has revolutionized the way we communicate, work, and access information.",
+   "In just a few decades, the internet has become an integral part of our daily lives."
+  ],
+  "correct_order": [
+   3,
+   1,
+   0,
+   2
+  ],
+  "source": "edknot.com",
+  "word_count": 65,
+  "topic": "in just a"
+ },
+ {
+  "id": "edknot-ro-03",
+  "taskType": "reorder_paragraphs",
+  "prompt": "Reordene os trechos para formar um parágrafo coerente.",
+  "text": "The results of this comprehensive analysis have been published in Science.\nThey have spent the past three years crunching all the numbers they could lay their hands on.\nThese ranged from the current UN Food and Agriculture Organization&#x27;s database to information hundreds of years old, gleaned from kitchen records and archeology.\nIn order to establish whether diversity matters in the sea as well as on land, 11 marine biologists, along with three economists, have joined forces.",
+  "transcript": "",
+  "audio_text": "",
+  "content": "The results of this comprehensive analysis have been published in Science.\nThey have spent the past three years crunching all the numbers they could lay their hands on.\nThese ranged from the current UN Food and Agriculture Organization&#x27;s database to information hundreds of years old, gleaned from kitchen records and archeology.\nIn order to establish whether diversity matters in the sea as well as on land, 11 marine biologists, along with three economists, have joined forces.",
+  "items": [
+   "The results of this comprehensive analysis have been published in Science.",
+   "They have spent the past three years crunching all the numbers they could lay their hands on.",
+   "These ranged from the current UN Food and Agriculture Organization&#x27;s database to information hundreds of years old, gleaned from kitchen records and archeology.",
+   "In order to establish whether diversity matters in the sea as well as on land, 11 marine biologists, along with three economists, have joined forces."
+  ],
+  "correct_order": [
+   3,
+   1,
+   2,
+   0
+  ],
+  "source": "edknot.com",
+  "word_count": 76,
+  "topic": "in order to"
+ },
+ {
+  "id": "edknot-ro-04",
+  "taskType": "reorder_paragraphs",
+  "prompt": "Reordene os trechos para formar um parágrafo coerente.",
+  "text": "In order to do this , the manager should be able to motivate its employees.\nThe job of a manager in the workplace is to get things done through the employees.\nHowever, this easier said than done.\nMotivation practice and theory are difficult, complex subjects touching on several disciplines .",
+  "transcript": "",
+  "audio_text": "",
+  "content": "In order to do this , the manager should be able to motivate its employees.\nThe job of a manager in the workplace is to get things done through the employees.\nHowever, this easier said than done.\nMotivation practice and theory are difficult, complex subjects touching on several disciplines .",
+  "items": [
+   "In order to do this , the manager should be able to motivate its employees.",
+   "The job of a manager in the workplace is to get things done through the employees.",
+   "However, this easier said than done.",
+   "Motivation practice and theory are difficult, complex subjects touching on several disciplines ."
+  ],
+  "correct_order": [
+   1,
+   0,
+   2,
+   3
+  ],
+  "source": "edknot.com",
+  "word_count": 50,
+  "topic": "the job of"
+ },
+ {
+  "id": "edknot-ro-05",
+  "taskType": "reorder_paragraphs",
+  "prompt": "Reordene os trechos para formar um parágrafo coerente.",
+  "text": "For example, psychologist Gayle Delaney told of a woman who dreamed she was swimming underwater.\nOne explanation of dreams holds that they reflect the ongoing conscious preoccupations of waking life, such as concerns over health.\nTo Delaney, the message was obvious: the woman was &quot;drowning&#x27; under the responsibilities of child care, and her husband wasn&#x27;t &quot;getting the picture&quot;.\nThe woman&#x27;s eight-year-old son was on her back, his head above water. Her husuband was supposed to take pictures, but wasn&#x27;t, and she was starting to feel she was going to drown.",
+  "transcript": "",
+  "audio_text": "",
+  "content": "For example, psychologist Gayle Delaney told of a woman who dreamed she was swimming underwater.\nOne explanation of dreams holds that they reflect the ongoing conscious preoccupations of waking life, such as concerns over health.\nTo Delaney, the message was obvious: the woman was &quot;drowning&#x27; under the responsibilities of child care, and her husband wasn&#x27;t &quot;getting the picture&quot;.\nThe woman&#x27;s eight-year-old son was on her back, his head above water. Her husuband was supposed to take pictures, but wasn&#x27;t, and she was starting to feel she was going to drown.",
+  "items": [
+   "For example, psychologist Gayle Delaney told of a woman who dreamed she was swimming underwater.",
+   "One explanation of dreams holds that they reflect the ongoing conscious preoccupations of waking life, such as concerns over health.",
+   "To Delaney, the message was obvious: the woman was &quot;drowning&#x27; under the responsibilities of child care, and her husband wasn&#x27;t &quot;getting the picture&quot;.",
+   "The woman&#x27;s eight-year-old son was on her back, his head above water. Her husuband was supposed to take pictures, but wasn&#x27;t, and she was starting to feel she was going to drown."
+  ],
+  "correct_order": [
+   1,
+   0,
+   3,
+   2
+  ],
+  "source": "edknot.com",
+  "word_count": 90,
+  "topic": "one explanation of"
+ },
+ {
+  "id": "edknot-ro-07",
+  "taskType": "reorder_paragraphs",
+  "prompt": "Reordene os trechos para formar um parágrafo coerente.",
+  "text": "In Montana as elsewhere, companies that have acquired older mines respond to demands to pay for cleanup in either of two ways.\nIf the company is so large that it cannot claim that it would be bankrupted by cleanup costs (as in the case of ARCO that I shall discuss below), the company instead denies its responsibility or else seeks to minimize the costs.\nEspecially if the company is small, its owners may declare the company bankrupt, in some cases conceal its assets, and transfer their business efforts to other companies or to new companies that do not bear responsibility for cleanup at the old mine.\nIn either case, either the mine site and areas downstream of it remain toxic, thereby endangering people, or else the U.S. federal government and the Montana state government (hence ultimately all taxpayers) pay for the cleanup through the federal Superfund and a corresponding Montana state fund.",
+  "transcript": "",
+  "audio_text": "",
+  "content": "In Montana as elsewhere, companies that have acquired older mines respond to demands to pay for cleanup in either of two ways.\nIf the company is so large that it cannot claim that it would be bankrupted by cleanup costs (as in the case of ARCO that I shall discuss below), the company instead denies its responsibility or else seeks to minimize the costs.\nEspecially if the company is small, its owners may declare the company bankrupt, in some cases conceal its assets, and transfer their business efforts to other companies or to new companies that do not bear responsibility for cleanup at the old mine.\nIn either case, either the mine site and areas downstream of it remain toxic, thereby endangering people, or else the U.S. federal government and the Montana state government (hence ultimately all taxpayers) pay for the cleanup through the federal Superfund and a corresponding Montana state fund.",
+  "items": [
+   "In Montana as elsewhere, companies that have acquired older mines respond to demands to pay for cleanup in either of two ways.",
+   "If the company is so large that it cannot claim that it would be bankrupted by cleanup costs (as in the case of ARCO that I shall discuss below), the company instead denies its responsibility or else seeks to minimize the costs.",
+   "Especially if the company is small, its owners may declare the company bankrupt, in some cases conceal its assets, and transfer their business efforts to other companies or to new companies that do not bear responsibility for cleanup at the old mine.",
+   "In either case, either the mine site and areas downstream of it remain toxic, thereby endangering people, or else the U.S. federal government and the Montana state government (hence ultimately all taxpayers) pay for the cleanup through the federal Superfund and a corresponding Montana state fund."
+  ],
+  "correct_order": [
+   0,
+   2,
+   1,
+   3
+  ],
+  "source": "edknot.com",
+  "word_count": 152,
+  "topic": "in montana as"
+ },
+ {
+  "id": "edknot-ro-11",
+  "taskType": "reorder_paragraphs",
+  "prompt": "Reordene os trechos para formar um parágrafo coerente.",
+  "text": "Yet, this trend also challenges traditional food industries to innovate and adapt to changing consumer preferences.\nThis curiosity has led to a rise in ethnic restaurants and food festivals.\nGlobalization has increased the popularity of international cuisines.\nPeople are now more adventurous in their food choices, exploring dishes from different cultures.",
+  "transcript": "",
+  "audio_text": "",
+  "content": "Yet, this trend also challenges traditional food industries to innovate and adapt to changing consumer preferences.\nThis curiosity has led to a rise in ethnic restaurants and food festivals.\nGlobalization has increased the popularity of international cuisines.\nPeople are now more adventurous in their food choices, exploring dishes from different cultures.",
+  "items": [
+   "Yet, this trend also challenges traditional food industries to innovate and adapt to changing consumer preferences.",
+   "This curiosity has led to a rise in ethnic restaurants and food festivals.",
+   "Globalization has increased the popularity of international cuisines.",
+   "People are now more adventurous in their food choices, exploring dishes from different cultures."
+  ],
+  "correct_order": [
+   2,
+   3,
+   1,
+   0
+  ],
+  "source": "edknot.com",
+  "word_count": 51,
+  "topic": "globalization has increased"
+ }
+]

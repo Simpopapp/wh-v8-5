@@ -1,0 +1,512 @@
+{
+  "type": "respond_to_situation",
+  "task_type": "Respond to a Situation",
+  "section": "speaking",
+  "total": 63,
+  "questions": [
+    {
+      "id": "rts-ek-01",
+      "topic": "The dormitory appliance has broken down. You need to leave a",
+      "text": "The dormitory appliance has broken down. You need to leave a message for Mr. Norri from maintenance, requesting that he come fix it while you're in class this afternoon. What would you say to him?",
+      "sample": "Hello Mr. Norri, I'm calling about a broken appliance in my dorm. It's the refrigerator in the second-floor common area that isn't cooling properly. I'll be in class from roughly 1 to 3 pm today, so you can come by and repair it then. I'll make sure the common room is accessible for you. Let me know if that time suits you or if you need additional information about the problem.",
+      "source": "edknot.com",
+      "word_count": 35
+    },
+    {
+      "id": "rts-ek-02",
+      "topic": "You are hosting a party at your home for your classmates. Yo",
+      "text": "You are hosting a party at your home for your classmates. You plan to serve barbecue and salad, but you are unaware of any dietary restrictions they might have. You tried calling to ask about this, but they didn't answer. Please leave a message for them.",
+      "sample": "Hi everyone, this is about the get-together at my place. I attempted to call but couldn't reach you, so I'm leaving this voicemail. I'm thinking of making barbecue and a large salad for the group, but it occurred to me that I don't know if any of you have food allergies or dietary needs. Could you please send me a text and let me know if there's anything you can't eat or would rather avoid? I want to ensure there's food for everyone, and I'll also have some vegetarian dishes ready just in case.",
+      "source": "edknot.com",
+      "word_count": 46
+    },
+    {
+      "id": "rts-ek-03",
+      "topic": "You are in a classroom. A classmate is feeling so bored that",
+      "text": "You are in a classroom. A classmate is feeling so bored that he plans to leave before the lesson ends. How would you respond to him?",
+      "sample": "I can see you're really bored and want to head out early. I understand—some classes feel endless. But we've already passed the halfway point, and you could miss key material that might show up on the test. How about staying just a little longer? If you absolutely must go, I'll send you my notes later so you stay caught up.",
+      "source": "edknot.com",
+      "word_count": 26
+    },
+    {
+      "id": "rts-ek-04",
+      "topic": "Your roommate Tom has agreed to participate in an interview ",
+      "text": "Your roommate Tom has agreed to participate in an interview for your class project. He's currently not at home, so you decide to write him a note expressing gratitude and letting him know the interview is set for Wednesday afternoon and will run about an hour. What would you write in the note?",
+      "sample": "Hey Tom, I just wanted to thank you so much for agreeing to be interviewed for my course project—I truly appreciate your help. I'm writing to confirm the details: the interview will be this Wednesday afternoon and should take roughly an hour. I'll have all the questions prepared beforehand so we can use the time efficiently. Let me know if Wednesday still suits you. Thanks once more!",
+      "source": "edknot.com",
+      "word_count": 53
+    },
+    {
+      "id": "rts-ek-05",
+      "topic": "You overheard your colleagues discussing renting bikes, whic",
+      "text": "You overheard your colleagues discussing renting bikes, which sounds really fun and you are interested in it. Speak to your colleagues to inquire about the details, such as the cost of renting and how and where you can rent a bike.",
+      "sample": "Hey, I overheard you talking about renting bikes earlier and it sounded like a lot of fun. I'd love to get involved! Could you tell me more about it - like how much does it cost to rent a bike, and where exactly do you go to pick them up? Also, do you need to book in advance or can you just show up? I've never done it before, so any details you can share would be great.",
+      "source": "edknot.com",
+      "word_count": 41
+    },
+    {
+      "id": "rts-ek-06",
+      "topic": "You are a university student and you have a scheduled tutori",
+      "text": "You are a university student and you have a scheduled tutorial session with your professor in ten minutes. However, you just received an urgent phone call from home about a family emergency, and you need to leave campus immediately. You decide to go to the professor's office to explain the situation and ask for an alternative arrangement. What would you say to the professor?",
+      "sample": "Professor, I'm very sorry to interrupt, but I just received an urgent phone call about a family emergency. I need to leave campus right away. I apologize for missing the tutorial session today. Would it be possible to reschedule the tutorial or could I get the notes from someone? I will make sure to catch up on the material as soon as possible. Thank you for understanding.",
+      "source": "edknot.com",
+      "word_count": 64
+    },
+    {
+      "id": "rts-ek-07",
+      "topic": "You're set to deliver a presentation at school, but you disc",
+      "text": "You're set to deliver a presentation at school, but you discover you've left a crucial notebook behind. You rush to your dorm to retrieve it. You must inform your classmates that you'll be slightly delayed. What should you tell them?",
+      "sample": "Hi everyone, I'm really sorry but I just noticed I left my notebook with all my presentation materials in my dorm. I can't present without it. I'm going to dash back and get it now—it should take no more than 15 minutes. Could someone else go first and present while I'm away? I'll return as quickly as possible and take my turn right after. Apologies for the hold-up.",
+      "source": "edknot.com",
+      "word_count": 40
+    },
+    {
+      "id": "rts-ek-08",
+      "topic": "While walking to school, you spot a red traffic signal nearb",
+      "text": "While walking to school, you spot a red traffic signal nearby that isn't functioning correctly. You need to phone the road repair crew to alert them about the problem. How would you phrase your call?",
+      "sample": "Hello, I'm phoning to let you know about a broken traffic light. I was heading to school when I saw the red lamp at the junction of Oak Street and Main Avenue is malfunctioning—it's either jammed or completely dark. This crossing gets a lot of traffic, so it's hazardous for both cars and people on foot. I wanted to report it right away to prevent a crash. The spot is right by the gas station on the corner. Could you dispatch a crew to repair it urgently?",
+      "source": "edknot.com",
+      "word_count": 35
+    },
+    {
+      "id": "rts-ek-09",
+      "topic": "Your manager Joe is about to retire and he is going to trave",
+      "text": "Your manager Joe is about to retire and he is going to travel in another country. You want to give him a farewell gift. How should you discuss with your colleagues what gift to prepare for the manager?",
+      "sample": "Hey everyone, as you know, Joe is retiring soon and he's planning a big trip abroad afterwards. I think we should get him a meaningful farewell gift. Since he'll be traveling, maybe something travel-related would be perfect - like a good quality travel backpack, a nice luggage set, or a guidebook for the country he's visiting. We could all chip in together, and I also think we should include a farewell card with personal messages from each of us. What do you all think?",
+      "source": "edknot.com",
+      "word_count": 38
+    },
+    {
+      "id": "rts-ek-10",
+      "topic": "You are late to school today and need to explain the situati",
+      "text": "You are late to school today and need to explain the situation to your teacher. How would you apologize for being late and provide a reasonable explanation for your delay?",
+      "sample": "I'm really sorry I'm late today. I ran into unexpected traffic on my way here this morning, and I got stuck for much longer than I anticipated. I know it's not a great excuse, but I honestly left with what should have been enough time. I'll stay after class if needed to catch up on anything I missed, and I'll adjust my morning routine to leave earlier from now on so this doesn't happen again.",
+      "source": "edknot.com",
+      "word_count": 30
+    },
+    {
+      "id": "rts-ek-11",
+      "topic": "You are going to eat outside with your friends and they want",
+      "text": "You are going to eat outside with your friends and they want to eat Italian food. You don't like Italian food, but you want to dine out with them. What would you say to your friends?",
+      "sample": "Hey everyone, I'm really looking forward to dinner with you all tonight. Just being honest though - I'm not a big fan of Italian food. Would it be possible to check if the Italian restaurant has other types of dishes on the menu that I could order? Or maybe for our next group dinner, we could try a different type of cuisine? I really want to come along and spend time with you all regardless.",
+      "source": "edknot.com",
+      "word_count": 36
+    },
+    {
+      "id": "rts-ek-12",
+      "topic": "You saved the attraction passes you bought for yourself and ",
+      "text": "You saved the attraction passes you bought for yourself and your friend on your mobile, but upon reaching the gate, you discover your phone battery is dead and the device is off. How can you explain this situation to the attendant?",
+      "sample": "Hello, I've run into a ticket issue. I downloaded both our attraction passes onto my phone, but the battery has drained completely and the phone won't turn on, so I can't display the tickets. Is there another method to confirm my purchase? I have the booking confirmation number, and I can provide my identification. The reservation is under my name for both tickets. I'd be grateful for any assistance.",
+      "source": "edknot.com",
+      "word_count": 41
+    },
+    {
+      "id": "rts-ga-01",
+      "topic": "You are taking a course at university and have a major assig",
+      "text": "You are taking a course at university and have a major assignment due soon. Unfortunately, you have been unwell recently and have not been able to complete the work on time. You approach your professor to explain the situation and ask for a short extension. What do you say?",
+      "sample": "Hi Professor, do you have a quick minute? I wanted to talk to you about the assignment that's due on Friday. The thing is, I've been pretty unwell this past week, I came down with a bad flu and I honestly couldn't get much done at all. I've made a start on it, but it's really not at the standard I'd want to hand in. I was wondering if it might be possible to get a short extension, maybe just a few extra days? I'm happy to show you a doctor's note if that helps. Thank you so much, I'd really appreciate it.",
+      "source": "goarno.io",
+      "word_count": 49
+    },
+    {
+      "id": "rts-ga-02",
+      "topic": "You are working on a group assignment and have scheduled a m",
+      "text": "You are working on a group assignment and have scheduled a meeting with your team for tomorrow afternoon. You just realized you have a dentist appointment at that time which you cannot miss. You need to explain the situation to your group and suggest a new time for the meeting. What do you say?",
+      "sample": "Hey everyone, I wanted to ask you about something with our meeting tomorrow afternoon. I've just realized I've got a dentist appointment at exactly that time, and it's one I really can't push back or miss. I feel bad about the timing, especially with the group assignment due soon. Would it be possible to move our meeting to a bit later, maybe early evening tomorrow, or even first thing the next morning? I'm flexible, so whatever works best for the rest of you is fine with me. Just let me know and I'll be there. Thanks so much, I really appreciate it.",
+      "source": "goarno.io",
+      "word_count": 54
+    },
+    {
+      "id": "rts-ga-03",
+      "topic": "You are working on an assignment in the computer lab that re",
+      "text": "You are working on an assignment in the computer lab that requires using specific software. You are struggling to understand how to use a key feature, but you notice a classmate nearby who is using the program very well. You decide to ask for their help. What do you say to your classmate?",
+      "sample": "Hi, sorry to bother you, do you have a quick minute? I couldn't help noticing you're really good with this program. Basically, I'm stuck on my assignment and there's one key feature I just can't figure out, no matter what I try. I was wondering if I could ask you to show me how it works, just quickly whenever you get a chance. I don't want to interrupt your own work, so even a couple of pointers would honestly make a big difference for me. I appreciate you taking the time.",
+      "source": "goarno.io",
+      "word_count": 53
+    },
+    {
+      "id": "rts-ga-04",
+      "topic": "You share an apartment with a classmate. Recently, they have",
+      "text": "You share an apartment with a classmate. Recently, they have been playing loud music late at night, which is affecting your sleep. You have an important presentation tomorrow morning and need to be well-rested. You want to ask them to keep the noise down. What do you say to them?",
+      "sample": "Hey, I wanted to ask you about something, and I hope it's okay to bring up. I've noticed the music's been playing pretty loud late at night lately, and honestly I've been finding it hard to sleep through it. Tonight's a bit different for me though, I've got a really important presentation first thing tomorrow morning and I badly need to be well-rested. Would it be possible to keep it down a bit after ten tonight, or maybe pop some headphones in? It'd genuinely take a weight off my mind. Thanks so much, I really appreciate it.",
+      "source": "goarno.io",
+      "word_count": 50
+    },
+    {
+      "id": "rts-ga-05",
+      "topic": "You have an important essay to submit tomorrow, but your pri",
+      "text": "You have an important essay to submit tomorrow, but your printer has just run out of ink. You know that your neighbor has a working printer, and you need to print a few pages urgently. You decide to go over and ask them for a favor. What do you say to your neighbor?",
+      "sample": "Hi, sorry to drop by like this, do you have a quick minute? Basically, I've got an important essay due tomorrow, and my printer's just run out of ink at the worst possible moment. It's only a few pages, nothing huge, but I really need a hard copy to hand in. I was wondering if I could pop over and use your printer quickly, just for those pages? I'll bring my file on a USB stick so it's no hassle for you at all, and I'll be in and out in two minutes. I appreciate you taking the time. Not sure if your Respond to a Situation answers sound natural? Arno has unlimited free practice questions for every PTE question type, including Respond to a Situation, so you can practice as much as you need. Your first mock test is free too. Start practicing free →",
+      "source": "goarno.io",
+      "word_count": 53
+    },
+    {
+      "id": "rts-ga-06",
+      "topic": "You are in the university computer lab trying to print an im",
+      "text": "You are in the university computer lab trying to print an important assignment, but the printer has stopped working because it is out of paper. You see a lab assistant at the desk and need to ask them to refill the paper. What do you say to the assistant?",
+      "sample": "Excuse me, sorry to bother you, I wanted to ask you about something with the printer. I've been trying to print an important assignment, but it looks like the printer's stopped because it's run out of paper. I'd refill it myself, but I'm not sure where the spare paper's kept. Would it be possible to top it up for me when you get a moment? I'm a little short on time, so I'd be really grateful to get it done fairly soon if that's alright. There's no rush beyond that. I appreciate you taking the time.",
+      "source": "goarno.io",
+      "word_count": 49
+    },
+    {
+      "id": "rts-ga-07",
+      "topic": "Your professor has announced that the next assignment must b",
+      "text": "Your professor has announced that the next assignment must be completed in pairs. You still need a partner and you think your friend would be a great choice because they are very organized. You decide to ask if they would like to work with you. What do you say?",
+      "sample": "Hey, I wanted to ask you about something. So the professor just said the next assignment has to be done in pairs, and I still need a partner. Basically, you were the first person who came to mind, because honestly you're so organized and you always stay on top of deadlines way better than I do. I was wondering if I could team up with you on this one? I think we'd actually work really well together, and I promise I'll pull my weight properly. No pressure at all if you've already got someone in mind though. Thanks so much, I really appreciate it.",
+      "source": "goarno.io",
+      "word_count": 49
+    },
+    {
+      "id": "rts-ga-08",
+      "topic": "You are trying to print an assignment at home, but your prin",
+      "text": "You are trying to print an assignment at home, but your printer has run out of ink. You need to hand in the paper tomorrow morning. You call a friend who lives on the same street to ask if you can use their printer. What do you say to your friend?",
+      "sample": "Hey, it's me, do you have a quick minute? Sorry to call so late. I'm in a bit of a bind here, my printer's just run out of ink and I've got an assignment I have to hand in first thing tomorrow morning. You're literally just down the street, so you were the first person I thought to ring. Would it be possible to swing by yours tonight and print a few pages off? I'll bring it on a USB and I won't stay long at all, I promise. I really owe you for this. I appreciate you taking the time.",
+      "source": "goarno.io",
+      "word_count": 51
+    },
+    {
+      "id": "rts-ga-09",
+      "topic": "You are preparing a presentation with a classmate for tomorr",
+      "text": "You are preparing a presentation with a classmate for tomorrow's deadline. Your partner wants to use a new, complex software to design the slides, but you are worried it will take too long to learn. You want to suggest using a program you both already know. What do you say to your classmate?",
+      "sample": "Hey, sorry to bother you about this so late, but I'm a bit worried about the slides for tomorrow. I know you really like that new design software, and honestly it looks great, but here's the situation: we've only got tonight, and I've never used it before. Learning it from scratch might eat up all our time. Do you think I could talk you into using the program we both already know well instead? We'd move way faster and still get a clean result. Thanks for understanding, I just don't want us rushing at the last minute.",
+      "source": "goarno.io",
+      "word_count": 53
+    },
+    {
+      "id": "rts-ga-10",
+      "topic": "You are at the university bookshop looking for a specific te",
+      "text": "You are at the university bookshop looking for a specific textbook required for your course. You cannot find it on the shelves, and you need it for an assignment due next week. You decide to ask a shop assistant if they have any in stock or when a new delivery is expected. What do you say?",
+      "sample": "Excuse me, sorry to bother you, I've got a bit of a problem. I'm looking for a specific textbook that's required for my course, but I can't seem to find it anywhere on the shelves. Unfortunately, I've got an assignment due next week that really depends on it, so I'm getting a little anxious. Is there any chance you could check whether you've got any copies in stock out the back, or tell me when your next delivery is expected? If it's coming soon I can wait, otherwise I'll need to order it. I'd be really grateful, thank you.",
+      "source": "goarno.io",
+      "word_count": 56
+    },
+    {
+      "id": "rts-ga-11",
+      "topic": "You borrowed a textbook from a classmate to study for an upc",
+      "text": "You borrowed a textbook from a classmate to study for an upcoming exam. Unfortunately, you accidentally spilled coffee on it and damaged some pages. You are returning the book now. Explain to your classmate what happened, apologize for the accident, and offer to replace the book. What do you say?",
+      "sample": "Hey, I've got a bit of a problem and I owe you an apology. Here's the situation: while I was studying with your textbook, I knocked over my coffee and it spilled across a few of the pages. They're stained and a bit wrinkled now, and I feel terrible about it because you lent it to me as a favour. I've brought it back so you can see the damage yourself. Honestly, I want to make this right, so let me buy you a brand new copy this week. Thanks for understanding, I really didn't mean for this to happen.",
+      "source": "goarno.io",
+      "word_count": 50
+    },
+    {
+      "id": "rts-ga-12",
+      "topic": "You checked out a book from the university library that need",
+      "text": "You checked out a book from the university library that needs to be returned by today. Unfortunately, you have a bad cold and cannot leave your room. Your roommate is getting ready to go to class. You want to ask them to drop the book off for you. What do you say?",
+      "sample": "Hey, sorry to bother you when you're rushing to class, but I've landed in a bit of a bind. I've got this library book that absolutely has to go back today, no extensions, and unfortunately I've come down with a horrible cold so I really can't leave the room. Since you're heading out anyway and the library's basically on your way, do you think I could ask you to drop it off at the returns desk for me? It'll only take a second and it'd save me a late fine. Thanks for understanding, you're a lifesaver.",
+      "source": "goarno.io",
+      "word_count": 52
+    },
+    {
+      "id": "rts-ga-13",
+      "topic": "You are organizing a meeting for the college photography clu",
+      "text": "You are organizing a meeting for the college photography club. You originally booked a small room, but now many more students want to attend than you expected. You need to move to a larger room. You go to the campus administration office to explain the situation and ask to change your booking. What do you say?",
+      "sample": "Hi there, I've got a bit of a problem I'm hoping you can help me sort out. I'm organising a meeting for the college photography club, and I originally booked one of the small rooms. Here's the situation: a lot more students have signed up than I expected, and that room simply won't fit everyone comfortably or safely. Is there any chance you could switch my booking over to one of the larger rooms for the same date and time? I'm flexible on the exact room if that makes things easier on your end. I'd be really grateful, thank you.",
+      "source": "goarno.io",
+      "word_count": 56
+    },
+    {
+      "id": "rts-ga-14",
+      "topic": "You are studying in the library for an important exam when y",
+      "text": "You are studying in the library for an important exam when you notice your laptop battery is running low. Unfortunately, you forgot to bring your charger. You see a student nearby with a charger that fits your computer. You want to ask to borrow it for a short time. What do you say to the student?",
+      "sample": "Excuse me, sorry to bother you while you're working. I'm cramming for a pretty important exam over here, and unfortunately my laptop battery is almost dead and I completely forgot to bring my charger today. I noticed yours looks like the same type that fits my computer. Do you think I could borrow it for just ten or fifteen minutes to top up my battery? I'll stay right here next to you so it's not going anywhere, and I'll give it straight back the moment I'm done. I'd be really grateful, thank you, you'd really be saving me here.",
+      "source": "goarno.io",
+      "word_count": 56
+    },
+    {
+      "id": "rts-ga-15",
+      "topic": "You are the president of the college photography club. You w",
+      "text": "You are the president of the college photography club. You want to organize a photo exhibition in the student center next week. You need to ask the facility manager if the main hall is available and how to book it. What do you say to the manager?",
+      "sample": "Hi, sorry to bother you, I'm the president of the college photography club and I wanted to ask about the main hall in the student center. Here's the situation: we're hoping to put on a photo exhibition next week, and that hall would be the perfect space to display everyone's work. Is there any chance you could let me know whether it's available on those dates? And while I've got you, could you walk me through how the booking process works, any forms or fees I should know about? I want to get everything arranged properly. I'd be really grateful, thank you.",
+      "source": "goarno.io",
+      "word_count": 47
+    },
+    {
+      "id": "rts-ga-16",
+      "topic": "You are living in student accommodation and trying to study ",
+      "text": "You are living in student accommodation and trying to study online, but the Wi-Fi connection keeps disconnecting. You want to check if this is happening to everyone in the building. You see a neighbor in the hallway and decide to ask them about their internet connection. What do you say to your neighbor?",
+      "sample": "Hey, sorry to stop you in the hallway, could I ask you something quickly? I'm in the flat just down from you and I've been trying to study online, but my Wi-Fi keeps dropping out every few minutes. It's driving me a bit mad, honestly, and I can't tell if it's just my room or the whole building. Could I possibly ask whether yours has been doing the same thing today? If it's everyone, I'll go and report it to the accommodation office. Thank you, that would be a huge help.",
+      "source": "goarno.io",
+      "word_count": 53
+    },
+    {
+      "id": "rts-ga-17",
+      "topic": "You are at the university library trying to find a specific ",
+      "text": "You are at the university library trying to find a specific book for an assignment. You have checked the shelves, but you cannot find it, even though the catalogue says it should be there. You approach the librarian at the desk to ask for help. What do you say?",
+      "sample": "Hi there, I hope you don't mind me asking, but I could use a bit of help finding a book. It's for an assignment that's due soon, and the catalogue says it should be on the shelf upstairs. The problem is, I've checked that section twice and it just isn't there. Would you mind if I asked you to look it up on the system and see if it's been checked out or maybe shelved somewhere else? I'd really appreciate any pointers. That would take a real weight off my mind, thank you.",
+      "source": "goarno.io",
+      "word_count": 49
+    },
+    {
+      "id": "rts-ga-18",
+      "topic": "You are recording a presentation for a class project, but th",
+      "text": "You are recording a presentation for a class project, but the sound quality on your laptop is very poor. You know your friend has a good external microphone. You want to ask if you can borrow it for a few hours to finish your work. What do you say to your friend?",
+      "sample": "Hey, could I ask you a favour? I'm recording a presentation for my class project right now, and the sound coming off my laptop mic is honestly pretty terrible. I remembered you've got that nice external microphone you used for your podcast last term. Could I possibly borrow it for just a few hours this afternoon so I can finish the recording at a decent quality? I'll look after it really carefully and have it back to you by tonight without fail, I promise. Thank you, that would be a huge help.",
+      "source": "goarno.io",
+      "word_count": 52
+    },
+    {
+      "id": "rts-ga-19",
+      "topic": "You ordered a specific textbook from the university bookshop",
+      "text": "You ordered a specific textbook from the university bookshop two weeks ago, but it has not arrived yet. You need the book urgently for an upcoming assignment. You speak to the shop assistant to explain your situation and ask when the book will be available. What do you say?",
+      "sample": "Hi, I hope you don't mind me asking, but I wanted to check on an order I placed. I ordered a textbook from here about two weeks ago, and it still hasn't come in yet. The problem is, I need it pretty urgently for an assignment that's coming up, so I'm getting a bit worried about the timing. Would you mind if I gave you the order details so you could check the status and let me know roughly when it might arrive? If there's a long delay, I may need to find another copy. That would take a real weight off my mind, thank you.",
+      "source": "goarno.io",
+      "word_count": 49
+    },
+    {
+      "id": "rts-ga-20",
+      "topic": "You are organizing a study group for your final exams and ne",
+      "text": "You are organizing a study group for your final exams and need a quiet place to meet. You checked the library website, but it shows that all the study rooms are fully booked for the time you want. You approach the librarian to ask if there is any other space available. What do you say to the librarian?",
+      "sample": "Hi there, could I ask you for a bit of help? I'm trying to organise a study group for our final exams, and we really need a quiet space to meet. To be honest, I've already checked the website and all the bookable study rooms are taken for the time we wanted, which is tricky with four of us. Could I possibly ask if there's any other room or quiet corner we might be able to use for an hour or two? Even something informal would work for us. Thank you, that would be a huge help.",
+      "source": "goarno.io",
+      "word_count": 58
+    },
+    {
+      "id": "rts-ga-21",
+      "topic": "You are the leader of a student charity group at your colleg",
+      "text": "You are the leader of a student charity group at your college. You have organized a fundraising event for next week, but you just realized the room you booked is too small for the number of guests attending. You need to speak to the college administrator to ask for a larger room. What do you say?",
+      "sample": "Hi, I hope you don't mind me asking, but I've run into a bit of a problem with an event booking. I lead the student charity group, and we've got a fundraiser next week in one of the smaller rooms. The problem is, a lot more guests have confirmed than I expected, and the room we booked just won't fit everyone safely. Would you mind if I asked whether there's a larger space free that evening that we could move the event to instead? I can send over the exact numbers. That would take a real weight off my mind, thank you.",
+      "source": "goarno.io",
+      "word_count": 56
+    },
+    {
+      "id": "rts-ga-22",
+      "topic": "You work part-time at a local store. Your manager has schedu",
+      "text": "You work part-time at a local store. Your manager has scheduled you for a shift next Tuesday afternoon, but you just realized you have a university exam at that time. You need to speak to your manager to explain the conflict and ask to change your shift. What do you say?",
+      "sample": "Hi, have you got a minute? I wanted to flag something about my shift next Tuesday afternoon. I've just gone over my exam timetable, and it turns out I've got a university exam scheduled at exactly the same time as that shift, so unfortunately there's no way I can make it in. Could I possibly swap that shift with someone, or pick up a different day instead to make up the hours? I'm really happy to be flexible and cover something else that works for the rota. Thank you, that would be a huge help.",
+      "source": "goarno.io",
+      "word_count": 51
+    },
+    {
+      "id": "rts-ga-23",
+      "topic": "You are trying to study for an important exam in your shared",
+      "text": "You are trying to study for an important exam in your shared apartment, but your flatmate is playing music very loudly in the living room. The noise is distracting you, and you are unable to concentrate. You need to ask your flatmate to turn the volume down. What do you say to them?",
+      "sample": "Hey, sorry to bug you, but I wanted to chat about the music. So the issue is, I've got that big exam coming up, and I'm trying to revise in my room, but the volume out here is pretty loud and I just can't focus at all. Any chance I could ask you to turn it down a bit, or maybe use headphones for the next couple of hours? I'd really owe you, and I promise I won't be a pain about it once the exam's done. Cheers, I owe you one.",
+      "source": "goarno.io",
+      "word_count": 53
+    },
+    {
+      "id": "rts-ga-24",
+      "topic": "You have a difficult exam coming up next week. You think it ",
+      "text": "You have a difficult exam coming up next week. You think it would be helpful to study with a partner rather than alone. You decide to ask a classmate to meet you at the library to revise the course material together. What do you say?",
+      "sample": "Hey Priya, thanks for stopping a sec, I wanted to ask you something. That exam next week is honestly stressing me out, and I think I'd retain way more if I wasn't just grinding through it on my own. Any chance I could rope you into a study session at the library tomorrow? We could split the trickier chapters and quiz each other, which always sticks better for me. Let me know what time works for you. Thanks a lot, it would really help me out.",
+      "source": "goarno.io",
+      "word_count": 45
+    },
+    {
+      "id": "rts-ga-25",
+      "topic": "You usually eat lunch at the university cafeteria, but you h",
+      "text": "You usually eat lunch at the university cafeteria, but you have noticed that there are very few vegetarian options available. You are tired of eating the same meals every day. You decide to speak to the cafeteria manager to suggest adding more variety to the menu. What do you say?",
+      "sample": "Hi, thanks for taking a moment. So, about the lunch menu, I eat in the cafeteria most days, and I've noticed there's really not much for vegetarians. So the issue is, it's basically the same two dishes on rotation, and a lot of us are getting pretty tired of it. I'd be really grateful if you could look into adding a few more veggie options, maybe a rotating special or a salad bar. I'm happy to pass on suggestions from other students if that's useful. Thanks a lot, it would really help me out.",
+      "source": "goarno.io",
+      "word_count": 50
+    },
+    {
+      "id": "rts-ga-26",
+      "topic": "You are the president of the university photography club. Yo",
+      "text": "You are the president of the university photography club. You want to organize an exhibition of student photos in the campus library lobby next month. You need to ask the head librarian for permission to use the space for three days. What do you say to the librarian?",
+      "sample": "Hi, thanks for seeing me. I'm the president of the photography club, and we've been putting together an exhibition of student work this term. We'd love to display it somewhere with good footfall, and the library lobby would honestly be perfect for it. I'd be really grateful if you could let us use that space for three days next month. We'd handle all the setup and takedown ourselves and keep everything tidy and out of the way of regular library users. Thanks a lot, it would really help me out.",
+      "source": "goarno.io",
+      "word_count": 48
+    },
+    {
+      "id": "rts-ga-27",
+      "topic": "You are organizing a photography exhibition for your college",
+      "text": "You are organizing a photography exhibition for your college art club. The room currently assigned to you is too small and does not have enough light for the photos. You need to speak to the facilities manager to request a larger, brighter room. What would you say to the manager?",
+      "sample": "Hi, thanks for taking the time. So, about the room we've been assigned for the art club photography exhibition, I wanted to flag a problem. So the issue is, it's quite small and the lighting in there is really dim, which doesn't do the photos any justice at all. I'd be really grateful if you could move us to a larger, brighter room if anything's free that week. Even a space with big windows would make a huge difference to how the work looks. Thanks a lot, it would really help me out.",
+      "source": "goarno.io",
+      "word_count": 50
+    },
+    {
+      "id": "rts-ga-28",
+      "topic": "You missed an important lecture yesterday because you were f",
+      "text": "You missed an important lecture yesterday because you were feeling unwell. You see a classmate who attended the class and you want to ask if you can borrow their notes to catch up. You promise to return the notes by the next morning. What do you say?",
+      "sample": "Hey Marco, glad I caught you. So, about yesterday's lecture, I ended up missing the whole thing. What happened was, I woke up feeling pretty rough and just couldn't make it in, so I've got a real gap in that topic now. Any chance I could borrow your notes for the evening to copy them up and catch up properly? I'd only need them tonight, and I promise I'll have them back to you first thing tomorrow morning, no problem at all. Cheers, I owe you one.",
+      "source": "goarno.io",
+      "word_count": 47
+    },
+    {
+      "id": "rts-ga-29",
+      "topic": "You are working on a group presentation with a classmate. Yo",
+      "text": "You are working on a group presentation with a classmate. You need to organize a time to meet to prepare the slides. You want to suggest meeting in the library tomorrow afternoon. You see your classmate after a lecture. What do you say?",
+      "sample": "Hey Lena, thanks for hanging back a sec. I wanted to sort out our group presentation while it's fresh. We've still got the slides to build, and honestly the sooner we start, the less of a scramble it'll be near the deadline. I'd be really grateful if you could meet me in the library tomorrow afternoon so we can knock the structure out together and divide up the sections. Say around two, if that suits you? Just let me know if another time works better. Cheers, I owe you one.",
+      "source": "goarno.io",
+      "word_count": 43
+    },
+    {
+      "id": "rts-ga-30",
+      "topic": "You are at college and a friend invites you to go to the caf",
+      "text": "You are at college and a friend invites you to go to the cafeteria for lunch. However, you have a lecture starting in ten minutes, so you cannot go right now. You need to decline the invitation and suggest meeting later. What do you say?",
+      "sample": "Hey Priya, I'd love to grab lunch but I can't right now. Basically, I've got a lecture starting in about ten minutes, and it's one I really shouldn't skip because the professor covers exam material. I was hoping I might be able to catch up with you a bit later instead. Should we meet at the cafeteria around one, once my class wraps up? I'm starving, so I'll definitely be there. Save me a seat if you get there first. Thanks so much, I really appreciate it. See you in a couple of hours.",
+      "source": "goarno.io",
+      "word_count": 45
+    },
+    {
+      "id": "rts-ga-31",
+      "topic": "You have discovered a clash in your class timetable where tw",
+      "text": "You have discovered a clash in your class timetable where two of your lectures are scheduled at the same time. You go to the student administration office to explain the problem and ask if you can change one of the classes to a different time slot. What do you say?",
+      "sample": "Hi there, quick thing, I think there's a problem with my timetable I was hoping you could help with. Basically, two of my lectures, Statistics and Research Methods, are both scheduled for Tuesday at ten, so I can't physically attend both. Would it be okay if I moved one of them to a different time slot? I'd happily take a later session or a different day, whatever works on your end. Could you let me know which options are still open? Thank you, I won't forget it. I really need to get this sorted before classes properly begin.",
+      "source": "goarno.io",
+      "word_count": 50
+    },
+    {
+      "id": "rts-ga-32",
+      "topic": "You are meeting with a career counselor at your university b",
+      "text": "You are meeting with a career counselor at your university because you are interested in finding a part-time job. You decide to explain that you have no previous work experience and ask for advice on how to prepare your resume. What do you say to the counselor?",
+      "sample": "Hi, thanks for seeing me today. So I'm hoping to find a part-time job around my studies, but honestly I've got no previous work experience at all, which makes me a bit nervous about applying. I was hoping I might be able to get some advice from you on putting together a resume when you've got nothing to list yet. What sort of things should I be highlighting instead, like volunteering or coursework? I'm happy to bring a draft along for you to look over. Thanks so much, I really appreciate it. I'd love to get started soon.",
+      "source": "goarno.io",
+      "word_count": 47
+    },
+    {
+      "id": "rts-ga-33",
+      "topic": "You are trying to install a specific computer program needed",
+      "text": "You are trying to install a specific computer program needed for your course, but you keep getting an error message. You decide to call the university's technical support team to ask for help resolving the issue. What do you say when they answer the phone?",
+      "sample": "Hello, hi, I'm calling because I'm having trouble installing a program I need for my course. Basically, every time I run the setup it stops partway and throws an error message, and I've already tried restarting and reinstalling with no luck. Would it be okay if I read out the exact error code so you can see what's going on? I can also share my screen or send a screenshot, whatever's easiest for you. I've got an assignment that depends on this software, so I'd really like to fix it today. Thank you, I won't forget it.",
+      "source": "goarno.io",
+      "word_count": 45
+    },
+    {
+      "id": "rts-ga-34",
+      "topic": "You are struggling to use a new software program required fo",
+      "text": "You are struggling to use a new software program required for your design course. You noticed that a classmate seems to understand it very well. You want to ask them if they can spare some time to explain the basics to you. What do you say to your classmate?",
+      "sample": "Hey Daniel, sorry to bug you, quick thing. I've been completely stuck with that new design software for our course, and I noticed you seem to really know your way around it. Would it be okay if I grabbed maybe twenty minutes of your time so you could walk me through the basics? Even just the main tools and how the layers work would make a huge difference for me. I'll bring coffee, and I can fit around whenever suits you this week. Thanks so much, I really appreciate it. You're honestly a lifesaver.",
+      "source": "goarno.io",
+      "word_count": 49
+    },
+    {
+      "id": "rts-ga-35",
+      "topic": "You are speaking to a program coordinator at your college. Y",
+      "text": "You are speaking to a program coordinator at your college. You want to change one of your elective classes because you find the current topic uninteresting. You decide to explain your reason for switching and ask for a list of other available courses. What do you say?",
+      "sample": "Hi, do you have a quick minute? I wanted to talk about one of my elective classes. To be honest, I'm finding the current topic pretty uninteresting and I don't think it's the right fit for me going forward. I was hoping I might be able to switch to a different elective this term instead. Would you also be able to send me a list of the other courses that still have spaces? I'm flexible on the subject, I just want something I'll actually engage with. Thank you, I won't forget it. I'd really appreciate your help with this.",
+      "source": "goarno.io",
+      "word_count": 47
+    },
+    {
+      "id": "rts-ga-36",
+      "topic": "You have an important exam tomorrow morning and you are tryi",
+      "text": "You have an important exam tomorrow morning and you are trying to study in your bedroom. Your housemate is playing loud music in the living room which is making it hard for you to concentrate. You want to ask them to lower the volume. What do you say to your housemate?",
+      "sample": "Hey Marcus, sorry to be that person, but I've got a pretty big exam first thing tomorrow morning and I'm really struggling to focus with the music going. I know it's not even that late, so I feel bad asking. Would it be okay if I asked you to turn it down a bit, just for tonight? Honestly even using headphones would totally do the trick for me. I promise I'll be out of your hair once this exam's done and we can have the place loud again. Thanks so much, I really appreciate it.",
+      "source": "goarno.io",
+      "word_count": 51
+    },
+    {
+      "id": "rts-ga-37",
+      "topic": "You are renting an apartment and you have noticed that the h",
+      "text": "You are renting an apartment and you have noticed that the heating system has stopped working. It is becoming very cold inside, and you need the landlord to arrange a repair immediately. You call your landlord to report the issue. What do you say to him?",
+      "sample": "Hi, this is the tenant in flat 4B, I wanted to talk to you because the heating system has completely stopped working since yesterday. Here's the situation: it's getting really cold inside, especially at night, and honestly it's not comfortable to stay here like this anymore. I wanted to ask whether you could arrange for someone to come and repair it as soon as possible, ideally today or tomorrow. I'll be home all afternoon, so a plumber can come whenever it suits. I appreciate you taking the time.",
+      "source": "goarno.io",
+      "word_count": 46
+    },
+    {
+      "id": "rts-ga-38",
+      "topic": "You share an apartment with a friend. Tonight, they are play",
+      "text": "You share an apartment with a friend. Tonight, they are playing music very loudly, but you have an important exam early tomorrow morning and need to get some sleep. You want to ask them to lower the volume or use headphones. What do you say to your friend?",
+      "sample": "Hey, sorry to bug you, would it be okay if I asked you something? I know you're enjoying your music, but the problem is I've got a really important exam first thing tomorrow morning and I genuinely need to get some sleep before then. Could you do me a favour and either turn the volume down a bit, or maybe pop your headphones in for tonight? I promise I'm not trying to ruin your evening, and I'll make it up to you this weekend. I'd be really grateful, thank you.",
+      "source": "goarno.io",
+      "word_count": 48
+    },
+    {
+      "id": "rts-ga-39",
+      "topic": "You are living in student accommodation. The internet connec",
+      "text": "You are living in student accommodation. The internet connection in your room has been very slow and unstable for two days, making it hard to study. You visit the reception desk to report the problem and ask when it can be fixed. What do you say to the receptionist?",
+      "sample": "Hi there, I wanted to talk to you because the internet connection in my room has been really slow and unstable for the past two days now. Here's the situation: it keeps dropping out every few minutes, so I genuinely can't get any studying done, and I've got deadlines coming up. I wanted to ask whether someone from the technical team could take a look at it, and roughly when I might expect it to be fixed. My room number is 214 if that helps you log it. I appreciate you taking the time.",
+      "source": "goarno.io",
+      "word_count": 49
+    },
+    {
+      "id": "rts-ga-40",
+      "topic": "You share an apartment with a friend, and the electricity bi",
+      "text": "You share an apartment with a friend, and the electricity bill has just arrived. It is much higher than usual, and you are worried about the cost. You want to suggest some ways to save energy so the next bill is cheaper. What do you say to your friend?",
+      "sample": "Hey, would it be okay if I asked you something? The electricity bill just came through and it's way higher than usual, so honestly I'm a bit worried about the cost going forward. The problem is we leave a lot of stuff running, like the heater and the lights overnight. I was thinking we could try a few small things, switching things off at the wall, doing laundry on cooler settings, that kind of thing. Could you do me a favour and try it with me for a month so the next bill comes down? I'd be really grateful, thank you.",
+      "source": "goarno.io",
+      "word_count": 49
+    },
+    {
+      "id": "rts-ga-41",
+      "topic": "You are organizing a charity sale at your college next week.",
+      "text": "You are organizing a charity sale at your college next week. You notice that there are not enough items to sell yet. You decide to approach a classmate who is very artistic to ask if they can donate some of their artwork to the sale. What do you say to your classmate?",
+      "sample": "Hey, sorry to bug you, I wanted to talk to you because I'm organising the charity sale at college next week. Here's the situation: we honestly don't have nearly enough items to sell yet, and I know how talented you are with your artwork. I wanted to ask whether you'd be willing to donate a couple of your pieces for the stall. They don't have to be anything big, even a few prints or smaller works would make a real difference to what we raise. No pressure at all if you'd rather not. I appreciate you taking the time.",
+      "source": "goarno.io",
+      "word_count": 52
+    },
+    {
+      "id": "rts-ga-42",
+      "topic": "You signed up for an elective class, but you have realized t",
+      "text": "You signed up for an elective class, but you have realized the time conflicts with your part-time job. You visit the university administration office to explain the situation and ask if it is possible to switch to a different group. What do you say to the administrator?",
+      "sample": "Hi, would it be okay if I asked you something? I signed up for the elective class, but I've just realised the timetabled slot clashes directly with my part-time job, which I really can't afford to drop. The problem is I didn't notice the overlap until the schedule was finalised, so I'm a bit stuck now. Could you do me a favour and check whether there's another group for the same elective I could move into instead? I'm flexible on days and times, so almost anything else would work. I'd be really grateful, thank you.",
+      "source": "goarno.io",
+      "word_count": 47
+    },
+    {
+      "id": "rts-ga-43",
+      "topic": "You are speaking to an administrator at your university. You",
+      "text": "You are speaking to an administrator at your university. You have discovered that two of your required classes are scheduled at the same time on Wednesday. You need to point out this timetable conflict and ask if it is possible to switch to a different class group. What do you say?",
+      "sample": "Hi, I wanted to talk to you because I've found a problem with my timetable that I think needs sorting out. Here's the situation: two of my required classes are both scheduled at exactly the same time on Wednesday, so there's no way I can attend both of them. I wanted to ask whether it's possible to switch one of them to a different class group that doesn't overlap. I've got the course codes written down here if you need them to look it up. I appreciate you taking the time.",
+      "source": "goarno.io",
+      "word_count": 51
+    },
+    {
+      "id": "rts-ga-44",
+      "topic": "You are meeting with your academic advisor to discuss your s",
+      "text": "You are meeting with your academic advisor to discuss your schedule for the upcoming semester. You realize that two compulsory courses you need to take are held at the same time. You want to explain this conflict and ask if there is an alternative way to complete one of them. What do you say?",
+      "sample": "Hi, thanks for seeing me. Can I run something by you about my schedule for next semester? To be honest, I've hit a bit of a problem. The two compulsory courses I still need, Statistics and Research Methods, are both scheduled in the same Tuesday slot, so I genuinely can't take them together. Do you think I could complete one of them another way, maybe through an evening section or an online version? I'm flexible on which one I shift. I just want to stay on track to graduate. Thanks for understanding.",
+      "source": "goarno.io",
+      "word_count": 54
+    },
+    {
+      "id": "rts-ga-45",
+      "topic": "You have just received your class timetable for the new seme",
+      "text": "You have just received your class timetable for the new semester and noticed that a required seminar is scheduled at the same time as your part-time job. You need to speak to the course administrator to ask if you can switch to a different group. What do you say?",
+      "sample": "Hello, I need a bit of help with something on my new timetable. Unfortunately, the required Thursday seminar has been scheduled right on top of my part-time job, and those shifts cover my rent, so I really can't drop them. Would it be possible to move me into a different seminar group, maybe the morning session if there's still space? I'm happy to take whichever slot works best for the department, and I can send my work timetable across if that helps. I just don't want to miss any sessions. Thank you, that would be a huge help.",
+      "source": "goarno.io",
+      "word_count": 49
+    },
+    {
+      "id": "rts-ga-46",
+      "topic": "You are preparing for a difficult exam next week and have de",
+      "text": "You are preparing for a difficult exam next week and have decided to form a study group to review the material together. You see a classmate who understands the subject well but usually studies alone. You want to invite them to join your group. What would you say to your classmate?",
+      "sample": "Hey, have you got a sec? Can I run something by you? So I'm putting together a small study group for the exam next week, just a few of us going through the past papers together. I know you usually study on your own, and that's totally fair, but honestly you really get this subject and I think we'd all learn a ton from you. Do you think I could tempt you to join us, even just for one session to see how it goes? No pressure at all if it's not your thing. Thanks for understanding.",
+      "source": "goarno.io",
+      "word_count": 51
+    },
+    {
+      "id": "rts-ga-47",
+      "topic": "You are working on a presentation for a class using a new so",
+      "text": "You are working on a presentation for a class using a new software program, but you are struggling to add animations to your slides. You know your friend is very skilled at using this program. You want to ask them to show you how to do it. What do you say to your friend?",
+      "sample": "Hey, I need a bit of help with something if you've got a minute. I'm putting together that presentation for class using the new slides software, and I'm completely stuck trying to add the animations. You're so good with this program, you'd probably sort it in two seconds. Would it be possible to grab fifteen minutes sometime this week so you can show me how the animation timing works? I'll bring coffee, and I won't keep you long, I promise. Thank you, that would be a huge help.",
+      "source": "goarno.io",
+      "word_count": 54
+    },
+    {
+      "id": "rts-ga-48",
+      "topic": "Your university is holding an international food festival ne",
+      "text": "Your university is holding an international food festival next week. You have decided to run a stall serving traditional dishes from your country, but you realize it is too much work for one person. You want to ask a friend from the same background to partner with you. What would you say to your friend?",
+      "sample": "Hey, can I run something by you? So I signed us, well, me, up to run a food stall at the international festival next week, serving dishes from back home. To be honest, I've realised it's way too much for one person to cook and serve all day. Do you think I could talk you into partnering with me on it? It'd be so much more fun with two of us, and we could split the cooking and the prep beforehand. We'd make a great team. Thanks for understanding.",
+      "source": "goarno.io",
+      "word_count": 55
+    },
+    {
+      "id": "rts-ga-49",
+      "topic": "You have seen a flyer at your university for a new hiking cl",
+      "text": "You have seen a flyer at your university for a new hiking club that organizes trips on weekends. You are very interested in joining, but you do not want to go alone. You decide to ask a classmate to sign up with you. What do you say to your classmate?",
+      "sample": "Hey, can I run something by you quickly? I saw a flyer for this new hiking club that does weekend trips, and honestly it looks brilliant, proper trails and everything. The only thing is, I don't really fancy turning up on my own to the first one. Do you think I could persuade you to sign up with me? It'd be a good way to get off campus on weekends and meet a few new people. We could just try one trip and bail if it's awful. Thanks for understanding.",
+      "source": "goarno.io",
+      "word_count": 50
+    },
+    {
+      "id": "rts-ga-50",
+      "topic": "You share an apartment with a friend. Recently, the internet",
+      "text": "You share an apartment with a friend. Recently, the internet connection has been very slow, and you are finding it difficult to attend your online classes. You want to suggest to your roommate that you both upgrade to a faster internet plan. What do you say to your roommate?",
+      "sample": "Hey, can I run something by you about the flat? To be honest, the internet's been driving me up the wall lately. It's so slow that my online classes keep freezing and dropping out halfway through. I was thinking we could both chip in and upgrade to the faster plan, it's only a few pounds more each a month split between us. Would it be possible to sort it this week, before my next assessment? I'm happy to call the provider and set it all up myself. Thank you, that would be a huge help. Worried you're not ready for the PTE? Take a free PTE mock test on Arno and see your estimated score for every section, plus feedback on every answer. Take a free mock test → Get free practice questions, full mock tests, and personalized study plans Free practice & study plans Start Practicing → ×",
+      "source": "goarno.io",
+      "word_count": 49
+    },
+    {
+      "id": "rts-pt-01",
+      "topic": "Group Project Slides",
+      "text": "You are doing a group project for a class. The other members of your group have asked you to prepare the slides for the presentation. You are willing to do the slides but need them to give you all the information that you have to include before the weekend. What would you say to them?",
+      "sample": "Hi everyone! I'm happy to create the slides for this presentation we're giving. To be successful though, I'll need you to each send me all the information and content you've gathered for our group project before this coming weekend so I'll have enough time to complete the slides. Please send the information to my email by end of day this Friday – does that work for everyone?",
+      "source": "pearsonpte.com",
+      "word_count": 55
+    }
+  ]
+}

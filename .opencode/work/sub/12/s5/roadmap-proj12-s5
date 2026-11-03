@@ -1,0 +1,4 @@
+# Roadmap — S5 Ajustes + Estados globais
+
+Fase A — Auditoria: mapear settings.tsx (grupos, área Plus, backup, layout 390px) e __root.tsx (404/erro/UpdateBanner). Gates: relatório com arquivo:linha.
+Fase B — Especificação: redesign de /settings e dos estados globais segundo o recorte. Gates: spec por bloco, riscos de teste (D9) listados, confirmação 390×844.

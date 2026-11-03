@@ -1,0 +1,90 @@
+{
+  "type": "mcq_multi",
+  "task_type": "MCQ Multiple Answers",
+  "section": "reading",
+  "total": 3,
+  "generated_at": "2026-10-05",
+  "questions": [
+    {
+      "id": "pte-mcq_mu-6bc375a6",
+      "type": "mcq_multi",
+      "task_type": "mcq-multi",
+      "section": "reading",
+      "prompt": "",
+      "text": "Cities that have invested in dedicated cycling infrastructure — protected lanes, bike-priority signals, and secure parking — see cycling rates roughly triple within a decade. The pattern holds across cities as different as Copenhagen, Bogotá, and Portland. What's notable is that infrastructure alone is not enough: cities that built lanes but did not also re-time intersection signals to favour cyclists saw only modest gains. Where serious uptake has happened, three conditions co-occur: continuous, protected lanes; signal timing that gives cyclists a head start; and visible enforcement against parking in bike lanes. Cities that have tried to attract cyclists through information campaigns alone, without changing the physical street, have seen no measurable change.",
+      "transcript": "",
+      "audio_text": "",
+      "content": "Cities that have invested in dedicated cycling infrastructure — protected lanes, bike-priority signals, and secure parking — see cycling rates roughly triple within a decade. The pattern holds across cities as different as Copenhagen, Bogotá, and Portland. What's notable is that infrastructure alone is not enough: cities that built lanes but did not also re-time intersection signals to favour cyclists saw only modest gains. Where serious uptake has happened, three conditions co-occur: continuous, protected lanes; signal timing that gives cyclists a head start; and visible enforcement against parking in bike lanes. Cities that have tried to attract cyclists through information campaigns alone, without changing the physical street, have seen no measurable change.",
+      "answer": [
+        0,
+        2
+      ],
+      "source": "pteracai-seed",
+      "word_count": 112,
+      "options": [
+        "Continuous protected cycling lanes.",
+        "Public information and education campaigns.",
+        "Signal timing that favours cyclists at intersections.",
+        "Higher taxes on private cars.",
+        "Mandatory cycling lessons in schools."
+      ],
+      "explanation": "The passage explicitly names three co-occurring conditions: protected lanes (A), signal timing (C), and enforcement. B is contradicted ('information campaigns alone ... no measurable change'). D and E are not mentioned.",
+      "trap": "B looks plausible because campaigns 'should' help — but the passage explicitly says they don't on their own. With negative marking, only pick options the passage clearly supports.",
+      "topic": "main idea + supporting detail"
+    },
+    {
+      "id": "pte-mcq_mu-c585cb95",
+      "type": "mcq_multi",
+      "task_type": "mcq-multi",
+      "section": "reading",
+      "prompt": "",
+      "text": "Coral reef bleaching is often portrayed as an unambiguous death sentence, but reefs can recover from a single bleaching event if water temperatures fall within a few weeks. The danger now is the rising frequency of consecutive bleaching events: corals need eight to twelve years between major heat stresses to rebuild their algal partners and skeletal structure. When bleaching happens every three or four years — as is increasingly common — recovery is incomplete and cumulative damage accelerates. Importantly, the species composition of recovering reefs has begun to shift, with fast-growing but structurally fragile branching corals replacing the slower-growing massive corals that once dominated. The new reefs are real, but they support a markedly different ecosystem.",
+      "transcript": "",
+      "audio_text": "",
+      "content": "Coral reef bleaching is often portrayed as an unambiguous death sentence, but reefs can recover from a single bleaching event if water temperatures fall within a few weeks. The danger now is the rising frequency of consecutive bleaching events: corals need eight to twelve years between major heat stresses to rebuild their algal partners and skeletal structure. When bleaching happens every three or four years — as is increasingly common — recovery is incomplete and cumulative damage accelerates. Importantly, the species composition of recovering reefs has begun to shift, with fast-growing but structurally fragile branching corals replacing the slower-growing massive corals that once dominated. The new reefs are real, but they support a markedly different ecosystem.",
+      "answer": [
+        1,
+        2
+      ],
+      "source": "pteracai-seed",
+      "word_count": 116,
+      "options": [
+        "A single bleaching event is always fatal to a coral reef.",
+        "Reefs need roughly a decade between major heat stresses to fully recover.",
+        "Frequent bleaching is altering the species mix of reefs.",
+        "Branching corals are more resilient than massive corals to heat stress.",
+        "Coral bleaching is a problem only in tropical Pacific reefs."
+      ],
+      "explanation": "B paraphrases 'eight to twelve years between major heat stresses'. C paraphrases 'species composition ... has begun to shift'. A is contradicted by the opening ('can recover from a single bleaching event'). D is the opposite of the passage ('branching corals' are described as 'structurally fragile'). E is not in the passage at all.",
+      "trap": "D inverts the actual claim — branching corals replace massive corals, but the passage doesn't say they're more resilient, just faster-growing. With negative marking, do NOT guess on inversions.",
+      "topic": "scientific argument"
+    },
+    {
+      "id": "pte-mcq_mu-17921784",
+      "type": "mcq_multi",
+      "task_type": "mcq-multi",
+      "section": "reading",
+      "prompt": "",
+      "text": "Universal pre-kindergarten programs have been promoted as a way to close achievement gaps before they take root. The evidence is more nuanced than advocates claim. High-quality programs with small class sizes, well-trained teachers, and a structured curriculum produce durable gains in reading and self-regulation through at least age 14. Programs that look the same on paper but operate with high staff turnover or rely heavily on under-qualified aides show initial gains that fade by third grade. The factor that most consistently predicts long-term success is not whether a program exists, but whether teachers are paid competitively enough to stay in their roles for at least five years.",
+      "transcript": "",
+      "audio_text": "",
+      "content": "Universal pre-kindergarten programs have been promoted as a way to close achievement gaps before they take root. The evidence is more nuanced than advocates claim. High-quality programs with small class sizes, well-trained teachers, and a structured curriculum produce durable gains in reading and self-regulation through at least age 14. Programs that look the same on paper but operate with high staff turnover or rely heavily on under-qualified aides show initial gains that fade by third grade. The factor that most consistently predicts long-term success is not whether a program exists, but whether teachers are paid competitively enough to stay in their roles for at least five years.",
+      "answer": [
+        1,
+        2
+      ],
+      "source": "pteracai-seed",
+      "word_count": 107,
+      "options": [
+        "All pre-K programs produce equal long-term gains.",
+        "Teacher retention is a key predictor of program effectiveness.",
+        "Programs with high staff turnover often see early gains disappear by third grade.",
+        "Pre-K programs eliminate achievement gaps entirely.",
+        "Small class sizes alone are sufficient to guarantee long-term gains."
+      ],
+      "explanation": "B paraphrases the final sentence directly. C paraphrases 'high staff turnover ... initial gains that fade by third grade'. A is contradicted (programs differ). D overstates ('close gaps' ≠ 'eliminate gaps'). E is not stated — small class size is one factor among several.",
+      "trap": "D is the absolutist version of an actual claim. 'Close achievement gaps' was the advocates' goal — the passage doesn't endorse 'eliminate'. Avoid extremity words.",
+      "topic": "policy + evidence"
+    }
+  ]
+}

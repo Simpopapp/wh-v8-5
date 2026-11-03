@@ -1,0 +1,30 @@
+{
+  "_notice": "MIGRADO — Este arquivo não contém mais questões. A base completa de 2.032 questões (16 tipos de tarefa PTE) está organizada em arquivos dedicados na pasta dev-server/.opencode/pte-json/. Use um JSON por task_type.",
+  "version": "2.0.0",
+  "folder": ".opencode/pte-json",
+  "total_questions": 2032,
+  "sections": {
+    "speaking": ["read_aloud", "repeat_sentence", "retell_lecture", "answer_short"],
+    "writing": ["swt"],
+    "reading": ["mcq_single", "mcq_multi"],
+    "listening": ["wfd", "lst_fib", "summarize_spoken_text", "lst_hiw", "lst_hcs", "lst_summary", "lst_smw", "lst_mcq", "lst_mcq_multi"]
+  },
+  "files": {
+    "read_aloud.json": 148,
+    "repeat_sentence.json": 591,
+    "retell_lecture.json": 31,
+    "answer_short.json": 8,
+    "swt.json": 29,
+    "mcq_single.json": 54,
+    "mcq_multi.json": 3,
+    "wfd.json": 934,
+    "lst_fib.json": 96,
+    "summarize_spoken_text.json": 115,
+    "lst_hiw.json": 3,
+    "lst_hcs.json": 8,
+    "lst_summary.json": 8,
+    "lst_smw.json": 3,
+    "lst_mcq.json": 6,
+    "lst_mcq_multi.json": 3
+  }
+}

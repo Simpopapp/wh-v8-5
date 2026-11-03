@@ -1,0 +1,44 @@
+# Roadmap — projeto 1 (PTE Master Hub)
+
+Guia de produção/verificação. Fonte do escopo: `.opencode/prd-project1.md` (← `.opencode/project1`).
+Base: 2.032 questões / 16 tipos em `.opencode/pte-json/`.
+
+- [x] Fase 0 — base de dados
+  - [x] 16 JSONs consolidados em `.opencode/pte-json/`
+  - [x] `.opencode/pte.json` substituído por manifesto de redirecionamento
+- [x] Fase 1 (P0) — camada de dados unificada
+  - [x] JSONs copiados para `src/data/pte/`; `src/lib/pte/` com catálogo unificado (16 tipos, 2.032 questões, `Question` discriminada; `answer` de FIB normalizado de string JSON → string[])
+  - [x] `src/lib/storage.ts` v2: métricas por tipo (`computeTypeStats`, `attemptedToday`, `recentAverage`, `computeStreak`, `averageWpm`), migração pura v1→v2, backup JSON versionado
+  - [x] Home = dashboard por seção (hero + 4 cards de seção); TopNav com Início/Falar/Escrever/Ler/Ouvir/Sessão/Progresso/Ajustes; rotas `/speaking|writing|reading|listening` com `SectionPage` (cards por tipo, filtros search/tipo/status)
+  - Gates: vitest 31/31 · tsc --noEmit limpo · build OK · preview :8080 verificado (home, 4 seções, /practice) · lint 0 erros · FilterBar.tsx sem uso removido
+- [x] Fase 2 (P0) — Motor B: WFD (934) + FIB (96) + HIW (3)
+  - [x] WFD: TTS 1x, digitação, correção +1/palavra com mapa acertos/omissões/extras
+  - [x] FIB: inputs inline, navegação Tab, correção tolerante a casing
+  - [x] HIW: texto clicável, pontuação acertos − falsos
+  - Gates: vitest 42/42 · tsgo limpo · lint 0 erros · build OK · preview :8080 verificado (WFD/FIB/HIW com resultado, navegação prev/next, SoonPractice para não prontos)
+  - Correções: `useSpeechSynthesis` agora define `supported` em `useEffect` (mismatch de hidratação deixava botões mortos no cliente); practice.tsx reescrito como despachante por taskType; ReadAloudPractice extraído (comportamento idêntico); ditado puro em `src/lib/pte/dictation.ts` (42 testes).
+- [x] Fase 3 (P1) — Motor B: SWT (29) + SST (115)
+  - [x] SWT: validador de frase única + contador 5-75 + keywords
+  - [x] SST: cronômetro 10:00, zona 50-70, cobertura semântica
+  - Correção pura em `src/lib/pte/summary.ts` (gradeSwt/gradeSst: zona de palavras, contagem de frases, keywords por frequência, conectivos); SwtPractice/SstPractice com PracticeShell, SST com TTS 1x → 10:00 regressivo → auto-submit
+  - Gates: vitest 52/52 · tsgo limpo · lint 0 erros · build OK · preview :8080 verificado (SWT com painel de 2 frases + keywords; SST com pular áudio, timer e resultado)
+- [x] Fase 4 (P1) — Motor A: RS (591) + RL (31) + ASQ (8)
+  - [x] RS: áudio → 3s → gravação → alinhamento com transcript (correção em `src/lib/pte/speaking.ts`, engine em RepeatSentencePractice)
+  - [x] RL: áudio → 10s prep → 40s fala → keywords + fluência (RetellLecturePractice)
+  - [x] ASQ: matching com sinônimos (AnswerShortPractice)
+  - [x] Dispatcher `/practice` cobre os 4 tipos de Speaking; TYPE_META `ready` para RS/RL/ASQ
+  - Gates: vitest 66/66 · tsgo limpo · lint 0 erros · build OK · preview :8080 verificado (RS/RL/ASQ renderizam os motores, não "Em breve")
+- [x] Fase 5 (P2) — Motores C/D: MCQs Reading (57) + Listening (20)
+  - [x] Rádio/checkbox com saldo líquido, painel de traps e evidência textual (McqPractice genérico p/ 6 tipos; correção pura em `src/lib/pte/mcq.ts` com 9 testes)
+  - [x] HCS/Summary/SMW com player de reprodução única (lst_summary reusa o motor SST generalizado; SstPractice aceita SstQuestion | SummaryChoiceQuestion)
+  - [x] Dados: `lst_smw` pte-lst_sm-40c6f847 tinha `answer` vazio — corrigido para 0 em `src/data/pte/` e `.opencode/pte-json/`
+  - [x] TYPE_META `ready: true` para os 16 tipos; dispatcher `/practice` cobre todos
+  - Gates: vitest 75/75 · tsgo limpo · lint 0 erros · build OK · preview :8080 verificado (mcq_single/multi com resultado e net score, SMW com lacuna, lst_summary com timer 10:00, seção Reading com "PRATICAR" nos 2 tipos)
+- [x] Fase 6 (P2) — Hub e sessões híbridas
+  - [x] Sessão mista entre tipos (fila, shuffle inteligente, resumo) — resumo agora com média por task type
+  - [x] Filtros úteis + paginação na lista (50 por página, "Mostrar mais"); dashboard 360° (barras de progresso e % iniciadas por seção na home; Progresso mostra os 16 tipos com score unificado)
+  - [x] Backup JSON cobrindo todos os tipos (exportBackup/importBackup já versionados com attempts + taskType + metrics)
+  - Gates: vitest 75/75 · tsgo limpo · lint 0 erros · build OK · preview :8080 verificado (home com barras por seção, /listening paginação 50→100 via "Mostrar mais", /session com mista de 16 tipos)
+
+Regras: nada de auth/multiusuário; tudo local (localStorage); TTS via Web Speech API;
+verificação por vitest + tsc --noEmit + build + preview antes de fechar cada fase.

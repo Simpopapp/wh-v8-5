@@ -1,0 +1,49 @@
+# Projeto 4 — PTE Master Hub: expansão confiável do banco de questões
+
+> Estado de partida: projetos 1–3 concluídos (Fase 5 do proj3 com 3/4 tipos integrados;
+> Describe Image "em breve"). Banco: 2.164 questões / 19 tipos. Gates de referência:
+> vitest 181/181, tsgo limpo, build OK, lint 0 erros.
+
+## Escopo (único)
+
+Aumentar o número de questões ÚTEIS através de uma varredura extensa por fontes não
+oficiais com probabilidade MUITO ALTA de conteúdo real/fiel — mesmo método do proj3
+(Fase 0 + gate de dedupe). Nada além disso: sem features, sem mudanças de UI/motores,
+sem tipos novos que exijam motor novo.
+
+## Problema observado (contagem real do manifesto, 10/10/2026)
+
+Distribuição muito desigual — vários tipos são inviáveis para treino repetido:
+
+| Tipo | Qtde | Tipo | Qtde |
+|---|---|---|---|
+| answer_short | 8 | lst_mcq | 6 |
+| mcq_multi | 8 | lst_summary | 5 |
+| lst_hcs | 3 | lst_hiw | 3 |
+| lst_mcq_multi | 3 | lst_smw | 3 |
+| swt | 29 | retell_lecture | 31 |
+| write_essay | 38 | mcq_single | 48 |
+| read_fib | 50 | reorder_paragraphs | 50 |
+| lst_fib | 96 | summarize_spoken_text | 115 |
+| read_aloud | 148 | repeat_sentence | 586 |
+| wfd | 934 | | |
+
+Fontes atuais: pte2-prediction 1.081 · ai-generated-prediction 647 · pteracai-seed 200 ·
+goarno.io 100 · anki-cards 98 · band9pte.com.au 38.
+
+## Regras invioláveis
+
+1. Só entra conteúdo de fonte verificável, acessível sem login, com respostas/
+   transcrições/explicações presentes (probabilidade muito alta de ser real).
+2. Nada gerado por IA, nada parafraseado "de memória", nada de baixa probabilidade.
+3. Zero duplicatas: dedupe contra os 2.164 existentes E entre fontes novas.
+4. Itens de listening só entram se o motor atual consegue usá-los (transcript para TTS).
+5. Sem alterar motores, UI ou fluxos — apenas dados, manifesto e testes de integridade.
+
+## Ordem lógica
+
+1. Varredura de fontes priorizada pelos tipos mais escassos.
+2. Veredito por fonte (aprovada/reprovada + evidência + volume).
+3. Extração + normalização no schema existente de cada tipo.
+4. Dedupe + relatório.
+5. Integração nos JSONs + manifesto + gates.

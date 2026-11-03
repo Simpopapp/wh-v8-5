@@ -1,0 +1,43 @@
+# Roadmap — projeto 2 (agenda, diagnóstico e modo simulado)
+
+Fonte: `.opencode/prd-project2.md` (← `.opencode/project2`). Gates por fase: vitest verde · tsc limpo · build OK · preview :8080 verificado (Playwright nas rotas tocadas).
+
+- [x] Fase 1 (P0) — Persistência de sessão + histórico
+  - [x] AppState v3 (`notes`, `sessions`, `draft`), migração v1/v2→v3, backup v3
+  - [x] session.ts: draft persistido a cada resposta, retomada no load, endSession arquiva SessionRecord
+  - [x] /session: histórico das últimas 10 sessões
+  - Gates: vitest 108/108 · tsc limpo · build OK · preview verificado
+- [x] Fase 2 (P0) — SRS em toda a app
+  - [x] buildQueue mode "due" (só vencidas) + countDueByType
+  - [x] PracticeShell: chip "Revisar hoje"/"Revisão em N dias" no cabeçalho
+  - [x] Home: badge "N vencidas hoje" por seção; SectionPage: contagem nos filtros de status
+  - [x] /session: botão "Fila do dia (N)"
+  - Gates: vitest 108/108 · tsc limpo · build OK · preview home/seções/session verificado
+- [x] Fase 3 (P1) — Diagnóstico de erros
+  - [x] Attempt.tags: WFD missed:palavra, MCQ trap/falso-positivo, fala por categoria (speakingTags)
+  - [x] src/lib/pte/diagnostics.ts (tagAttempt, diagnoseAttempts, TAG_LABELS) — agregação em /progress
+  - [x] /progress: seção "Padrões de erro" (tags, palavras mais faltadas)
+  - Gates: vitest 108/108 · tsc limpo · build OK · preview verificado
+- [x] Fase 4 (P1) — Notas + atalhos de teclado
+  - [x] upsertNote + painel de nota no PracticeShell (tecla N, debounce 400ms)
+  - [x] Atalhos ←/→, B, N, ? com guard de input; notas persistem após reload
+    (corrigido bug de hidratação SSR: getServerSnapshot devolvia estado vazio)
+  - Gates: vitest 125/125 · tsc limpo · build OK · preview notas+atalhos verificados (Playwright)
+- [x] Fase 5 (P2) — Modo simulado
+  - [x] src/lib/pte/exam.ts (EXAM_PLAN, buildExamQueue, timing, resumo) + testes
+  - [x] Rota /exam: escolha → ExamRunner (cronômetro, auto-submit) → resumo comparativo
+  - [x] Sessão de exame no histórico (kind: "exam"); link "Simulado" na TopNav
+  - Gates: testes exam · preview fluxo completo /exam verificado (timer, resumo, histórico)
+- [x] Fase 6 (P2) — PWA offline real + gráficos
+  - [x] sw.js v2: cache pte-master-hub-v2, precache tolerante do shell, cache-first
+    /assets/*, network-first em navegação com fallback "/", limpeza no activate
+  - [x] /progress: comparação 7d vs 7d anteriores + evolução semanal por tipo (6 semanas)
+  - [x] Gate offline end-to-end: verificado — build de produção (nitro/cloudflare) servido
+    com `wrangler dev` (servidor concorrente, porta 4173; `wrangler.preview.jsonc` com
+    main=dist/server/index.mjs e assets=dist/client). Playwright: SW ativo, 41 entradas
+    em cache, `context.set_offline` + reload → Home e /progress renderizam do cache
+    (navegação network-first com fallback + cache-first /assets/*), 0 erros de página.
+  - Gates: vitest 125/125 · tsgo limpo · build OK · offline E2E OK
+
+Regras: 100% localStorage; backup JSON é o envelope (v3 aceita v2); TTS Web Speech;
+nenhuma dependência nova; funções puras em src/lib com testes antes da UI.

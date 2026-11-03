@@ -1,0 +1,1273 @@
+{
+  "questions": [
+    {
+      "text": "What do you call the season between summer and winter?",
+      "id": "pte-answer-14371448",
+      "answer": "autumn or fall",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as wrong content.",
+      "topic": "everyday knowledge",
+      "source": "pteracai-seed",
+      "word_count": 10
+    },
+    {
+      "text": "What is the opposite of 'expensive'?",
+      "id": "pte-answer-9c80cc14",
+      "answer": "cheap or inexpensive",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as wrong content.",
+      "topic": "everyday knowledge",
+      "source": "pteracai-seed",
+      "word_count": 6
+    },
+    {
+      "text": "What instrument is used to measure temperature?",
+      "id": "pte-answer-f8fbc7d9",
+      "answer": "thermometer",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as wrong content.",
+      "topic": "academic knowledge",
+      "source": "pteracai-seed",
+      "word_count": 7
+    },
+    {
+      "text": "What do you call a person who studies the stars and planets?",
+      "id": "pte-answer-470e1bf7",
+      "answer": "astronomer",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as wrong content.",
+      "topic": "everyday knowledge",
+      "source": "pteracai-seed",
+      "word_count": 12
+    },
+    {
+      "text": "What is the largest organ in the human body?",
+      "id": "pte-answer-46019689",
+      "answer": "skin",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as wrong content.",
+      "topic": "academic knowledge",
+      "source": "pteracai-seed",
+      "word_count": 9
+    },
+    {
+      "text": "How many continents are there in the world?",
+      "id": "pte-answer-0204e013",
+      "answer": "seven",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as wrong content.",
+      "topic": "everyday knowledge",
+      "source": "pteracai-seed",
+      "word_count": 8
+    },
+    {
+      "text": "What is the chemical symbol for gold?",
+      "id": "pte-answer-4d55400b",
+      "answer": "Au",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as wrong content.",
+      "topic": "academic knowledge",
+      "source": "pteracai-seed",
+      "word_count": 7
+    },
+    {
+      "text": "What do you call a doctor who specializes in treating children?",
+      "id": "pte-answer-055fa710",
+      "answer": "pediatrician",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as wrong content.",
+      "topic": "everyday knowledge",
+      "source": "pteracai-seed",
+      "word_count": 11
+    },
+    {
+      "text": "What do you call a person who is trained to fly an aircraft?",
+      "id": "goarno-asq-01",
+      "answer": "Pilot",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what do you",
+      "source": "goarno.io",
+      "word_count": 13
+    },
+    {
+      "text": "What do we call a piece of land that is completely surrounded by water?",
+      "id": "goarno-asq-02",
+      "answer": "Island",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what do we",
+      "source": "goarno.io",
+      "word_count": 14
+    },
+    {
+      "text": "What air-filled rubber ring fits around the wheels of cars and bicycles?",
+      "id": "goarno-asq-03",
+      "answer": "Tire / Tyre",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what air filled",
+      "source": "goarno.io",
+      "word_count": 12
+    },
+    {
+      "text": "What machine is used to produce a paper copy of a digital document?",
+      "id": "goarno-asq-04",
+      "answer": "Printer",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what machine is",
+      "source": "goarno.io",
+      "word_count": 13
+    },
+    {
+      "text": "What do we call a written legal agreement between two parties?",
+      "id": "goarno-asq-06",
+      "answer": "Contract",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what do we",
+      "source": "goarno.io",
+      "word_count": 11
+    },
+    {
+      "text": "What vehicle is used to rush sick or injured people to the hospital?",
+      "id": "goarno-asq-07",
+      "answer": "Ambulance",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what vehicle is",
+      "source": "goarno.io",
+      "word_count": 13
+    },
+    {
+      "text": "What term describes a period of ten years?",
+      "id": "goarno-asq-08",
+      "answer": "Decade",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what term describes",
+      "source": "goarno.io",
+      "word_count": 8
+    },
+    {
+      "text": "What term describes the artificial application of water to agricultural land?",
+      "id": "goarno-asq-09",
+      "answer": "Irrigation",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what term describes",
+      "source": "goarno.io",
+      "word_count": 11
+    },
+    {
+      "text": "What do you call a piece of land completely surrounded by water?",
+      "id": "goarno-asq-10",
+      "answer": "Island",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what do you",
+      "source": "goarno.io",
+      "word_count": 12
+    },
+    {
+      "text": "What round device does a driver hold to change the direction of a moving vehicle?",
+      "id": "goarno-asq-11",
+      "answer": "Steering wheel",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what round device",
+      "source": "goarno.io",
+      "word_count": 15
+    },
+    {
+      "text": "What is the vapor produced when water is heated to its boiling point?",
+      "id": "goarno-asq-12",
+      "answer": "Steam",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what is the",
+      "source": "goarno.io",
+      "word_count": 13
+    },
+    {
+      "text": "What reference book lists words in alphabetical order and explains their meanings?",
+      "id": "goarno-asq-13",
+      "answer": "Dictionary",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what reference book",
+      "source": "goarno.io",
+      "word_count": 12
+    },
+    {
+      "text": "What reference source would you use to find the definition and spelling of a word?",
+      "id": "goarno-asq-14",
+      "answer": "Dictionary",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what reference source",
+      "source": "goarno.io",
+      "word_count": 15
+    },
+    {
+      "text": "What do you call a reference book that consists of a collection of maps?",
+      "id": "goarno-asq-15",
+      "answer": "Atlas",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what do you",
+      "source": "goarno.io",
+      "word_count": 14
+    },
+    {
+      "text": "In a mathematical fraction, what is the name of the number that appears above the line?",
+      "id": "goarno-asq-16",
+      "answer": "Numerator",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "in a mathematical",
+      "source": "goarno.io",
+      "word_count": 16
+    },
+    {
+      "text": "What do we call an angle that measures exactly ninety degrees?",
+      "id": "goarno-asq-17",
+      "answer": "Right angle",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what do we",
+      "source": "goarno.io",
+      "word_count": 11
+    },
+    {
+      "text": "What book would you consult to find the definition and pronunciation of a word?",
+      "id": "goarno-asq-18",
+      "answer": "Dictionary",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what book would",
+      "source": "goarno.io",
+      "word_count": 14
+    },
+    {
+      "text": "What is the short explanatory text written underneath a photograph called?",
+      "id": "goarno-asq-19",
+      "answer": "Caption",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what is the",
+      "source": "goarno.io",
+      "word_count": 11
+    },
+    {
+      "text": "What device is used to type letters and numbers into a computer?",
+      "id": "goarno-asq-20",
+      "answer": "Keyboard",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what device is",
+      "source": "goarno.io",
+      "word_count": 12
+    },
+    {
+      "text": "What do passengers fasten across their bodies to stay safe while travelling in a car?",
+      "id": "goarno-asq-21",
+      "answer": "Seatbelt",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what do passengers",
+      "source": "goarno.io",
+      "word_count": 15
+    },
+    {
+      "text": "What term is used for the distance from the center of a circle to its edge?",
+      "id": "goarno-asq-22",
+      "answer": "Radius",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what term is",
+      "source": "goarno.io",
+      "word_count": 16
+    },
+    {
+      "text": "What do you call a portable computer designed to be used on your lap?",
+      "id": "goarno-asq-23",
+      "answer": "Laptop",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what do you",
+      "source": "goarno.io",
+      "word_count": 14
+    },
+    {
+      "text": "What word is used to describe a period of ten years?",
+      "id": "goarno-asq-24",
+      "answer": "Decade",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what word is",
+      "source": "goarno.io",
+      "word_count": 11
+    },
+    {
+      "text": "What device allows you to record your voice into a computer?",
+      "id": "goarno-asq-25",
+      "answer": "Microphone",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what device allows",
+      "source": "goarno.io",
+      "word_count": 11
+    },
+    {
+      "text": "What do you call a book written by a person about their own life?",
+      "id": "goarno-asq-26",
+      "answer": "Autobiography",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what do you",
+      "source": "goarno.io",
+      "word_count": 14
+    },
+    {
+      "text": "What is the name of the bone structure that protects the brain?",
+      "id": "goarno-asq-27",
+      "answer": "Skull",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what is the",
+      "source": "goarno.io",
+      "word_count": 12
+    },
+    {
+      "text": "What broad term describes a dry area of land that receives very little rainfall?",
+      "id": "goarno-asq-29",
+      "answer": "Desert",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what broad term",
+      "source": "goarno.io",
+      "word_count": 14
+    },
+    {
+      "text": "What is the name for the group of citizens who decide the verdict in a court trial?",
+      "id": "goarno-asq-30",
+      "answer": "Jury",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what is the",
+      "source": "goarno.io",
+      "word_count": 17
+    },
+    {
+      "text": "What do you call an angle that is exactly ninety degrees?",
+      "id": "goarno-asq-31",
+      "answer": "Right angle",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what do you",
+      "source": "goarno.io",
+      "word_count": 11
+    },
+    {
+      "text": "What is the term for a book written about a person's life by someone else?",
+      "id": "goarno-asq-32",
+      "answer": "Biography",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what is the",
+      "source": "goarno.io",
+      "word_count": 15
+    },
+    {
+      "text": "What group of people decides whether a person is guilty or innocent in a court trial?",
+      "id": "goarno-asq-33",
+      "answer": "Jury",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what group of",
+      "source": "goarno.io",
+      "word_count": 16
+    },
+    {
+      "text": "What vehicle transports sick or injured people to a hospital in an emergency?",
+      "id": "goarno-asq-34",
+      "answer": "Ambulance",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what vehicle transports",
+      "source": "goarno.io",
+      "word_count": 13
+    },
+    {
+      "text": "What do we call a man-made waterway constructed to allow the passage of boats?",
+      "id": "goarno-asq-35",
+      "answer": "Canal",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what do we",
+      "source": "goarno.io",
+      "word_count": 14
+    },
+    {
+      "text": "What device connects to a computer to produce paper copies of documents?",
+      "id": "goarno-asq-36",
+      "answer": "Printer",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what device connects",
+      "source": "goarno.io",
+      "word_count": 12
+    },
+    {
+      "text": "What do you call a word that has the opposite meaning of another word?",
+      "id": "goarno-asq-37",
+      "answer": "Antonym",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what do you",
+      "source": "goarno.io",
+      "word_count": 14
+    },
+    {
+      "text": "What do we call the alphabetical list of topics and page numbers at the back of a book?",
+      "id": "goarno-asq-38",
+      "answer": "Index",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what do we",
+      "source": "goarno.io",
+      "word_count": 18
+    },
+    {
+      "text": "What safety strap do passengers fasten across their bodies when riding in a car?",
+      "id": "goarno-asq-39",
+      "answer": "Seatbelt",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what safety strap",
+      "source": "goarno.io",
+      "word_count": 14
+    },
+    {
+      "text": "What red fluid flows through the veins and arteries of the human body?",
+      "id": "goarno-asq-40",
+      "answer": "Blood",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what red fluid",
+      "source": "goarno.io",
+      "word_count": 13
+    },
+    {
+      "text": "What section at the end of a book lists technical terms and their definitions alphabetically?",
+      "id": "goarno-asq-41",
+      "answer": "Glossary",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what section at",
+      "source": "goarno.io",
+      "word_count": 15
+    },
+    {
+      "text": "What reference book is used to find the meanings and spellings of words?",
+      "id": "goarno-asq-42",
+      "answer": "Dictionary",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what reference book",
+      "source": "goarno.io",
+      "word_count": 13
+    },
+    {
+      "text": "What global system connects computers together to share information?",
+      "id": "goarno-asq-45",
+      "answer": "Internet",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what global system",
+      "source": "goarno.io",
+      "word_count": 9
+    },
+    {
+      "text": "What do we call two lines that run side by side and never meet?",
+      "id": "goarno-asq-46",
+      "answer": "Parallel lines",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what do we",
+      "source": "goarno.io",
+      "word_count": 14
+    },
+    {
+      "text": "What do you call a short video advertisement used to promote a new movie?",
+      "id": "goarno-asq-47",
+      "answer": "Trailer",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what do you",
+      "source": "goarno.io",
+      "word_count": 14
+    },
+    {
+      "text": "What group of people typically decides the verdict in a court case?",
+      "id": "goarno-asq-48",
+      "answer": "Jury",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what group of",
+      "source": "goarno.io",
+      "word_count": 12
+    },
+    {
+      "text": "What is the job title of a person who treats your teeth?",
+      "id": "goarno-asq-49",
+      "answer": "Dentist",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what is the",
+      "source": "goarno.io",
+      "word_count": 12
+    },
+    {
+      "text": "What vertical dimension measures the distance from the base to the top of an object?",
+      "id": "goarno-asq-50",
+      "answer": "Height",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what vertical dimension",
+      "source": "goarno.io",
+      "word_count": 15
+    },
+    {
+      "text": "What kind of instrument measures atmospheric pressure?",
+      "id": "ptea-asq-001",
+      "answer": "Barometer",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what kind of",
+      "source": "pteacademy.in",
+      "word_count": 7
+    },
+    {
+      "text": "When describing a complex situation, we might say it's a \"tangled web\" of what? Problems / Difficulties\n3. During a debate, if someone presents compelling evidence, they are said to have made\na... ?",
+      "id": "ptea-asq-002",
+      "answer": "Strong case",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "when describing a",
+      "source": "pteacademy.in",
+      "word_count": 34
+    },
+    {
+      "text": "What term describes a person who studies fossils and ancient life forms?",
+      "id": "ptea-asq-004",
+      "answer": "Paleontologist",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what term describes",
+      "source": "pteacademy.in",
+      "word_count": 12
+    },
+    {
+      "text": "In a library, what category might you find books about the study of language?",
+      "id": "ptea-asq-005",
+      "answer": "Linguistics",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "in a library",
+      "source": "pteacademy.in",
+      "word_count": 14
+    },
+    {
+      "text": "In music, what do we call the repeated melody that's often easily remembered?",
+      "id": "ptea-asq-006",
+      "answer": "Chorus",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "in music what",
+      "source": "pteacademy.in",
+      "word_count": 13
+    },
+    {
+      "text": "What technology allows us to send messages and information without wires?",
+      "id": "ptea-asq-007",
+      "answer": "Wireless\ncommunication",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what technology allows",
+      "source": "pteacademy.in",
+      "word_count": 11
+    },
+    {
+      "text": "When a company experiences financial difficulties, it might need to do what? Restructure / Downsize\n9. What natural phenomenon causes the Earth's surface to shake and vibrate?",
+      "id": "ptea-asq-008",
+      "answer": "Earthquake",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "when a company",
+      "source": "pteacademy.in",
+      "word_count": 27
+    },
+    {
+      "text": "What do we call the process of changing a liquid into a gas by heating it?",
+      "id": "ptea-asq-010",
+      "answer": "Evaporation\n\nPreparing for the PTE speaking section is now easier than ever with PTE\nAcademy’s free PTE practice material. Combine that with our exceptional online\nand offline coaching, personalized study materials, and you’ll have everything you\nneed to excel in the PTE exam. Don’t wait any longer – Call 7207115105 today and\nlet us help you soar to new heights in your PTE journey!\n\n\fwww.pteacademy.in\nYou will hear a question. Please give a simple and short answer. Often just one or a few\nwords is enough.",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what do we",
+      "source": "pteacademy.in",
+      "word_count": 16
+    },
+    {
+      "text": "What type of writing uses exaggeration and humor to entertain readers?",
+      "id": "ptea-asq-011",
+      "answer": "Satire",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what type of",
+      "source": "pteacademy.in",
+      "word_count": 11
+    },
+    {
+      "text": "What is the term for a person who studies the history and culture of ancient\ncivilizations?",
+      "id": "ptea-asq-012",
+      "answer": "Archaeologist",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what is the",
+      "source": "pteacademy.in",
+      "word_count": 16
+    },
+    {
+      "text": "In a news report, what do we call a short, factual summary of an event?",
+      "id": "ptea-asq-013",
+      "answer": "Headline",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "in a news",
+      "source": "pteacademy.in",
+      "word_count": 15
+    },
+    {
+      "text": "What is the opposite of \"impartial\" in the context of judging or reporting?",
+      "id": "ptea-asq-014",
+      "answer": "Biased",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what is the",
+      "source": "pteacademy.in",
+      "word_count": 13
+    },
+    {
+      "text": "What is the name of the device that measures the speed of an object?",
+      "id": "ptea-asq-015",
+      "answer": "Speedometer",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what is the",
+      "source": "pteacademy.in",
+      "word_count": 14
+    },
+    {
+      "text": "What do we call a large, open area of water surrounded by land?",
+      "id": "ptea-asq-016",
+      "answer": "Lake",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what do we",
+      "source": "pteacademy.in",
+      "word_count": 13
+    },
+    {
+      "text": "What is the term for a sudden, violent increase in the Earth's temperature?",
+      "id": "ptea-asq-017",
+      "answer": "Heatwave",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what is the",
+      "source": "pteacademy.in",
+      "word_count": 13
+    },
+    {
+      "text": "In art, what do we call the technique of creating three-dimensional images on a flat\nsurface?",
+      "id": "ptea-asq-018",
+      "answer": "Perspective",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "in art what",
+      "source": "pteacademy.in",
+      "word_count": 16
+    },
+    {
+      "text": "What is the name of the scientific study of the human mind and behavior?",
+      "id": "ptea-asq-019",
+      "answer": "Psychology",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what is the",
+      "source": "pteacademy.in",
+      "word_count": 14
+    },
+    {
+      "text": "What do we call the person who navigates a ship using maps and charts?",
+      "id": "ptea-asq-020",
+      "answer": "Navigator\n\nConquer the PTE Speaking Section: Master 100 Answer Short Questions!\nMastering the PTE speaking section can feel like a daunting task, but fear not! This\nultimate guide unveils your gateway to success: 100 Answer Short Question practice\nmaterials in a downloadable PDF format!\nWe’re excited to introduce the best PTE coaching center, PTE Academy, where you can\naccess free practice material. Let’s dive in and discover how PTE Academy can help you\nexcel in your PTE Speaking test!\n\n\fwww.pteacademy.in\nYou will hear a question. Please give a simple and short answer. Often just one or a few\nwords is enough.",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what do we",
+      "source": "pteacademy.in",
+      "word_count": 14
+    },
+    {
+      "text": "What do we call the natural process that turns dead leaves into soil?",
+      "id": "ptea-asq-021",
+      "answer": "Decomposition",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what do we",
+      "source": "pteacademy.in",
+      "word_count": 13
+    },
+    {
+      "text": "In technology, what does \"WWW\" stand for?",
+      "id": "ptea-asq-022",
+      "answer": "World Wide Web",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "in technology what",
+      "source": "pteacademy.in",
+      "word_count": 7
+    },
+    {
+      "text": "What type of music is known for its fast tempos and heavy basslines?",
+      "id": "ptea-asq-023",
+      "answer": "Electronic Dance\nMusic (EDM)",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what type of",
+      "source": "pteacademy.in",
+      "word_count": 13
+    },
+    {
+      "text": "What is the liquid inside a cell called?",
+      "id": "ptea-asq-024",
+      "answer": "Cytoplasm",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what is the",
+      "source": "pteacademy.in",
+      "word_count": 8
+    },
+    {
+      "text": "What do we call the study of the Earth's surface and its features?",
+      "id": "ptea-asq-025",
+      "answer": "Geology",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what do we",
+      "source": "pteacademy.in",
+      "word_count": 13
+    },
+    {
+      "text": "What profession uses microscopes to analyze and diagnose diseases?",
+      "id": "ptea-asq-026",
+      "answer": "Pathology",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what profession uses",
+      "source": "pteacademy.in",
+      "word_count": 9
+    },
+    {
+      "text": "In literature, what is the term for a character who changes significantly throughout the\nstory?",
+      "id": "ptea-asq-027",
+      "answer": "Dynamic character",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "in literature what",
+      "source": "pteacademy.in",
+      "word_count": 15
+    },
+    {
+      "text": "What is the name for the device that translates languages in real-time?",
+      "id": "ptea-asq-028",
+      "answer": "Translator",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what is the",
+      "source": "pteacademy.in",
+      "word_count": 12
+    },
+    {
+      "text": "What is the most common gas found in the Earth's atmosphere after nitrogen?",
+      "id": "ptea-asq-029",
+      "answer": "Oxygen",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what is the",
+      "source": "pteacademy.in",
+      "word_count": 13
+    },
+    {
+      "text": "What type of renewable energy is generated by moving water?",
+      "id": "ptea-asq-030",
+      "answer": "Hydropower\n\nSupercharge Your PTE Performance: Answer Short Questions Like a Pro!\nSeeking to ace the PTE speaking section? Look no further than our powerful\ncombination of free PTE practice questions and exceptional PTE coaching.\nBoost Your Speaking Skills with Free Answer Short Question Practice:\nConquering the PTE speaking component can be tough. That's why we've compiled a\nvast collection of free Answer Short Question practice materials.\n\n\fwww.pteacademy.in\nYou will hear a question. Please give a simple and short answer. Often just one or a few\nwords is enough.",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what type of",
+      "source": "pteacademy.in",
+      "word_count": 10
+    },
+    {
+      "text": "What do we call a group of eight musicians playing string instruments?",
+      "id": "ptea-asq-031",
+      "answer": "String octet",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what do we",
+      "source": "pteacademy.in",
+      "word_count": 12
+    },
+    {
+      "text": "What is the name of the device used to measure temperature?",
+      "id": "ptea-asq-032",
+      "answer": "Thermometer",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what is the",
+      "source": "pteacademy.in",
+      "word_count": 11
+    },
+    {
+      "text": "What is the term for the political line that separates two countries?",
+      "id": "ptea-asq-033",
+      "answer": "Border",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what is the",
+      "source": "pteacademy.in",
+      "word_count": 12
+    },
+    {
+      "text": "How many sides does a hexagon have?",
+      "id": "ptea-asq-034",
+      "answer": "Six",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "how many sides",
+      "source": "pteacademy.in",
+      "word_count": 7
+    },
+    {
+      "text": "Which of the following is not a form of transportation: hoverboard, submarine, or\nspaceship?",
+      "id": "ptea-asq-035",
+      "answer": "Hoverboard",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "which of the",
+      "source": "pteacademy.in",
+      "word_count": 14
+    },
+    {
+      "text": "What do we call a doctor who specializes in treating the heart?",
+      "id": "ptea-asq-036",
+      "answer": "Cardiologist",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what do we",
+      "source": "pteacademy.in",
+      "word_count": 12
+    },
+    {
+      "text": "Which form of transportation uses tracks and is commonly found in cities?",
+      "id": "ptea-asq-037",
+      "answer": "Train",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "which form of",
+      "source": "pteacademy.in",
+      "word_count": 12
+    },
+    {
+      "text": "What is the name for the study of the Earth's atmosphere and weather?",
+      "id": "ptea-asq-038",
+      "answer": "Meteorology",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what is the",
+      "source": "pteacademy.in",
+      "word_count": 13
+    },
+    {
+      "text": "What do we call the person who leads an orchestra?",
+      "id": "ptea-asq-039",
+      "answer": "Conductor",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what do we",
+      "source": "pteacademy.in",
+      "word_count": 10
+    },
+    {
+      "text": "Which animal is known as the \"king of the jungle\"?",
+      "id": "ptea-asq-040",
+      "answer": "Lion\n\nSupercharge Your PTE Performance: Answer Short Questions Like a Pro!\nSeeking to ace the PTE speaking section? Look no further than our powerful\ncombination of free PTE practice questions and exceptional PTE coaching.\nBoost Your Speaking Skills with Free Answer Short Question Practice:\nConquering the PTE speaking component can be tough. That's why we've compiled a\nvast collection of free Answer Short Question practice materials.\n\n\fwww.pteacademy.in\nYou will hear a question. Please give a simple and short answer. Often just one or a few\nwords is enough.",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "which animal is",
+      "source": "pteacademy.in",
+      "word_count": 10
+    },
+    {
+      "text": "What is the main gas that humans breathe?",
+      "id": "ptea-asq-041",
+      "answer": "Oxygen",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what is the",
+      "source": "pteacademy.in",
+      "word_count": 8
+    },
+    {
+      "text": "What is the term for the money people pay to the government to support public\nservices?",
+      "id": "ptea-asq-042",
+      "answer": "Taxes",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what is the",
+      "source": "pteacademy.in",
+      "word_count": 16
+    },
+    {
+      "text": "What is the process of plants making their food using sunlight called?",
+      "id": "ptea-asq-044",
+      "answer": "Photosynthesis",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what is the",
+      "source": "pteacademy.in",
+      "word_count": 12
+    },
+    {
+      "text": "What is the name of the punctuation mark that shows the end of a sentence?",
+      "id": "ptea-asq-047",
+      "answer": "Period /\nFull stop",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what is the",
+      "source": "pteacademy.in",
+      "word_count": 15
+    },
+    {
+      "text": "What do we call a person who writes books or stories?",
+      "id": "ptea-asq-048",
+      "answer": "Author",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what do we",
+      "source": "pteacademy.in",
+      "word_count": 11
+    },
+    {
+      "text": "What is the name of the device used to record sound?",
+      "id": "ptea-asq-049",
+      "answer": "Microphone",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what is the",
+      "source": "pteacademy.in",
+      "word_count": 11
+    },
+    {
+      "text": "What is the term for a person who studies the history of the world?",
+      "id": "ptea-asq-050",
+      "answer": "Historian\n\nSupercharge Your PTE Performance: Answer Short Questions Like a Pro!\nSeeking to ace the PTE speaking section? Look no further than our powerful\ncombination of free PTE practice questions and exceptional PTE coaching.\nBoost Your Speaking Skills with Free Answer Short Question Practice:\nConquering the PTE speaking component can be tough. That's why we've compiled a\nvast collection of free Answer Short Question practice materials.\n\n\fwww.pteacademy.in\nYou will hear a question. Please give a simple and short answer. Often just one or a few\nwords is enough.",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what is the",
+      "source": "pteacademy.in",
+      "word_count": 14
+    },
+    {
+      "text": "What name describes the network of computers connected across the globe?",
+      "id": "ptea-asq-051",
+      "answer": "Internet",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what name describes",
+      "source": "pteacademy.in",
+      "word_count": 11
+    },
+    {
+      "text": "What term describes a person who travels to space?",
+      "id": "ptea-asq-052",
+      "answer": "Astronaut",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what term describes",
+      "source": "pteacademy.in",
+      "word_count": 9
+    },
+    {
+      "text": "In literature, what do we call a character who opposes the protagonist?",
+      "id": "ptea-asq-053",
+      "answer": "Antagonist",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "in literature what",
+      "source": "pteacademy.in",
+      "word_count": 12
+    },
+    {
+      "text": "What do we call the study of ancient history and civilizations?",
+      "id": "ptea-asq-054",
+      "answer": "Archaeology",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what do we",
+      "source": "pteacademy.in",
+      "word_count": 11
+    },
+    {
+      "text": "What kind of art uses sound waves to create an experience for the listener?",
+      "id": "ptea-asq-055",
+      "answer": "Sound art",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what kind of",
+      "source": "pteacademy.in",
+      "word_count": 14
+    },
+    {
+      "text": "What term describes a person who studies the human body and its functions? Anatomist\n57. When describing someone who is very forgetful, we might say they have \"a memory like\na...\"",
+      "id": "ptea-asq-056",
+      "answer": "Goldfish / Sieve",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what term describes",
+      "source": "pteacademy.in",
+      "word_count": 31
+    },
+    {
+      "text": "What do we call the system of rules and regulations that governs a country?",
+      "id": "ptea-asq-058",
+      "answer": "Legal\nsystem",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what do we",
+      "source": "pteacademy.in",
+      "word_count": 14
+    },
+    {
+      "text": "What kind of natural disaster causes heavy rain and flooding?",
+      "id": "ptea-asq-059",
+      "answer": "Cyclone",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what kind of",
+      "source": "pteacademy.in",
+      "word_count": 10
+    },
+    {
+      "text": "What do we call the person who leads a research team and oversees scientific projects?",
+      "id": "ptea-asq-060",
+      "answer": "Lead researcher / Principal investigator\n\nSupercharge Your PTE Performance: Answer Short Questions Like a Pro!\nSeeking to ace the PTE speaking section? Look no further than our powerful\ncombination of free PTE practice questions and exceptional PTE coaching.\nBoost Your Speaking Skills with Free Answer Short Question Practice:\nConquering the PTE speaking component can be tough. That's why we've compiled a\nvast collection of free Answer Short Question practice materials.\n\n\fwww.pteacademy.in\nYou will hear a question. Please give a simple and short answer. Often just one or a few\nwords is enough.",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what do we",
+      "source": "pteacademy.in",
+      "word_count": 15
+    },
+    {
+      "text": "What kind of energy comes from the movement of wind and can be used to generate electricity? Wind energy\n62. What tool do architects use to create blueprints and plans for buildings?",
+      "id": "ptea-asq-061",
+      "answer": "Architectural software /\nCAD",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what kind of",
+      "source": "pteacademy.in",
+      "word_count": 32
+    },
+    {
+      "text": "In a historical context, what period describes the cultural and social movement advocating for\nwomen's rights?",
+      "id": "ptea-asq-063",
+      "answer": "Feminism",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "in a historical",
+      "source": "pteacademy.in",
+      "word_count": 16
+    },
+    {
+      "text": "What do we call the group of singers who perform together without musical instruments?",
+      "id": "ptea-asq-064",
+      "answer": "A\ncappella",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what do we",
+      "source": "pteacademy.in",
+      "word_count": 14
+    },
+    {
+      "text": "What type of animal is a penguin?",
+      "id": "ptea-asq-065",
+      "answer": "Flightless bird",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what type of",
+      "source": "pteacademy.in",
+      "word_count": 7
+    },
+    {
+      "text": "What kind of writing focuses on factual information and objective arguments?",
+      "id": "ptea-asq-066",
+      "answer": "Non-fiction",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what kind of",
+      "source": "pteacademy.in",
+      "word_count": 11
+    },
+    {
+      "text": "What do we call the person who studies and analyzes human behavior?",
+      "id": "ptea-asq-067",
+      "answer": "Psychologist / Sociologist",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what do we",
+      "source": "pteacademy.in",
+      "word_count": 12
+    },
+    {
+      "text": "What term describes a person who is skilled in many different areas and has a wide range of\nknowledge?",
+      "id": "ptea-asq-068",
+      "answer": "Polymath",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what term describes",
+      "source": "pteacademy.in",
+      "word_count": 19
+    },
+    {
+      "text": "What literary device uses repetition of sounds at the beginning of words to create a poetic effect? Alliteration\n70. In mathematics, what do we call the process of dividing one number by another?",
+      "id": "ptea-asq-069",
+      "answer": "Division\n\nSupercharge Your PTE Performance: Answer Short Questions Like a Pro!\nSeeking to ace the PTE speaking section? Look no further than our powerful\ncombination of free PTE practice questions and exceptional PTE coaching.\nBoost Your Speaking Skills with Free Answer Short Question Practice:\nConquering the PTE speaking component can be tough. That's why we've compiled a\nvast collection of free Answer Short Question practice materials.\n\n\fwww.pteacademy.in\nYou will hear a question. Please give a simple and short answer. Often just one or a few\nwords is enough.",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what literary device",
+      "source": "pteacademy.in",
+      "word_count": 33
+    },
+    {
+      "text": "What term describes a person who studies the history and development of languages?",
+      "id": "ptea-asq-071",
+      "answer": "Linguist",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what term describes",
+      "source": "pteacademy.in",
+      "word_count": 13
+    },
+    {
+      "text": "What scientific instrument measures the electrical current flowing through a conductor?",
+      "id": "ptea-asq-072",
+      "answer": "Ammeter",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what scientific instrument",
+      "source": "pteacademy.in",
+      "word_count": 11
+    },
+    {
+      "text": "When describing someone who is very intelligent and resourceful, we might say they are\n\"sharp as a...\"",
+      "id": "ptea-asq-073",
+      "answer": "Tack / Nail",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "when describing someone",
+      "source": "pteacademy.in",
+      "word_count": 17
+    },
+    {
+      "text": "What kind of document outlines the rules and regulations of a company or organization?",
+      "id": "ptea-asq-074",
+      "answer": "Policy / Manual",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what kind of",
+      "source": "pteacademy.in",
+      "word_count": 14
+    },
+    {
+      "text": "What do we call the final stage of a plant's life cycle, where it produces seeds or fruit? Reproduction / Maturation\n76. In music, what term describes the tempo or speed of a piece?",
+      "id": "ptea-asq-075",
+      "answer": "Pace / Rhythm",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what do we",
+      "source": "pteacademy.in",
+      "word_count": 34
+    },
+    {
+      "text": "What kind of energy is generated by the movement of water, such as in rivers and\noceans?",
+      "id": "ptea-asq-077",
+      "answer": "Hydropower",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what kind of",
+      "source": "pteacademy.in",
+      "word_count": 17
+    },
+    {
+      "text": "What do we call the device that controls the flow of electricity in a circuit?",
+      "id": "ptea-asq-078",
+      "answer": "Switch",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what do we",
+      "source": "pteacademy.in",
+      "word_count": 15
+    },
+    {
+      "text": "In geography, what term describes a landmass surrounded by water on all sides?",
+      "id": "ptea-asq-079",
+      "answer": "Island",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "in geography what",
+      "source": "pteacademy.in",
+      "word_count": 13
+    },
+    {
+      "text": "When describing someone who is very generous and helpful, we might say they have a\n\"heart of...\"",
+      "id": "ptea-asq-080",
+      "answer": "Gold / Lion\n\nSupercharge Your PTE Performance: Answer Short Questions Like a Pro!\nSeeking to ace the PTE speaking section? Look no further than our powerful\ncombination of free PTE practice questions and exceptional PTE coaching.\nBoost Your Speaking Skills with Free Answer Short Question Practice:\nConquering the PTE speaking component can be tough. That's why we've compiled a\nvast collection of free Answer Short Question practice materials.\n\n\fwww.pteacademy.in\nYou will hear a question. Please give a simple and short answer. Often just one or a few\nwords is enough.",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "when describing someone",
+      "source": "pteacademy.in",
+      "word_count": 17
+    },
+    {
+      "text": "What is the name of the device that detects and records earthquakes?",
+      "id": "ptea-asq-081",
+      "answer": "Seismograph",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what is the",
+      "source": "pteacademy.in",
+      "word_count": 12
+    },
+    {
+      "text": "In biology, what do we call the study of living organisms and their interactions with their\nenvironment?",
+      "id": "ptea-asq-082",
+      "answer": "Ecology",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "in biology what",
+      "source": "pteacademy.in",
+      "word_count": 17
+    },
+    {
+      "text": "What do we call the process of removing water from a substance, such as food or\nclothing?",
+      "id": "ptea-asq-083",
+      "answer": "Dehydration",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what do we",
+      "source": "pteacademy.in",
+      "word_count": 17
+    },
+    {
+      "text": "When describing someone who is very optimistic and hopeful, we might say they have a\n\"sunny...\"",
+      "id": "ptea-asq-084",
+      "answer": "Disposition / Attitude",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "when describing someone",
+      "source": "pteacademy.in",
+      "word_count": 16
+    },
+    {
+      "text": "What kind of art uses clay as its primary material and often depicts human figures or\nobjects?",
+      "id": "ptea-asq-085",
+      "answer": "Sculpture",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what kind of",
+      "source": "pteacademy.in",
+      "word_count": 17
+    },
+    {
+      "text": "What tool do artists use to create paintings on a canvas?",
+      "id": "ptea-asq-086",
+      "answer": "Brush",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what tool do",
+      "source": "pteacademy.in",
+      "word_count": 11
+    },
+    {
+      "text": "What type of music often features fast tempos and strong beats?",
+      "id": "ptea-asq-087",
+      "answer": "Dance music",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what type of",
+      "source": "pteacademy.in",
+      "word_count": 11
+    },
+    {
+      "text": "What do we call the device used to measure the intensity of light?",
+      "id": "ptea-asq-088",
+      "answer": "Luxmeter",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what do we",
+      "source": "pteacademy.in",
+      "word_count": 13
+    },
+    {
+      "text": "In literature, what term describes a story set in a futuristic and technologically advanced\nworld?",
+      "id": "ptea-asq-089",
+      "answer": "Science fiction",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "in literature what",
+      "source": "pteacademy.in",
+      "word_count": 15
+    },
+    {
+      "text": "What is the term for the process of plants releasing water vapor into the atmosphere? Transpiration\n\nSupercharge Your PTE Performance: Answer Short Questions Like a Pro!\nSeeking to ace the PTE speaking section? Look no further than our powerful\ncombination of free PTE practice questions and exceptional PTE coaching.\nBoost Your Speaking Skills with Free Answer Short Question Practice:\nConquering the PTE speaking component can be tough. That's why we've compiled a\nvast collection of free Answer Short Question practice materials.\n\n\fwww.pteacademy.in\nYou will hear a question. Please give a simple and short answer. Often just one or a few\nwords is enough.\n\n91. What do we call the study of the Earth's oceans, including their composition and marine\nlife?",
+      "id": "ptea-asq-090",
+      "answer": "Oceanography",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what is the",
+      "source": "pteacademy.in",
+      "word_count": 120
+    },
+    {
+      "text": "What do we call the study of the origin, structure, and evolution of the universe? Cosmology\n93. What do we call the scientific study of earthquakes and the Earth's crustal movements?",
+      "id": "ptea-asq-092",
+      "answer": "Seismology",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what do we",
+      "source": "pteacademy.in",
+      "word_count": 31
+    },
+    {
+      "text": "What is the term for the process of a gas changing into a liquid state?",
+      "id": "ptea-asq-094",
+      "answer": "Condensation",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what is the",
+      "source": "pteacademy.in",
+      "word_count": 15
+    },
+    {
+      "text": "In economics, what do we call a market structure where there is only one seller? Monopoly\n96. What is the term for the branch of biology that studies the classification and naming of\nliving organisms?",
+      "id": "ptea-asq-095",
+      "answer": "Taxonomy",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "in economics what",
+      "source": "pteacademy.in",
+      "word_count": 35
+    },
+    {
+      "text": "What do we call the area near the equator with consistently warm temperatures and high\nhumidity?",
+      "id": "ptea-asq-097",
+      "answer": "Tropics",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "what do we",
+      "source": "pteacademy.in",
+      "word_count": 16
+    },
+    {
+      "text": "In chemistry, what term describes a substance that speeds up a chemical reaction\nwithout being consumed in the process?",
+      "id": "ptea-asq-098",
+      "answer": "Catalyst",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "in chemistry what",
+      "source": "pteacademy.in",
+      "word_count": 19
+    },
+    {
+      "text": "In literature, what do we call a figure of speech where contradictory terms are\ncombined?",
+      "id": "ptea-asq-099",
+      "answer": "Oxymoron\n100.What do we call the bending of light as it passes through different mediums? Refraction\n\n\fwww.pteacademy.in\n\nDon’t just take our word for it; hear what our students\nhave to say about their experience with PTE Academy.\nWe have a track record of helping countless students\nachieve their desired scores and pursue their dreams of\nstudying or working abroad. Visit our website to read\ninspiring success stories and testimonials that\ndemonstrate the effectiveness of our coaching program.\nJoin PTE Academy Today and Unlock Your Potential:\nReady to embark on your journey towards Exam success? Join\nPTE Academy today and unlock your potential to achieve your\ndesired score. Our expert trainers, comprehensive study\nmaterials, and tailored practice resources are all geared\ntowards providing you with the ultimate learning experience.\nVisit our website now at www.pteacademy.in and enroll in our\ncourses to gain access to the free pte describe image practice\nmaterial. Empower yourself with the knowledge, skills, and\nconfidence needed to conquer the PTE Speaking section and\nachieve your dream score!\n\nStart\nYour\nTraining\n\nCALL US TO BEGIN",
+      "grading_notes": "Scored on whether your answer matches an acceptable response. Quick response time matters — hesitation hurts almost as much as a wrong answer.",
+      "topic": "in literature what",
+      "source": "pteacademy.in",
+      "word_count": 15
+    }
+  ]
+}
