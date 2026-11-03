@@ -33,8 +33,7 @@ const FAMILY_BY_TYPE: Partial<Record<TaskType, Family>> = {
   reorder_paragraphs: "reorder",
 };
 
-const CARD =
-  "rounded-2xl border border-border/60 bg-card shadow-card motion-safe:animate-pulse";
+const CARD = "rounded-2xl border border-border/60 bg-card shadow-card motion-safe:animate-pulse";
 
 function FamilyGeometry({ family }: { family: Family }) {
   if (family === "oral") {

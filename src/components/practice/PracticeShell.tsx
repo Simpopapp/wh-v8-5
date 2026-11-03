@@ -394,7 +394,10 @@ export function PracticeShell({
               <span className="font-normal text-muted-foreground">(tecla N)</span>
             </button>
             {notesOpen ? (
-              <div id="questao-nota" className="mt-2 rounded-2xl border border-border/60 bg-card p-4">
+              <div
+                id="questao-nota"
+                className="mt-2 rounded-2xl border border-border/60 bg-card p-4"
+              >
                 <textarea
                   value={noteDraft}
                   onChange={(e) => setNoteDraft(e.target.value)}

@@ -63,8 +63,8 @@ export function PracticeEntry({ invalidId }: { invalidId?: string }) {
           >
             <TriangleAlert aria-hidden className="mt-0.5 size-4 shrink-0 text-warning" />
             <span className="min-w-0 break-words">
-              A questão <span className="font-medium">{invalidId}</span> não foi encontrada.
-              Escolha um tipo abaixo ou volte ao início.
+              A questão <span className="font-medium">{invalidId}</span> não foi encontrada. Escolha
+              um tipo abaixo ou volte ao início.
             </span>
           </p>
         ) : null}
@@ -137,18 +137,10 @@ export function PracticeEntry({ invalidId }: { invalidId?: string }) {
           <ul className="mt-3 flex flex-wrap gap-2">
             {types.map((t) => (
               <li key={t}>
-                <Button
-                  asChild
-                  variant="outline"
-                  size="sm"
-                  className="min-h-11 whitespace-normal"
-                >
+                <Button asChild variant="outline" size="sm" className="min-h-11 whitespace-normal">
                   <Link to="/practice" search={{ q: firstIdOfType(t)! }}>
                     {TYPE_META[t].label}
-                    <span className="tabular-nums text-muted-foreground">
-                      {" "}
-                      · {typeCounts[t]}
-                    </span>
+                    <span className="tabular-nums text-muted-foreground"> · {typeCounts[t]}</span>
                   </Link>
                 </Button>
               </li>
