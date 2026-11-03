@@ -1,0 +1,6 @@
+# Roadmap — project13-s7
+
+1. [ ] Especificar: mapear TopNav/TabBar/layout com file:line; estados de "em tarefa" disponíveis no store.
+2. [ ] Implementar labels desktop + agrupamento de habilidades; caminho mobile para simulado (documentar decisão D6).
+3. [ ] Ativo com forma; variante "em tarefa"; microinterações de causa/efeito; transition restrito.
+4. [ ] Gates: vitest · tsgo · build · lint · Playwright (rotas tocadas, 390×844, overflow 0, axe 0, console limpo).

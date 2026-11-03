@@ -1,0 +1,13 @@
+# PRD — project13-s6 (S9: Ajustes com categorias e tema)
+
+Fontes: project13 (ordem lógica 5), prd-project13 §4.4.6 e D11, roadmap-proj13 Fase 4.
+
+## Escopo
+- Arquivos: `src/routes/settings.tsx` (768 linhas — reorganizar), `src/styles.css` (tokens dark já existentes), `src/routes/__root.tsx` (aplicação pré-pintura via script inline de primeira execução), store de settings.
+- Índice por categorias com âncoras no mobile e coluna lateral no desktop.
+- Tema Claro/Escuro/Sistema: preferência persistida; aplicada antes da primeira pintura (script inline no head, sem flash); `prefers-color-scheme` observado quando "Sistema".
+- Opções avançadas separadas das essenciais (details/nível secundário); multihabilidade com microcopy; "Só fontes verificadas" com `aria-pressed`; feedback discreto de salvamento.
+
+## Critérios de aceite
+- Trocar tema reflete imediatamente e sobrevive a reload sem flash (teste de regra: preferência persistida e aplicada).
+- Categorias navegáveis; 390×844 sem overflow · axe 0 · console limpo · gates verdes.

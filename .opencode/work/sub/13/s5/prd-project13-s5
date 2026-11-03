@@ -1,0 +1,14 @@
+# PRD — project13-s5 (S8: Progresso organizado e acionável)
+
+Fontes: project13 (ordem lógica 5), prd-project13 §4.4.5, roadmap-proj13 Fase 4.
+
+## Escopo
+- Arquivo principal: `src/routes/progress.tsx` (854 linhas — reorganizar, não reescrever); apoios: `src/lib/progress-analytics.ts`, `src/lib/pte/readiness.ts`, `src/components/ProgressRing.tsx`.
+- Navegação interna por blocos com âncoras (mobile) / colunas (desktop): Visão geral · Desempenho · Cobertura · Histórico.
+- Um protagonista: estimativa com confiança; demais blocos como apoio.
+- Prontidão com wrap próprio (corrige estouro em 390px); "corredor de vazios" vira onboarding único com checklist; "seção mais fraca" vira ação que abre sessão dos tipos responsáveis (reusar sessão por qids/tipos da Fase 2); relatório textual só como exportação; rótulos de escala distintos por métrica.
+
+## Critérios de aceite
+- Sem estado: página mostra onboarding com checklist, não blocos vazios.
+- "Seção mais fraca" navega para sessão real com os tipos corretos.
+- 390×844 sem overflow (prontidão inclusa) · axe 0 · console limpo · gates verdes.
