@@ -134,6 +134,13 @@ function RootShell({ children }: { children: ReactNode }) {
     <html lang="pt-BR">
       <head>
         <HeadContent />
+        {/* Tema pré-pintura (projeto 13, D11): aplica .dark antes da 1ª pintura —
+            sem flash. Fonte única com src/lib/theme.ts (THEME_KEY / regra resolvida). */}
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `try{var m=localStorage.getItem("ptehub:theme");var d=m==="dark"||((!m||m==="system")&&window.matchMedia&&window.matchMedia("(prefers-color-scheme: dark)").matches);var r=document.documentElement;if(d){r.classList.add("dark");r.style.colorScheme="dark"}else{r.style.colorScheme="light"}}catch(e){}`,
+          }}
+        />
       </head>
       <body>
         {children}
