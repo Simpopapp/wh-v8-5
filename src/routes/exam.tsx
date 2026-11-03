@@ -192,13 +192,10 @@ function ChoiceScreen({
           </section>
         ) : null}
 
+        {/* Modos protagonistas (projeto 13, §4.4.4): Mini/Completo em destaque. */}
         <div className="grid gap-3 md:grid-cols-2">
-          {options.map((opt) => {
-            const Icon = opt.section
-              ? SECTION_ICONS[opt.section]
-              : opt.id === "mini"
-                ? Layers
-                : ClipboardCheck;
+          {modes.map((opt) => {
+            const Icon = opt.id === "mini" ? Layers : ClipboardCheck;
             const eligible = examQuestionCount(opt.id, { verifiedOnly });
             const full = examQuestionCount(opt.id);
             return (
@@ -214,7 +211,7 @@ function ChoiceScreen({
                   }
                   onStart(opt.id);
                 }}
-                className="h-auto min-h-32 w-full min-w-0 items-start justify-start whitespace-normal rounded-2xl border-border/60 bg-card p-5 text-left shadow-card transition-colors duration-200 ease-out hover:border-primary/50 motion-reduce:transition-none"
+                className="h-auto min-h-32 w-full min-w-0 items-start justify-start whitespace-normal rounded-2xl border-primary/30 bg-card p-5 text-left shadow-card transition-colors duration-200 ease-out hover:border-primary/60 bg-glow motion-reduce:transition-none"
               >
                 <span className="flex w-full items-start gap-3 text-left">
                   <span
@@ -241,6 +238,65 @@ function ChoiceScreen({
             );
           })}
         </div>
+
+        {/* Prática cronometrada por seção: identidade própria da seção. */}
+        <section aria-labelledby="exame-secoes-title">
+          <h2
+            id="exame-secoes-title"
+            className="font-serif text-lg font-semibold text-foreground"
+          >
+            Prática cronometrada por seção
+          </h2>
+          <p className="mt-1 text-sm text-muted-foreground">
+            Tempos oficiais de uma seção da prova — treino cronometrado, não simulado completo.
+          </p>
+          <div className="mt-3 grid gap-2 sm:grid-cols-2">
+            {SECTION_ORDER.map((s) => {
+              const id = s as ExamId;
+              const eligible = examQuestionCount(id, { verifiedOnly });
+              const full = examQuestionCount(id);
+              const Icon = SECTION_ICONS[s];
+              return (
+                <Button
+                  key={s}
+                  type="button"
+                  variant="outline"
+                  onClick={() => {
+                    if (draft) {
+                      setPending(id);
+                      return;
+                    }
+                    onStart(id);
+                  }}
+                  className="h-auto min-h-20 w-full min-w-0 items-start justify-start whitespace-normal rounded-2xl border-border/60 bg-card p-4 text-left shadow-card transition-colors duration-200 ease-out hover:border-primary/50 motion-reduce:transition-none"
+                >
+                  <span className="flex w-full items-start gap-3 text-left">
+                    <span
+                      aria-hidden
+                      className={cn(
+                        "flex size-9 shrink-0 items-center justify-center rounded-xl bg-primary/10",
+                        SECTION_TEXT[s],
+                      )}
+                    >
+                      <Icon className="size-4.5" strokeWidth={2} />
+                    </span>
+                    <span className="min-w-0 flex-1">
+                      <span className="block font-serif text-base font-semibold text-foreground">
+                        {SECTION_META[s]!.label}
+                      </span>
+                      <span className="mt-1 flex flex-wrap items-center gap-x-2 gap-y-1 text-xs tabular-nums text-muted-foreground">
+                        <Clock className="size-3.5" aria-hidden />
+                        {eligible} questões ·{" "}
+                        {fmtDuration(estimateSeconds(id, { verifiedOnly }))}
+                        {eligible < full ? " · filtro de fontes ativo" : ""}
+                      </span>
+                    </span>
+                  </span>
+                </Button>
+              );
+            })}
+          </div>
+        </section>
 
         <p className="text-xs text-muted-foreground">
           As tentativas do simulado alimentam sua agenda de revisão, mas ficam marcadas como exame e
