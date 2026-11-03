@@ -1,11 +1,23 @@
 import { createFileRoute, useNavigate } from "@tanstack/react-router";
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
+import { ChevronDown } from "lucide-react";
 
 import { PageHeader } from "@/components/layout/PageHeader";
 import { StatHero } from "@/components/layout/StatHero";
 import { ProgressRing } from "@/components/ProgressRing";
 import { TopNav } from "@/components/TopNav";
 import { Button } from "@/components/ui/button";
+import {
+  AlertDialog,
+  AlertDialogAction,
+  AlertDialogCancel,
+  AlertDialogContent,
+  AlertDialogDescription,
+  AlertDialogFooter,
+  AlertDialogHeader,
+  AlertDialogTitle,
+  AlertDialogTrigger,
+} from "@/components/ui/alert-dialog";
 import { TYPE_META, getMeta, typeCounts, type TaskType } from "@/lib/pte";
 import {
   ERROR_SCORE,
@@ -59,6 +71,19 @@ export const Route = createFileRoute("/session")({
 });
 
 const sizeOptions = [5, 10, 15];
+
+/** Breakpoint lg (só para colapsar a mista no mobile; SSR começa mobile-safe). */
+function useIsDesktop(): boolean {
+  const [is, setIs] = useState(false);
+  useEffect(() => {
+    const mq = window.matchMedia("(min-width: 1024px)");
+    const update = () => setIs(mq.matches);
+    update();
+    mq.addEventListener("change", update);
+    return () => mq.removeEventListener("change", update);
+  }, []);
+  return is;
+}
 
 function SessionPage() {
   const { done } = Route.useSearch();
