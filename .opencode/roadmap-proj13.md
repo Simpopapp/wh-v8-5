@@ -36,3 +36,5 @@ Precedência: project13 > prd-project13 > este roadmap. Gates por fase: vitest (
 - Gates: vitest 100% verde · tsgo limpo · build OK · lint 0 erros · E2E Playwright completo com console limpo · checklist §6 do PRD confirmado
 
 > Próximo remix: (a preencher só se o remix terminar antes do roadmap esgotar) — estado exato em checkboxes e gates com números reais.
+
+> **Fase 4 · S5 (Home de retorno) — 2026-11-03:** concluída. `src/lib/home.ts` (hasStudyActivity · selectHomeResume · buildHomeDailyAction) + hero de retorno na Home, rotina do dia antes da exploração, cópia honesta D12 ("questões para praticar") em head/__root/hero. 7 testes novos em `src/test/proj13-home.test.ts`; overflow 0 em 390px; axe 0; console limpo.

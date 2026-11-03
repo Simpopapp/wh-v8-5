@@ -1,0 +1,15 @@
+# PRD — project13-s7 (S10: Navegação e acabamento)
+
+Fontes: project13 (ordem lógica 5), prd-project13 §4.4.7 e D6 (5 destinos), roadmap-proj13 Fase 4.
+
+## Escopo
+- Arquivos: `src/components/TopNav.tsx`, layout/TabBar (localizar no recorte), `src/routes/__root.tsx`.
+- TopNav desktop: labels nos destinos principais e agrupamento das habilidades.
+- Mobile: caminho persistente para o Simulado (TabBar expandida ou atalho do header — decidir com D6 de 5 destinos e documentar no PRD).
+- Ativo da TabBar com forma além da cor (indicador não-dependente de cor).
+- Variante "em tarefa" do chrome (menos convites de saída durante execução de sessão/simulado); microinterações de causa/efeito (salvar, avaliar, enviar) e press feedback consistente; `transition-all` restrito a transform/opacity nas barras.
+
+## Critérios de aceite
+- Navegação navegável por teclado com indicador de ativo não-dependente de cor (axe).
+- Durante sessão/simulado o chrome não convida a sair sem confirmação (S7 já cobre exame).
+- 390×844 sem overflow · axe 0 · console limpo · gates verdes.

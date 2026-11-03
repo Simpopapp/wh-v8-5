@@ -1,0 +1,14 @@
+# PRD — project13-s4 (S7: Simulado com pré-início)
+
+Fontes: project13 (ordem lógica 5), prd-project13 §4.4.4, roadmap-proj13 Fase 4.
+
+## Escopo
+- Arquivos: `src/routes/exam.tsx`, `src/components/exam/ExamRunner.tsx` (somente a frontaria; regras já corretas da Fase 1 não reabrir), `src/lib/pte/exam.ts` (buildExamQueue/estimativa).
+- Menu: cartões hierarquizados — Mini/Completo como modos protagonistas; seções como "prática cronometrada" com cor da seção.
+- Pré-início: tela separada antes da 1ª questão com duração real somada, quantidade elegível real (mesmos filtros do buildExamQueue), check de microfone/áudio e política de autoenvio; botão único "Iniciar" dispara o relógio.
+- Abandono pelo chrome global durante execução pede confirmação (rascunho salvo).
+
+## Critérios de aceite
+- Pré-início mostra duração e quantidade elegíveis reais antes do timer (teste quando for regra: estimativa elegível já coberta na Fase 1 — reaproveitar).
+- Início do timer só após confirmação.
+- 390×844 sem overflow · axe 0 · console limpo · gates verdes.

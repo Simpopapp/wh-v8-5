@@ -1,0 +1,3 @@
+# project13-s6 — Planejamento (recorte S9: Ajustes com categorias e tema)
+
+/settings é uma lista plana e o dark mode existe como tokens mas nunca liga (D11). Precisa de índice por categorias (Treino / Prova / Tradução / Aparência / Dados), seletor de tema Claro/Escuro/Sistema aplicado antes da primeira pintura (sem flash), opções avançadas separadas, "Só fontes verificadas" com aria-pressed e feedback discreto de salvamento.

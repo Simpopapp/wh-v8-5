@@ -1,11 +1,23 @@
 import { createFileRoute, useNavigate } from "@tanstack/react-router";
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
+import { ChevronDown } from "lucide-react";
 
 import { PageHeader } from "@/components/layout/PageHeader";
 import { StatHero } from "@/components/layout/StatHero";
 import { ProgressRing } from "@/components/ProgressRing";
 import { TopNav } from "@/components/TopNav";
 import { Button } from "@/components/ui/button";
+import {
+  AlertDialog,
+  AlertDialogAction,
+  AlertDialogCancel,
+  AlertDialogContent,
+  AlertDialogDescription,
+  AlertDialogFooter,
+  AlertDialogHeader,
+  AlertDialogTitle,
+  AlertDialogTrigger,
+} from "@/components/ui/alert-dialog";
 import { TYPE_META, getMeta, typeCounts, type TaskType } from "@/lib/pte";
 import {
   ERROR_SCORE,
@@ -60,12 +72,26 @@ export const Route = createFileRoute("/session")({
 
 const sizeOptions = [5, 10, 15];
 
+/** Breakpoint lg (só para colapsar a mista no mobile; SSR começa mobile-safe). */
+function useIsDesktop(): boolean {
+  const [is, setIs] = useState(false);
+  useEffect(() => {
+    const mq = window.matchMedia("(min-width: 1024px)");
+    const update = () => setIs(mq.matches);
+    update();
+    mq.addEventListener("change", update);
+    return () => mq.removeEventListener("change", update);
+  }, []);
+  return is;
+}
+
 function SessionPage() {
   const { done } = Route.useSearch();
   const navigate = useNavigate();
   const app = useAppState();
   const session = useSession();
   const [size, setSize] = useState(10);
+  const isDesktop = useIsDesktop();
   const stats = useMemo(() => computeStats(app), [app]);
   const dueN = countDue(stats, Date.now(), app.settings.verifiedOnly);
   const errN = countErrors(stats, app.settings.verifiedOnly);
@@ -331,9 +357,32 @@ function SessionPage() {
               >
                 Continuar sessão
               </Button>
-              <Button size="lg" variant="outline" className="min-h-11" onClick={() => endSession()}>
-                Encerrar sessão
-              </Button>
+              <AlertDialog>
+                <AlertDialogTrigger asChild>
+                  <Button size="lg" variant="outline" className="min-h-11">
+                    Encerrar sessão
+                  </Button>
+                </AlertDialogTrigger>
+                <AlertDialogContent>
+                  <AlertDialogHeader>
+                    <AlertDialogTitle>Encerrar esta sessão?</AlertDialogTitle>
+                    <AlertDialogDescription>
+                      As {session.index} {session.index === 1 ? "questão" : "questões"} já
+                      concluídas ficam salvas no histórico. As restantes não serão feitas e a sessão
+                      não poderá ser retomada — a retomada vale só enquanto ela está ativa.
+                    </AlertDialogDescription>
+                  </AlertDialogHeader>
+                  <AlertDialogFooter>
+                    <AlertDialogCancel>Continuar sessão</AlertDialogCancel>
+                    <AlertDialogAction
+                      className="bg-destructive text-destructive-foreground hover:bg-destructive/90"
+                      onClick={() => endSession()}
+                    >
+                      Encerrar mesmo assim
+                    </AlertDialogAction>
+                  </AlertDialogFooter>
+                </AlertDialogContent>
+              </AlertDialog>
             </div>
           </section>
         </main>
@@ -352,6 +401,70 @@ function SessionPage() {
           title="Sessão de treino"
           subtitle="Questões em sequência, intercalando task types: primeiro as revisões vencidas (repetição espaçada), depois questões novas."
         />
+
+        {/* Recomendação única (projeto 13, §4.4.3): o plano do dia é o protagonista —
+            contagem e duração vêm da fila real (preview determinístico da Fase 2). */}
+        <section
+          aria-labelledby="hoje-title"
+          className="rounded-2xl border border-primary/20 bg-card bg-glow p-5 shadow-card sm:p-6"
+        >
+          <h2 id="hoje-title" className="font-serif text-xl font-semibold text-foreground">
+            Hoje
+          </h2>
+          {plan.total > 0 && planInfo.ids.length > 0 ? (
+            <>
+              <p className="mt-2 font-display text-2xl font-semibold tracking-tight text-foreground sm:text-3xl">
+                Hoje: {planInfo.ids.length} questões, {planDueWanted - planInfo.dueShort}{" "}
+                {planDueWanted - planInfo.dueShort === 1 ? "revisão" : "revisões"} ·{" "}
+                {formatSessionDuration(estimateSessionSeconds(planInfo.ids))}
+              </p>
+              <p className="mt-1 text-sm text-muted-foreground">
+                Composição do plano diário: primeiro as revisões vencidas, depois questões novas.
+              </p>
+              <div className="mt-4">
+                <Button
+                  size="lg"
+                  className="min-h-11 w-full sm:w-auto"
+                  onClick={() => {
+                    startMixedSession(plan.counts, stats, {
+                      due: plan.dueCounts,
+                      fresh: plan.newCounts,
+                    });
+                    const first = sessionNextId();
+                    if (first) navigate({ to: "/practice", search: { q: first } });
+                  }}
+                >
+                  Começar plano de hoje
+                </Button>
+                {planInfo.dueShort > 0 ? (
+                  <p className="mt-2 text-xs text-muted-foreground">
+                    vencidas disponíveis: {planDueWanted - planInfo.dueShort} de {planDueWanted}
+                  </p>
+                ) : null}
+              </div>
+            </>
+          ) : (
+            <>
+              <p className="mt-2 text-sm text-muted-foreground">
+                Sem recomendação por hoje: a meta diária está abaixo de 4 questões ou o estoque
+                elegível acabou. Monte uma sessão abaixo.
+              </p>
+              <div className="mt-4">
+                <Button
+                  size="lg"
+                  className="min-h-11 w-full sm:w-auto"
+                  onClick={() => {
+                    startSession(size, stats, { rand: seededRand() });
+                    const first = sessionNextId();
+                    if (first) navigate({ to: "/practice", search: { q: first } });
+                  }}
+                >
+                  Sessão de {size} · {formatSessionDuration(sizeEstimate)}
+                </Button>
+              </div>
+            </>
+          )}
+        </section>
 
         <div className="grid items-start gap-6 lg:grid-cols-[minmax(0,1.3fr)_minmax(0,1fr)]">
           <section
@@ -404,6 +517,7 @@ function SessionPage() {
                   size="lg"
                   variant="outline"
                   className="min-h-11 whitespace-normal"
+                  aria-describedby="sessao-sem-due"
                   disabled={dueN === 0}
                   onClick={() => {
                     startDueSession(Math.min(size, dueN), stats);
@@ -417,6 +531,7 @@ function SessionPage() {
                   size="lg"
                   variant="outline"
                   className="min-h-11 whitespace-normal"
+                  aria-describedby="sessao-sem-err"
                   disabled={errN === 0}
                   onClick={() => {
                     startSession(Math.min(size, errN), stats, { mode: "errors" });
@@ -426,46 +541,43 @@ function SessionPage() {
                 >
                   Revisar erros ({Math.min(size, errN)}) · {formatSessionDuration(errEstimate)}
                 </Button>
-                {plan.total > 0 ? (
-                  <>
-                    <Button
-                      size="lg"
-                      variant="outline"
-                      className="min-h-11 whitespace-normal sm:col-span-2"
-                      onClick={() => {
-                        startMixedSession(plan.counts, stats, {
-                          due: plan.dueCounts,
-                          fresh: plan.newCounts,
-                        });
-                        const first = sessionNextId();
-                        if (first) navigate({ to: "/practice", search: { q: first } });
-                      }}
-                    >
-                      Plano de hoje ({plan.total}) ·{" "}
-                      {formatSessionDuration(estimateSessionSeconds(planInfo.ids))}
-                    </Button>
-                    {planInfo.dueShort > 0 ? (
-                      <p className="text-xs text-muted-foreground sm:col-span-2">
-                        vencidas disponíveis: {planDueWanted - planInfo.dueShort} de {planDueWanted}
-                      </p>
-                    ) : null}
-                  </>
+                {dueN === 0 ? (
+                  <p id="sessao-sem-due" className="text-xs text-muted-foreground sm:col-span-2">
+                    Você não tem revisões vencidas agora.
+                  </p>
                 ) : null}
+                {errN === 0 ? (
+                  <p id="sessao-sem-err" className="text-xs text-muted-foreground sm:col-span-2">
+                    Nenhuma questão está abaixo do limiar de erro na última tentativa.
+                  </p>
+                ) : null}
+                <p className="text-xs text-muted-foreground sm:col-span-2">
+                  “Erro” = última nota &lt; {ERROR_SCORE} (limiar por tipo). Durações estimadas
+                  pelos tempos oficiais de cada tipo de questão.
+                </p>
               </div>
-              <p className="mt-2 text-xs text-muted-foreground">
-                “Erro” = última nota &lt; {ERROR_SCORE} (limiar por tipo). Durações estimadas pelos
-                tempos oficiais de cada tipo de questão.
-              </p>
             </div>
           </section>
 
-          <section
+          {/* Mista recolhida no mobile (projeto 13, §4.4.3); sempre aberta no desktop. */}
+          <details
+            key={isDesktop ? "mix-desktop" : "mix-mobile"}
+            open={isDesktop}
             aria-labelledby="session-mix-title"
             className="rounded-2xl border border-border/60 bg-card p-5 shadow-card sm:p-6"
           >
-            <h2 id="session-mix-title" className="font-serif text-lg font-semibold text-foreground">
-              Sessão mista
-            </h2>
+            <summary className="-mx-5 -mt-5 flex min-h-11 cursor-pointer list-none items-center justify-between gap-2 rounded-t-2xl px-5 py-4 [&::-webkit-details-marker]:hidden focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring sm:-mx-6 sm:-mt-6 sm:px-6">
+              <h2
+                id="session-mix-title"
+                className="font-serif text-lg font-semibold text-foreground"
+              >
+                Sessão mista
+              </h2>
+              <ChevronDown
+                aria-hidden
+                className="size-4 shrink-0 text-muted-foreground transition-transform duration-200 group-open:rotate-180 motion-reduce:transition-none"
+              />
+            </summary>
             <p className="mt-1 text-sm text-muted-foreground">
               Combine tipos de questão. Os tipos em que você vai pior aparecem primeiro,
               intercalados.
@@ -512,6 +624,7 @@ function SessionPage() {
               size="lg"
               variant="outline"
               className="mt-5 w-full min-h-11 whitespace-normal"
+              aria-describedby="mix-vazio"
               disabled={mixTotal === 0}
               onClick={() => {
                 startMixedSession(mix, stats);
@@ -522,7 +635,12 @@ function SessionPage() {
               Começar sessão mista de {mixTotal} ·{" "}
               {formatSessionDuration(estimateSessionSeconds(mixInfo.ids))}
             </Button>
-          </section>
+            {mixTotal === 0 ? (
+              <p id="mix-vazio" className="mt-2 text-xs text-muted-foreground">
+                Adicione ao menos uma questão para iniciar esta sessão.
+              </p>
+            ) : null}
+          </details>
         </div>
 
         {history.length > 0 ? (

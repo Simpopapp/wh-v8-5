@@ -1,0 +1,6 @@
+# Roadmap — project13-s5
+
+1. [ ] Especificar: mapear progress.tsx em blocos existentes com file:line; derivarções e memo; dados para ação da seção fraca.
+2. [ ] Implementar navegação por blocos com âncoras e protagonista único (estimativa).
+3. [ ] Prontidão wrap · onboarding checklist · ação da seção fraca · exportação · rótulos de escala.
+4. [ ] Gates: vitest · tsgo · build · lint · Playwright /progress (390×844, overflow 0, axe 0, console limpo).

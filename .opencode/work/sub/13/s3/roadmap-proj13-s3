@@ -1,0 +1,6 @@
+# Roadmap — project13-s3
+
+1. [ ] Especificar: mapear session.tsx (seletor, preview, encerramento) com file:line; dados disponíveis para a recomendação única.
+2. [ ] Implementar protagonista "Hoje: N questões · ~Z min" + modos secundários + mista recolhida no mobile.
+3. [ ] Botões desabilitados explicados; encerrar com consequência/retomada.
+4. [ ] Gates: vitest · tsgo · build · lint · Playwright /session (390×844, overflow 0, axe 0, console limpo).

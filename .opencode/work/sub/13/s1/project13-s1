@@ -1,0 +1,3 @@
+# project13-s1 — Planejamento (recorte S4: /practice entrada intencional)
+
+O /practice hoje cai silenciosamente na primeira questão quando não há ID, e o shell mostra tudo antes do estímulo. O usuário precisa de uma entrada própria: retomar a última questão, recomendação do dia (por tipo/duração) e busca por tipo. Quando um ID chega, o shell deve compactar metadados antes do estímulo, com skeleton por motor e CTAs ≥44px.

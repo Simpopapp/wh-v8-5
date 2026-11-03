@@ -19,9 +19,10 @@ export function TabBar() {
             key={to}
             to={to}
             aria-label={label}
-            className="flex min-h-[56px] flex-col items-center justify-center gap-1 px-1 pt-1 text-[10px] font-medium text-muted-foreground transition-colors hover:text-foreground"
+            className="m-1 flex min-h-[52px] flex-col items-center justify-center gap-1 rounded-full px-1 pt-1 text-[10px] font-medium text-muted-foreground transition-[transform,opacity] duration-200 hover:text-foreground motion-reduce:transition-none active:scale-95"
             activeProps={{
-              className: "text-primary font-semibold",
+              className: "bg-primary/10 font-semibold text-primary",
+              "aria-current": "page" as const,
             }}
           >
             <Icon className="size-5" strokeWidth={2} aria-hidden />

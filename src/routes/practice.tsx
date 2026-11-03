@@ -1,8 +1,10 @@
-import { createFileRoute, redirect } from "@tanstack/react-router";
+import { createFileRoute } from "@tanstack/react-router";
 import { Suspense, lazy } from "react";
 
 import { TopNav } from "@/components/TopNav";
-import { allMeta, firstIdOfType, loadQuestion } from "@/lib/pte";
+import { loadQuestion } from "@/lib/pte";
+import { PracticeEntry } from "@/components/practice/PracticeEntry";
+import { PracticeEngineSkeleton } from "@/components/practice/PracticeEngineSkeleton";
 
 // Cada motor vira um chunk próprio: abrir uma questão baixa só o motor + os dados do seu task type.
 const ReadAloudPractice = lazy(() =>
@@ -80,13 +82,12 @@ export const Route = createFileRoute("/practice")({
   },
   loaderDeps: ({ search }) => ({ q: search.q }),
   loader: async ({ deps }) => {
+    // Entrada intencional (projeto 13, §4.4.1): sem q → hub de entrada; q
+    // inválido → aviso com recuperação. Nunca redireciona silenciosamente.
+    if (!deps.q) return { kind: "entry" as const };
     const question = await loadQuestion(deps.q);
-    if (!question) {
-      // sem q ou id inexistente → primeira questão (Read Aloud)
-      const first = firstIdOfType("read_aloud") ?? allMeta[0]?.id;
-      throw redirect({ to: "/practice", search: first ? { q: first } : {}, replace: true });
-    }
-    return { question };
+    if (!question) return { kind: "invalid" as const, q: deps.q };
+    return { kind: "question" as const, question };
   },
   head: () => ({
     meta: [
@@ -131,8 +132,14 @@ function PracticeLoading() {
 
 /** Despacha a prática para o motor do taskType da questão carregada. */
 function PracticePage() {
-  const { question } = Route.useLoaderData();
-  return <Suspense fallback={<PracticeLoading />}>{engineFor(question)}</Suspense>;
+  const data = Route.useLoaderData();
+  if (data.kind === "entry") return <PracticeEntry />;
+  if (data.kind === "invalid") return <PracticeEntry invalidId={data.q} />;
+  return (
+    <Suspense fallback={<PracticeEngineSkeleton taskType={data.question.taskType} />}>
+      {engineFor(data.question)}
+    </Suspense>
+  );
 }
 
 function engineFor(question: Awaited<ReturnType<typeof loadQuestion>> & object) {

@@ -96,13 +96,13 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
       {
         name: "description",
         content:
-          "Treine o PTE Academic com questões reais nas quatro seções da prova — progresso salvo no seu navegador.",
+          "Treine o PTE Academic com questões para praticar nas quatro seções da prova — progresso salvo no seu navegador.",
       },
       { name: "author", content: "PTE Master Hub" },
       { property: "og:title", content: "PTE Master Hub" },
       {
         property: "og:description",
-        content: "Treine o PTE Academic com questões reais — fala, escrita, leitura e escuta.",
+        content: "Treine o PTE Academic com questões para praticar — fala, escuta, leitura e escuta.",
       },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },
@@ -131,9 +131,16 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
 
 function RootShell({ children }: { children: ReactNode }) {
   return (
-    <html lang="pt-BR">
+    <html lang="pt-BR" suppressHydrationWarning>
       <head>
         <HeadContent />
+        {/* Tema pré-pintura (projeto 13, D11): aplica .dark antes da 1ª pintura —
+            sem flash. Fonte única com src/lib/theme.ts (THEME_KEY / regra resolvida). */}
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `try{var m=localStorage.getItem("ptehub:theme");var d=m==="dark"||((!m||m==="system")&&window.matchMedia&&window.matchMedia("(prefers-color-scheme: dark)").matches);var r=document.documentElement;if(d){r.classList.add("dark");r.style.colorScheme="dark"}else{r.style.colorScheme="light"}}catch(e){}`,
+          }}
+        />
       </head>
       <body>
         {children}

@@ -1,0 +1,6 @@
+# Roadmap — project13-s6
+
+1. [ ] Especificar: mapear settings.tsx em categorias com file:line; como o dark é aplicado hoje; local da pré-pintura no __root.
+2. [ ] Implementar índice por categorias (âncoras mobile / coluna desktop) e separação de avançadas.
+3. [ ] Implementar tema Claro/Escuro/Sistema pré-pintura + aria-pressed + feedback de salvamento.
+4. [ ] Gates: vitest · tsgo · build · lint · Playwright /settings (390×844, overflow 0, axe 0, console limpo, tema sobrevive a reload).

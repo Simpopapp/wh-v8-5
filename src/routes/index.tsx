@@ -1,6 +1,6 @@
-import { createFileRoute, Link } from "@tanstack/react-router";
+import { createFileRoute, Link, useNavigate } from "@tanstack/react-router";
 import { useMemo } from "react";
-import { ArrowUpRight, BookA, BookMarked, ClipboardList } from "lucide-react";
+import { ArrowUpRight, BookA, BookMarked, CalendarCheck } from "lucide-react";
 
 import { usePageFocusTarget } from "@/lib/pageFocus";
 
@@ -15,12 +15,15 @@ import {
   TOTAL_ALL_QUESTIONS_LABEL,
   TYPE_COUNT,
   firstIdOfType,
+  getMeta,
   sectionCountLabel,
 } from "@/lib/pte";
 import { estimateTargetLabel } from "@/lib/pte/goal";
 import { overallEstimate } from "@/lib/pte/readiness";
 import { vocabCounts, vocabDueCount } from "@/lib/plus/vocab";
-import { useAppState } from "@/lib/storage";
+import { buildHomeDailyAction, hasStudyActivity, resumeLabel, selectHomeResume } from "@/lib/home";
+import { computeStats, useAppState } from "@/lib/storage";
+import { formatSessionDuration, sessionNextId, startMixedSession } from "@/lib/session";
 import type { Section, TaskType } from "@/lib/pte/types";
 import { cn } from "@/lib/utils";
 
@@ -28,7 +31,7 @@ export const Route = createFileRoute("/")({
   head: () => ({
     meta: [
       {
-        title: `PTE Master Hub — treine o PTE Academic com ${TOTAL_ALL_QUESTIONS_LABEL} questões reais`,
+        title: `PTE Master Hub — treine o PTE Academic com ${TOTAL_ALL_QUESTIONS_LABEL} questões para praticar`,
       },
       {
         name: "description",
@@ -37,7 +40,7 @@ export const Route = createFileRoute("/")({
       { property: "og:title", content: "PTE Master Hub" },
       {
         property: "og:description",
-        content: `Treine o PTE Academic com ${TOTAL_ALL_QUESTIONS_LABEL} questões reais — fala, escrita, leitura e escuta.`,
+        content: `Treine o PTE Academic com ${TOTAL_ALL_QUESTIONS_LABEL} questões para praticar — fala, escrita, leitura e escuta.`,
       },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },
@@ -172,7 +175,9 @@ function VocabCard() {
                   ? `${due} ${due === 1 ? "item" : "itens"} para revisar hoje`
                   : "Nenhuma revisão pendente agora."}
               </p>
-              <p className="mt-1 text-xs text-muted-foreground/80">Itens vencidos do acervo</p>
+              <p className="mt-1 text-xs text-muted-foreground/80">
+                Pendências de revisão · {due} de {counts.total} itens
+              </p>
             </div>
           </div>
           <p className="mt-4 inline-flex items-center gap-1.5 text-sm font-medium text-primary">
@@ -201,97 +206,222 @@ function VocabCard() {
   );
 }
 
-/** Cartão-irmão do vocabulário (decisão S2): Sessão de estudo rápida — rotina acionável. */
-function SessionCard() {
+/** Cartão da rotina do dia (projeto 13, §4.4.2 / S5): o plano diário é a ação —
+ * quantidade e duração da fila efetiva (preview determinístico da Fase 2).
+ * Com sessão/simulado em andamento, o clique retoma em vez de sobrescrever. */
+function DailyPlanCard() {
   const app = useAppState();
-  const draft = app.draft;
-  const resumable = draft !== null && draft.kind !== "exam";
+  const navigate = useNavigate();
+  const action = useMemo(() => buildHomeDailyAction(app), [app]);
+  const resume = useMemo(() => selectHomeResume(app, Date.now()), [app]);
+
+  const start = () => {
+    if (resume && (resume.kind === "session" || resume.kind === "exam")) {
+      if (resume.kind === "exam") navigate({ to: "/exam" });
+      else if (resume.qid) navigate({ to: "/practice", search: { q: resume.qid } });
+      else navigate({ to: "/session" });
+      return;
+    }
+    if (!action) return;
+    startMixedSession(action.counts, computeStats(app), {
+      due: action.dueCounts,
+      fresh: action.newCounts,
+    });
+    const first = sessionNextId();
+    if (first) navigate({ to: "/practice", search: { q: first } });
+    else navigate({ to: "/session" });
+  };
+
+  if (!action) {
+    return (
+      <Link
+        to="/practice"
+        className="group flex h-full flex-col rounded-2xl border border-border/60 bg-card p-5 shadow-card transition-[box-shadow,transform] duration-200 ease-out hover:shadow-pop focus-visible:shadow-pop sm:p-6 motion-safe:hover:-translate-y-0.5 motion-reduce:transition-none"
+      >
+        <div className="flex items-start gap-3">
+          <span
+            aria-hidden
+            className="flex size-11 shrink-0 items-center justify-center rounded-xl bg-primary/10 text-primary"
+          >
+            <CalendarCheck className="size-5" strokeWidth={2} />
+          </span>
+          <div className="min-w-0 flex-1">
+            <h2 className="font-serif text-xl font-semibold text-foreground group-hover:text-primary">
+              Sua rotina de hoje
+            </h2>
+            <p className="mt-1 text-sm text-muted-foreground">
+              Sem recomendação por hoje — a meta diária está baixa ou o estoque elegível acabou.
+            </p>
+          </div>
+        </div>
+        <p className="mt-4 inline-flex items-center gap-1.5 text-sm font-medium text-primary">
+          Escolher um treino
+          <ArrowUpRight
+            className="size-4 transition-transform group-hover:translate-x-0.5"
+            aria-hidden
+          />
+        </p>
+      </Link>
+    );
+  }
+
+  const minutes = Math.max(1, Math.round(action.seconds / 60));
   return (
-    <Link
-      to="/session"
-      className="group flex h-full flex-col rounded-2xl border border-border/60 bg-card p-5 shadow-card transition-[box-shadow,transform] duration-200 ease-out hover:shadow-pop focus-visible:shadow-pop sm:p-6 motion-safe:hover:-translate-y-0.5 motion-reduce:transition-none"
+    <button
+      type="button"
+      onClick={start}
+      className="group flex h-full min-w-0 w-full flex-col overflow-hidden rounded-2xl border border-primary/20 bg-card bg-glow p-5 text-left shadow-card transition-[box-shadow,transform] duration-200 ease-out hover:shadow-pop focus-visible:shadow-pop sm:p-6 motion-safe:hover:-translate-y-0.5 motion-reduce:transition-none"
     >
       <div className="flex items-start gap-3">
         <span
           aria-hidden
           className="flex size-11 shrink-0 items-center justify-center rounded-xl bg-primary/10 text-primary"
         >
-          <ClipboardList className="size-5" strokeWidth={2} />
+          <CalendarCheck className="size-5" strokeWidth={2} />
         </span>
         <div className="min-w-0 flex-1">
           <h2 className="font-serif text-xl font-semibold text-foreground group-hover:text-primary">
-            Sessão de estudo rápida
+            Sua rotina de hoje
           </h2>
-          <p className="mt-1 text-sm text-muted-foreground">
-            Escolha 5, 10 ou 15 questões e treine no seu ritmo.
+          <p className="mt-1 text-sm font-medium tabular-nums text-foreground">
+            Hoje: {action.count} questões, {action.reviews} revisões · ~{minutes} min
+          </p>
+          <p className="mt-0.5 truncate text-sm text-muted-foreground">
+            {action.types.map((t) => `${t.label} (${t.count})`).join(" · ")}
           </p>
         </div>
       </div>
-      <div className="mt-4 flex-1 space-y-1">
-        <p className="text-sm text-muted-foreground">
-          Meta diária:{" "}
-          <span className="font-medium tabular-nums text-foreground">{app.settings.dailyGoal}</span>{" "}
-          tentativas
-        </p>
-        {resumable ? (
-          <p className="text-sm font-medium text-primary">Você tem uma sessão em andamento.</p>
-        ) : null}
-      </div>
       <p className="mt-4 inline-flex items-center gap-1.5 text-sm font-medium text-primary">
-        {resumable ? "Retomar sessão" : "Montar minha sessão"}
+        Treinar plano de hoje
         <ArrowUpRight
           className="size-4 transition-transform group-hover:translate-x-0.5"
           aria-hidden
         />
       </p>
-    </Link>
+    </button>
   );
 }
 
 function Home() {
   // Alvo de foco pós-navegação/skip link (projeto 13, §0.3).
   const titleRef = usePageFocusTarget<HTMLHeadingElement>();
+  const app = useAppState();
+  // "Retorno" = atividade de estudo persistida (não contador de visitas).
+  const isReturn = hasStudyActivity(app);
+  const resume = useMemo(
+    () => (isReturn ? selectHomeResume(app, Date.now()) : null),
+    [app, isReturn],
+  );
   return (
     <div className="min-h-screen bg-background">
       <TopNav />
       <main className="mx-auto w-full max-w-5xl px-4 pb-10 pt-6 sm:px-6 sm:pt-10">
-        {/* Hero editorial (projeto 12, S2): 1 protagonista = o título. */}
+        {/* Hero (projeto 13, §4.4.2): no retorno, compacto e com a retomada real. */}
+        {resume ? (
+          <section
+            aria-labelledby="page-title"
+            className="relative rounded-2xl border border-primary/20 bg-card bg-glow p-5 shadow-card sm:p-6"
+          >
+            <p className="text-xs font-semibold uppercase tracking-[0.18em] text-primary">
+              Bem-vindo de volta
+            </p>
+            <h1
+              ref={titleRef}
+              id="page-title"
+              tabIndex={-1}
+              className="mt-2 font-serif text-3xl font-semibold tracking-tight text-foreground focus:outline-none sm:text-4xl"
+            >
+              Continuar de onde parei
+            </h1>
+            <p className="mt-2 text-sm leading-relaxed text-muted-foreground">
+              {resume.kind === "session"
+                ? `${resume.label} · ${resume.remaining} ${resume.remaining === 1 ? "questão restante" : "questões restantes"}`
+                : resume.kind === "exam"
+                  ? `${resume.label} · ${resume.remaining} ${resume.remaining === 1 ? "questão restante" : "questões restantes"} · o relógio da questão atual continua de onde parou`
+                  : resume.kind === "vocabDraft"
+                    ? `Revisão em andamento · ${resume.remaining} ${resume.remaining === 1 ? "cartão restante" : "cartões restantes"}`
+                    : resume.kind === "vocabDue"
+                      ? `${resume.count} ${resume.count === 1 ? "item" : "itens"} para revisar hoje`
+                      : `${resume.label} · ${resume.topic}`}
+            </p>
+            <div className="mt-4 grid gap-3 sm:flex sm:flex-wrap">
+              {resume.kind === "exam" ? (
+                <Button asChild size="lg" className="min-h-11">
+                  <Link to="/exam">{resumeLabel(resume)}</Link>
+                </Button>
+              ) : resume.kind === "session" && resume.qid ? (
+                <Button asChild size="lg" className="min-h-11">
+                  <Link to="/practice" search={{ q: resume.qid }}>
+                    {resumeLabel(resume)}
+                  </Link>
+                </Button>
+              ) : resume.kind === "session" ? (
+                <Button asChild size="lg" className="min-h-11">
+                  <Link to="/session">{resumeLabel(resume)}</Link>
+                </Button>
+              ) : resume.kind === "question" ? (
+                <Button asChild size="lg" className="min-h-11">
+                  <Link to="/practice" search={{ q: resume.qid }}>
+                    {resumeLabel(resume)}
+                  </Link>
+                </Button>
+              ) : (
+                <Button asChild size="lg" className="min-h-11">
+                  <Link to="/vocabulary">{resumeLabel(resume)}</Link>
+                </Button>
+              )}
+              <Button asChild size="lg" variant="outline" className="min-h-11">
+                <Link to="/practice">Começar a treinar</Link>
+              </Button>
+            </div>
+          </section>
+        ) : (
+          <section
+            aria-labelledby="page-title"
+            className="relative rounded-2xl border border-border/60 bg-card bg-glow p-6 shadow-card sm:p-10"
+          >
+            <span
+              aria-hidden
+              className="inline-flex size-11 items-center justify-center rounded-xl bg-gradient-to-br from-primary to-primary/60 text-primary-foreground shadow-card"
+            >
+              <BookA className="size-5.5" strokeWidth={2.25} />
+            </span>
+            <p className="mt-4 text-xs font-semibold uppercase tracking-[0.18em] text-primary">
+              PTE Academic
+            </p>
+            <h1
+              ref={titleRef}
+              id="page-title"
+              tabIndex={-1}
+              className="mt-3 max-w-3xl font-display text-4xl font-semibold leading-[1.08] tracking-tight text-foreground focus:outline-none sm:text-6xl"
+            >
+              Treine para o PTE com questões para praticar
+            </h1>
+            <p className="mt-4 max-w-xl text-base leading-relaxed text-muted-foreground">
+              Pratique com correção palavra por palavra e transforme revisão em rotina — sem
+              servidor, sem conta, salvo no seu navegador.
+            </p>
+            <p className="mt-3 text-sm text-muted-foreground">
+              {TOTAL_ALL_QUESTIONS_LABEL} questões · {TYPE_COUNT} tipos de tarefa · 4 seções
+            </p>
+            <div className="mt-6 grid gap-3 sm:flex sm:flex-wrap">
+              <Button asChild size="lg" className="min-h-11">
+                <Link to="/practice">Começar a treinar</Link>
+              </Button>
+              <Button asChild size="lg" variant="outline" className="min-h-11">
+                <Link to="/exam">Fazer um simulado</Link>
+              </Button>
+            </div>
+          </section>
+        )}
+
+        {/* Rotina do dia sobe antes da exploração (projeto 13, §4.4.2). */}
         <section
-          aria-labelledby="page-title"
-          className="relative rounded-2xl border border-border/60 bg-card bg-glow p-6 shadow-card sm:p-10"
+          aria-label="Sua rotina de estudo"
+          className="mt-6 grid items-stretch gap-4 sm:grid-cols-2"
         >
-          <span
-            aria-hidden
-            className="inline-flex size-11 items-center justify-center rounded-xl bg-gradient-to-br from-primary to-primary/60 text-primary-foreground shadow-card"
-          >
-            <BookA className="size-5.5" strokeWidth={2.25} />
-          </span>
-          <p className="mt-4 text-xs font-semibold uppercase tracking-[0.18em] text-primary">
-            PTE Academic
-          </p>
-          <h1
-            ref={titleRef}
-            id="page-title"
-            tabIndex={-1}
-            className="mt-3 max-w-3xl font-display text-4xl font-semibold leading-[1.08] tracking-tight text-foreground focus:outline-none sm:text-6xl"
-          >
-            Treine para o PTE com questões reais
-          </h1>
-          <p className="mt-4 max-w-xl text-base leading-relaxed text-muted-foreground">
-            Pratique com correção palavra por palavra e transforme revisão em rotina — sem servidor,
-            sem conta, salvo no seu navegador.
-          </p>
-          <p className="mt-3 text-sm text-muted-foreground">
-            {TOTAL_ALL_QUESTIONS_LABEL} questões · {TYPE_COUNT} tipos de tarefa · 4 seções
-          </p>
-          <div className="mt-6 grid gap-3 sm:flex sm:flex-wrap">
-            <Button asChild size="lg" className="min-h-11">
-              <Link to="/practice">Começar a treinar</Link>
-            </Button>
-            <Button asChild size="lg" variant="outline" className="min-h-11">
-              <Link to="/exam">Fazer um simulado</Link>
-            </Button>
-          </div>
+          <DailyPlanCard />
+          <VocabCard />
         </section>
 
         <TargetStrip />
@@ -360,15 +490,6 @@ function Home() {
               );
             })}
           </div>
-        </section>
-
-        {/* Rotina de estudo: vocabulário vivo + sessão rápida (decisão S2). */}
-        <section
-          aria-label="Sua rotina de estudo"
-          className="mt-6 grid items-stretch gap-4 sm:grid-cols-2"
-        >
-          <VocabCard />
-          <SessionCard />
         </section>
 
         <footer className="mt-10 border-t border-border/60 pt-5 text-xs leading-relaxed text-muted-foreground">

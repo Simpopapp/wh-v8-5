@@ -334,43 +334,50 @@ export function PracticeShell({
               ) : null}
             </div>
           </div>
-          <div className="mt-3 flex flex-wrap items-center gap-2 text-xs text-muted-foreground">
-            <span className="rounded-full bg-secondary px-2.5 py-0.5">{question.topic}</span>
-            <span
-              className={cn(
-                "rounded-full px-2.5 py-0.5",
-                sourceClass(question.source) === "verificada"
-                  ? "bg-primary/10 text-primary"
-                  : "bg-secondary text-muted-foreground",
-              )}
-            >
-              {
-                (
-                  {
-                    verificada: "verificada",
-                    comunitária: "comunitária",
-                    ia: "IA",
-                  } satisfies Record<SourceClass, string>
-                )[sourceClass(question.source)]
-              }
-            </span>
-            {isDuplicateId(question.id) ? (
-              <span className="rounded-full bg-secondary px-2.5 py-0.5">repetida</span>
-            ) : null}
-            <span>{question.wordCount} palavras</span>
-            {dueLabel ? (
+          {/* Detalhes secundários (projeto 13, §4.4.1): primeiro nível = tipo,
+              posição e navegação; tópico/fonte/palavras/revisão ficam no disclosure. */}
+          <details className="mt-3 text-xs text-muted-foreground">
+            <summary className="-mx-2 inline-flex min-h-[44px] cursor-pointer list-none items-center gap-1.5 rounded-lg px-2 font-medium transition-colors hover:text-foreground [&::-webkit-details-marker]:hidden focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring">
+              Detalhes da questão
+            </summary>
+            <div className="mt-1 flex flex-wrap items-center gap-2">
+              <span className="rounded-full bg-secondary px-2.5 py-0.5">{question.topic}</span>
               <span
                 className={cn(
                   "rounded-full px-2.5 py-0.5",
-                  dueLabel === "Revisar hoje"
-                    ? "bg-primary/10 font-medium text-primary"
+                  sourceClass(question.source) === "verificada"
+                    ? "bg-primary/10 text-primary"
                     : "bg-secondary text-muted-foreground",
                 )}
               >
-                {dueLabel}
+                {
+                  (
+                    {
+                      verificada: "verificada",
+                      comunitária: "comunitária",
+                      ia: "IA",
+                    } satisfies Record<SourceClass, string>
+                  )[sourceClass(question.source)]
+                }
               </span>
-            ) : null}
-          </div>
+              {isDuplicateId(question.id) ? (
+                <span className="rounded-full bg-secondary px-2.5 py-0.5">repetida</span>
+              ) : null}
+              <span>{question.wordCount} palavras</span>
+              {dueLabel ? (
+                <span
+                  className={cn(
+                    "rounded-full px-2.5 py-0.5",
+                    dueLabel === "Revisar hoje"
+                      ? "bg-primary/10 font-medium text-primary"
+                      : "bg-secondary text-muted-foreground",
+                  )}
+                >
+                  {dueLabel}
+                </span>
+              ) : null}
+            </div>
+          </details>
         </div>
 
         {/* Nota da questão (oculta no modo preview) */}
@@ -379,13 +386,18 @@ export function PracticeShell({
             <button
               type="button"
               onClick={() => openNotes(!notesOpen)}
+              aria-expanded={notesOpen}
+              aria-controls="questao-nota"
               className="inline-flex min-h-[44px] items-center text-xs font-medium text-muted-foreground transition-colors hover:text-foreground"
             >
               {notesOpen ? "▾" : "▸"} Nota{hasNote ? " ✓" : ""}{" "}
               <span className="font-normal text-muted-foreground">(tecla N)</span>
             </button>
             {notesOpen ? (
-              <div className="mt-2 rounded-2xl border border-border/60 bg-card p-4">
+              <div
+                id="questao-nota"
+                className="mt-2 rounded-2xl border border-border/60 bg-card p-4"
+              >
                 <textarea
                   value={noteDraft}
                   onChange={(e) => setNoteDraft(e.target.value)}

@@ -1,0 +1,14 @@
+# PRD — project13-s3 (S6: Sessão com recomendação única)
+
+Fontes: project13 (ordem lógica 5), prd-project13 §4.4.3, roadmap-proj13 Fase 4.
+
+## Escopo
+- Arquivo principal: `src/routes/session.tsx`; apoios: `src/lib/pte/studyPlan.ts`, `src/lib/session.ts` (preview de fila, duração estimada já existentes da Fase 2).
+- Topo: recomendação do dia como protagonista ("Hoje: N questões, X revisões · ~Z min") com ação única de começar; modos (5/10/15, tipos) abaixo como secundários.
+- Mista recolhida no mobile (expansão revela cotas vencidas/novas); sempre visível no desktop.
+- Botões desabilitados com explicação (ex.: sem vencidas); encerrar sessão explicita consequência ("progresso parcial é salvo") e que pode ser retomada.
+
+## Critérios de aceite
+- Recomendação única com contagem e duração reais da fila (coerente com preview da Fase 2).
+- Encerrar mostra consequência e retomada.
+- 390×844 sem overflow · axe 0 · console limpo · gates verdes.
