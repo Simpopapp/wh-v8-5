@@ -30,11 +30,13 @@ beforeEach(() => {
 });
 
 describe("S5 · Home de retorno — atividade e retomada", () => {
-  it("estado vazio = 1ª visita: sem retomada e sem ação de plano", () => {
+  it("estado vazio = 1ª visita: sem retomada, mas com plano do dia", () => {
     const app = emptyState();
     expect(hasStudyActivity(app)).toBe(false);
     expect(selectHomeResume(app, Date.now())).toBeNull();
-    expect(buildHomeDailyAction(app, Date.now())).toBeNull();
+    const action = buildHomeDailyAction(app, Date.now());
+    expect(action).not.toBeNull(); // a rotina já aparece na 1ª visita (§4.4.2)
+    expect(action?.count ?? 0).toBeGreaterThan(0);
   });
 
   it("tentativa registrada = retorno; retomada aponta a última questão válida", () => {
@@ -184,8 +186,8 @@ describe("S5 · Home de retorno — atividade e retomada", () => {
       requeued: [],
     });
     // selectHomeResume é puro: usa o estado passado (não o store). O draft
-    // precisa estar no objeto — simular o estado pós-save lendo o store.
-    const saved = JSON.parse(window.localStorage.getItem("ptehub:state") ?? "{}");
+    // precisa estar no objeto — ler o estado persistido após o save.
+    const saved = JSON.parse(window.localStorage.getItem("pte-master-hub") ?? "{}");
     const appWithDraft: AppState = { ...app, vocabDraft: saved.vocabDraft ?? app.vocabDraft };
     const resume = selectHomeResume(appWithDraft, Date.now());
     expect(resume?.kind).toBe("vocabDraft");
