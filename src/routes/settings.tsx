@@ -325,6 +325,120 @@ function PlusSection() {
   );
 }
 
+/** Categorias do índice de Ajustes (projeto 13, §4.4.6): âncoras estáveis. */
+const CATEGORIES = [
+  { id: "ajustes-treino", label: "Treino" },
+  { id: "ajustes-prova", label: "Prova" },
+  { id: "ajustes-traducao", label: "Tradução" },
+  { id: "ajustes-aparencia", label: "Aparência" },
+  { id: "ajustes-dados", label: "Dados" },
+] as const;
+
+/** Índice de categorias: chips roláveis no mobile, coluna lateral no desktop. */
+function CategoryNav({ variant }: { variant: "mobile" | "desktop" }) {
+  return (
+    <nav aria-label={variant === "desktop" ? "Categorias de ajustes" : "Ir para categoria"}>
+      {variant === "mobile" ? (
+        <div className="-mx-4 flex gap-2 overflow-x-auto px-4 pb-1 lg:hidden">
+          {CATEGORIES.map((c) => (
+            <a
+              key={c.id}
+              href={`#${c.id}`}
+              className="inline-flex min-h-11 shrink-0 items-center rounded-full border border-border bg-secondary/60 px-4 text-sm font-medium text-muted-foreground transition-colors hover:text-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2"
+            >
+              {c.label}
+            </a>
+          ))}
+        </div>
+      ) : (
+        <ul className="sticky top-20 space-y-1">
+          {CATEGORIES.map((c) => (
+            <li key={c.id}>
+              <a
+                href={`#${c.id}`}
+                className="inline-flex min-h-11 items-center rounded-lg px-3 text-sm text-muted-foreground transition-colors hover:bg-secondary hover:text-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring"
+              >
+                {c.label}
+              </a>
+            </li>
+          ))}
+        </ul>
+      )}
+    </nav>
+  );
+}
+
+/** Cabeçalho de categoria (h2 com âncora e alvo de foco). */
+function CategoryHeading({ id, children }: { id: string; children: string }) {
+  return (
+    <h2
+      id={id}
+      tabIndex={-1}
+      className="scroll-mt-28 text-xs font-semibold uppercase tracking-[0.18em] text-muted-foreground focus:outline-none"
+    >
+      {children}
+    </h2>
+  );
+}
+
+/** Tema Claro/Escuro/Sistema (projeto 13, D11): preferência aplicada pré-pintura via script do __root. */
+function ThemeSection({ onSaved }: { onSaved: () => void }) {
+  // Estado inicial igual ao do servidor ("system") para não divergir na hidratação;
+  // a leitura do localStorage acontece no effect (primeira pintura já correta via script).
+  const [mode, setMode] = useState<ThemeMode>("system");
+  const [loaded, setLoaded] = useState(false);
+  useEffect(() => {
+    const m = getThemeMode();
+    setMode(m);
+    applyTheme(m);
+    setLoaded(true);
+    const stop = watchSystemTheme(m, () => applyTheme("system"));
+    return stop;
+  }, []);
+  const pick = (m: ThemeMode) => {
+    setThemeMode(m);
+    setMode(m);
+    onSaved();
+  };
+  return (
+    <section className="rounded-2xl border border-border/60 bg-card p-5 shadow-card">
+      <div className="flex items-start gap-3">
+        <span
+          aria-hidden
+          className="flex size-11 shrink-0 items-center justify-center rounded-xl bg-primary/10 text-primary"
+        >
+          <Palette className="size-5" strokeWidth={2} />
+        </span>
+        <div className="min-w-0">
+          <h2 className="text-base font-semibold">Tema</h2>
+          <p className="mt-1 text-sm leading-relaxed text-muted-foreground">
+            Escolha como o app aparece. “Sistema” acompanha o modo claro/escuro do seu aparelho.
+          </p>
+        </div>
+      </div>
+      <div className="mt-4 flex flex-wrap gap-2">
+        {THEME_OPTIONS.map((o) => (
+          <button
+            key={o.value}
+            type="button"
+            aria-pressed={loaded && mode === o.value}
+            onClick={() => pick(o.value)}
+            className={cn(
+              "inline-flex min-h-11 items-center gap-2 rounded-xl border px-4 py-2 text-sm transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2",
+              loaded && mode === o.value
+                ? "border-primary bg-primary/10 font-semibold text-primary"
+                : "border-border bg-secondary/60 text-muted-foreground hover:text-foreground",
+            )}
+          >
+            {o.label}
+            <span className="sr-only"> — {o.hint}</span>
+          </button>
+        ))}
+      </div>
+    </section>
+  );
+}
+
 function SettingsPage() {
   const app = useAppState();
   const s = app.settings;
