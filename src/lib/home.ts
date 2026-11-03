@@ -26,7 +26,7 @@ export function hasStudyActivity(app: AppState): boolean {
   if (app.vocabDraft) return true;
   if (app.attempts.length > 0) return true;
   if (app.sessions.length > 0) return true;
-  if (Object.values(app.daily).some((n) => n > 0)) return true;
+  if (Object.values(app.daily).some((d) => d.attempts > 0)) return true;
   return vocabCounts(app.vocabulary).total > 0;
 }
 
@@ -55,7 +55,7 @@ function vocabDraftRemaining(app: AppState): number {
   let remaining = 0;
   for (let i = idx; i < draft.queue.length; i++) {
     const c = draft.queue[i];
-    if (byKey.has(`${c.kind as VocabKind}:${c.key}`)) remaining += 1;
+    if (c && byKey.has(`${c.kind as VocabKind}:${c.key}`)) remaining += 1;
   }
   // cartões já exibidos mas ainda na fila (reagendados) contam como pendentes
   // apenas se à frente do índice — comportamento igual à rota de vocabulário.
