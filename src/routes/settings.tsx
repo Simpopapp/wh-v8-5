@@ -53,7 +53,14 @@ import { loadAiStatus, mechanismLabel } from "@/lib/plus/aiStatus";
 import { countdownLabel, daysUntil } from "@/lib/pte/goal";
 import { cn } from "@/lib/utils";
 import { downloadForOffline, useOfflineStatus } from "@/lib/offline";
-import { THEME_OPTIONS, applyTheme, getThemeMode, setThemeMode, watchSystemTheme, type ThemeMode } from "@/lib/theme";
+import {
+  THEME_OPTIONS,
+  applyTheme,
+  getThemeMode,
+  setThemeMode,
+  watchSystemTheme,
+  type ThemeMode,
+} from "@/lib/theme";
 
 function OfflineSection() {
   const o = useOfflineStatus();
@@ -550,389 +557,392 @@ function SettingsPage() {
 
             <section aria-labelledby="ajustes-treino" className="space-y-5">
               <CategoryHeading id="ajustes-treino">Treino</CategoryHeading>
-        <OptionGroup
-          title="Preparação"
-          icon={Timer}
-          description="Tempo para ler o passage mentalmente antes de gravar (o PTE dá 40 s)."
-          options={prepOptions}
-          current={s.prepSeconds}
-          onSelect={(v) => {
-            updateSettings({ prepSeconds: v });
-            touch();
-          }}
-        />
-        <OptionGroup
-          title="Meta diária"
-          icon={CalendarDays}
-          description="Quantas questões diferentes você quer ler por dia."
-          options={goalOptions.map((g) => ({ value: g, label: `${g} questões` }))}
-          current={s.dailyGoal}
-          onSelect={(v) => {
-            updateSettings({ dailyGoal: v });
-            touch();
-          }}
-        />
-        <OptionGroup
-          title="Velocidade do modelo"
-          icon={Volume2}
-          description="Velocidade padrão ao ouvir o passage lido pela voz do navegador."
-          options={rateOptions}
-          current={s.modelRate}
-          onSelect={(v) => {
-            updateSettings({ modelRate: v });
-            touch();
-          }}
-        />
-        <OptionGroup<Accent>
-          title="Sotaque do reconhecimento"
-          icon={Mic}
-          description="Sotaque usado para transcrever sua leitura. O PTE usa inglês australiano."
-          options={ACCENT_OPTIONS}
-          current={s.accent}
-          onSelect={(v) => {
-            updateSettings({ accent: v });
-            touch();
-          }}
-        />
+              <OptionGroup
+                title="Preparação"
+                icon={Timer}
+                description="Tempo para ler o passage mentalmente antes de gravar (o PTE dá 40 s)."
+                options={prepOptions}
+                current={s.prepSeconds}
+                onSelect={(v) => {
+                  updateSettings({ prepSeconds: v });
+                  touch();
+                }}
+              />
+              <OptionGroup
+                title="Meta diária"
+                icon={CalendarDays}
+                description="Quantas questões diferentes você quer ler por dia."
+                options={goalOptions.map((g) => ({ value: g, label: `${g} questões` }))}
+                current={s.dailyGoal}
+                onSelect={(v) => {
+                  updateSettings({ dailyGoal: v });
+                  touch();
+                }}
+              />
+              <OptionGroup
+                title="Velocidade do modelo"
+                icon={Volume2}
+                description="Velocidade padrão ao ouvir o passage lido pela voz do navegador."
+                options={rateOptions}
+                current={s.modelRate}
+                onSelect={(v) => {
+                  updateSettings({ modelRate: v });
+                  touch();
+                }}
+              />
+              <OptionGroup<Accent>
+                title="Sotaque do reconhecimento"
+                icon={Mic}
+                description="Sotaque usado para transcrever sua leitura. O PTE usa inglês australiano."
+                options={ACCENT_OPTIONS}
+                current={s.accent}
+                onSelect={(v) => {
+                  updateSettings({ accent: v });
+                  touch();
+                }}
+              />
 
-        <section className="rounded-2xl border border-border/60 bg-card p-5 shadow-card">
-          <div className="flex items-start gap-3">
-            <span
-              aria-hidden
-              className="flex size-11 shrink-0 items-center justify-center rounded-xl bg-primary/10 text-primary"
-            >
-              <ShieldCheck className="size-5" strokeWidth={2} />
-            </span>
-            <div className="min-w-0">
-              <h2 className="text-base font-semibold">Fontes das questões</h2>
-              <p className="mt-1 text-sm leading-relaxed text-muted-foreground">
-                Quando ativado, as filas de treino (SRS, plano e simulado) usam só fontes
-                verificadas. As listas continuam mostrando tudo, sempre com o selo da fonte.
-              </p>
-            </div>
-          </div>
-          <div className="mt-4">
-            <Button
-              variant={s.verifiedOnly ? "default" : "outline"}
-              size="sm"
-              className="min-h-11 sm:min-h-10"
-              aria-pressed={s.verifiedOnly}
-              onClick={() => {
-                updateSettings({ verifiedOnly: !s.verifiedOnly });
-                touch();
-              }}
-            >
-              {s.verifiedOnly ? "Só fontes verificadas" : "Todas as fontes"}
-            </Button>
-          </div>
-          <p className="mt-2 text-xs text-muted-foreground">
-            Verificada = fonte pública com curadoria · Comunitária = contribuição de usuários · IA =
-            predição gerada por IA (peso reduzido na prontidão).
-          </p>
-        </section>
-        </section>
-
-        <section aria-labelledby="ajustes-prova" className="space-y-5">
-          <CategoryHeading id="ajustes-prova">Prova</CategoryHeading>
-          <section className="rounded-2xl border border-border/60 bg-card p-5 shadow-card">
-          <div className="flex items-start gap-3">
-            <span
-              aria-hidden
-              className="flex size-11 shrink-0 items-center justify-center rounded-xl bg-primary/10 text-primary"
-            >
-              <ShieldCheck className="size-5" strokeWidth={2} />
-            </span>
-            <div className="min-w-0">
-              <h2 className="text-base font-semibold">Prova</h2>
-              <p className="mt-1 text-sm leading-relaxed text-muted-foreground">
-                Sua meta: data da prova e pontuação-alvo. O app usa isso para mostrar a contagem
-                regressiva e medir sua prontidão — nada sai daqui do navegador.
-              </p>
-            </div>
-          </div>
-          <div className="mt-4 space-y-4">
-            <div>
-              <label
-                htmlFor="exam-date"
-                className="mb-1.5 block text-sm font-medium text-foreground/90"
-              >
-                Data da prova
-              </label>
-              <div className="flex flex-col items-start gap-2 sm:flex-row sm:items-center">
-                <input
-                  id="exam-date"
-                  type="date"
-                  value={s.examDate ?? ""}
-                  onChange={(e) => {
-                    updateSettings({ examDate: e.target.value || null });
-                    touch();
-                  }}
-                  className="min-h-11 w-full min-w-0 rounded-xl border border-border bg-background px-3 py-2 text-sm text-foreground sm:w-auto focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring"
-                />
-                {s.examDate ? (
+              <section className="rounded-2xl border border-border/60 bg-card p-5 shadow-card">
+                <div className="flex items-start gap-3">
+                  <span
+                    aria-hidden
+                    className="flex size-11 shrink-0 items-center justify-center rounded-xl bg-primary/10 text-primary"
+                  >
+                    <ShieldCheck className="size-5" strokeWidth={2} />
+                  </span>
+                  <div className="min-w-0">
+                    <h2 className="text-base font-semibold">Fontes das questões</h2>
+                    <p className="mt-1 text-sm leading-relaxed text-muted-foreground">
+                      Quando ativado, as filas de treino (SRS, plano e simulado) usam só fontes
+                      verificadas. As listas continuam mostrando tudo, sempre com o selo da fonte.
+                    </p>
+                  </div>
+                </div>
+                <div className="mt-4">
                   <Button
-                    variant="outline"
+                    variant={s.verifiedOnly ? "default" : "outline"}
                     size="sm"
                     className="min-h-11 sm:min-h-10"
+                    aria-pressed={s.verifiedOnly}
                     onClick={() => {
-                      updateSettings({ examDate: null });
+                      updateSettings({ verifiedOnly: !s.verifiedOnly });
                       touch();
                     }}
                   >
-                    Remover
+                    {s.verifiedOnly ? "Só fontes verificadas" : "Todas as fontes"}
                   </Button>
-                ) : null}
-              </div>
-              {s.examDate ? (
-                <p className="mt-2 text-sm text-primary">{countdownLabel(daysUntil(s.examDate))}</p>
-              ) : null}
-            </div>
-            <OptionGroup
-              flat
-              title="Pontuação-alvo"
-              icon={Archive}
-              description="Sua meta de score no PTE (escala 10–90). As estimativas de treino do app usam a mesma escala."
-              options={targetOptions}
-              current={s.targetScore}
-              onSelect={(v) => {
-                updateSettings({ targetScore: v });
-                touch();
-              }}
-            />
-          </div>
-          </section>
-        </section>
-
-        <section aria-labelledby="ajustes-traducao" className="space-y-5">
-          <CategoryHeading id="ajustes-traducao">Tradução</CategoryHeading>
-          <PlusSection />
-        </section>
-
-        <section aria-labelledby="ajustes-aparencia" className="space-y-5">
-          <CategoryHeading id="ajustes-aparencia">Aparência</CategoryHeading>
-          <ThemeSection onSaved={touch} />
-        </section>
-
-        <section aria-labelledby="ajustes-dados" className="space-y-5">
-          <CategoryHeading id="ajustes-dados">Dados</CategoryHeading>
-          <OfflineSection />
-
-        <section className="rounded-2xl border border-border/60 bg-card p-5 shadow-card">
-          <div className="flex items-start gap-3">
-            <span
-              aria-hidden
-              className="flex size-11 shrink-0 items-center justify-center rounded-xl bg-primary/10 text-primary"
-            >
-              <Archive className="size-5" strokeWidth={2} />
-            </span>
-            <div className="min-w-0">
-              <h2 className="text-base font-semibold">Backup do progresso</h2>
-              <p className="mt-1 text-sm leading-relaxed text-muted-foreground">
-                Seu histórico vive só neste navegador. Exporte um arquivo JSON para guardar ou levar
-                para outro dispositivo — e importe de volta quando quiser.
-              </p>
-            </div>
-          </div>
-          <div className="mt-4 grid grid-cols-1 gap-3 sm:grid-cols-2">
-            <Button
-              variant="outline"
-              className="min-h-11 w-full whitespace-normal sm:w-auto"
-              onClick={exportar}
-            >
-              Exportar backup
-            </Button>
-            <Button
-              variant="outline"
-              className="min-h-11 w-full whitespace-normal sm:w-auto"
-              onClick={() => fileRef.current?.click()}
-            >
-              Importar backup
-            </Button>
-            <input
-              ref={fileRef}
-              type="file"
-              accept="application/json,.json"
-              className="hidden"
-              onChange={(e) => {
-                const file = e.target.files?.[0];
-                if (file) void importar(file);
-                e.target.value = "";
-              }}
-            />
-          </div>
-          {backupMsg ? (
-            <p
-              role="status"
-              aria-live="polite"
-              className="mt-3 flex items-start gap-2 rounded-xl border border-border/60 bg-secondary/50 p-3 text-sm text-foreground"
-            >
-              <ShieldCheck aria-hidden className="mt-0.5 size-4 shrink-0 text-primary" />
-              <span className="min-w-0 break-words">{backupMsg}</span>
-            </p>
-          ) : null}
-          {canUndo && !backupMsg ? (
-            <p className="mt-3 flex flex-wrap items-center gap-2 text-sm text-foreground/85">
-              Existe uma importação que pode ser desfeita.{" "}
-              <Button variant="outline" size="sm" className="min-h-11" onClick={desfazer}>
-                Desfazer importação
-              </Button>
-            </p>
-          ) : null}
-          {pending ? (
-            <div className="mt-4 rounded-xl border border-primary/40 bg-primary/5 p-4">
-              <p className="text-sm font-semibold text-foreground">Revisar importação</p>
-              <p className="mt-1 text-sm text-muted-foreground">
-                Confira o que o arquivo traz antes de escolher como aplicar.
-              </p>
-              <dl className="mt-3 grid grid-cols-2 gap-3 text-sm">
-                <div className="min-w-0">
-                  <dt className="text-xs text-muted-foreground">Tentativas</dt>
-                  <dd className="font-medium tabular-nums">{pending.preview.attempts}</dd>
                 </div>
-                <div className="min-w-0">
-                  <dt className="text-xs text-muted-foreground">Questões com progresso</dt>
-                  <dd className="font-medium tabular-nums">{pending.preview.questions}</dd>
-                </div>
-                <div className="min-w-0">
-                  <dt className="text-xs text-muted-foreground">Sessões</dt>
-                  <dd className="font-medium tabular-nums">{pending.preview.sessions}</dd>
-                </div>
-                <div className="min-w-0">
-                  <dt className="text-xs text-muted-foreground">Vocabulário</dt>
-                  <dd className="font-medium tabular-nums">
-                    {pending.preview.vocabWords} w · {pending.preview.vocabPhrases} f
-                  </dd>
-                </div>
-              </dl>
-              {pending.preview.version != null ? (
                 <p className="mt-2 text-xs text-muted-foreground">
-                  Versão do backup: {pending.preview.version}.
+                  Verificada = fonte pública com curadoria · Comunitária = contribuição de usuários
+                  · IA = predição gerada por IA (peso reduzido na prontidão).
                 </p>
+              </section>
+            </section>
+
+            <section aria-labelledby="ajustes-prova" className="space-y-5">
+              <CategoryHeading id="ajustes-prova">Prova</CategoryHeading>
+              <section className="rounded-2xl border border-border/60 bg-card p-5 shadow-card">
+                <div className="flex items-start gap-3">
+                  <span
+                    aria-hidden
+                    className="flex size-11 shrink-0 items-center justify-center rounded-xl bg-primary/10 text-primary"
+                  >
+                    <ShieldCheck className="size-5" strokeWidth={2} />
+                  </span>
+                  <div className="min-w-0">
+                    <h2 className="text-base font-semibold">Prova</h2>
+                    <p className="mt-1 text-sm leading-relaxed text-muted-foreground">
+                      Sua meta: data da prova e pontuação-alvo. O app usa isso para mostrar a
+                      contagem regressiva e medir sua prontidão — nada sai daqui do navegador.
+                    </p>
+                  </div>
+                </div>
+                <div className="mt-4 space-y-4">
+                  <div>
+                    <label
+                      htmlFor="exam-date"
+                      className="mb-1.5 block text-sm font-medium text-foreground/90"
+                    >
+                      Data da prova
+                    </label>
+                    <div className="flex flex-col items-start gap-2 sm:flex-row sm:items-center">
+                      <input
+                        id="exam-date"
+                        type="date"
+                        value={s.examDate ?? ""}
+                        onChange={(e) => {
+                          updateSettings({ examDate: e.target.value || null });
+                          touch();
+                        }}
+                        className="min-h-11 w-full min-w-0 rounded-xl border border-border bg-background px-3 py-2 text-sm text-foreground sm:w-auto focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring"
+                      />
+                      {s.examDate ? (
+                        <Button
+                          variant="outline"
+                          size="sm"
+                          className="min-h-11 sm:min-h-10"
+                          onClick={() => {
+                            updateSettings({ examDate: null });
+                            touch();
+                          }}
+                        >
+                          Remover
+                        </Button>
+                      ) : null}
+                    </div>
+                    {s.examDate ? (
+                      <p className="mt-2 text-sm text-primary">
+                        {countdownLabel(daysUntil(s.examDate))}
+                      </p>
+                    ) : null}
+                  </div>
+                  <OptionGroup
+                    flat
+                    title="Pontuação-alvo"
+                    icon={Archive}
+                    description="Sua meta de score no PTE (escala 10–90). As estimativas de treino do app usam a mesma escala."
+                    options={targetOptions}
+                    current={s.targetScore}
+                    onSelect={(v) => {
+                      updateSettings({ targetScore: v });
+                      touch();
+                    }}
+                  />
+                </div>
+              </section>
+            </section>
+
+            <section aria-labelledby="ajustes-traducao" className="space-y-5">
+              <CategoryHeading id="ajustes-traducao">Tradução</CategoryHeading>
+              <PlusSection />
+            </section>
+
+            <section aria-labelledby="ajustes-aparencia" className="space-y-5">
+              <CategoryHeading id="ajustes-aparencia">Aparência</CategoryHeading>
+              <ThemeSection onSaved={touch} />
+            </section>
+
+            <section aria-labelledby="ajustes-dados" className="space-y-5">
+              <CategoryHeading id="ajustes-dados">Dados</CategoryHeading>
+              <OfflineSection />
+
+              <section className="rounded-2xl border border-border/60 bg-card p-5 shadow-card">
+                <div className="flex items-start gap-3">
+                  <span
+                    aria-hidden
+                    className="flex size-11 shrink-0 items-center justify-center rounded-xl bg-primary/10 text-primary"
+                  >
+                    <Archive className="size-5" strokeWidth={2} />
+                  </span>
+                  <div className="min-w-0">
+                    <h2 className="text-base font-semibold">Backup do progresso</h2>
+                    <p className="mt-1 text-sm leading-relaxed text-muted-foreground">
+                      Seu histórico vive só neste navegador. Exporte um arquivo JSON para guardar ou
+                      levar para outro dispositivo — e importe de volta quando quiser.
+                    </p>
+                  </div>
+                </div>
+                <div className="mt-4 grid grid-cols-1 gap-3 sm:grid-cols-2">
+                  <Button
+                    variant="outline"
+                    className="min-h-11 w-full whitespace-normal sm:w-auto"
+                    onClick={exportar}
+                  >
+                    Exportar backup
+                  </Button>
+                  <Button
+                    variant="outline"
+                    className="min-h-11 w-full whitespace-normal sm:w-auto"
+                    onClick={() => fileRef.current?.click()}
+                  >
+                    Importar backup
+                  </Button>
+                  <input
+                    ref={fileRef}
+                    type="file"
+                    accept="application/json,.json"
+                    className="hidden"
+                    onChange={(e) => {
+                      const file = e.target.files?.[0];
+                      if (file) void importar(file);
+                      e.target.value = "";
+                    }}
+                  />
+                </div>
+                {backupMsg ? (
+                  <p
+                    role="status"
+                    aria-live="polite"
+                    className="mt-3 flex items-start gap-2 rounded-xl border border-border/60 bg-secondary/50 p-3 text-sm text-foreground"
+                  >
+                    <ShieldCheck aria-hidden className="mt-0.5 size-4 shrink-0 text-primary" />
+                    <span className="min-w-0 break-words">{backupMsg}</span>
+                  </p>
+                ) : null}
+                {canUndo && !backupMsg ? (
+                  <p className="mt-3 flex flex-wrap items-center gap-2 text-sm text-foreground/85">
+                    Existe uma importação que pode ser desfeita.{" "}
+                    <Button variant="outline" size="sm" className="min-h-11" onClick={desfazer}>
+                      Desfazer importação
+                    </Button>
+                  </p>
+                ) : null}
+                {pending ? (
+                  <div className="mt-4 rounded-xl border border-primary/40 bg-primary/5 p-4">
+                    <p className="text-sm font-semibold text-foreground">Revisar importação</p>
+                    <p className="mt-1 text-sm text-muted-foreground">
+                      Confira o que o arquivo traz antes de escolher como aplicar.
+                    </p>
+                    <dl className="mt-3 grid grid-cols-2 gap-3 text-sm">
+                      <div className="min-w-0">
+                        <dt className="text-xs text-muted-foreground">Tentativas</dt>
+                        <dd className="font-medium tabular-nums">{pending.preview.attempts}</dd>
+                      </div>
+                      <div className="min-w-0">
+                        <dt className="text-xs text-muted-foreground">Questões com progresso</dt>
+                        <dd className="font-medium tabular-nums">{pending.preview.questions}</dd>
+                      </div>
+                      <div className="min-w-0">
+                        <dt className="text-xs text-muted-foreground">Sessões</dt>
+                        <dd className="font-medium tabular-nums">{pending.preview.sessions}</dd>
+                      </div>
+                      <div className="min-w-0">
+                        <dt className="text-xs text-muted-foreground">Vocabulário</dt>
+                        <dd className="font-medium tabular-nums">
+                          {pending.preview.vocabWords} w · {pending.preview.vocabPhrases} f
+                        </dd>
+                      </div>
+                    </dl>
+                    {pending.preview.version != null ? (
+                      <p className="mt-2 text-xs text-muted-foreground">
+                        Versão do backup: {pending.preview.version}.
+                      </p>
+                    ) : null}
+                    <p className="mt-2 text-sm text-muted-foreground">
+                      <strong>Mesclar</strong> une os dois, mantendo o melhor resultado de cada
+                      questão. <strong>Substituir</strong> troca todo o progresso atual pelo do
+                      arquivo (você pode desfazer).
+                    </p>
+                    <div className="mt-3 flex flex-col gap-2 sm:flex-row sm:flex-wrap">
+                      <Button
+                        size="sm"
+                        className="min-h-11 sm:min-h-10"
+                        onClick={() => confirmarImport("merge")}
+                      >
+                        Mesclar com o atual
+                      </Button>
+                      <Button
+                        size="sm"
+                        variant="destructive"
+                        className="min-h-11 sm:min-h-10"
+                        onClick={() => confirmarImport("replace")}
+                      >
+                        Substituir progresso
+                      </Button>
+                      <Button
+                        size="sm"
+                        variant="ghost"
+                        className="min-h-11 sm:min-h-10"
+                        onClick={() => {
+                          setPending(null);
+                          setBackupMsg(null);
+                        }}
+                      >
+                        Cancelar
+                      </Button>
+                    </div>
+                  </div>
+                ) : null}
+                <AlertDialog
+                  open={semUndoMode !== null}
+                  onOpenChange={(o) => {
+                    if (!o) setSemUndoMode(null);
+                  }}
+                >
+                  <AlertDialogContent>
+                    <AlertDialogHeader>
+                      <AlertDialogTitle>Importar sem como desfazer?</AlertDialogTitle>
+                      <AlertDialogDescription>
+                        Não há espaço para guardar o estado anterior — se continuar, NÃO será
+                        possível desfazer esta importação. Se quiser proteger o progresso atual,
+                        exporte um backup antes.
+                      </AlertDialogDescription>
+                    </AlertDialogHeader>
+                    <AlertDialogFooter>
+                      <AlertDialogCancel>Cancelar</AlertDialogCancel>
+                      <AlertDialogAction
+                        onClick={() => {
+                          if (semUndoMode) aplicar(semUndoMode, { allowWithoutUndo: true });
+                        }}
+                      >
+                        Importar mesmo assim
+                      </AlertDialogAction>
+                    </AlertDialogFooter>
+                  </AlertDialogContent>
+                </AlertDialog>
+                {(() => {
+                  const days = s.lastBackupAt
+                    ? Math.floor((Date.now() - s.lastBackupAt) / 86_400_000)
+                    : null;
+                  if (days == null && app.attempts.length >= 20) {
+                    return (
+                      <p className="mt-3 text-sm text-muted-foreground">
+                        Você já treinou {app.attempts.length} vezes e ainda não tem backup. Exporte
+                        um arquivo para não arriscar perder o progresso.
+                      </p>
+                    );
+                  }
+                  if (days != null && days >= 14) {
+                    return (
+                      <p className="mt-3 text-sm text-muted-foreground">
+                        Último backup: há {days} dia(s). Vale exportar um novo.
+                      </p>
+                    );
+                  }
+                  return null;
+                })()}
+              </section>
+
+              {storageStatus !== "ok" ? (
+                <div
+                  className="flex items-start gap-3 rounded-2xl border border-warning/30 bg-warning/10 p-5"
+                  role={storageStatus === "future" ? "alert" : undefined}
+                >
+                  <ShieldCheck aria-hidden className="mt-0.5 size-5 shrink-0 text-foreground" />
+                  {storageStatus === "quarantined" ? (
+                    <p className="text-sm text-foreground">
+                      Encontramos dados salvos ilegíveis neste navegador e os guardamos em
+                      quarentena em vez de apagá-los — o app começou com o progresso limpo. Se você
+                      tinha um backup, importe-o aqui para recuperar.
+                    </p>
+                  ) : (
+                    <p className="text-sm text-foreground">
+                      Estes dados foram salvos por uma versão mais nova do app. Ainda dá para
+                      treinar e exportar um backup, mas nada será gravado até você atualizar o app.
+                    </p>
+                  )}
+                </div>
               ) : null}
-              <p className="mt-2 text-sm text-muted-foreground">
-                <strong>Mesclar</strong> une os dois, mantendo o melhor resultado de cada questão.{" "}
-                <strong>Substituir</strong> troca todo o progresso atual pelo do arquivo (você pode
-                desfazer).
-              </p>
-              <div className="mt-3 flex flex-col gap-2 sm:flex-row sm:flex-wrap">
-                <Button
-                  size="sm"
-                  className="min-h-11 sm:min-h-10"
-                  onClick={() => confirmarImport("merge")}
-                >
-                  Mesclar com o atual
-                </Button>
-                <Button
-                  size="sm"
-                  variant="destructive"
-                  className="min-h-11 sm:min-h-10"
-                  onClick={() => confirmarImport("replace")}
-                >
-                  Substituir progresso
-                </Button>
-                <Button
-                  size="sm"
-                  variant="ghost"
-                  className="min-h-11 sm:min-h-10"
-                  onClick={() => {
-                    setPending(null);
-                    setBackupMsg(null);
-                  }}
-                >
-                  Cancelar
-                </Button>
-              </div>
-            </div>
-          ) : null}
-          <AlertDialog
-            open={semUndoMode !== null}
-            onOpenChange={(o) => {
-              if (!o) setSemUndoMode(null);
-            }}
-          >
-            <AlertDialogContent>
-              <AlertDialogHeader>
-                <AlertDialogTitle>Importar sem como desfazer?</AlertDialogTitle>
-                <AlertDialogDescription>
-                  Não há espaço para guardar o estado anterior — se continuar, NÃO será possível
-                  desfazer esta importação. Se quiser proteger o progresso atual, exporte um backup
-                  antes.
-                </AlertDialogDescription>
-              </AlertDialogHeader>
-              <AlertDialogFooter>
-                <AlertDialogCancel>Cancelar</AlertDialogCancel>
-                <AlertDialogAction
-                  onClick={() => {
-                    if (semUndoMode) aplicar(semUndoMode, { allowWithoutUndo: true });
-                  }}
-                >
-                  Importar mesmo assim
-                </AlertDialogAction>
-              </AlertDialogFooter>
-            </AlertDialogContent>
-          </AlertDialog>
-          {(() => {
-            const days = s.lastBackupAt
-              ? Math.floor((Date.now() - s.lastBackupAt) / 86_400_000)
-              : null;
-            if (days == null && app.attempts.length >= 20) {
-              return (
-                <p className="mt-3 text-sm text-muted-foreground">
-                  Você já treinou {app.attempts.length} vezes e ainda não tem backup. Exporte um
-                  arquivo para não arriscar perder o progresso.
-                </p>
-              );
-            }
-            if (days != null && days >= 14) {
-              return (
-                <p className="mt-3 text-sm text-muted-foreground">
-                  Último backup: há {days} dia(s). Vale exportar um novo.
-                </p>
-              );
-            }
-            return null;
-          })()}
-        </section>
+              {quotaPressure || persistFailed ? (
+                <div className="rounded-2xl border border-border/60 bg-card p-5 shadow-card">
+                  <p className="text-sm text-muted-foreground">
+                    {persistFailed
+                      ? "O navegador negou o armazenamento persistente — em modo anônimo ou com pouco espaço, o progresso pode ser apagado ao limpar dados do site."
+                      : "O armazenamento deste navegador está chegando perto do limite."}{" "}
+                    Exporte um backup para garantir seu histórico.
+                  </p>
+                  <Button className="mt-3" variant="outline" size="sm" onClick={exportar}>
+                    Exportar agora
+                  </Button>
+                </div>
+              ) : null}
 
-        {storageStatus !== "ok" ? (
-          <div
-            className="flex items-start gap-3 rounded-2xl border border-warning/30 bg-warning/10 p-5"
-            role={storageStatus === "future" ? "alert" : undefined}
-          >
-            <ShieldCheck aria-hidden className="mt-0.5 size-5 shrink-0 text-foreground" />
-            {storageStatus === "quarantined" ? (
-              <p className="text-sm text-foreground">
-                Encontramos dados salvos ilegíveis neste navegador e os guardamos em quarentena em
-                vez de apagá-los — o app começou com o progresso limpo. Se você tinha um backup,
-                importe-o aqui para recuperar.
+              <p className="text-xs text-muted-foreground">
+                Tudo é salvo automaticamente neste navegador, sem conta. O reconhecimento de voz
+                pode usar um serviço do próprio navegador (ex.: Chrome) — o app não envia nada por
+                conta própria.
               </p>
-            ) : (
-              <p className="text-sm text-foreground">
-                Estes dados foram salvos por uma versão mais nova do app. Ainda dá para treinar e
-                exportar um backup, mas nada será gravado até você atualizar o app.
-              </p>
-            )}
-          </div>
-        ) : null}
-        {quotaPressure || persistFailed ? (
-          <div className="rounded-2xl border border-border/60 bg-card p-5 shadow-card">
-            <p className="text-sm text-muted-foreground">
-              {persistFailed
-                ? "O navegador negou o armazenamento persistente — em modo anônimo ou com pouco espaço, o progresso pode ser apagado ao limpar dados do site."
-                : "O armazenamento deste navegador está chegando perto do limite."}{" "}
-              Exporte um backup para garantir seu histórico.
-            </p>
-            <Button className="mt-3" variant="outline" size="sm" onClick={exportar}>
-              Exportar agora
-            </Button>
-          </div>
-        ) : null}
-
-          <p className="text-xs text-muted-foreground">
-            Tudo é salvo automaticamente neste navegador, sem conta. O reconhecimento de voz pode usar
-            um serviço do próprio navegador (ex.: Chrome) — o app não envia nada por conta própria.
-          </p>
-          </section>
+            </section>
           </div>
         </div>
       </main>

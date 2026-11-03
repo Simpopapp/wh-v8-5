@@ -368,8 +368,8 @@ function SessionPage() {
                     <AlertDialogTitle>Encerrar esta sessão?</AlertDialogTitle>
                     <AlertDialogDescription>
                       As {session.index} {session.index === 1 ? "questão" : "questões"} já
-                      concluídas ficam salvas no histórico. As restantes não serão feitas e a
-                      sessão não poderá ser retomada — a retomada vale só enquanto ela está ativa.
+                      concluídas ficam salvas no histórico. As restantes não serão feitas e a sessão
+                      não poderá ser retomada — a retomada vale só enquanto ela está ativa.
                     </AlertDialogDescription>
                   </AlertDialogHeader>
                   <AlertDialogFooter>
@@ -414,8 +414,7 @@ function SessionPage() {
           {plan.total > 0 && planInfo.ids.length > 0 ? (
             <>
               <p className="mt-2 font-display text-2xl font-semibold tracking-tight text-foreground sm:text-3xl">
-                Hoje: {planInfo.ids.length} questões,{" "}
-                {planDueWanted - planInfo.dueShort}{" "}
+                Hoje: {planInfo.ids.length} questões, {planDueWanted - planInfo.dueShort}{" "}
                 {planDueWanted - planInfo.dueShort === 1 ? "revisão" : "revisões"} ·{" "}
                 {formatSessionDuration(estimateSessionSeconds(planInfo.ids))}
               </p>
@@ -542,20 +541,20 @@ function SessionPage() {
                 >
                   Revisar erros ({Math.min(size, errN)}) · {formatSessionDuration(errEstimate)}
                 </Button>
-              {dueN === 0 ? (
-                <p id="sessao-sem-due" className="text-xs text-muted-foreground sm:col-span-2">
-                  Você não tem revisões vencidas agora.
+                {dueN === 0 ? (
+                  <p id="sessao-sem-due" className="text-xs text-muted-foreground sm:col-span-2">
+                    Você não tem revisões vencidas agora.
+                  </p>
+                ) : null}
+                {errN === 0 ? (
+                  <p id="sessao-sem-err" className="text-xs text-muted-foreground sm:col-span-2">
+                    Nenhuma questão está abaixo do limiar de erro na última tentativa.
+                  </p>
+                ) : null}
+                <p className="text-xs text-muted-foreground sm:col-span-2">
+                  “Erro” = última nota &lt; {ERROR_SCORE} (limiar por tipo). Durações estimadas
+                  pelos tempos oficiais de cada tipo de questão.
                 </p>
-              ) : null}
-              {errN === 0 ? (
-                <p id="sessao-sem-err" className="text-xs text-muted-foreground sm:col-span-2">
-                  Nenhuma questão está abaixo do limiar de erro na última tentativa.
-                </p>
-              ) : null}
-              <p className="text-xs text-muted-foreground sm:col-span-2">
-                “Erro” = última nota &lt; {ERROR_SCORE} (limiar por tipo). Durações estimadas pelos
-                tempos oficiais de cada tipo de questão.
-              </p>
               </div>
             </div>
           </section>
@@ -568,7 +567,10 @@ function SessionPage() {
             className="rounded-2xl border border-border/60 bg-card p-5 shadow-card sm:p-6"
           >
             <summary className="-mx-5 -mt-5 flex min-h-11 cursor-pointer list-none items-center justify-between gap-2 rounded-t-2xl px-5 py-4 [&::-webkit-details-marker]:hidden focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring sm:-mx-6 sm:-mt-6 sm:px-6">
-              <h2 id="session-mix-title" className="font-serif text-lg font-semibold text-foreground">
+              <h2
+                id="session-mix-title"
+                className="font-serif text-lg font-semibold text-foreground"
+              >
                 Sessão mista
               </h2>
               <ChevronDown
