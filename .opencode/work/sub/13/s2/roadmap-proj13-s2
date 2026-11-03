@@ -1,0 +1,6 @@
+# Roadmap — project13-s2
+
+1. [ ] Especificar: mapear index.tsx + store/drafts com file:line; definir sinais de retorno e prioridade de retomada.
+2. [ ] Implementar hero de retorno (continuar de onde parei) e reordenar rotina antes da exploração.
+3. [ ] CTA contextual com tipo/quantidade/duração; anel de vocabulário rotulado como pendência.
+4. [ ] Gates: vitest · tsgo · build · lint · Playwright / (390×844, overflow 0, axe 0, console limpo).

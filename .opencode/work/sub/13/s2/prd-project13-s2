@@ -1,0 +1,14 @@
+# PRD — project13-s2 (S5: Home de retorno)
+
+Fontes: project13 (ordem lógica 5), prd-project13 §4.4.2, roadmap-proj13 Fase 4.
+
+## Escopo
+- Arquivo principal: `src/routes/index.tsx`; apoios: store (sessão em andamento, draft de exame/vocab), `src/lib/pte/studyPlan.ts`, `src/components/ProgressRing.tsx`.
+- Distinguir 1ª visita (sem progresso real) de retorno (sinais: sessão em andamento, examDraft, sessões concluídas, vocabulário).
+- Retorno: hero compacto com ação "Continuar de onde parei" (retomar sessão em andamento > draft de simulado > revisão de vocab > última questão); bloco de rotina do dia acionável antes da exploração; CTA contextual com tipo/quantidade/duração estimada; anel de vocabulário rotulado como pendência (ex.: "X palavras para revisar hoje"), não como score.
+- 1ª visita: manter onboarding real já entregue na Fase 3, sem duplicar.
+
+## Critérios de aceite
+- Com sessão em andamento, a Home oferece retomá-la no primeiro nível (teste quando for regra: prioridade de retomada).
+- Anel com rótulo de pendência, não de aprovação.
+- 390×844 sem overflow · axe 0 · console limpo · gates verdes.

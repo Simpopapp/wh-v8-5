@@ -1,0 +1,6 @@
+# Roadmap — project13-s4
+
+1. [ ] Especificar: mapear exam.tsx + ExamRunner (menu, arranque do timer) com file:line; dados para duração/elegíveis.
+2. [ ] Implementar cartões hierarquizados no menu (modos protagonistas; seções como prática cronometrada).
+3. [ ] Implementar tela de pré-início (duração real, elegíveis, check mic/áudio, autoenvio) e confirmação de abandono.
+4. [ ] Gates: vitest · tsgo · build · lint · Playwright /exam (390×844, overflow 0, axe 0, console limpo).

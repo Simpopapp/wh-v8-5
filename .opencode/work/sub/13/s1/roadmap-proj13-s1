@@ -1,0 +1,6 @@
+# Roadmap — project13-s1
+
+1. [ ] Especificar: mapear practice.tsx + PracticeShell + store (última questão, plano) com file:line; propor estrutura do hub e do skeleton por tipo.
+2. [ ] Implementar hub de entrada (retomar/recomendação/busca) e aviso de ID inválido.
+3. [ ] Implementar shell compactado (detalhes secundários, notas com aria-expanded, skeleton por motor, CTAs ≥44px).
+4. [ ] Gates: vitest · tsgo · build · lint · Playwright /practice (390×844, overflow 0, axe 0, console limpo).

@@ -1,0 +1,15 @@
+# PRD — project13-s1 (S4: /practice entrada + PracticeShell)
+
+Fontes: project13 (ordem lógica 5), prd-project13 §4.4.1, roadmap-proj13 Fase 4.
+
+## Escopo
+- Arquivos: `src/routes/practice.tsx`, `src/components/practice/PracticeShell.tsx`; novos: componente de entrada do hub e skeleton por tipo (geometria por motor).
+- `/practice` sem `?q`: entrada própria — retomar última questão (estado do store), recomendação do dia (por tipo/duração, alinhada ao plano diário), busca rápida por tipo (catálogo).
+- `?q` inválido: aviso com recuperação (escolher tipo), nunca redirect silencioso.
+- Shell compactado antes do estímulo: tipo + posição + ação principal no primeiro nível; fonte/tópico/palavras/atalhos em detalhes secundários (expansão); notas com label acessível e `aria-expanded`.
+- Anterior/Próxima ≥44px; correção→próximo com CTA que explica o que vem.
+
+## Critérios de aceite
+- Entrada sem q mostra retomar/recomendação/busca (teste de regra quando aplicável).
+- ID inválido → aviso com ação, sem redirecionamento silencioso.
+- 390×844 sem overflow · axe 0 · console limpo · vitest/tsgo/build/lint verdes.
