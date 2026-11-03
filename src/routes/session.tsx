@@ -91,6 +91,7 @@ function SessionPage() {
   const app = useAppState();
   const session = useSession();
   const [size, setSize] = useState(10);
+  const isDesktop = useIsDesktop();
   const stats = useMemo(() => computeStats(app), [app]);
   const dueN = countDue(stats, Date.now(), app.settings.verifiedOnly);
   const errN = countErrors(stats, app.settings.verifiedOnly);
@@ -356,9 +357,32 @@ function SessionPage() {
               >
                 Continuar sessão
               </Button>
-              <Button size="lg" variant="outline" className="min-h-11" onClick={() => endSession()}>
-                Encerrar sessão
-              </Button>
+              <AlertDialog>
+                <AlertDialogTrigger asChild>
+                  <Button size="lg" variant="outline" className="min-h-11">
+                    Encerrar sessão
+                  </Button>
+                </AlertDialogTrigger>
+                <AlertDialogContent>
+                  <AlertDialogHeader>
+                    <AlertDialogTitle>Encerrar esta sessão?</AlertDialogTitle>
+                    <AlertDialogDescription>
+                      As {session.index} {session.index === 1 ? "questão" : "questões"} já
+                      concluídas ficam salvas no histórico. As restantes não serão feitas e a
+                      sessão não poderá ser retomada — a retomada vale só enquanto ela está ativa.
+                    </AlertDialogDescription>
+                  </AlertDialogHeader>
+                  <AlertDialogFooter>
+                    <AlertDialogCancel>Continuar sessão</AlertDialogCancel>
+                    <AlertDialogAction
+                      className="bg-destructive text-white hover:bg-destructive/90"
+                      onClick={() => endSession()}
+                    >
+                      Encerrar mesmo assim
+                    </AlertDialogAction>
+                  </AlertDialogFooter>
+                </AlertDialogContent>
+              </AlertDialog>
             </div>
           </section>
         </main>
