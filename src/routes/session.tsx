@@ -375,7 +375,7 @@ function SessionPage() {
                   <AlertDialogFooter>
                     <AlertDialogCancel>Continuar sessão</AlertDialogCancel>
                     <AlertDialogAction
-                      className="bg-destructive text-white hover:bg-destructive/90"
+                      className="bg-destructive text-destructive-foreground hover:bg-destructive/90"
                       onClick={() => endSession()}
                     >
                       Encerrar mesmo assim
@@ -401,6 +401,71 @@ function SessionPage() {
           title="Sessão de treino"
           subtitle="Questões em sequência, intercalando task types: primeiro as revisões vencidas (repetição espaçada), depois questões novas."
         />
+
+        {/* Recomendação única (projeto 13, §4.4.3): o plano do dia é o protagonista —
+            contagem e duração vêm da fila real (preview determinístico da Fase 2). */}
+        <section
+          aria-labelledby="hoje-title"
+          className="rounded-2xl border border-primary/20 bg-card bg-glow p-5 shadow-card sm:p-6"
+        >
+          <h2 id="hoje-title" className="font-serif text-xl font-semibold text-foreground">
+            Hoje
+          </h2>
+          {plan.total > 0 && planInfo.ids.length > 0 ? (
+            <>
+              <p className="mt-2 font-display text-2xl font-semibold tracking-tight text-foreground sm:text-3xl">
+                Hoje: {planInfo.ids.length} questões,{" "}
+                {planDueWanted - planInfo.dueShort}{" "}
+                {planDueWanted - planInfo.dueShort === 1 ? "revisão" : "revisões"} ·{" "}
+                {formatSessionDuration(estimateSessionSeconds(planInfo.ids))}
+              </p>
+              <p className="mt-1 text-sm text-muted-foreground">
+                Composição do plano diário: primeiro as revisões vencidas, depois questões novas.
+              </p>
+              <div className="mt-4">
+                <Button
+                  size="lg"
+                  className="min-h-11 w-full sm:w-auto"
+                  onClick={() => {
+                    startMixedSession(plan.counts, stats, {
+                      due: plan.dueCounts,
+                      fresh: plan.newCounts,
+                    });
+                    const first = sessionNextId();
+                    if (first) navigate({ to: "/practice", search: { q: first } });
+                  }}
+                >
+                  Começar plano de hoje
+                </Button>
+                {planInfo.dueShort > 0 ? (
+                  <p className="mt-2 text-xs text-muted-foreground">
+                    vencidas disponíveis: {planDueWanted - planInfo.dueShort} de {planDueWanted}
+                  </p>
+                ) : null}
+              </div>
+            </>
+          ) : (
+            <>
+              <p className="mt-2 text-sm text-muted-foreground">
+                Sem recomendação por hoje: a meta diária está abaixo de 4 questões ou o estoque
+                elegível acabou. Monte uma sessão abaixo.
+              </p>
+              <div className="mt-4">
+                <Button
+                  size="lg"
+                  className="min-h-11 w-full sm:w-auto"
+                  onClick={() => {
+                    startSession(size, stats, { rand: seededRand() });
+                    const first = sessionNextId();
+                    if (first) navigate({ to: "/practice", search: { q: first } });
+                  }}
+                >
+                  Sessão de {size} · {formatSessionDuration(sizeEstimate)}
+                </Button>
+              </div>
+            </>
+          )}
+        </section>
 
         <div className="grid items-start gap-6 lg:grid-cols-[minmax(0,1.3fr)_minmax(0,1fr)]">
           <section
