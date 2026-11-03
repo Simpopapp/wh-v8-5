@@ -270,7 +270,7 @@ function DailyPlanCard() {
     <button
       type="button"
       onClick={start}
-      className="group flex h-full flex-col rounded-2xl border border-primary/20 bg-card bg-glow p-5 text-left shadow-card transition-[box-shadow,transform] duration-200 ease-out hover:shadow-pop focus-visible:shadow-pop sm:p-6 motion-safe:hover:-translate-y-0.5 motion-reduce:transition-none"
+      className="group flex h-full min-w-0 w-full flex-col overflow-hidden rounded-2xl border border-primary/20 bg-card bg-glow p-5 text-left shadow-card transition-[box-shadow,transform] duration-200 ease-out hover:shadow-pop focus-visible:shadow-pop sm:p-6 motion-safe:hover:-translate-y-0.5 motion-reduce:transition-none"
     >
       <div className="flex items-start gap-3">
         <span
