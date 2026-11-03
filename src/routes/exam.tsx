@@ -145,13 +145,7 @@ function ChoiceScreen({
     if (draft) setResumeOpen(true);
   }, [draft]);
 
-  const options: { id: ExamId; label: string; description: string; section?: Section }[] = [
-    ...SECTION_ORDER.map((s) => ({
-      id: s as ExamId,
-      label: SECTION_META[s]!.label,
-      description: SECTION_META[s]!.description,
-      section: s as Section,
-    })),
+  const modes: { id: ExamId; label: string; description: string }[] = [
     {
       id: "mini",
       label: "Mini-simulado",
