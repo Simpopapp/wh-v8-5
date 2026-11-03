@@ -556,7 +556,10 @@ function SettingsPage() {
           description="Tempo para ler o passage mentalmente antes de gravar (o PTE dá 40 s)."
           options={prepOptions}
           current={s.prepSeconds}
-          onSelect={(v) => updateSettings({ prepSeconds: v })}
+          onSelect={(v) => {
+            updateSettings({ prepSeconds: v });
+            touch();
+          }}
         />
         <OptionGroup
           title="Meta diária"
@@ -564,7 +567,10 @@ function SettingsPage() {
           description="Quantas questões diferentes você quer ler por dia."
           options={goalOptions.map((g) => ({ value: g, label: `${g} questões` }))}
           current={s.dailyGoal}
-          onSelect={(v) => updateSettings({ dailyGoal: v })}
+          onSelect={(v) => {
+            updateSettings({ dailyGoal: v });
+            touch();
+          }}
         />
         <OptionGroup
           title="Velocidade do modelo"
@@ -572,7 +578,10 @@ function SettingsPage() {
           description="Velocidade padrão ao ouvir o passage lido pela voz do navegador."
           options={rateOptions}
           current={s.modelRate}
-          onSelect={(v) => updateSettings({ modelRate: v })}
+          onSelect={(v) => {
+            updateSettings({ modelRate: v });
+            touch();
+          }}
         />
         <OptionGroup<Accent>
           title="Sotaque do reconhecimento"
@@ -580,7 +589,10 @@ function SettingsPage() {
           description="Sotaque usado para transcrever sua leitura. O PTE usa inglês australiano."
           options={ACCENT_OPTIONS}
           current={s.accent}
-          onSelect={(v) => updateSettings({ accent: v })}
+          onSelect={(v) => {
+            updateSettings({ accent: v });
+            touch();
+          }}
         />
 
         <section className="rounded-2xl border border-border/60 bg-card p-5 shadow-card">
