@@ -450,6 +450,14 @@ function SettingsPage() {
   const storageStatus = useStorageStatus();
   const quotaPressure = useQuotaPressure();
   const persistFailed = usePersistFailed();
+  // Feedback discreto de salvamento (projeto 13, §4.4.6): "Ajuste salvo" por 2 s.
+  const [savedTick, setSavedTick] = useState(0);
+  useEffect(() => {
+    if (savedTick === 0) return;
+    const t = setTimeout(() => setSavedTick(0), 2000);
+    return () => clearTimeout(t);
+  }, [savedTick]);
+  const touch = () => setSavedTick((t) => t + 1);
 
   const exportar = () => {
     try {
@@ -521,16 +529,27 @@ function SettingsPage() {
   return (
     <div className="min-h-dvh bg-background text-foreground">
       <TopNav />
-      <main className="mx-auto w-full max-w-3xl space-y-8 px-4 pb-16 pt-8 sm:px-6">
+      <main className="mx-auto w-full max-w-4xl px-4 pb-16 pt-8 sm:px-6">
         <PageHeader
           kicker="Seu espaço de estudo"
           title="Ajustes"
           subtitle="Personalize o treino e proteja seu progresso neste navegador."
         />
 
-        <h2 className="text-xs font-semibold uppercase tracking-[0.18em] text-muted-foreground">
-          Seu treino
-        </h2>
+        <div className="mt-6 grid items-start gap-8 lg:grid-cols-[minmax(0,10rem)_minmax(0,1fr)]">
+          <aside className="hidden lg:block">
+            <CategoryNav variant="desktop" />
+          </aside>
+          <div className="min-w-0 space-y-8">
+            <CategoryNav variant="mobile" />
+            {savedTick > 0 ? (
+              <p role="status" aria-live="polite" className="text-sm font-medium text-primary">
+                Ajuste salvo
+              </p>
+            ) : null}
+
+            <section aria-labelledby="ajustes-treino" className="space-y-5">
+              <CategoryHeading id="ajustes-treino">Treino</CategoryHeading>
         <OptionGroup
           title="Preparação"
           icon={Timer}
