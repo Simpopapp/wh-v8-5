@@ -518,6 +518,7 @@ function SessionPage() {
                   size="lg"
                   variant="outline"
                   className="min-h-11 whitespace-normal"
+                  aria-describedby="sessao-sem-due"
                   disabled={dueN === 0}
                   onClick={() => {
                     startDueSession(Math.min(size, dueN), stats);
@@ -531,6 +532,7 @@ function SessionPage() {
                   size="lg"
                   variant="outline"
                   className="min-h-11 whitespace-normal"
+                  aria-describedby="sessao-sem-err"
                   disabled={errN === 0}
                   onClick={() => {
                     startSession(Math.min(size, errN), stats, { mode: "errors" });
