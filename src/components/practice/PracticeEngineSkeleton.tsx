@@ -18,7 +18,6 @@ const FAMILY_BY_TYPE: Partial<Record<TaskType, Family>> = {
   wfd: "text",
   write_essay: "text",
   swt: "text",
-  sst: "text",
   summarize_spoken_text: "text",
   lst_summary: "text",
   lst_fib: "gaps",
