@@ -556,6 +556,7 @@ function SessionPage() {
                 “Erro” = última nota &lt; {ERROR_SCORE} (limiar por tipo). Durações estimadas pelos
                 tempos oficiais de cada tipo de questão.
               </p>
+              </div>
             </div>
           </section>
 
