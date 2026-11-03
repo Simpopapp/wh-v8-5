@@ -5,6 +5,7 @@ import {
   CalendarDays,
   Download,
   Mic,
+  Palette,
   ShieldCheck,
   Sparkles,
   Timer,
@@ -52,6 +53,7 @@ import { loadAiStatus, mechanismLabel } from "@/lib/plus/aiStatus";
 import { countdownLabel, daysUntil } from "@/lib/pte/goal";
 import { cn } from "@/lib/utils";
 import { downloadForOffline, useOfflineStatus } from "@/lib/offline";
+import { THEME_OPTIONS, applyTheme, getThemeMode, setThemeMode, watchSystemTheme, type ThemeMode } from "@/lib/theme";
 
 function OfflineSection() {
   const o = useOfflineStatus();
