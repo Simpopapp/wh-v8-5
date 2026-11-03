@@ -1,9 +1,25 @@
 import { Link } from "@tanstack/react-router";
-import { BookA, ClipboardList } from "lucide-react";
+import { BookA, ChevronDown, ClipboardList, Timer } from "lucide-react";
 
-import { NAV_DESTINATIONS } from "@/components/layout/destinations";
+import {
+  NAV_DESTINATIONS,
+  SKILL_DESTINATIONS,
+  TOP_DESTINATIONS,
+} from "@/components/layout/destinations";
+import {
+  DropdownMenu,
+  DropdownMenuContent,
+  DropdownMenuItem,
+  DropdownMenuTrigger,
+} from "@/components/ui/dropdown-menu";
 import { TYPE_COUNT } from "@/lib/pte";
 
+/**
+ * Navegação de topo (projeto 13, §4.4.7): desktop com labels visíveis e as
+ * quatro habilidades agrupadas num menu; mobile com atalhos de Sessão e
+ * Simulado no header (o caminho do simulado é persistente — regra da TabBar
+ * de 5 destinos permanece, PRD §6.2).
+ */
 export function TopNav() {
   return (
     <header className="sticky top-0 z-20 border-b border-border/60 bg-background/90 pt-[env(safe-area-inset-top)] backdrop-blur">
@@ -24,21 +40,35 @@ export function TopNav() {
           aria-label="Navegação principal"
           className="hidden items-center justify-end gap-0.5 md:flex"
         >
-          {NAV_DESTINATIONS.map(({ to, label, icon: Icon }) => (
+          {TOP_DESTINATIONS.map(({ to, label }) => (
             <Link
               key={to}
               to={to}
-              title={label}
-              className="inline-flex min-h-[44px] items-center justify-center rounded-lg px-2.5 py-1.5 text-sm text-muted-foreground transition-colors hover:bg-secondary hover:text-foreground"
+              className="inline-flex min-h-[44px] items-center rounded-lg px-2.5 py-1.5 text-sm text-muted-foreground transition-colors hover:bg-secondary hover:text-foreground"
               activeProps={{
                 className:
                   "bg-primary text-primary-foreground font-medium hover:bg-primary hover:text-primary-foreground",
               }}
             >
-              <Icon className="size-4.5" strokeWidth={2} aria-hidden />
-              <span className="sr-only">{label}</span>
+              {label}
             </Link>
           ))}
+          <DropdownMenu>
+            <DropdownMenuTrigger className="inline-flex min-h-[44px] items-center gap-1 rounded-lg px-2.5 py-1.5 text-sm text-muted-foreground outline-none transition-colors hover:bg-secondary hover:text-foreground focus-visible:ring-2 focus-visible:ring-ring data-[state=open]:bg-secondary data-[state=open]:text-foreground">
+              Habilidades
+              <ChevronDown className="size-3.5" aria-hidden />
+            </DropdownMenuTrigger>
+            <DropdownMenuContent align="end">
+              {SKILL_DESTINATIONS.map(({ to, label, icon: Icon }) => (
+                <DropdownMenuItem key={to} asChild>
+                  <Link to={to} className="flex min-h-11 items-center gap-2.5">
+                    <Icon className="size-4" strokeWidth={2} aria-hidden />
+                    {label}
+                  </Link>
+                </DropdownMenuItem>
+              ))}
+            </DropdownMenuContent>
+          </DropdownMenu>
         </nav>
         <div className="flex min-h-[44px] items-center gap-1 md:hidden">
           <Link
@@ -49,8 +79,19 @@ export function TopNav() {
           >
             <ClipboardList className="size-5" strokeWidth={2} aria-hidden />
           </Link>
+          <Link
+            to="/exam"
+            aria-label="Simulado"
+            className="inline-flex size-11 items-center justify-center rounded-lg text-muted-foreground transition-colors hover:bg-secondary hover:text-foreground"
+            activeProps={{ className: "bg-primary text-primary-foreground" }}
+          >
+            <Timer className="size-5" strokeWidth={2} aria-hidden />
+          </Link>
         </div>
       </div>
     </header>
   );
 }
+
+// Referência mantida para o agrupamento completo (Fase 6 — varredura de navegação).
+export const ALL_DESTINATIONS = NAV_DESTINATIONS;
