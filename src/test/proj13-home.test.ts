@@ -6,7 +6,6 @@ import { beforeEach, describe, expect, it } from "vitest";
 import { metaByType } from "@/lib/pte";
 import { buildHomeDailyAction, hasStudyActivity, selectHomeResume } from "@/lib/home";
 import { emptyState, type Attempt, type AppState } from "@/lib/storage";
-import { saveVocabDraft } from "@/lib/storage";
 
 const DAY = 86_400_000;
 const T0 = Date.now() - 200 * DAY;
@@ -156,7 +155,6 @@ describe("S5 · Home de retorno — atividade e retomada", () => {
   });
 
   it("draft de vocabulário com cartões restantes vence o vocabDue", () => {
-    window.localStorage.clear();
     const app: AppState = {
       ...emptyState(),
       vocabulary: {
@@ -176,20 +174,16 @@ describe("S5 · Home de retorno — atividade e retomada", () => {
         },
         phrases: {},
       },
+      vocabDraft: {
+        startedAt: T0,
+        queue: [{ kind: "word", key: "k1" }],
+        index: 0,
+        sim: 0,
+        nao: 0,
+        requeued: [],
+      },
     };
-    saveVocabDraft({
-      startedAt: T0,
-      queue: [{ kind: "word", key: "k1" }],
-      index: 0,
-      sim: 0,
-      nao: 0,
-      requeued: [],
-    });
-    // selectHomeResume é puro: usa o estado passado (não o store). O draft
-    // precisa estar no objeto — ler o estado persistido após o save.
-    const saved = JSON.parse(window.localStorage.getItem("pte-master-hub") ?? "{}");
-    const appWithDraft: AppState = { ...app, vocabDraft: saved.vocabDraft ?? app.vocabDraft };
-    const resume = selectHomeResume(appWithDraft, Date.now());
+    const resume = selectHomeResume(app, Date.now());
     expect(resume?.kind).toBe("vocabDraft");
     if (resume?.kind === "vocabDraft") expect(resume.remaining).toBe(1);
   });
