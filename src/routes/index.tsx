@@ -209,50 +209,99 @@ function VocabCard() {
   );
 }
 
-/** Cartão-irmão do vocabulário (decisão S2): Sessão de estudo rápida — rotina acionável. */
-function SessionCard() {
+/** Cartão da rotina do dia (projeto 13, §4.4.2 / S5): o plano diário é a ação —
+ * quantidade e duração da fila efetiva (preview determinístico da Fase 2).
+ * Com sessão/simulado em andamento, o clique retoma em vez de sobrescrever. */
+function DailyPlanCard() {
   const app = useAppState();
-  const draft = app.draft;
-  const resumable = draft !== null && draft.kind !== "exam";
+  const navigate = useNavigate();
+  const action = useMemo(() => buildHomeDailyAction(app), [app]);
+  const resume = useMemo(() => selectHomeResume(app, Date.now()), [app]);
+
+  const start = () => {
+    if (resume && (resume.kind === "session" || resume.kind === "exam")) {
+      if (resume.kind === "exam") navigate({ to: "/exam" });
+      else if (resume.qid) navigate({ to: "/practice", search: { q: resume.qid } });
+      else navigate({ to: "/session" });
+      return;
+    }
+    if (!action) return;
+    startMixedSession(action.counts, computeStats(app), {
+      due: action.dueCounts,
+      fresh: action.newCounts,
+    });
+    const first = sessionNextId();
+    if (first) navigate({ to: "/practice", search: { q: first } });
+    else navigate({ to: "/session" });
+  };
+
+  if (!action) {
+    return (
+      <Link
+        to="/practice"
+        className="group flex h-full flex-col rounded-2xl border border-border/60 bg-card p-5 shadow-card transition-[box-shadow,transform] duration-200 ease-out hover:shadow-pop focus-visible:shadow-pop sm:p-6 motion-safe:hover:-translate-y-0.5 motion-reduce:transition-none"
+      >
+        <div className="flex items-start gap-3">
+          <span
+            aria-hidden
+            className="flex size-11 shrink-0 items-center justify-center rounded-xl bg-primary/10 text-primary"
+          >
+            <CalendarCheck className="size-5" strokeWidth={2} />
+          </span>
+          <div className="min-w-0 flex-1">
+            <h2 className="font-serif text-xl font-semibold text-foreground group-hover:text-primary">
+              Sua rotina de hoje
+            </h2>
+            <p className="mt-1 text-sm text-muted-foreground">
+              Sem recomendação por hoje — a meta diária está baixa ou o estoque elegível acabou.
+            </p>
+          </div>
+        </div>
+        <p className="mt-4 inline-flex items-center gap-1.5 text-sm font-medium text-primary">
+          Escolher um treino
+          <ArrowUpRight
+            className="size-4 transition-transform group-hover:translate-x-0.5"
+            aria-hidden
+          />
+        </p>
+      </Link>
+    );
+  }
+
+  const minutes = Math.max(1, Math.round(action.seconds / 60));
   return (
-    <Link
-      to="/session"
-      className="group flex h-full flex-col rounded-2xl border border-border/60 bg-card p-5 shadow-card transition-[box-shadow,transform] duration-200 ease-out hover:shadow-pop focus-visible:shadow-pop sm:p-6 motion-safe:hover:-translate-y-0.5 motion-reduce:transition-none"
+    <button
+      type="button"
+      onClick={start}
+      className="group flex h-full flex-col rounded-2xl border border-primary/20 bg-card bg-glow p-5 text-left shadow-card transition-[box-shadow,transform] duration-200 ease-out hover:shadow-pop focus-visible:shadow-pop sm:p-6 motion-safe:hover:-translate-y-0.5 motion-reduce:transition-none"
     >
       <div className="flex items-start gap-3">
         <span
           aria-hidden
           className="flex size-11 shrink-0 items-center justify-center rounded-xl bg-primary/10 text-primary"
         >
-          <ClipboardList className="size-5" strokeWidth={2} />
+          <CalendarCheck className="size-5" strokeWidth={2} />
         </span>
         <div className="min-w-0 flex-1">
           <h2 className="font-serif text-xl font-semibold text-foreground group-hover:text-primary">
-            Sessão de estudo rápida
+            Sua rotina de hoje
           </h2>
-          <p className="mt-1 text-sm text-muted-foreground">
-            Escolha 5, 10 ou 15 questões e treine no seu ritmo.
+          <p className="mt-1 text-sm font-medium tabular-nums text-foreground">
+            Hoje: {action.count} questões, {action.reviews} revisões · ~{minutes} min
+          </p>
+          <p className="mt-0.5 truncate text-sm text-muted-foreground">
+            {action.types.map((t) => `${t.label} (${t.count})`).join(" · ")}
           </p>
         </div>
       </div>
-      <div className="mt-4 flex-1 space-y-1">
-        <p className="text-sm text-muted-foreground">
-          Meta diária:{" "}
-          <span className="font-medium tabular-nums text-foreground">{app.settings.dailyGoal}</span>{" "}
-          tentativas
-        </p>
-        {resumable ? (
-          <p className="text-sm font-medium text-primary">Você tem uma sessão em andamento.</p>
-        ) : null}
-      </div>
       <p className="mt-4 inline-flex items-center gap-1.5 text-sm font-medium text-primary">
-        {resumable ? "Retomar sessão" : "Montar minha sessão"}
+        Treinar plano de hoje
         <ArrowUpRight
           className="size-4 transition-transform group-hover:translate-x-0.5"
           aria-hidden
         />
       </p>
-    </Link>
+    </button>
   );
 }
 
