@@ -688,50 +688,28 @@ function SettingsPage() {
               description="Sua meta de score no PTE (escala 10–90). As estimativas de treino do app usam a mesma escala."
               options={targetOptions}
               current={s.targetScore}
-              onSelect={(v) => updateSettings({ targetScore: v })}
+              onSelect={(v) => {
+                updateSettings({ targetScore: v });
+                touch();
+              }}
             />
           </div>
+          </section>
         </section>
 
-        <section className="rounded-2xl border border-border/60 bg-card p-5 shadow-card">
-          <div className="flex items-start gap-3">
-            <span
-              aria-hidden
-              className="flex size-11 shrink-0 items-center justify-center rounded-xl bg-primary/10 text-primary"
-            >
-              <ShieldCheck className="size-5" strokeWidth={2} />
-            </span>
-            <div className="min-w-0">
-              <h2 className="text-base font-semibold">Fontes das questões</h2>
-              <p className="mt-1 text-sm leading-relaxed text-muted-foreground">
-                Quando ativado, as filas de treino (SRS, plano e simulado) usam só fontes
-                verificadas. As listas continuam mostrando tudo, sempre com o selo da fonte.
-              </p>
-            </div>
-          </div>
-          <div className="mt-4">
-            <Button
-              variant={s.verifiedOnly ? "default" : "outline"}
-              size="sm"
-              className="min-h-11 sm:min-h-10"
-              onClick={() => updateSettings({ verifiedOnly: !s.verifiedOnly })}
-            >
-              {s.verifiedOnly ? "Só fontes verificadas" : "Todas as fontes"}
-            </Button>
-          </div>
-          <p className="mt-2 text-xs text-muted-foreground">
-            Verificada = fonte pública com curadoria · Comunitária = contribuição de usuários · IA =
-            predição gerada por IA (peso reduzido na prontidão).
-          </p>
+        <section aria-labelledby="ajustes-traducao" className="space-y-5">
+          <CategoryHeading id="ajustes-traducao">Tradução</CategoryHeading>
+          <PlusSection />
         </section>
 
-        <OfflineSection />
+        <section aria-labelledby="ajustes-aparencia" className="space-y-5">
+          <CategoryHeading id="ajustes-aparencia">Aparência</CategoryHeading>
+          <ThemeSection onSaved={touch} />
+        </section>
 
-        <PlusSection />
-
-        <h2 className="text-xs font-semibold uppercase tracking-[0.18em] text-muted-foreground">
-          Seus dados
-        </h2>
+        <section aria-labelledby="ajustes-dados" className="space-y-5">
+          <CategoryHeading id="ajustes-dados">Dados</CategoryHeading>
+          <OfflineSection />
 
         <section className="rounded-2xl border border-border/60 bg-card p-5 shadow-card">
           <div className="flex items-start gap-3">
