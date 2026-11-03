@@ -8,7 +8,7 @@
  */
 import { flattenVocab, vocabCounts, vocabDueCount, type VocabKind } from "@/lib/plus/vocab";
 import { getMeta, TYPE_META, type TaskType } from "@/lib/pte";
-import { buildDailyPlan } from "@/lib/pte/studyPlan";
+import { buildDailyPlan, type PlanCounts } from "@/lib/pte/studyPlan";
 import { estimateSessionSeconds, previewMixedQueue } from "@/lib/session";
 import { computeStats, type AppState } from "@/lib/storage";
 
@@ -114,9 +114,9 @@ function examLabel(examId: string): string {
 
 /** Ação do plano de hoje (§4.4.2): quantidade e duração da fila efetiva. */
 export interface HomeDailyAction {
-  counts: Record<string, number | undefined>;
-  dueCounts: Record<string, number | undefined>;
-  newCounts: Record<string, number | undefined>;
+  counts: PlanCounts;
+  dueCounts: PlanCounts;
+  newCounts: PlanCounts;
   count: number;
   reviews: number;
   seconds: number;
