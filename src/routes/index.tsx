@@ -1,6 +1,6 @@
-import { createFileRoute, Link } from "@tanstack/react-router";
+import { createFileRoute, Link, useNavigate } from "@tanstack/react-router";
 import { useMemo } from "react";
-import { ArrowUpRight, BookA, BookMarked, ClipboardList } from "lucide-react";
+import { ArrowUpRight, BookA, BookMarked, CalendarCheck } from "lucide-react";
 
 import { usePageFocusTarget } from "@/lib/pageFocus";
 
@@ -15,12 +15,20 @@ import {
   TOTAL_ALL_QUESTIONS_LABEL,
   TYPE_COUNT,
   firstIdOfType,
+  getMeta,
   sectionCountLabel,
 } from "@/lib/pte";
 import { estimateTargetLabel } from "@/lib/pte/goal";
 import { overallEstimate } from "@/lib/pte/readiness";
 import { vocabCounts, vocabDueCount } from "@/lib/plus/vocab";
-import { useAppState } from "@/lib/storage";
+import {
+  buildHomeDailyAction,
+  hasStudyActivity,
+  resumeLabel,
+  selectHomeResume,
+} from "@/lib/home";
+import { computeStats, useAppState } from "@/lib/storage";
+import { formatSessionDuration, sessionNextId, startMixedSession } from "@/lib/session";
 import type { Section, TaskType } from "@/lib/pte/types";
 import { cn } from "@/lib/utils";
 
@@ -28,7 +36,7 @@ export const Route = createFileRoute("/")({
   head: () => ({
     meta: [
       {
-        title: `PTE Master Hub — treine o PTE Academic com ${TOTAL_ALL_QUESTIONS_LABEL} questões reais`,
+        title: `PTE Master Hub — treine o PTE Academic com ${TOTAL_ALL_QUESTIONS_LABEL} questões para praticar`,
       },
       {
         name: "description",
@@ -37,7 +45,7 @@ export const Route = createFileRoute("/")({
       { property: "og:title", content: "PTE Master Hub" },
       {
         property: "og:description",
-        content: `Treine o PTE Academic com ${TOTAL_ALL_QUESTIONS_LABEL} questões reais — fala, escrita, leitura e escuta.`,
+        content: `Treine o PTE Academic com ${TOTAL_ALL_QUESTIONS_LABEL} questões para praticar — fala, escrita, leitura e escuta.`,
       },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },
