@@ -604,6 +604,45 @@ function SettingsPage() {
               <ShieldCheck className="size-5" strokeWidth={2} />
             </span>
             <div className="min-w-0">
+              <h2 className="text-base font-semibold">Fontes das questões</h2>
+              <p className="mt-1 text-sm leading-relaxed text-muted-foreground">
+                Quando ativado, as filas de treino (SRS, plano e simulado) usam só fontes
+                verificadas. As listas continuam mostrando tudo, sempre com o selo da fonte.
+              </p>
+            </div>
+          </div>
+          <div className="mt-4">
+            <Button
+              variant={s.verifiedOnly ? "default" : "outline"}
+              size="sm"
+              className="min-h-11 sm:min-h-10"
+              aria-pressed={s.verifiedOnly}
+              onClick={() => {
+                updateSettings({ verifiedOnly: !s.verifiedOnly });
+                touch();
+              }}
+            >
+              {s.verifiedOnly ? "Só fontes verificadas" : "Todas as fontes"}
+            </Button>
+          </div>
+          <p className="mt-2 text-xs text-muted-foreground">
+            Verificada = fonte pública com curadoria · Comunitária = contribuição de usuários · IA =
+            predição gerada por IA (peso reduzido na prontidão).
+          </p>
+        </section>
+        </section>
+
+        <section aria-labelledby="ajustes-prova" className="space-y-5">
+          <CategoryHeading id="ajustes-prova">Prova</CategoryHeading>
+          <section className="rounded-2xl border border-border/60 bg-card p-5 shadow-card">
+          <div className="flex items-start gap-3">
+            <span
+              aria-hidden
+              className="flex size-11 shrink-0 items-center justify-center rounded-xl bg-primary/10 text-primary"
+            >
+              <ShieldCheck className="size-5" strokeWidth={2} />
+            </span>
+            <div className="min-w-0">
               <h2 className="text-base font-semibold">Prova</h2>
               <p className="mt-1 text-sm leading-relaxed text-muted-foreground">
                 Sua meta: data da prova e pontuação-alvo. O app usa isso para mostrar a contagem
