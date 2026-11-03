@@ -180,7 +180,9 @@ function VocabCard() {
                   ? `${due} ${due === 1 ? "item" : "itens"} para revisar hoje`
                   : "Nenhuma revisão pendente agora."}
               </p>
-              <p className="mt-1 text-xs text-muted-foreground/80">Itens vencidos do acervo</p>
+              <p className="mt-1 text-xs text-muted-foreground/80">
+                Pendências de revisão · {due} de {counts.total} itens
+              </p>
             </div>
           </div>
           <p className="mt-4 inline-flex items-center gap-1.5 text-sm font-medium text-primary">
@@ -493,15 +495,6 @@ function Home() {
               );
             })}
           </div>
-        </section>
-
-        {/* Rotina de estudo: vocabulário vivo + sessão rápida (decisão S2). */}
-        <section
-          aria-label="Sua rotina de estudo"
-          className="mt-6 grid items-stretch gap-4 sm:grid-cols-2"
-        >
-          <VocabCard />
-          <SessionCard />
         </section>
 
         <footer className="mt-10 border-t border-border/60 pt-5 text-xs leading-relaxed text-muted-foreground">
