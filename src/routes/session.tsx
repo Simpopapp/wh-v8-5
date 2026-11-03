@@ -559,13 +559,22 @@ function SessionPage() {
             </div>
           </section>
 
-          <section
+          {/* Mista recolhida no mobile (projeto 13, §4.4.3); sempre aberta no desktop. */}
+          <details
+            key={isDesktop ? "mix-desktop" : "mix-mobile"}
+            open={isDesktop}
             aria-labelledby="session-mix-title"
             className="rounded-2xl border border-border/60 bg-card p-5 shadow-card sm:p-6"
           >
-            <h2 id="session-mix-title" className="font-serif text-lg font-semibold text-foreground">
-              Sessão mista
-            </h2>
+            <summary className="-mx-5 -mt-5 flex min-h-11 cursor-pointer list-none items-center justify-between gap-2 rounded-t-2xl px-5 py-4 [&::-webkit-details-marker]:hidden focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring sm:-mx-6 sm:-mt-6 sm:px-6">
+              <h2 id="session-mix-title" className="font-serif text-lg font-semibold text-foreground">
+                Sessão mista
+              </h2>
+              <ChevronDown
+                aria-hidden
+                className="size-4 shrink-0 text-muted-foreground transition-transform duration-200 group-open:rotate-180 motion-reduce:transition-none"
+              />
+            </summary>
             <p className="mt-1 text-sm text-muted-foreground">
               Combine tipos de questão. Os tipos em que você vai pior aparecem primeiro,
               intercalados.
@@ -622,7 +631,12 @@ function SessionPage() {
               Começar sessão mista de {mixTotal} ·{" "}
               {formatSessionDuration(estimateSessionSeconds(mixInfo.ids))}
             </Button>
-          </section>
+            {mixTotal === 0 ? (
+              <p id="mix-vazio" className="mt-2 text-xs text-muted-foreground">
+                Adicione ao menos uma questão para iniciar esta sessão.
+              </p>
+            ) : null}
+          </details>
         </div>
 
         {history.length > 0 ? (
