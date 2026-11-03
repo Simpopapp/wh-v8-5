@@ -21,12 +21,7 @@ import {
 import { estimateTargetLabel } from "@/lib/pte/goal";
 import { overallEstimate } from "@/lib/pte/readiness";
 import { vocabCounts, vocabDueCount } from "@/lib/plus/vocab";
-import {
-  buildHomeDailyAction,
-  hasStudyActivity,
-  resumeLabel,
-  selectHomeResume,
-} from "@/lib/home";
+import { buildHomeDailyAction, hasStudyActivity, resumeLabel, selectHomeResume } from "@/lib/home";
 import { computeStats, useAppState } from "@/lib/storage";
 import { formatSessionDuration, sessionNextId, startMixedSession } from "@/lib/session";
 import type { Section, TaskType } from "@/lib/pte/types";
@@ -403,8 +398,8 @@ function Home() {
               Treine para o PTE com questões para praticar
             </h1>
             <p className="mt-4 max-w-xl text-base leading-relaxed text-muted-foreground">
-              Pratique com correção palavra por palavra e transforme revisão em rotina — sem servidor,
-              sem conta, salvo no seu navegador.
+              Pratique com correção palavra por palavra e transforme revisão em rotina — sem
+              servidor, sem conta, salvo no seu navegador.
             </p>
             <p className="mt-3 text-sm text-muted-foreground">
               {TOTAL_ALL_QUESTIONS_LABEL} questões · {TYPE_COUNT} tipos de tarefa · 4 seções
