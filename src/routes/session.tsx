@@ -621,6 +621,7 @@ function SessionPage() {
               size="lg"
               variant="outline"
               className="mt-5 w-full min-h-11 whitespace-normal"
+              aria-describedby="mix-vazio"
               disabled={mixTotal === 0}
               onClick={() => {
                 startMixedSession(mix, stats);
