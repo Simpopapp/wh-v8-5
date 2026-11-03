@@ -663,7 +663,10 @@ function SettingsPage() {
                   id="exam-date"
                   type="date"
                   value={s.examDate ?? ""}
-                  onChange={(e) => updateSettings({ examDate: e.target.value || null })}
+                  onChange={(e) => {
+                    updateSettings({ examDate: e.target.value || null });
+                    touch();
+                  }}
                   className="min-h-11 w-full min-w-0 rounded-xl border border-border bg-background px-3 py-2 text-sm text-foreground sm:w-auto focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring"
                 />
                 {s.examDate ? (
@@ -671,7 +674,10 @@ function SettingsPage() {
                     variant="outline"
                     size="sm"
                     className="min-h-11 sm:min-h-10"
-                    onClick={() => updateSettings({ examDate: null })}
+                    onClick={() => {
+                      updateSettings({ examDate: null });
+                      touch();
+                    }}
                   >
                     Remover
                   </Button>
