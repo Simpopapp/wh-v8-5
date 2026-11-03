@@ -96,13 +96,13 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
       {
         name: "description",
         content:
-          "Treine o PTE Academic com questões reais nas quatro seções da prova — progresso salvo no seu navegador.",
+          "Treine o PTE Academic com questões para praticar nas quatro seções da prova — progresso salvo no seu navegador.",
       },
       { name: "author", content: "PTE Master Hub" },
       { property: "og:title", content: "PTE Master Hub" },
       {
         property: "og:description",
-        content: "Treine o PTE Academic com questões reais — fala, escrita, leitura e escuta.",
+        content: "Treine o PTE Academic com questões para praticar — fala, escuta, leitura e escuta.",
       },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },
