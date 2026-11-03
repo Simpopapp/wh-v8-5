@@ -1,10 +1,19 @@
 import { createFileRoute } from "@tanstack/react-router";
 import { useEffect, useState } from "react";
-import { Clock, Layers, ClipboardCheck, PlayCircle, Trash2 } from "lucide-react";
+import {
+  ArrowLeft,
+  Clock,
+  Layers,
+  ClipboardCheck,
+  Mic,
+  MicOff,
+  PlayCircle,
+  Trash2,
+} from "lucide-react";
 
 import { ExamRunner } from "@/components/exam/ExamRunner";
 import { PageHeader } from "@/components/layout/PageHeader";
-import { SECTION_ICONS } from "@/components/layout/SectionIdentity";
+import { SECTION_ICONS, SECTION_TEXT } from "@/components/layout/SectionIdentity";
 import { TopNav } from "@/components/TopNav";
 import {
   AlertDialog,
@@ -26,6 +35,7 @@ import {
   type ExamId,
 } from "@/lib/pte/exam";
 import { clearExamDraft, getExamDraft, useAppState, type ExamDraft } from "@/lib/storage";
+import { cn } from "@/lib/utils";
 
 export const Route = createFileRoute("/exam")({
   head: () => ({
@@ -55,9 +65,19 @@ function fmtDuration(seconds: number): string {
   return `~${Math.floor(m / 60)}h ${String(m % 60).padStart(2, "0")}min`;
 }
 
+/**
+ * Fluxo do simulado (projeto 13, §4.4.4 / S7): escolha → pré-início → execução.
+ * O relógio só começa com o "Iniciar" da tela de pré-início; retomada de draft
+ * segue direto para o runner com o deadline persistido (Fase 1).
+ */
+type ExamFlow =
+  | { screen: "choice" }
+  | { screen: "prestart"; examId: ExamId }
+  | { screen: "running"; examId: ExamId };
+
 function ExamPage() {
   const app = useAppState();
-  const [examId, setExamId] = useState<ExamId | null>(null);
+  const [flow, setFlow] = useState<ExamFlow>({ screen: "choice" });
   const [draft, setDraft] = useState<ExamDraft | null>(null);
   const [draftHandled, setDraftHandled] = useState(false);
 
@@ -69,24 +89,40 @@ function ExamPage() {
     else setDraftHandled(true);
   }, [draft, draftHandled]);
 
-  if (!examId) {
+  if (flow.screen === "prestart") {
     return (
-      <ChoiceScreen
+      <ExamPreStartScreen
+        examId={flow.examId}
         verifiedOnly={app.settings.verifiedOnly}
-        draft={draft}
-        onResumeDraft={() => {
-          if (draft) setExamId(draft.examId);
-        }}
-        onDiscardDraft={() => {
-          clearExamDraft();
-          setDraft(null);
-          setDraftHandled(true);
-        }}
-        onStart={setExamId}
+        onBack={() => setFlow({ screen: "choice" })}
+        onConfirmStart={() => setFlow({ screen: "running", examId: flow.examId })}
       />
     );
   }
-  return <ExamRunner key={examId} examId={examId} onExit={() => setExamId(null)} />;
+  if (flow.screen === "running") {
+    return (
+      <ExamRunner
+        key={flow.examId}
+        examId={flow.examId}
+        onExit={() => setFlow({ screen: "choice" })}
+      />
+    );
+  }
+  return (
+    <ChoiceScreen
+      verifiedOnly={app.settings.verifiedOnly}
+      draft={draft}
+      onResumeDraft={() => {
+        if (draft) setFlow({ screen: "running", examId: draft.examId });
+      }}
+      onDiscardDraft={() => {
+        clearExamDraft();
+        setDraft(null);
+        setDraftHandled(true);
+      }}
+      onStart={(id) => setFlow({ screen: "prestart", examId: id })}
+    />
+  );
 }
 
 function ChoiceScreen({
