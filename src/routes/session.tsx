@@ -542,33 +542,17 @@ function SessionPage() {
                 >
                   Revisar erros ({Math.min(size, errN)}) · {formatSessionDuration(errEstimate)}
                 </Button>
-                {plan.total > 0 ? (
-                  <>
-                    <Button
-                      size="lg"
-                      variant="outline"
-                      className="min-h-11 whitespace-normal sm:col-span-2"
-                      onClick={() => {
-                        startMixedSession(plan.counts, stats, {
-                          due: plan.dueCounts,
-                          fresh: plan.newCounts,
-                        });
-                        const first = sessionNextId();
-                        if (first) navigate({ to: "/practice", search: { q: first } });
-                      }}
-                    >
-                      Plano de hoje ({plan.total}) ·{" "}
-                      {formatSessionDuration(estimateSessionSeconds(planInfo.ids))}
-                    </Button>
-                    {planInfo.dueShort > 0 ? (
-                      <p className="text-xs text-muted-foreground sm:col-span-2">
-                        vencidas disponíveis: {planDueWanted - planInfo.dueShort} de {planDueWanted}
-                      </p>
-                    ) : null}
-                  </>
-                ) : null}
-              </div>
-              <p className="mt-2 text-xs text-muted-foreground">
+              {dueN === 0 ? (
+                <p id="sessao-sem-due" className="text-xs text-muted-foreground sm:col-span-2">
+                  Você não tem revisões vencidas agora.
+                </p>
+              ) : null}
+              {errN === 0 ? (
+                <p id="sessao-sem-err" className="text-xs text-muted-foreground sm:col-span-2">
+                  Nenhuma questão está abaixo do limiar de erro na última tentativa.
+                </p>
+              ) : null}
+              <p className="text-xs text-muted-foreground sm:col-span-2">
                 “Erro” = última nota &lt; {ERROR_SCORE} (limiar por tipo). Durações estimadas pelos
                 tempos oficiais de cada tipo de questão.
               </p>
