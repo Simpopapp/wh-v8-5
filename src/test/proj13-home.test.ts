@@ -59,8 +59,7 @@ describe("S5 · Home de retorno — atividade e retomada", () => {
       vocabulary: {
         words: {
           k1: {
-            key: "k1",
-            en: "apple",
+            word: "apple",
             literal: "maçã",
             savedAt: T0,
             lastSeenAt: T0,
@@ -133,8 +132,7 @@ describe("S5 · Home de retorno — atividade e retomada", () => {
       vocabulary: {
         words: {
           k1: {
-            key: "k1",
-            en: "apple",
+            word: "apple",
             literal: "maçã",
             savedAt: T0,
             lastSeenAt: T0,
@@ -158,8 +156,7 @@ describe("S5 · Home de retorno — atividade e retomada", () => {
       vocabulary: {
         words: {
           k1: {
-            key: "k1",
-            en: "apple",
+            word: "apple",
             literal: "maçã",
             savedAt: T0,
             lastSeenAt: T0,
