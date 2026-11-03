@@ -58,8 +58,7 @@ describe("S5 · Home de retorno — atividade e retomada", () => {
       ...emptyState(),
       vocabulary: {
         words: {
-          "k1": {
-            kind: "word",
+          k1: {
             key: "k1",
             en: "apple",
             literal: "maçã",
@@ -133,8 +132,7 @@ describe("S5 · Home de retorno — atividade e retomada", () => {
       },
       vocabulary: {
         words: {
-          "k1": {
-            kind: "word",
+          k1: {
             key: "k1",
             en: "apple",
             literal: "maçã",
@@ -159,8 +157,7 @@ describe("S5 · Home de retorno — atividade e retomada", () => {
       ...emptyState(),
       vocabulary: {
         words: {
-          "k1": {
-            kind: "word",
+          k1: {
             key: "k1",
             en: "apple",
             literal: "maçã",
