@@ -1,11 +1,7 @@
 import { Link } from "@tanstack/react-router";
 import { BookA, ChevronDown, ClipboardList, Timer } from "lucide-react";
 
-import {
-  NAV_DESTINATIONS,
-  SKILL_DESTINATIONS,
-  TOP_DESTINATIONS,
-} from "@/components/layout/destinations";
+import { SKILL_DESTINATIONS, TOP_DESTINATIONS } from "@/components/layout/destinations";
 import {
   DropdownMenu,
   DropdownMenuContent,
@@ -92,6 +88,3 @@ export function TopNav() {
     </header>
   );
 }
-
-// Referência mantida para o agrupamento completo (Fase 6 — varredura de navegação).
-export const ALL_DESTINATIONS = NAV_DESTINATIONS;
