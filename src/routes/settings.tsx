@@ -922,10 +922,13 @@ function SettingsPage() {
           </div>
         ) : null}
 
-        <p className="text-xs text-muted-foreground">
-          Tudo é salvo automaticamente neste navegador, sem conta. O reconhecimento de voz pode usar
-          um serviço do próprio navegador (ex.: Chrome) — o app não envia nada por conta própria.
-        </p>
+          <p className="text-xs text-muted-foreground">
+            Tudo é salvo automaticamente neste navegador, sem conta. O reconhecimento de voz pode usar
+            um serviço do próprio navegador (ex.: Chrome) — o app não envia nada por conta própria.
+          </p>
+          </section>
+          </div>
+        </div>
       </main>
     </div>
   );
