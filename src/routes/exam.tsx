@@ -375,6 +375,119 @@ function ChoiceScreen({
   );
 }
 
+/** Tela de pré-início (projeto 13, §4.4.4 / S7): duração real, quantidade
+ * elegível, check de microfone/áudio e política de autoenvio — o relógio só
+ * começa com o "Iniciar". Check de mídia é verificação, não bloqueio. */
+function ExamPreStartScreen({
+  examId,
+  verifiedOnly,
+  onBack,
+  onConfirmStart,
+}: {
+  examId: ExamId;
+  verifiedOnly: boolean;
+  onBack: () => void;
+  onConfirmStart: () => void;
+}) {
+  const eligible = examQuestionCount(examId, { verifiedOnly });
+  const full = examQuestionCount(examId);
+  const duration = fmtDuration(estimateSeconds(examId, { verifiedOnly }));
+  const [micState, setMicState] = useState<"idle" | "checking" | "ready" | "unavailable">("idle");
+
+  const testMic = async () => {
+    if (!navigator.mediaDevices?.getUserMedia) {
+      setMicState("unavailable");
+      return;
+    }
+    setMicState("checking");
+    try {
+      const stream = await navigator.mediaDevices.getUserMedia({ audio: true });
+      stream.getTracks().forEach((t) => t.stop());
+      setMicState("ready");
+    } catch {
+      setMicState("unavailable");
+    }
+  };
+
+  return (
+    <div className="min-h-dvh bg-background text-foreground">
+      <TopNav />
+      <main className="mx-auto w-full max-w-3xl space-y-6 px-4 pb-16 pt-6 sm:px-6 sm:pt-8">
+        <PageHeader
+          kicker="Pré-início"
+          title={examLabelFor(examId)}
+          subtitle="Confira tudo antes de começar — o cronômetro dispara só quando você iniciar."
+        />
+
+        <section
+          aria-label="Resumo do simulado"
+          className="rounded-2xl border border-primary/20 bg-card bg-glow p-5 shadow-card sm:p-6"
+        >
+          <p className="font-display text-2xl font-semibold tracking-tight text-foreground sm:text-3xl">
+            {duration} · {eligible} questões
+          </p>
+          <p className="mt-1 text-sm text-muted-foreground">
+            Duração pela soma dos tempos oficiais de cada questão da fila elegível
+            {eligible < full ? ` (filtro de fontes ativo: ${full} no banco)` : ""}.
+          </p>
+
+          <div className="mt-4 space-y-3 border-t border-border/60 pt-4">
+            <p className="text-sm leading-relaxed text-foreground/90">
+              <strong>Envio automático:</strong> ao zerar o tempo de cada questão, a resposta é
+              enviada — sem correção imediata. O resumo sai no fim.
+            </p>
+            <div className="rounded-xl border border-border/60 bg-background p-4">
+              <p className="flex items-center gap-2 text-sm font-medium text-foreground">
+                {micState === "ready" ? (
+                  <Mic aria-hidden className="size-4 text-success" />
+                ) : (
+                  <MicOff aria-hidden className="size-4 text-muted-foreground" />
+                )}
+                {micState === "ready"
+                  ? "Microfone pronto"
+                  : micState === "checking"
+                    ? "Verificando microfone…"
+                    : micState === "unavailable"
+                      ? "Microfone não disponível agora"
+                      : "Microfone ainda não verificado"}
+              </p>
+              <p className="mt-1 text-xs leading-relaxed text-muted-foreground">
+                {micState === "unavailable"
+                  ? "Você pode seguir sem o teste: a permissão pode ser pedida na primeira questão oral."
+                  : "Verificação opcional — testar não inicia o simulado nem consome tempo."}
+              </p>
+              <Button
+                size="sm"
+                variant="outline"
+                className="mt-2 min-h-11"
+                disabled={micState === "checking"}
+                onClick={() => void testMic()}
+              >
+                {micState === "checking" ? "Verificando…" : "Testar microfone"}
+              </Button>
+            </div>
+          </div>
+
+          <div className="mt-5 flex flex-col gap-2 sm:flex-row">
+            <Button size="lg" className="min-h-11" onClick={onConfirmStart}>
+              Iniciar {examLabelFor(examId)}
+            </Button>
+            <Button size="lg" variant="outline" className="min-h-11" onClick={onBack}>
+              <ArrowLeft aria-hidden className="size-4" />
+              Voltar à escolha
+            </Button>
+          </div>
+        </section>
+
+        <p className="text-xs text-muted-foreground">
+          As tentativas do simulado alimentam sua agenda de revisão, mas ficam marcadas como exame e
+          não entram na sua média de prática.
+        </p>
+      </main>
+    </div>
+  );
+}
+
 function examLabelFor(id: ExamId): string {
   if (id === "mini") return "mini-simulado";
   if (id === "full") return "simulado completo";
